@@ -1,0 +1,161 @@
+
+
+[ Verse 1 ]
+{-2.25, 2.6809570573}
+Jesus have my heart
+{0.4309570573, 3.3111142527}
+My will my soul
+{3.74207131, 2.6953277606}
+Jesus have my hopes
+{6.4373990706, 3.1950233566}
+My dreams my world
+{9.6324224272, 2.9224621224}
+With joy I lay it down
+{12.5548845496, 3.2051182172}
+With joy I cast my crowns
+{15.7600027668, 5.8146396633}
+Jesus have it all
+
+[ Verse 2 ]
+{-2.4253575699, 2.8509161685}
+To You I bring my praise
+{0.4255585986, 3.1667354462}
+My lips my song
+{3.5922940448, 2.8075160594}
+A living sacrifice
+{6.3998101042, 3.1769260671}
+As one reborn
+{9.5767361713, 3}
+Your life is now my own
+{12.5767361713, 3.114372543}
+Your will is what I want
+{15.6911087143, 5.9054648145}
+Jesus have it all
+
+[ Chorus ]
+{-2.4034264712, 3.114480121}
+Jesus have it all
+{0.7110536498, 2.8418107645}
+Jesus have it all
+{3.5528644143, 3}
+To You belongs the glory
+{6.5528644143, 3.1241021975}
+The praise of all the world
+{9.6769666118, 3.0194239373}
+Jesus have it all
+{12.6963905491, 2.8062881299}
+Jesus have it all
+{15.502678679, 3.1046782602}
+All blessing and all honor
+{18.6073569392, 5.3926430608}
+All majesty and awe
+
+[ Verse 3 ]
+{-2.327266722, 2.5694087179}
+Jesus have Your church
+{0.2421419959, 3.3313039737}
+Your love Your bride
+{3.5734459696, 1.5848931027}
+The joy for which
+{5.1583390723, 4.4821180738}
+You freely gave Your life
+{9.6404571461, 3.0839798908}
+Radiant in white
+{12.7244370369, 2.9981735764}
+Washed and purified
+{15.7226106133, 5.9759693003}
+Jesus have us all
+
+[ Verse 4 ]
+{-2.3014200864, 2.7412770235}
+Jesus have Your worth
+{0.4398569371, 3.1500391642}
+Your due Your sum
+{3.5898961013, 3.0478420449}
+The praise of every nation
+{6.6377381462, 2.9483786682}
+Tribe and tongue
+{9.5861168144, 3.0478420449}
+Let all that has been made
+{12.6339588593, 3.0265284642}
+Glorify Your name
+{15.6604873235, 8.3395126765}
+Jesus have it all
+
+[ Refrain ]
+{-2.28, 5.89}
+Jesus have it all
+{3.61, 5.508348128}
+Jesus have it all
+
+[ Bridge ]
+{-2.7048271363, 6.3992959418}
+All my days all my life
+{3.6944688055, 5.9436185217}
+Have it all
+{9.6380873272, 6.0426788304}
+All my days all my life
+{15.6807661576, 8.3192338424}
+Have it all
+
+[ Outro ]
+Jesus have it all
+
+[ Verse 1 R ]
+Иисус Тебе
+Моя Душа
+В Тебе мои
+Надежды и мечты
+Ты мой целый мир
+С радостью Тебе
+Всё я отдаю
+
+[ Verse 2 R ]
+Тебе Иисус пою
+Хвалу и песнь
+Живую жертву
+Принесу тебе
+Жить хочу теперь
+По воле лишь Твоей
+Всё я отдаю
+
+[ Chorus R ]
+Все я отдаю
+Все я отдаю
+Тебе Иисус вся слава
+Хвала Тебе, Иисус
+Все я отдаю
+Все я отдаю
+Тебе благоговенье
+Величие и Честь
+
+[ Verse 3 R ]
+Иисус прийди
+Мы ждем Тебя
+Нас освободил
+Отдав себя
+Одежды обновил
+Омыл и освятил
+Иисус мы ждем
+
+[ Verse 4 R ]
+Ииусть пусть
+Воздадут Тебе
+Хвалу народы все
+По всей земле
+Творение Твоё
+Пусть славу воздает
+Иисус Тебе
+
+[ Bridge R ]
+Дни мои, жизнь мою
+Отдаю
+Дни мои, Жизнь мою
+Отдаю
+
+[ Refrain R ]
+Всё я отдаю
+Всё я отдаю
+
+[ Outro R ]
+Тебе всё отдаю

@@ -1,0 +1,957 @@
+<REAPER_PROJECT 0.1 "7.07/linux-x86_64" 1711610463
+  TITLE Amazing
+  AUTHOR Chris
+  <NOTES 0 0
+    |IV1V2CV3CCV4TgTgE
+  >
+  RIPPLE 0
+  GROUPOVERRIDE 0 0 0
+  AUTOXFADE 129
+  ENVATTACH 3
+  POOLEDENVATTACH 0
+  MIXERUIFLAGS 11 48
+  PEAKGAIN 1
+  FEEDBACK 0
+  PANLAW 1
+  PROJOFFS 0 0 0
+  MAXPROJLEN 0 600
+  GRID 3199 8 1 8 1 0 0 0
+  TIMEMODE 1 5 -1 30 0 0 -1
+  VIDEO_CONFIG 0 0 256
+  PANMODE 3
+  CURSOR 14.28571428571429
+  ZOOM 25.47655226259548 0 0
+  VZOOMEX 6 0
+  USE_REC_CFG 0
+  RECMODE 1
+  SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
+  LOOP 0
+  LOOPGRAN 0 4
+  RECORD_PATH "AudioFiles" ""
+  <RECORD_CFG
+    ZXZhdxgAAA==
+  >
+  <APPLYFX_CFG
+  >
+  RENDER_FILE ""
+  RENDER_PATTERN ""
+  RENDER_FMT 0 2 0
+  RENDER_1X 0
+  RENDER_RANGE 1 0 0 18 1000
+  RENDER_RESAMPLE 3 0 1
+  RENDER_ADDTOPROJ 0
+  RENDER_STEMS 0
+  RENDER_DITHER 0
+  TIMELOCKMODE 1
+  TEMPOENVLOCKMODE 1
+  ITEMMIX 1
+  DEFPITCHMODE 589824 0
+  TAKELANE 1
+  SAMPLERATE 44100 0 0
+  <RENDER_CFG
+    ZXZhdxgAAA==
+  >
+  LOCK 1
+  <METRONOME 6 2
+    VOL 1 1
+    FREQ 800 1600 1
+    BEATLEN 4
+    SAMPLES "" ""
+    PATTERN 2863311530 2863311513
+    MULT 2
+  >
+  GLOBAL_AUTO -1
+  TEMPO 63 4 4
+  PLAYRATE 1 0 0.25 4
+  SELECTION 263.87745632881524 0
+  SELECTION2 263.87745632881524 0
+  MASTERAUTOMODE 0
+  MASTERTRACKHEIGHT 0 0
+  MASTERPEAKCOL 16576
+  MASTERMUTESOLO 0
+  MASTERTRACKVIEW 0 0.6667 0.5 0.5 -1 -1 -1 0 0 0 -1 -1 0 0
+  MASTERHWOUT 0 0 1 0 0 0 0 -1
+  MASTER_NCH 2 2
+  MASTER_VOLUME 1 0 -1 -1 1
+  MASTER_PANMODE 3
+  MASTER_FX 1
+  MASTER_SEL 0
+  <MASTERPLAYSPEEDENV
+    EGUID {676C926A-C04F-682B-0073-A1AFE7A36F66}
+    ACT 0 -1
+    VIS 0 1 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 0 -1 -1
+  >
+  <TEMPOENVEX
+    EGUID {755AC66E-304D-E08B-9ABF-A7A9624D8DFA}
+    ACT 0 -1
+    VIS 1 0 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 1 -1 -1
+    PT 0.000000000000 63.0000000000 1 262148 0 1
+    PT 259.047619047619 63.0000000000 0
+    PT 270.297619047619 1.0000000000 1 0 1
+  >
+  MARKER 12 0 "Amazing Grace (My Chains Are Gone) - Chris Tomlin - G - 63 BPM" 1 0 1 B {71205C2B-C20F-E424-49B8-17095B5A81B1} 0
+  MARKER 12 7.61904761904762 "" 1
+  MARKER 1 7.61904761904762 Intro 1 0 1 B {FF0BC6FD-A027-7D99-FF7A-79E9A6B56C6D} 0
+  MARKER 1 22.85714285714286 "" 1
+  MARKER 2 22.85714285714286 "Verse 1" 1 0 1 B {A2A5B671-1748-624F-0AAF-881E3163D99F} 0
+  MARKER 2 53.33333333333334 "" 1
+  MARKER 3 53.33333333333334 "Verse 2" 1 0 1 B {6C560B4C-E57F-73B2-2A5C-17908F7410C8} 0
+  MARKER 3 83.80952380952381 "" 1
+  MARKER 4 83.80952380952381 Chorus 1 0 1 B {DAC99D7E-BBC3-A3ED-00ED-B0E7E33F5B80} 0
+  MARKER 4 125.71428571428571 "" 1
+  MARKER 5 125.71428571428571 "Verse 3" 1 0 1 B {59FD1DC7-F3DB-DF8F-DD1C-8533504BE64B} 0
+  MARKER 5 156.1904761904762 "" 1
+  MARKER 6 156.1904761904762 Chorus 1 0 1 B {14D7502A-55C3-95AA-1381-C7BB997EDDEE} 0
+  MARKER 6 186.66666666666666 "" 1
+  MARKER 7 186.66666666666666 Chorus 1 0 1 B {5A33A678-7833-3A6E-50FF-B9127BF5064C} 0
+  MARKER 7 220.95238095238096 "" 1
+  MARKER 8 220.95238095238096 "Verse 4" 1 0 1 B {876E0E2A-792D-462D-31B4-24F15D1417B2} 0
+  MARKER 8 251.42857142857142 "" 1
+  MARKER 9 251.42857142857142 Tag 1 0 1 B {C7A8F4A1-1C92-1725-CB98-E3A31E6D9882} 0
+  MARKER 9 259.04761904761904 "" 1
+  MARKER 10 259.04761904761904 Tag 1 0 1 B {2E7BF7B5-B777-3B8A-2560-3E8C20F511E1} 0
+  MARKER 10 263.87745632881524 "" 1
+  MARKER 11 263.87745632881524 Ending 1 0 1 B {9BF081F8-BFC6-2CFE-8380-7CF45E72A39F} 0
+  MARKER 11 330.29761904761904 "" 1
+  <PROJBAY
+  >
+  <TRACK {0F21902B-B0B9-6B3C-CF01-079E93CD4674}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FIXEDLANES 9 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {0F21902B-B0B9-6B3C-CF01-079E93CD4674}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    MAINSEND_NCH 1
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 263.87745632881524
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {4F5F31FF-30BC-9F33-65A4-CE6EAE306C6E}
+      IID 50
+      NAME "Click source"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {48304377-B055-9258-C865-C230B9B55237}
+      <SOURCE CLICK
+        AUTO 1
+        BPM 63
+        BPI 4
+        VOL 1 1
+        FREQ 800 1600 1
+        BEATLEN 4
+        SAMPLES "/mnt/win10/Users/butbkadrug/Music/Assets/Clicks/New Click -  Blip-accents.wav" "/mnt/win10/Users/butbkadrug/Music/Assets/Clicks/New Click -  Blip-sixteenth.wav"
+        PATTERN 2863311530 2863311529
+        MULT 1
+      >
+    >
+  >
+  <TRACK {200480E2-38ED-26DC-BA5F-6AAC5C31535E}
+    NAME Cues
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FIXEDLANES 9 0 0
+    SEL 1
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {200480E2-38ED-26DC-BA5F-6AAC5C31535E}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 1
+    MAINSEND_NCH 1
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 1.9047619047619
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {9A49867E-2E9D-E795-FF26-4FFB1BDAAA77}
+      IID 2
+      NAME "English Female - 1.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {49BADE16-4561-D8F6-3B5C-7A087B202F9C}
+      <SOURCE WAVE
+        FILE "//home//butbkadrug//Music//Assets//Cues//English Female - 1.wav"
+      >
+    >
+    <ITEM
+      POSITION 1.9047619047619
+      SNAPOFFS 0
+      LENGTH 1.9047619047619
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {44DF420E-ADFC-0896-74AB-1D94D4685D57}
+      IID 3
+      NAME "English Female - 2.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9E6A7EBC-AA9A-61C1-9696-847F5F5310C0}
+      <SOURCE WAVE
+        FILE "//home//butbkadrug//Music//Assets//Cues//English Female - 2.wav"
+      >
+    >
+    <ITEM
+      POSITION 3.80952380952381
+      SNAPOFFS 0
+      LENGTH 0.95238095238095
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      BEAT 1
+      SEL 0
+      IGUID {6C499ED4-18C1-6C71-FEC2-384F98E47132}
+      IID 48
+      NAME "English Female - Intro.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {90CB27DE-6D3F-FDEF-6188-8AB6A5C779B8}
+      <SOURCE WAVE
+        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - Intro.wav"
+      >
+    >
+    <ITEM
+      POSITION 4.76190476190476
+      SNAPOFFS 0
+      LENGTH 0.95238095238095
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {829713A0-FE2D-2532-5002-7E48DDF7A5E3}
+      IID 5
+      NAME "English Female - 2.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {19133B59-280B-457D-9020-A74633B085D1}
+      <SOURCE WAVE
+        FILE "//home//butbkadrug//Music//Assets//Cues//English Female - 2.wav"
+      >
+    >
+    <ITEM
+      POSITION 5.71428571428571
+      SNAPOFFS 0
+      LENGTH 0.95238095238095
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {8B8F4FCB-5121-0ADF-76C9-FC9F9355AB41}
+      IID 6
+      NAME "English Female - 3.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4E46129E-CC89-D76C-E654-02E4508F4D5B}
+      <SOURCE WAVE
+        FILE "//home//butbkadrug//Music//Assets//Cues//English Female - 3.wav"
+      >
+    >
+    <ITEM
+      POSITION 6.66666666666667
+      SNAPOFFS 0
+      LENGTH 0.95238095238095
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {0B0497AD-79C8-D2B4-495C-82FCB246CAED}
+      IID 7
+      NAME "English Female - 4.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3EDD9E4C-0FC5-F159-F4D1-7E11454E7BB3}
+      <SOURCE WAVE
+        FILE "//home//butbkadrug//Music//Assets//Cues//English Female - 4.wav"
+      >
+    >
+    <ITEM
+      POSITION 19.04761904761905
+      SNAPOFFS 0
+      LENGTH 0.95238095238095
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {3D73173F-E3BF-04BA-D8D6-4562B2476872}
+      IID 8
+      NAME "English Female - Verse 1.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6A2119A0-2230-6D6B-6A17-4D59CDEC1AFB}
+      <SOURCE WAVE
+        FILE "//home//butbkadrug//Music//Assets//Cues//English Female - Verse 1.wav"
+      >
+    >
+    <ITEM
+      POSITION 20.95238095238095
+      SNAPOFFS 0
+      LENGTH 0.95238095238095
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {F4802E94-9DA3-8CD0-6550-B3B9F3DCC05C}
+      IID 10
+      NAME "English Female - 3.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {60A798DB-A29B-ED96-1819-4C86B255768D}
+      <SOURCE WAVE
+        FILE "//home//butbkadrug//Music//Assets//Cues//English Female - 3.wav"
+      >
+    >
+    <ITEM
+      POSITION 21.90476190476191
+      SNAPOFFS 0
+      LENGTH 0.95238095238095
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {43E9818C-F9C9-009B-8CBB-76D562481E1D}
+      IID 11
+      NAME "English Female - 4.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5FEDBFE9-0CEE-8454-C028-C20CABCA4232}
+      <SOURCE WAVE
+        FILE "//home//butbkadrug//Music//Assets//Cues//English Female - 4.wav"
+      >
+    >
+    <ITEM
+      POSITION 49.52380952380953
+      SNAPOFFS 0
+      LENGTH 0.95238095238095
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {70A73727-1B72-F311-F8B4-59EA1B2019DA}
+      IID 12
+      NAME "English Female - Verse 2.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {AD028AC1-F5B5-6511-F48F-94254B97FD82}
+      <SOURCE WAVE
+        FILE "//home//butbkadrug//Music//Assets//Cues//English Female - Verse 2.wav"
+      >
+    >
+    <ITEM
+      POSITION 51.42857142857143
+      SNAPOFFS 0
+      LENGTH 0.95238095238095
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {C5348E70-3203-0A81-666F-95BD9545E0A0}
+      IID 14
+      NAME "English Female - 3.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {795D4579-C54E-ED7E-AAFA-5219ED416643}
+      <SOURCE WAVE
+        FILE "//home//butbkadrug//Music//Assets//Cues//English Female - 3.wav"
+      >
+    >
+    <ITEM
+      POSITION 52.38095238095238
+      SNAPOFFS 0
+      LENGTH 0.95238095238095
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {43442589-6F53-4C13-6B02-B73FA184F750}
+      IID 15
+      NAME "English Female - 4.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {71BDF765-B57E-DD1F-389E-8AF6DA0450FC}
+      <SOURCE WAVE
+        FILE "//home//butbkadrug//Music//Assets//Cues//English Female - 4.wav"
+      >
+    >
+    <ITEM
+      POSITION 80
+      SNAPOFFS 0
+      LENGTH 0.95238095238095
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {A0937BC8-FDC7-E5E8-984B-9D70FB67394F}
+      IID 16
+      NAME "English Female - Chorus.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {13B31E48-D299-9BCC-B4FF-ABB6D174296F}
+      <SOURCE WAVE
+        FILE "//home//butbkadrug//Music//Assets//Cues//English Female - Chorus.wav"
+      >
+    >
+    <ITEM
+      POSITION 81.9047619047619
+      SNAPOFFS 0
+      LENGTH 0.95238095238095
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {5A7D6CD3-C987-1E67-AAAA-2894AECB228D}
+      IID 18
+      NAME "English Female - 3.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {AECB5A44-E7AC-4A49-6CAC-563FF3D5CC10}
+      <SOURCE WAVE
+        FILE "//home//butbkadrug//Music//Assets//Cues//English Female - 3.wav"
+      >
+    >
+    <ITEM
+      POSITION 82.85714285714286
+      SNAPOFFS 0
+      LENGTH 0.95238095238095
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {E47B215A-E47A-A6DE-CA89-0B718557D1FE}
+      IID 19
+      NAME "English Female - 4.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2D2D4CE6-5581-F829-0AF4-2E071211A603}
+      <SOURCE WAVE
+        FILE "//home//butbkadrug//Music//Assets//Cues//English Female - 4.wav"
+      >
+    >
+    <ITEM
+      POSITION 121.9047619047619
+      SNAPOFFS 0
+      LENGTH 0.95238095238093
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {D35F438B-798A-5AA0-9809-4CFFDEB74231}
+      IID 20
+      NAME "English Female - Verse 3.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {00227388-52E9-0BBB-AA6E-5D8A8541114B}
+      <SOURCE WAVE
+        FILE "//home//butbkadrug//Music//Assets//Cues//English Female - Verse 3.wav"
+      >
+    >
+    <ITEM
+      POSITION 123.80952380952381
+      SNAPOFFS 0
+      LENGTH 0.95238095238095
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {5EA413E4-1AA3-1549-2D0E-DDB4602E5E29}
+      IID 22
+      NAME "English Female - 3.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1A379455-CD09-20A4-BA30-9561452A7DDB}
+      <SOURCE WAVE
+        FILE "//home//butbkadrug//Music//Assets//Cues//English Female - 3.wav"
+      >
+    >
+    <ITEM
+      POSITION 124.76190476190476
+      SNAPOFFS 0
+      LENGTH 0.95238095238095
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {5AFCCCC6-0808-2ABA-D0F7-9B24D1994CA8}
+      IID 23
+      NAME "English Female - 4.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {472CDD3E-054F-181B-1C5B-B989E7B71D89}
+      <SOURCE WAVE
+        FILE "//home//butbkadrug//Music//Assets//Cues//English Female - 4.wav"
+      >
+    >
+    <ITEM
+      POSITION 152.38095238095238
+      SNAPOFFS 0
+      LENGTH 0.95238095238096
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {ADB7D9FE-03A8-701E-80F0-FC8C6AC2316D}
+      IID 24
+      NAME "English Female - Chorus.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {79E9AA9A-5080-9A48-EF41-8D042D15E5B5}
+      <SOURCE WAVE
+        FILE "//home//butbkadrug//Music//Assets//Cues//English Female - Chorus.wav"
+      >
+    >
+    <ITEM
+      POSITION 154.28571428571428
+      SNAPOFFS 0
+      LENGTH 0.95238095238096
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {152EAA73-CE6A-6A6A-89AB-72D86E893B40}
+      IID 26
+      NAME "English Female - 3.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1FDC63D9-5E71-863C-8672-13610B542EC4}
+      <SOURCE WAVE
+        FILE "//home//butbkadrug//Music//Assets//Cues//English Female - 3.wav"
+      >
+    >
+    <ITEM
+      POSITION 155.23809523809524
+      SNAPOFFS 0
+      LENGTH 0.95238095238096
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {D8354B57-0D21-8485-8FE8-F45339C19DC5}
+      IID 27
+      NAME "English Female - 4.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {27AB0D35-FA7B-2B9C-B6DD-25BC2F180239}
+      <SOURCE WAVE
+        FILE "//home//butbkadrug//Music//Assets//Cues//English Female - 4.wav"
+      >
+    >
+    <ITEM
+      POSITION 182.85714285714286
+      SNAPOFFS 0
+      LENGTH 0.95238095238096
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {768F22FC-D91A-802F-20A9-E238A31CEF16}
+      IID 28
+      NAME "English Female - Chorus.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {025F5D7A-586F-18D0-94CD-6EB99708D44E}
+      <SOURCE WAVE
+        FILE "//home//butbkadrug//Music//Assets//Cues//English Female - Chorus.wav"
+      >
+    >
+    <ITEM
+      POSITION 184.76190476190476
+      SNAPOFFS 0
+      LENGTH 0.95238095238096
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {EEB366D9-42FC-5AE0-18D4-F8DDBAFE3E65}
+      IID 30
+      NAME "English Female - 3.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {34FD48CE-8DB7-8E86-350E-F91E289D2A0E}
+      <SOURCE WAVE
+        FILE "//home//butbkadrug//Music//Assets//Cues//English Female - 3.wav"
+      >
+    >
+    <ITEM
+      POSITION 185.71428571428572
+      SNAPOFFS 0
+      LENGTH 0.95238095238096
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {A8246BB1-D8B5-883F-7202-DA9F9412E8F5}
+      IID 31
+      NAME "English Female - 4.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {14300B98-50D4-E9D1-D395-2BEE5B02A740}
+      <SOURCE WAVE
+        FILE "//home//butbkadrug//Music//Assets//Cues//English Female - 4.wav"
+      >
+    >
+    <ITEM
+      POSITION 217.14285714285714
+      SNAPOFFS 0
+      LENGTH 0.95238095238096
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {4F8C3BE5-92ED-5ABC-7EF3-26975EFB163B}
+      IID 32
+      NAME "English Female - Verse 4.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {02282E3E-A867-9212-4518-868B0126C369}
+      <SOURCE WAVE
+        FILE "//home//butbkadrug//Music//Assets//Cues//English Female - Verse 4.wav"
+      >
+    >
+    <ITEM
+      POSITION 219.04761904761904
+      SNAPOFFS 0
+      LENGTH 0.95238095238096
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {1C34E8F0-3E88-C262-3377-2B19C319DF7A}
+      IID 34
+      NAME "English Female - 3.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {830FD4AE-D8DB-00B4-FB0F-36C7719E888E}
+      <SOURCE WAVE
+        FILE "//home//butbkadrug//Music//Assets//Cues//English Female - 3.wav"
+      >
+    >
+    <ITEM
+      POSITION 220
+      SNAPOFFS 0
+      LENGTH 0.95238095238096
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {6CCD8741-283E-834A-2D14-FE0EC354A73D}
+      IID 35
+      NAME "English Female - 4.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E134541B-BC7C-EE3C-5EF2-7ADCA5C7F60C}
+      <SOURCE WAVE
+        FILE "//home//butbkadrug//Music//Assets//Cues//English Female - 4.wav"
+      >
+    >
+    <ITEM
+      POSITION 247.61904761904762
+      SNAPOFFS 0
+      LENGTH 0.95238095238096
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {14EEE17A-7828-18B6-AB08-F9F4D0F00DF3}
+      IID 36
+      NAME "English Female - Tag.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BB90474C-97A6-048B-B98F-4EC8A078C900}
+      <SOURCE WAVE
+        FILE "//home//butbkadrug//Music//Assets//Cues//English Female - Tag.wav"
+      >
+    >
+    <ITEM
+      POSITION 249.52380952380952
+      SNAPOFFS 0
+      LENGTH 0.95238095238096
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {DD531112-397B-9222-89C5-5DF757D49700}
+      IID 38
+      NAME "English Female - 3.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B0DC7603-9C9E-67FB-E1D3-15618D962EF6}
+      <SOURCE WAVE
+        FILE "//home//butbkadrug//Music//Assets//Cues//English Female - 3.wav"
+      >
+    >
+    <ITEM
+      POSITION 250.47619047619048
+      SNAPOFFS 0
+      LENGTH 0.95238095238099
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {F58DBA5C-E446-2FED-E607-C28AE8341D09}
+      IID 39
+      NAME "English Female - 4.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {173049A6-7426-EFDE-7BFA-C9A6DDAA19C9}
+      <SOURCE WAVE
+        FILE "//home//butbkadrug//Music//Assets//Cues//English Female - 4.wav"
+      >
+    >
+    <ITEM
+      POSITION 255.23809523809524
+      SNAPOFFS 0
+      LENGTH 0.95238095238096
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {A9CFCEF7-BFAD-AD47-8290-98E470046346}
+      IID 40
+      NAME "English Female - Tag.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B7435A0F-D4BA-F43F-8EFA-7ED37EAC059E}
+      <SOURCE WAVE
+        FILE "//home//butbkadrug//Music//Assets//Cues//English Female - Tag.wav"
+      >
+    >
+    <ITEM
+      POSITION 257.14285714285739
+      SNAPOFFS 0
+      LENGTH 0.95238095238074
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {AE385EF1-59F3-9738-5805-548EAF75BCB4}
+      IID 42
+      NAME "English Female - 3.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1.00000000000023 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6A30A885-3A76-FCB5-60AE-6F2C3EC0D073}
+      <SOURCE WAVE
+        FILE "//home//butbkadrug//Music//Assets//Cues//English Female - 3.wav"
+      >
+    >
+    <ITEM
+      POSITION 258.09523809523785
+      SNAPOFFS 0
+      LENGTH 0.95238095238119
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {3AD4F260-3010-8903-9D32-6C8BD7B6390E}
+      IID 43
+      NAME "English Female - 4.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 0.99999999999975 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0AA9ED8E-9911-4B77-A7A9-A95722281376}
+      <SOURCE WAVE
+        FILE "//home//butbkadrug//Music//Assets//Cues//English Female - 4.wav"
+      >
+    >
+    <ITEM
+      POSITION 259.04761904761904
+      SNAPOFFS 0
+      LENGTH 0.99574883686745
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {5D5237EE-FC01-3590-F350-5D3C4D1CAF73}
+      IID 44
+      NAME "English Female - Ending.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 0.95644696445448 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {834B2268-87AA-5A71-70AF-C0419F191BB8}
+      <SOURCE WAVE
+        FILE "//home//butbkadrug//Music//Assets//Cues//English Female - Ending.wav"
+      >
+    >
+  >
+  <EXTENSIONS
+  >
+>

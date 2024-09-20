@@ -1,0 +1,129 @@
+[Intro]
+#1 7b 1 7b
+#1 7b 1
+
+[Interlude]
+#4 2m 6m 1
+#4 2m 1
+
+[Ending]
+#1
+
+[Instrumental]
+#4 5sus2 6m 5maj7/7 1
+#4maj7 52 6m 1/3
+
+[ Verse 1 ]
+#4
+God is fighting ^for us
+#2m
+God is on ou^r side
+#6m
+He has over^come
+#1
+Yes He has ove^rcome
+#4
+We will not be ^shaken
+#2m
+We will not be^ moved
+#1
+Jesus You ar^e here
+
+[ Verse 2 ]
+#4
+Carrying our b^urdens
+#2m
+Covering our^ shame
+#6m
+He has over^come
+#1
+Yes He has overc^ome
+#4
+We will not be sh^aken
+#2m
+We will not be^ moved
+#1
+Jesus You are h^ere
+
+[ Chorus 1 ]
+#5 4
+I will l^ive I will not d^ie
+#1 6m7
+The resurr^ection power of Chr^ist
+#7b 4
+Alive in m^e and I am fre^e
+#1 7b 1
+In Jesus' Na^me
+
+[ Chorus 2 ]
+I will l^ive I will not d^ie
+I will decl^are and lift You h^igh
+Christ reveal^ed and I am h^ealed
+In Jesus' N^ame
+
+[ Bridge ]
+#4
+God is fighting f^or us
+#5
+Pushing back the d^arkness
+#6m
+Lighting up the K^ingdom
+#1maj7/3
+That cannot be ^shaken
+#4
+In the Name of J^esus
+#5
+Enemy's def^eated
+#6m
+And we will ^shout it out
+#1
+Shout it ^out
+
+[ Outro ]
+#1 7b 1
+>In ^Jesus n^ame
+#7b 1
+In ^Jesus N^ame
+#7b 1
+In ^Jesus N^ame
+
+[ Verse 1 R ]
+Бог за нас в сраж^ении
+Мощью Своих^ сил
+Он есть Побед^итель,
+Да, Он побе^дил.
+Твёрдо мы сто^им в Нём
+Нас не поша^тнуть
+С нами Ии^сус
+
+[ Verse 2 R ]
+Иисус взял бр^емя
+И наш стыд^ покрыл
+Он есть Побед^итель,
+Да Он побе^дил
+Твёрдо мы сто^им в Нём
+Нас не поша^тнуть
+С нами Ии^сус
+
+
+[ Chorus 1 R ]
+Буду ж^ить, я не умр^у
+Твоею с^илою жи^ву
+Свободен ^я, во Имя Г^оспода
+Христ^а
+
+[ Chorus 2 R ]
+Буду ж^ить, я не умр^у
+Твоею с^илою жи^ву
+Свободен ^я, во Имя Г^оспода
+Христ^а
+
+[ Bridge R ]
+Бог за нас во^юет
+Тьма бежит трусл^cиво
+Светит Божье Ц^арство
+Что несокру^шимо
+Именем Иис^уса
+Враг уже поверж^ен
+Мы будем в^осклицать,
+Восклиц^ать

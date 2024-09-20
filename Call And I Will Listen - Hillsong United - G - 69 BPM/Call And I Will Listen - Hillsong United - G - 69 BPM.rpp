@@ -1,0 +1,1924 @@
+<REAPER_PROJECT 0.1 "6.33/win64" 1628425860
+  RIPPLE 0
+  GROUPOVERRIDE 0 0 0
+  AUTOXFADE 0
+  ENVATTACH 1
+  POOLEDENVATTACH 0
+  MIXERUIFLAGS 11 48
+  PEAKGAIN 1
+  FEEDBACK 0
+  PANLAW 1
+  PROJOFFS 0 0 0
+  MAXPROJLEN 0 600
+  GRID 3199 8 1 8 1 0 0 0
+  TIMEMODE 1 5 -1 30 0 0 -1
+  VIDEO_CONFIG 0 0 256
+  PANMODE 3
+  CURSOR 17.39130434782609
+  ZOOM 25.47655225533842 13 0
+  VZOOMEX 6 0
+  USE_REC_CFG 0
+  RECMODE 1
+  SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
+  LOOP 0
+  LOOPGRAN 0 4
+  RECORD_PATH "Audio Files" ""
+  <RECORD_CFG
+    ZXZhdxgAAA==
+  >
+  <APPLYFX_CFG
+  >
+  RENDER_FILE "C:\Users\Butbk\Music\Click Tracks\Call And I Will Listen.mp3"
+  RENDER_FMT 0 2 44100
+  RENDER_1X 0
+  RENDER_RANGE 1 0 0 18 1000
+  RENDER_RESAMPLE 3 0 1
+  RENDER_ADDTOPROJ 0
+  RENDER_STEMS 0
+  RENDER_DITHER 0
+  TIMELOCKMODE 1
+  TEMPOENVLOCKMODE 1
+  ITEMMIX 0
+  DEFPITCHMODE 589824 0
+  TAKELANE 1
+  SAMPLERATE 48000 1 0
+  <RENDER_CFG
+    bDNwbSAAAAAAAAAAAgAAAAQAAAAEAAAAQAEAAKAAAAA=
+  >
+  LOCK 1
+  <METRONOME 6 2
+    VOL 0.25 0.125
+    FREQ 800 1600 1
+    BEATLEN 4
+    SAMPLES "" ""
+    PATTERN 2863311530 2863311529
+  >
+  GLOBAL_AUTO -1
+  TEMPO 80 4 4
+  PLAYRATE 1 0 0.25 4
+  SELECTION 0 257.39130434782606
+  SELECTION2 0 257.39130434782606
+  MASTERAUTOMODE 0
+  MASTERTRACKHEIGHT 0 0
+  MASTERPEAKCOL 16576
+  MASTERMUTESOLO 0
+  MASTERTRACKVIEW 0 0.6667 0.5 0.5 0 -1 0 0 0 0 -1 -1 0
+  MASTERHWOUT 0 0 1 0 0 0 0 -1
+  MASTER_NCH 2 2
+  MASTER_VOLUME 1 0 -1 -1 1
+  MASTER_FX 1
+  MASTER_SEL 0
+  <MASTERPLAYSPEEDENV
+    EGUID {7C36E17F-8321-460E-B3BE-DEACA3679315}
+    ACT 0 -1
+    VIS 0 1 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 0 -1 -1
+  >
+  <TEMPOENVEX
+    EGUID {86092A5B-795D-4445-993B-F5C4803723AC}
+    ACT 1 -1
+    VIS 1 0 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 1 -1 -1
+    PT 0.000000000000 69.0000000000 1
+  >
+  MARKER 10 0 "" 0 0 1 R {003336DF-F434-4235-A05C-0284F46C509F}
+  MARKER 1 6.95652173913043 Intro 1 33554304 1 R {D490A56A-4F52-405C-9396-04C8E3DEFF70}
+  MARKER 1 20.8695652173913 "" 1 33554304 1 R
+  MARKER 2 20.8695652173913 "Verse 1" 1 33521792 1 R {F019DA63-BA7B-4424-B0E6-EC5E37F1D0BB}
+  MARKER 2 48.69565217391305 "" 1 33521792 1 R
+  MARKER 3 48.69565217391305 "Verse 2" 1 33521792 1 R {1D531A13-A28C-4A4F-80FD-C1D053EA4099}
+  MARKER 3 76.52173913043477 "" 1 33521792 1 R
+  MARKER 4 76.52173913043477 Chorus 1 16810239 1 R {3DD47846-5013-41E7-8EDE-1C0E8C2EC380}
+  MARKER 4 104.34782608695652 "" 1 16810239 1 R
+  MARKER 5 104.34782608695652 "Verse 1" 1 33521792 1 R {E6A2AAB7-CFAF-496B-AFE2-96B3B96A46B6}
+  MARKER 5 132.17391304347825 "" 1 33521792 1 R
+  MARKER 6 132.17391304347825 "Verse 1" 1 33521792 1 R {9715C925-E1F8-47F8-81E0-C7F07F7BAF2C}
+  MARKER 6 160 "" 1 33521792 1 R
+  MARKER 7 160 Chorus 1 16810239 1 R {EA30F144-9386-434F-BF3E-D3E7231351A4}
+  MARKER 7 187.82608695652175 "" 1 16810239 1 R
+  MARKER 8 187.82608695652175 Chorus 1 16810239 1 R {CD127A71-4FD2-4DCC-B450-6C5014EFE77B}
+  MARKER 8 215.65217391304347 "" 1 16810239 1 R
+  MARKER 9 215.65217391304347 Instrumental 1 21036800 1 R {BE6172B0-5851-41C5-A62F-E5F55891E957}
+  MARKER 9 243.47826086956522 "" 1 21036800 1 R
+  MARKER 10 243.47826086956522 Ending 1 33554176 1 R {50255714-99E9-4D81-B044-1E4381CC9967}
+  MARKER 10 257.39130434782606 "" 1 33554176 1 R
+  <PROJBAY
+  >
+  <TRACK {07E6C22C-E063-441F-B73A-7759EE2A2E3A}
+    NAME Guide
+    PEAKCOL 33521664
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 1 1
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 -1 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 52 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {07E6C22C-E063-441F-B73A-7759EE2A2E3A}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 0 0
+    HWOUT 1029 0 1 0 0 0 0 -1:U -1
+  >
+  <TRACK {73A60B17-7011-4BDB-BA0E-9EEAD67391B8}
+    NAME Click
+    PEAKCOL 33521664
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 -1 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 85 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {73A60B17-7011-4BDB-BA0E-9EEAD67391B8}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 257.39130434782606
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {7BF0EF12-8F2D-4896-AF54-52C5382B0177}
+      IID 14
+      NAME "Click source"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 0.8625 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {CE58E9E3-4BD2-4BD0-A860-1AB7DC30F2F8}
+      <SOURCE CLICK
+        AUTO 0
+        BPM 160
+        BPI 4
+        VOL 0.313937 0.098556
+        FREQ 800 1600 1
+        BEATLEN 4
+        SAMPLES "C:\Users\Butbk\Music\Click and Guide Samples\Click Tracks\New Click -  Blip-accents.wav" "C:\Users\Butbk\Music\Click and Guide Samples\Click Tracks\New Click -  Blip-sixteenth.wav"
+        PATTERN 2863311530 2863311513
+      >
+    >
+  >
+  <TRACK {8EE00CD4-CF46-468F-A617-D8E2FA40C3B4}
+    NAME Cues
+    PEAKCOL 33521664
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 0.40936719612739 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 2 -1
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 -1 0
+    FREEMODE 0
+    SEL 1
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 110 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {8EE00CD4-CF46-468F-A617-D8E2FA40C3B4}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 1.73913043478261
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.011594 0 1 0 0 0
+      FADEOUT 1 0.011594 0 1 0 0 0
+      MUTE 0 0
+      BEAT 1
+      SEL 0
+      IGUID {DCB74259-054A-4546-89D1-BA35DDAA8E91}
+      IID 1
+      NAME "English Female - 1.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 0.71875 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F1F8CF09-06C4-4AB1-BFE0-4B008AFE5566}
+      <SOURCE WAVE
+        FILE "C:\Users\Butbk\Music\Click and Guide Samples\English Guides\Song Sections\English Female - 1.wav"
+      >
+    >
+    <ITEM
+      POSITION 1.73913043478261
+      SNAPOFFS 0
+      LENGTH 1.73913043478261
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.011594 0 1 0 0 0
+      FADEOUT 1 0.011594 0 1 0 0 0
+      MUTE 0 0
+      BEAT 1
+      SEL 0
+      IGUID {A06E23F1-57F0-467F-91E8-0281B30F41A1}
+      IID 2
+      NAME "English Female - 2.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 0.71875 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8CD08E04-BE1F-4256-BC75-F0F46207FE80}
+      <SOURCE WAVE
+        FILE "C:\Users\Butbk\Music\Click and Guide Samples\English Guides\Song Sections\English Female - 2.wav"
+      >
+    >
+    <ITEM
+      POSITION 3.46666666666667
+      SNAPOFFS 0
+      LENGTH 0.88115942028986
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.011594 0 1 0 0 0
+      FADEOUT 1 0.011594 0 1 0 0 0
+      MUTE 0 0
+      BEAT 1
+      SEL 0
+      IGUID {92E8A85E-3E39-4192-8D51-F840CD67B0BE}
+      IID 3
+      NAME "English Female - 1.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 0.71875 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {EB7BD237-DE89-49F8-BB47-144B72ECBD7A}
+      <SOURCE WAVE
+        FILE "C:\Users\Butbk\Music\Click and Guide Samples\English Guides\Song Sections\English Female - 1.wav"
+      >
+    >
+    <ITEM
+      POSITION 4.34782608695652
+      SNAPOFFS 0
+      LENGTH 0.8695652173913
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.011594 0 1 0 0 0
+      FADEOUT 1 0.011594 0 1 0 0 0
+      MUTE 0 0
+      BEAT 1
+      SEL 0
+      IGUID {705D1FD7-C551-4B7D-ACF2-2BD3BE1AA621}
+      IID 4
+      NAME "English Female - 2.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 0.71875 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0E230EBC-3363-42BC-8E3E-9702145B8FA7}
+      <SOURCE WAVE
+        FILE "C:\Users\Butbk\Music\Click and Guide Samples\English Guides\Song Sections\English Female - 2.wav"
+      >
+    >
+    <ITEM
+      POSITION 5.21739130434783
+      SNAPOFFS 0
+      LENGTH 0.8695652173913
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.011594 0 1 0 0 0
+      FADEOUT 1 0.011594 0 1 0 0 0
+      MUTE 0 0
+      BEAT 1
+      SEL 0
+      IGUID {F0EACC2A-8FC2-4DEF-8BB1-C4693A004648}
+      IID 5
+      NAME "English Female - 3.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 0.71875 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {58CAD0A4-C90F-40B9-9734-E887B054C80E}
+      <SOURCE WAVE
+        FILE "C:\Users\Butbk\Music\Click and Guide Samples\English Guides\Song Sections\English Female - 3.wav"
+      >
+    >
+    <ITEM
+      POSITION 6.08695652173913
+      SNAPOFFS 0
+      LENGTH 0.8695652173913
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.011594 0 1 0 0 0
+      FADEOUT 1 0.011594 0 1 0 0 0
+      MUTE 0 0
+      BEAT 1
+      SEL 0
+      IGUID {4E507816-9424-4DA0-9D12-F606DAC75EBA}
+      IID 6
+      NAME "English Female - 4.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 0.71875 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E09A3F53-5604-42E9-B747-F26EB0F17DF6}
+      <SOURCE WAVE
+        FILE "C:\Users\Butbk\Music\Click and Guide Samples\English Guides\Song Sections\English Female - 4.wav"
+      >
+    >
+    <ITEM
+      POSITION 17.39130434782609
+      SNAPOFFS 0
+      LENGTH 0.8695652173913
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.011594 0 1 0 0 0
+      FADEOUT 1 0.011594 0 1 0 0 0
+      MUTE 0 0
+      BEAT 1
+      SEL 1
+      IGUID {0C8FF315-B31A-4F9C-92D5-0710587B4732}
+      IID 15
+      NAME "English Female - Verse 1.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 0.73671712018141 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7DABBC5A-38CE-4923-9F73-10664995EFB5}
+      <SOURCE WAVE
+        FILE "C:\Users\Butbk\Music\Click and Guide Samples\English Guides\Song Sections\English Female - Verse 1.wav"
+      >
+    >
+    <ITEM
+      POSITION 18.26086956518702
+      SNAPOFFS 0
+      LENGTH 0.8695652173913
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.011594 0 1 0 0 0
+      FADEOUT 1 0.011594 0 1 0 0 0
+      MUTE 0 0
+      BEAT 1
+      SEL 0
+      IGUID {42A7628A-42FA-4132-B40D-CF04EFBA1D35}
+      IID 4
+      NAME "English Female - 2.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 0.71875 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BD45C11C-7945-438B-AB52-64FE874C7CB9}
+      <SOURCE WAVE
+        FILE "C:\Users\Butbk\Music\Click and Guide Samples\English Guides\Song Sections\English Female - 2.wav"
+      >
+    >
+    <ITEM
+      POSITION 19.13043478259351
+      SNAPOFFS 0
+      LENGTH 0.8695652173913
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.011594 0 1 0 0 0
+      FADEOUT 1 0.011594 0 1 0 0 0
+      MUTE 0 0
+      BEAT 1
+      SEL 0
+      IGUID {90467E05-5BEE-4778-91A7-50954A269B79}
+      IID 5
+      NAME "English Female - 3.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 0.71875 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E463A0E0-8182-48A3-91A6-0D8B09C5CF70}
+      <SOURCE WAVE
+        FILE "C:\Users\Butbk\Music\Click and Guide Samples\English Guides\Song Sections\English Female - 3.wav"
+      >
+    >
+    <ITEM
+      POSITION 20
+      SNAPOFFS 0
+      LENGTH 0.8695652173913
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.011594 0 1 0 0 0
+      FADEOUT 1 0.011594 0 1 0 0 0
+      MUTE 0 0
+      BEAT 1
+      SEL 0
+      IGUID {D569FE51-C873-41CC-8499-AA513D0B96D8}
+      IID 6
+      NAME "English Female - 4.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 0.71875 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5CD4DE0D-7818-4926-B0A0-8BDDBDA17BE3}
+      <SOURCE WAVE
+        FILE "C:\Users\Butbk\Music\Click and Guide Samples\English Guides\Song Sections\English Female - 4.wav"
+      >
+    >
+    <ITEM
+      POSITION 45.21739130434783
+      SNAPOFFS 0
+      LENGTH 1.73913043478261
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.011594 0 1 0 0 0
+      FADEOUT 1 0.011594 0 1 0 0 0
+      MUTE 0 0
+      BEAT 1
+      SEL 0
+      IGUID {0C9CD340-14BB-457C-B74E-685B1BF35FC6}
+      IID 16
+      NAME "English Female - Verse 2.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 0.73671712018141 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B0BC958D-88E8-4021-909C-F126D554254A}
+      <SOURCE WAVE
+        FILE "C:\Users\Butbk\Music\Click and Guide Samples\English Guides\Song Sections\English Female - Verse 2.wav"
+      >
+    >
+    <ITEM
+      POSITION 73.04347826086956
+      SNAPOFFS 0
+      LENGTH 1.73913043478261
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.011594 0 1 0 0 0
+      FADEOUT 1 0.011594 0 1 0 0 0
+      MUTE 0 0
+      BEAT 1
+      SEL 0
+      IGUID {C8B19455-971B-4293-BC1D-345F98280C95}
+      IID 8
+      NAME "English Female - Chorus.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 0.73671712018141 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7C54F7CC-1908-4CCF-84BF-0DD05EC90F80}
+      <SOURCE WAVE
+        FILE "C:\Users\Butbk\Music\Click and Guide Samples\English Guides\Song Sections\English Female - Chorus.wav"
+      >
+    >
+    <ITEM
+      POSITION 100.8695652173913
+      SNAPOFFS 0
+      LENGTH 1.73913043478261
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.011594 0 1 0 0 0
+      FADEOUT 1 0.011594 0 1 0 0 0
+      MUTE 0 0
+      BEAT 1
+      SEL 0
+      IGUID {76140566-209D-4953-9F34-2BBDEACEFD97}
+      IID 17
+      NAME "English Female - Verse 1.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 0.73671712018141 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {DF1F0847-97DA-492D-A86F-6ECA2332CFFE}
+      <SOURCE WAVE
+        FILE "C:\Users\Butbk\Music\Click and Guide Samples\English Guides\Song Sections\English Female - Verse 1.wav"
+      >
+    >
+    <ITEM
+      POSITION 128.69565217391303
+      SNAPOFFS 0
+      LENGTH 1.73913043478262
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.011594 0 1 0 0 0
+      FADEOUT 1 0.011594 0 1 0 0 0
+      MUTE 0 0
+      BEAT 1
+      SEL 0
+      IGUID {E60623FA-8972-4585-97D8-C198720B3F97}
+      IID 18
+      NAME "English Female - Verse 2.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 0.7367171201814 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {830BC6D0-EA05-469B-B50F-2A6EA6954F27}
+      <SOURCE WAVE
+        FILE "C:\Users\Butbk\Music\Click and Guide Samples\English Guides\Song Sections\English Female - Verse 2.wav"
+      >
+    >
+    <ITEM
+      POSITION 156.52173913043478
+      SNAPOFFS 0
+      LENGTH 1.73913043478262
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.011594 0 1 0 0 0
+      FADEOUT 1 0.011594 0 1 0 0 0
+      MUTE 0 0
+      BEAT 1
+      SEL 0
+      IGUID {13F0BE73-DB25-4AF5-AAA0-FD726247EAB1}
+      IID 10
+      NAME "English Female - Chorus.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 0.7367171201814 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6616F0C9-9BB2-442B-878F-E206AB78B253}
+      <SOURCE WAVE
+        FILE "C:\Users\Butbk\Music\Click and Guide Samples\English Guides\Song Sections\English Female - Chorus.wav"
+      >
+    >
+    <ITEM
+      POSITION 184.34782608695653
+      SNAPOFFS 0
+      LENGTH 1.7391304347826
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.011594 0 1 0 0 0
+      FADEOUT 1 0.011594 0 1 0 0 0
+      MUTE 0 0
+      BEAT 1
+      SEL 0
+      IGUID {061DDDEB-951F-4EF9-AB76-AFEEB572321F}
+      IID 11
+      NAME "English Female - Chorus.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 0.73671712018141 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0A2A8EE9-8B48-42C3-B2F2-8ECEB8A5483C}
+      <SOURCE WAVE
+        FILE "C:\Users\Butbk\Music\Click and Guide Samples\English Guides\Song Sections\English Female - Chorus.wav"
+      >
+    >
+    <ITEM
+      POSITION 212.17391304347825
+      SNAPOFFS 0
+      LENGTH 0.86956521739131
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      BEAT 1
+      SEL 0
+      IGUID {DE3659D3-5423-4067-9386-7FBFB2ACB808}
+      IID 2667
+      NAME "English Female - Verse.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1.4734342403628 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {DC928D59-7082-4002-94A4-615AC6FE6CF1}
+      <SOURCE WAVE
+        FILE "C:\Users\Butbk\Music\Click and Guide Samples\English Guides\Song Sections\English Female - Verse.wav"
+      >
+    >
+    <ITEM
+      POSITION 213.91304347826087
+      SNAPOFFS 0
+      LENGTH 0.8695652173913
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      BEAT 1
+      SEL 0
+      IGUID {FA441263-E9DD-4FBD-A8B3-F7AA5A1D5C50}
+      IID 2668
+      NAME "English Female - Breakdown.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1.47343424036281 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3C470DEC-7218-4CA5-87DE-8A53774DEFAA}
+      <SOURCE WAVE
+        FILE "C:\Users\Butbk\Music\Click and Guide Samples\English Guides\Song Sections\English Female - Breakdown.wav"
+      >
+    >
+    <ITEM
+      POSITION 240
+      SNAPOFFS 0
+      LENGTH 1.7391304347826
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.011594 0 1 0 0 0
+      FADEOUT 1 0.011594 0 1 0 0 0
+      MUTE 0 0
+      BEAT 1
+      SEL 0
+      IGUID {AC1218BA-1D93-4C57-897B-EEF4151D2BE2}
+      IID 13
+      NAME "English Female - Ending.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 0.73671712018141 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7E3595C0-EDB2-40DF-915A-3B4D69FDB5E0}
+      <SOURCE WAVE
+        FILE "C:\Users\Butbk\Music\Click and Guide Samples\English Guides\Song Sections\English Female - Ending.wav"
+      >
+    >
+  >
+  <TRACK {5FE13CAD-4130-4089-97EF-3B8B437CF436}
+    NAME "Bass - stem"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
+    FREEMODE 0
+    SEL 0
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {5FE13CAD-4130-4089-97EF-3B8B437CF436}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 0 0
+    HWOUT 1027 0 1 0 0 0 0 -1:U -1
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 259.3913125
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {6728F2F4-3EDC-493F-A5C4-ABA82987A21E}
+      IID 1
+      NAME "Bass - stem"
+      VOLPAN 0.287671 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {28E834B9-2D38-44F2-9672-B143D63D3F4D}
+      <SOURCE WAVE
+        FILE "Audio Files\Call And I Will Listen_stems_Bass.wav"
+      >
+    >
+  >
+  <TRACK {D58DBE03-B233-43F2-82C1-842CCF6C1AF3}
+    NAME "Real Tune Control"
+    PEAKCOL 33521664
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
+    FREEMODE 0
+    SEL 0
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {D58DBE03-B233-43F2-82C1-842CCF6C1AF3}
+    PERF 0
+    MIDIOUT 288
+    MAINSEND 0 0
+    <ITEM
+      POSITION 3.47826086956522
+      SNAPOFFS 0
+      LENGTH 3.47826086956522
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {319615AE-87C4-40A0-A0EA-014FB671EF09}
+      IID 1531
+      NAME "Real Tune Control untitled MIDI item"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4CD93585-6030-4F96-91D6-5511802D0391}
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        CCINTERP 32
+        POOLEDEVTS {0320152B-47B2-44C5-A80F-487EEBD69A7A}
+        E 0 b0 00 00
+        E 0 b0 20 00
+        E 0 c0 12 00
+        E 3840 b0 7b 00
+        CCINTERP 32
+        CHASE_CC_TAKEOFFS 1
+        GUID {78D956DC-DC93-493C-8B46-76653C7F79F7}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 1838
+        VELLANE 131 314 0
+        CFGEDITVIEW -201.985783 0.19953 61 12 0 -1 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 252
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 1 0 1 1 4 1 1 1 1 1 4 262 328 1620 1262 0 0 0 0 0 0 1 1 0 0.5 0 0 1 64
+      >
+    >
+  >
+  <TRACK {5D664F0B-0C93-44EA-B6DB-5B8CB91E5736}
+    NAME PAD
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
+    FREEMODE 0
+    SEL 0
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {5D664F0B-0C93-44EA-B6DB-5B8CB91E5736}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 0 0
+    HWOUT 8 0 1 0 0 0 0 -1:U -1
+    <ITEM
+      POSITION 19.1304347826087
+      SNAPOFFS 0
+      LENGTH 239.26087771739134
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 5.34269 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {49345C44-80E9-47DE-953C-78CC0E119845}
+      IID 2656
+      NAME " - stem"
+      VOLPAN 1 0 1 -1
+      SOFFS 19.1304347826087
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C95B1150-5A61-4309-BB3C-39C7E9D1047E}
+      <SOURCE WAVE
+        FILE "Audio Files\Call And I Will Listen_stems.wav"
+      >
+    >
+  >
+  <TRACK {D42C4A25-0401-41E5-AF9F-CD7A7EBCD91B}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 1 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
+    FREEMODE 0
+    SEL 0
+    REC 0 4224 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 25 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {D42C4A25-0401-41E5-AF9F-CD7A7EBCD91B}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 0 0
+    HWOUT 8 0 1 0 0 0 0 -1:U -1
+    <FXCHAIN
+      WNDRECT 24 52 1616 933
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+    >
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 76.52173913043478
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {05AA0B34-F622-46DD-B1FB-A0066C56CD8C}
+      IID 2646
+      NAME "05-Recorded MIDI"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {CBB92E6C-86C6-4304-9B6C-A2B44170EAC9}
+      RECPASS 1
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        CCINTERP 32
+        POOLEDEVTS {0E9B2BD3-D2F7-4609-A6B4-118A483E3D4D}
+        E 0 90 2b 03
+        E 0 90 32 01
+        E 38332 80 32 40
+        E 22 90 30 2c
+        E 3833 80 30 40
+        E 66 90 32 24
+        E 3762 80 32 40
+        E 28 90 34 28
+        E 1864 90 30 35
+        E 30 80 34 40
+        E 1891 80 30 40
+        E 14 90 32 27
+        E 19199 90 30 1a
+        E 47 80 32 40
+        E 3637 80 30 40
+        E 197 90 32 1f
+        E 3770 90 34 1c
+        E 17 80 32 40
+        E 1953 80 34 40
+        E 43 90 30 1c
+        E 1881 80 30 40
+        E 30 90 32 23
+        E 3821 80 32 40
+        E 30 90 30 2c
+        E 37 90 24 39
+        E 3563 80 30 40
+        E 149 90 1f 43
+        E 3 80 24 40
+        E 16 90 32 1b
+        E 3648 80 1f 40
+        E 173 80 32 40
+        E 46 90 30 31
+        E 3809 80 30 40
+        E 57 90 32 30
+        E 3780 80 32 40
+        E 4 90 30 2a
+        E 9 90 18 1b
+        E 3875 80 18 40
+        E 102 90 1f 19
+        E 3552 80 30 40
+        E 51 80 1f 40
+        E 138 90 18 2a
+        E 1222 80 18 40
+        E 95 90 24 2a
+        E 753 90 30 26
+        E 103 80 30 40
+        E 475 90 30 01
+        E 1091 80 30 40
+        E 49 80 24 40
+        E 19 90 32 2e
+        E 3 90 26 31
+        E 2166 80 26 40
+        E 342 80 32 40
+        E 44 80 2b 40
+        E 1272 b0 7b 00
+        CCINTERP 32
+        CHASE_CC_TAKEOFFS 1
+        GUID {C53E4FDA-70DC-4110-9FAC-EF48D7294375}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 2392
+        VELLANE 131 314 0
+        CFGEDITVIEW -614.824945 0.065862 71 12 0 -1 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 252
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 1 0 1 1 0 1 1 1 1 1 0.5 294 360 1620 1262 0 0 0 0 0 0 1 1 0 0.5 0 0 1 64
+      >
+    >
+    <ITEM
+      POSITION 76.52173913043478
+      SNAPOFFS 0
+      LENGTH 27.82608695652173
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {1231F0F2-FB9C-4090-8620-A851C717F095}
+      IID 2648
+      NAME "05-Recorded MIDI"
+      VOLPAN 1 0 1 -1
+      SOFFS 0.00003079710145 0.00003541666666
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BD0F9B15-FF55-4BB0-9436-23047396E7B2}
+      RECPASS 3
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        CCINTERP 32
+        POOLEDEVTS {F31EB5C4-1B14-476E-9B1A-B6065A3204F2}
+        E 0 90 24 19
+        E 0 90 2b 1b
+        E 0 90 30 2d
+        E 3720 80 30 40
+        E 35 80 24 40
+        E 4 90 1f 3a
+        E 15 90 32 2c
+        E 1897 90 26 45
+        E 9 80 1f 40
+        E 1894 80 32 40
+        E 0 90 24 46
+        E 18 90 30 36
+        E 30 80 26 40
+        E 3829 80 24 40
+        E 9 90 1f 3c
+        E 3 90 32 3d
+        E 11 80 30 40
+        E 1901 90 26 51
+        E 37 80 1f 40
+        E 1883 80 26 40
+        E 5 90 30 4f
+        E 9 90 24 3e
+        E 12 80 32 40
+        E 3792 90 34 34
+        E 13 80 24 40
+        E 7 90 28 21
+        E 15 80 30 40
+        E 3776 80 34 40
+        E 34 80 28 40
+        E 2 90 30 45
+        E 8 90 24 43
+        E 3850 80 30 40
+        E 5 90 26 2d
+        E 1 90 32 2e
+        E 32 80 24 40
+        E 3443 80 26 40
+        E 327 90 28 19
+        E 94 80 28 00
+        E 0 80 2b 00
+        E 0 80 32 00
+        E 0 b0 7b 00
+        CCINTERP 32
+        CHASE_CC_TAKEOFFS 1
+        GUID {5E34C480-343D-4DB4-A8CF-043D9BF1F118}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 2398
+        VELLANE 131 314 0
+        CFGEDITVIEW 0 0.014063 75 12 0 -1 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 252
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 1 0 1 1 0 1 1 1 1 1 0.5 278 344 1620 1262 0 0 0 0 0 0 1 1 0 0.5 0 0 1 64
+      >
+    >
+    <ITEM
+      POSITION 104.34783333333333
+      SNAPOFFS 0
+      LENGTH 27.82607971014492
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {86FCA3F2-0020-476F-9177-20D4D4309215}
+      IID 2655
+      NAME "05-Recorded MIDI"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      TAKECOLOR 24248199 R
+      GUID {34794B70-A225-4B59-837B-BE1DA4C4FCD4}
+      RECPASS 5
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        CCINTERP 32
+        POOLEDEVTS {58FDD8B2-6A7D-4F5F-A3CC-C9E2A4612B81}
+        E 0 90 28 1b
+        E 0 90 2b 14
+        E 0 90 34 1e
+        E 1745 80 28 40
+        E 57 90 24 47
+        E 46 90 30 54
+        E 66 80 34 40
+        E 1725 80 30 40
+        E 43 80 24 40
+        E 24 90 1f 50
+        E 2 90 32 4b
+        E 3884 80 32 40
+        E 39 90 28 40
+        E 11 80 1f 40
+        E 3 90 34 3a
+        E 1887 80 28 40
+        E 13 90 24 49
+        E 8 90 30 54
+        E 37 80 34 40
+        E 1912 90 26 55
+        E 11 80 30 40
+        E 1 80 24 40
+        E 9 90 32 48
+        E 3802 90 24 5a
+        E 7 90 30 5a
+        E 5 80 32 40
+        E 13 80 26 40
+        E 3733 90 32 40
+        E 4 90 1f 43
+        E 4 80 24 40
+        E 19 80 30 40
+        E 3859 80 32 40
+        E 9 90 28 42
+        E 11 90 34 4b
+        E 13 80 1f 40
+        E 1890 90 24 4b
+        E 23 90 30 51
+        E 2 80 28 40
+        E 29 80 34 40
+        E 1891 90 32 46
+        E 15 90 26 4b
+        E 9 80 30 40
+        E 13 80 24 40
+        E 3506 80 26 40
+        E 261 80 32 40
+        E 73 90 34 45
+        E 55 90 28 4b
+        E 1570 80 28 40
+        E 219 90 24 49
+        E 15 90 30 4d
+        E 48 80 34 40
+        E 1840 80 24 40
+        E 30 80 30 40
+        E 21 90 1f 3e
+        E 10 90 32 3e
+        E 3791 80 1f 40
+        E 16 80 32 40
+        E 6 90 28 2c
+        E 4 90 34 50
+        E 1861 80 28 40
+        E 20 90 24 41
+        E 33 90 30 51
+        E 42 80 34 40
+        E 1867 80 24 40
+        E 5 90 26 37
+        E 28 80 30 40
+        E 26 90 32 40
+        E 3789 90 24 58
+        E 16 90 30 51
+        E 20 80 26 40
+        E 8 80 32 40
+        E 3641 80 24 40
+        E 134 90 1f 46
+        E 22 90 34 4f
+        E 68 80 30 40
+        E 3542 80 34 40
+        E 72 80 1f 40
+        E 152 90 28 42
+        E 16 90 34 5b
+        E 1884 90 24 4c
+        E 8 90 30 58
+        E 10 80 28 40
+        E 20 80 34 40
+        E 1923 90 26 57
+        E 14 90 32 4e
+        E 3 80 30 40
+        E 22 80 24 40
+        E 3812 90 24 5b
+        E 0 80 32 40
+        E 2 90 30 5e
+        E 17 80 26 40
+        E 891 80 30 40
+        E 43 80 2b 40
+        E 69 80 24 40
+        E 3712 b0 7b 00
+        CCINTERP 32
+        CHASE_CC_TAKEOFFS 1
+        GUID {072B65E1-8947-4F0C-B665-B28C255A5DC0}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 2409
+        VELLANE 131 314 0
+      >
+    >
+    <ITEM
+      POSITION 132.17391304347825
+      SNAPOFFS 0
+      LENGTH 0.00001
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {1BB4D83D-9812-4E6D-99F6-FCAAFF1171A0}
+      IID 2651
+      NAME "05-Recorded MIDI"
+      VOLPAN 1 0 1 -1
+      SOFFS 55.65220471014491 64.00003541666665
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2BD4C6E0-33A1-44C9-9EC3-3AA28E0F2DF3}
+      RECPASS 3
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        CCINTERP 32
+        POOLEDEVTS {431FACAE-5977-4143-A471-2046E523B77D}
+        E 0 90 24 19
+        E 0 90 2b 1b
+        E 0 90 30 2d
+        E 3720 80 30 40
+        E 35 80 24 40
+        E 4 90 1f 3a
+        E 15 90 32 2c
+        E 1897 90 26 45
+        E 9 80 1f 40
+        E 1894 80 32 40
+        E 0 90 24 46
+        E 18 90 30 36
+        E 30 80 26 40
+        E 3829 80 24 40
+        E 9 90 1f 3c
+        E 3 90 32 3d
+        E 11 80 30 40
+        E 1901 90 26 51
+        E 37 80 1f 40
+        E 1883 80 26 40
+        E 5 90 30 4f
+        E 9 90 24 3e
+        E 12 80 32 40
+        E 3792 90 34 34
+        E 13 80 24 40
+        E 7 90 28 21
+        E 15 80 30 40
+        E 3776 80 34 40
+        E 34 80 28 40
+        E 2 90 30 45
+        E 8 90 24 43
+        E 3850 80 30 40
+        E 5 90 26 2d
+        E 1 90 32 2e
+        E 32 80 24 40
+        E 3443 80 26 40
+        E 327 90 28 19
+        E 1942 80 28 40
+        E 25 90 24 35
+        E 1884 80 24 40
+        E 42 90 1f 2f
+        E 3778 80 1f 40
+        E 57 90 28 29
+        E 1860 80 28 40
+        E 39 90 24 31
+        E 1907 90 26 38
+        E 7 80 24 40
+        E 3905 90 24 51
+        E 28 80 26 40
+        E 3603 80 24 40
+        E 119 90 1f 51
+        E 3854 80 1f 40
+        E 33 90 28 28
+        E 1964 90 24 51
+        E 35 80 28 40
+        E 1851 90 26 50
+        E 22 80 24 40
+        E 3268 80 26 40
+        E 467 90 28 38
+        E 1909 90 24 41
+        E 3 80 28 40
+        E 50 90 30 43
+        E 1 80 32 40
+        E 1847 90 32 31
+        E 0 80 30 40
+        E 6 80 24 40
+        E 12 90 1f 3d
+        E 3873 80 32 40
+        E 31 90 28 39
+        E 4 90 34 31
+        E 6 80 1f 40
+        E 1875 80 28 40
+        E 6 90 24 47
+        E 20 90 30 4e
+        E 39 80 34 40
+        E 1847 90 32 30
+        E 36 90 26 51
+        E 12 80 30 40
+        E 7 80 24 40
+        E 3862 90 24 59
+        E 10 90 30 5a
+        E 33 80 26 40
+        E 1 80 32 40
+        E 3762 80 24 40
+        E 3 90 32 45
+        E 11 90 1f 4b
+        E 2 80 30 40
+        E 3779 80 32 40
+        E 109 90 28 32
+        E 7 80 1f 40
+        E 10 90 34 3b
+        E 1784 90 24 4b
+        E 18 90 30 50
+        E 19 80 28 40
+        E 41 80 34 40
+        E 1936 90 32 49
+        E 21 90 26 51
+        E 29 80 24 40
+        E 7 80 30 40
+        E 3665 80 32 40
+        E 111 90 24 55
+        E 3 90 30 59
+        E 19 80 26 40
+        E 3794 80 24 40
+        E 14 90 1f 45
+        E 2 80 30 40
+        E 13 90 32 4b
+        E 1914 90 26 55
+        E 21 80 1f 40
+        E 1883 90 24 54
+        E 3 80 26 40
+        E 5 90 30 57
+        E 26 80 32 40
+        E 3782 90 32 49
+        E 3 90 1f 50
+        E 1 80 30 40
+        E 2 80 24 40
+        E 1981 90 26 5e
+        E 39 80 1f 40
+        E 1814 90 24 5a
+        E 15 90 30 5c
+        E 43 80 26 40
+        E 8 80 32 40
+        E 3796 90 34 51
+        E 16 90 28 49
+        E 4 80 30 40
+        E 17 80 24 40
+        E 3775 90 24 4a
+        E 2 90 30 54
+        E 5 80 28 40
+        E 6 80 34 40
+        E 3842 90 32 49
+        E 4 90 26 5a
+        E 18 80 30 40
+        E 15 80 24 40
+        E 3824 90 24 60
+        E 5 90 30 62
+        E 24 80 32 40
+        E 15 80 26 40
+        E 3792 90 1f 52
+        E 1 80 24 40
+        E 5 90 32 5a
+        E 55 80 30 40
+        E 1856 90 26 64
+        E 27 80 1f 40
+        E 1875 90 24 5e
+        E 20 90 30 60
+        E 2 80 26 40
+        E 12 80 32 40
+        E 3784 80 24 40
+        E 34 90 1f 41
+        E 1 80 30 40
+        E 10 90 32 4e
+        E 1932 90 26 66
+        E 41 80 1f 40
+        E 1851 90 24 55
+        E 14 80 26 40
+        E 17 90 30 5e
+        E 39 80 32 40
+        E 3762 90 28 4a
+        E 8 90 34 49
+        E 14 80 24 40
+        E 14 80 30 40
+        E 3760 80 28 40
+        E 19 90 24 4d
+        E 20 90 30 56
+        E 26 80 34 40
+        E 3817 90 26 55
+        E 2 90 32 41
+        E 18 80 30 40
+        E 4 80 24 40
+        E 3859 80 2b 40
+        E 12 80 26 40
+        E 6 80 32 40
+        E 5785 b0 7b 00
+        CCINTERP 32
+        CHASE_CC_TAKEOFFS 1
+        GUID {29FDF796-1D3B-4334-9921-93AE5D7D06A5}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 2401
+        VELLANE 131 314 0
+      >
+      TAKE SEL
+      NAME "05-Recorded MIDI"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 27.82607971014492 31.99999166666667
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      TAKECOLOR 24248199 R
+      GUID {1B503BC2-7F04-4CC0-B954-90EDFFC41FA6}
+      RECPASS 5
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        CCINTERP 32
+        POOLEDEVTS {336FF5E8-0C6C-4C47-947F-E72194A1392C}
+        E 0 90 28 1b
+        E 0 90 2b 14
+        E 0 90 34 1e
+        E 1745 80 28 40
+        E 57 90 24 47
+        E 46 90 30 54
+        E 66 80 34 40
+        E 1725 80 30 40
+        E 43 80 24 40
+        E 24 90 1f 50
+        E 2 90 32 4b
+        E 3884 80 32 40
+        E 39 90 28 40
+        E 11 80 1f 40
+        E 3 90 34 3a
+        E 1887 80 28 40
+        E 13 90 24 49
+        E 8 90 30 54
+        E 37 80 34 40
+        E 1912 90 26 55
+        E 11 80 30 40
+        E 1 80 24 40
+        E 9 90 32 48
+        E 3802 90 24 5a
+        E 7 90 30 5a
+        E 5 80 32 40
+        E 13 80 26 40
+        E 3733 90 32 40
+        E 4 90 1f 43
+        E 4 80 24 40
+        E 19 80 30 40
+        E 3859 80 32 40
+        E 9 90 28 42
+        E 11 90 34 4b
+        E 13 80 1f 40
+        E 1890 90 24 4b
+        E 23 90 30 51
+        E 2 80 28 40
+        E 29 80 34 40
+        E 1891 90 32 46
+        E 15 90 26 4b
+        E 9 80 30 40
+        E 13 80 24 40
+        E 3506 80 26 40
+        E 261 80 32 40
+        E 73 90 34 45
+        E 55 90 28 4b
+        E 1570 80 28 40
+        E 219 90 24 49
+        E 15 90 30 4d
+        E 48 80 34 40
+        E 1840 80 24 40
+        E 30 80 30 40
+        E 21 90 1f 3e
+        E 10 90 32 3e
+        E 3791 80 1f 40
+        E 16 80 32 40
+        E 6 90 28 2c
+        E 4 90 34 50
+        E 1861 80 28 40
+        E 20 90 24 41
+        E 33 90 30 51
+        E 42 80 34 40
+        E 1867 80 24 40
+        E 5 90 26 37
+        E 28 80 30 40
+        E 26 90 32 40
+        E 3789 90 24 58
+        E 16 90 30 51
+        E 20 80 26 40
+        E 8 80 32 40
+        E 3641 80 24 40
+        E 134 90 1f 46
+        E 22 90 34 4f
+        E 68 80 30 40
+        E 3542 80 34 40
+        E 72 80 1f 40
+        E 152 90 28 42
+        E 16 90 34 5b
+        E 1884 90 24 4c
+        E 8 90 30 58
+        E 10 80 28 40
+        E 20 80 34 40
+        E 1923 90 26 57
+        E 14 90 32 4e
+        E 3 80 30 40
+        E 22 80 24 40
+        E 3812 90 24 5b
+        E 0 80 32 40
+        E 2 90 30 5e
+        E 17 80 26 40
+        E 891 80 30 40
+        E 43 80 2b 40
+        E 69 80 24 40
+        E 3712 b0 7b 00
+        CCINTERP 32
+        CHASE_CC_TAKEOFFS 1
+        GUID {59AEFDFC-F3A3-46D2-B1EE-7F90ED7EA5DD}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 2410
+        VELLANE 131 314 0
+      >
+    >
+    <ITEM
+      POSITION 132.17392304347825
+      SNAPOFFS 0
+      LENGTH 88.70195195652173
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {AC0D94BD-F6D4-493F-963E-5F629B18A8B7}
+      IID 2654
+      NAME "05-Recorded MIDI"
+      VOLPAN 1 0 1 -1
+      SOFFS 55.65221471014493 64.00004691666665
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {CA99DFC3-D6B9-4554-ACC4-7F26066DA749}
+      RECPASS 3
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        CCINTERP 32
+        POOLEDEVTS {BBABB9BC-D740-4767-BB32-E2AB4339D967}
+        E 0 90 24 19
+        E 0 90 2b 1b
+        E 0 90 30 2d
+        E 3720 80 30 40
+        E 35 80 24 40
+        E 4 90 1f 3a
+        E 15 90 32 2c
+        E 1897 90 26 45
+        E 9 80 1f 40
+        E 1894 80 32 40
+        E 0 90 24 46
+        E 18 90 30 36
+        E 30 80 26 40
+        E 3829 80 24 40
+        E 9 90 1f 3c
+        E 3 90 32 3d
+        E 11 80 30 40
+        E 1901 90 26 51
+        E 37 80 1f 40
+        E 1883 80 26 40
+        E 5 90 30 4f
+        E 9 90 24 3e
+        E 12 80 32 40
+        E 3792 90 34 34
+        E 13 80 24 40
+        E 7 90 28 21
+        E 15 80 30 40
+        E 3776 80 34 40
+        E 34 80 28 40
+        E 2 90 30 45
+        E 8 90 24 43
+        E 3850 80 30 40
+        E 5 90 26 2d
+        E 1 90 32 2e
+        E 32 80 24 40
+        E 3443 80 26 40
+        E 327 90 28 19
+        E 1942 80 28 40
+        E 25 90 24 35
+        E 1884 80 24 40
+        E 42 90 1f 2f
+        E 3778 80 1f 40
+        E 57 90 28 29
+        E 1860 80 28 40
+        E 39 90 24 31
+        E 1907 90 26 38
+        E 7 80 24 40
+        E 3905 90 24 51
+        E 28 80 26 40
+        E 3603 80 24 40
+        E 119 90 1f 51
+        E 3854 80 1f 40
+        E 33 90 28 28
+        E 1964 90 24 51
+        E 35 80 28 40
+        E 1851 90 26 50
+        E 22 80 24 40
+        E 3268 80 26 40
+        E 467 90 28 38
+        E 1909 90 24 41
+        E 3 80 28 40
+        E 50 90 30 43
+        E 1 80 32 40
+        E 1847 90 32 31
+        E 0 80 30 40
+        E 6 80 24 40
+        E 12 90 1f 3d
+        E 3873 80 32 40
+        E 31 90 28 39
+        E 4 90 34 31
+        E 6 80 1f 40
+        E 1875 80 28 40
+        E 6 90 24 47
+        E 20 90 30 4e
+        E 39 80 34 40
+        E 1847 90 32 30
+        E 36 90 26 51
+        E 12 80 30 40
+        E 7 80 24 40
+        E 3862 90 24 59
+        E 10 90 30 5a
+        E 33 80 26 40
+        E 1 80 32 40
+        E 3762 80 24 40
+        E 3 90 32 45
+        E 11 90 1f 4b
+        E 2 80 30 40
+        E 3779 80 32 40
+        E 109 90 28 32
+        E 7 80 1f 40
+        E 10 90 34 3b
+        E 1784 90 24 4b
+        E 18 90 30 50
+        E 19 80 28 40
+        E 41 80 34 40
+        E 1936 90 32 49
+        E 21 90 26 51
+        E 29 80 24 40
+        E 7 80 30 40
+        E 3665 80 32 40
+        E 111 90 24 55
+        E 3 90 30 59
+        E 19 80 26 40
+        E 3794 80 24 40
+        E 14 90 1f 45
+        E 2 80 30 40
+        E 13 90 32 4b
+        E 1914 90 26 55
+        E 21 80 1f 40
+        E 1883 90 24 54
+        E 3 80 26 40
+        E 5 90 30 57
+        E 26 80 32 40
+        E 3782 90 32 49
+        E 3 90 1f 50
+        E 1 80 30 40
+        E 2 80 24 40
+        E 1981 90 26 5e
+        E 39 80 1f 40
+        E 1814 90 24 5a
+        E 15 90 30 5c
+        E 43 80 26 40
+        E 8 80 32 40
+        E 3796 90 34 51
+        E 16 90 28 49
+        E 4 80 30 40
+        E 17 80 24 40
+        E 3775 90 24 4a
+        E 2 90 30 54
+        E 5 80 28 40
+        E 6 80 34 40
+        E 3842 90 32 49
+        E 4 90 26 5a
+        E 18 80 30 40
+        E 15 80 24 40
+        E 3824 90 24 60
+        E 5 90 30 62
+        E 24 80 32 40
+        E 15 80 26 40
+        E 3792 90 1f 52
+        E 1 80 24 40
+        E 5 90 32 5a
+        E 55 80 30 40
+        E 1856 90 26 64
+        E 27 80 1f 40
+        E 1875 90 24 5e
+        E 20 90 30 60
+        E 2 80 26 40
+        E 12 80 32 40
+        E 3784 80 24 40
+        E 34 90 1f 41
+        E 1 80 30 40
+        E 10 90 32 4e
+        E 1932 90 26 66
+        E 41 80 1f 40
+        E 1851 90 24 55
+        E 14 80 26 40
+        E 17 90 30 5e
+        E 39 80 32 40
+        E 3762 90 28 4a
+        E 8 90 34 49
+        E 14 80 24 40
+        E 14 80 30 40
+        E 3760 80 28 40
+        E 19 90 24 4d
+        E 20 90 30 56
+        E 26 80 34 40
+        E 3817 90 26 55
+        E 2 90 32 41
+        E 18 80 30 40
+        E 4 80 24 40
+        E 3859 80 2b 40
+        E 12 80 26 40
+        E 6 80 32 40
+        E 5785 b0 7b 00
+        CCINTERP 32
+        CHASE_CC_TAKEOFFS 1
+        GUID {DE053416-412E-401F-9E8B-7784638FB38C}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 2408
+        VELLANE 131 314 0
+      >
+    >
+  >
+  <TRACK {D7EF2EB6-7D67-4810-9CC9-A08278E42764}
+    NAME Bass
+    PEAKCOL 25231104
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 1 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
+    FREEMODE 0
+    SEL 0
+    REC 0 4224 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 25 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {D7EF2EB6-7D67-4810-9CC9-A08278E42764}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 0 0
+    HWOUT 1027 0 1 0 0 0 0 -1:U -1
+    <FXCHAIN
+      WNDRECT 69 31 1616 933
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+    >
+    <ITEM
+      POSITION 76.52170833333334
+      SNAPOFFS 0
+      LENGTH 83.47829166666666
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {ABA0E50C-5EF1-42E3-8234-4269156A3105}
+      IID 2657
+      NAME "04-Bass-Recorded MIDI"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {31708FAB-A91E-42D1-9E00-3A8BE5C82D72}
+      RECPASS 6
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        CCINTERP 32
+        POOLEDEVTS {A08797C4-B6E5-4BE7-985E-E249F24FDA5C}
+        E 14 90 24 4b
+        E 3725 90 2b 49
+        E 49 80 24 40
+        E 1944 90 26 49
+        E 19 80 2b 40
+        E 1886 90 24 50
+        E 3 80 26 40
+        E 3796 90 2b 55
+        E 42 80 24 40
+        E 1937 80 2b 40
+        E 10 90 26 51
+        E 1884 90 24 4f
+        E 13 80 26 40
+        E 3812 90 28 49
+        E 37 80 24 40
+        E 3798 80 28 40
+        E 9 90 24 57
+        E 3848 90 26 5a
+        E 10 80 24 40
+        E 3801 90 28 3d
+        E 18 80 26 40
+        E 1959 90 24 49
+        E 18 80 28 40
+        E 1901 90 2b 55
+        E 71 80 24 40
+        E 3751 90 28 55
+        E 17 80 2b 40
+        E 1888 90 24 4e
+        E 26 80 28 40
+        E 1910 90 26 58
+        E 47 80 24 40
+        E 3762 90 24 43
+        E 39 80 26 40
+        E 3790 90 2b 53
+        E 69 80 24 40
+        E 3801 90 28 4b
+        E 16 80 2b 40
+        E 1916 90 24 4f
+        E 17 80 28 40
+        E 1912 90 26 4e
+        E 40 80 24 40
+        E 3785 90 28 46
+        E 27 80 26 40
+        E 1889 90 24 49
+        E 30 80 28 40
+        E 1888 90 2b 52
+        E 57 80 24 40
+        E 3759 90 28 4d
+        E 29 80 2b 40
+        E 1878 90 24 47
+        E 18 80 28 40
+        E 1923 90 26 49
+        E 34 80 24 40
+        E 3825 90 24 55
+        E 42 80 26 40
+        E 3799 90 2b 51
+        E 58 80 24 40
+        E 3729 90 28 51
+        E 27 80 2b 40
+        E 1939 90 24 55
+        E 15 80 28 40
+        E 1917 90 26 5a
+        E 29 80 24 40
+        E 3812 90 24 51
+        E 35 80 26 40
+        E 11 80 24 00
+        E 0 b0 7b 00
+        CCINTERP 32
+        CHASE_CC_TAKEOFFS 1
+        GUID {61EAAD96-B352-4041-8460-AD763657B165}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 2413
+      >
+    >
+    <ITEM
+      POSITION 160
+      SNAPOFFS 0
+      LENGTH 27.82608695652175
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {D0C42FFF-6707-4A7F-AF89-0A7F39DB42D2}
+      IID 2658
+      NAME "04-Bass-Recorded MIDI"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {42F89FFF-2A7F-428B-A758-648573D73C35}
+      RECPASS 6
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        CCINTERP 32
+        POOLEDEVTS {D2B8EC32-5BB6-48B0-9343-BCEE7C4D9CF2}
+        E 0 90 24 51
+        E 3770 90 2b 5c
+        E 51 80 24 40
+        E 1874 90 26 45
+        E 18 80 2b 40
+        E 1940 90 24 5a
+        E 20 80 26 40
+        E 3798 90 2b 57
+        E 71 80 24 40
+        E 1868 90 26 5a
+        E 22 80 2b 40
+        E 1904 90 24 5d
+        E 4 80 26 40
+        E 3805 90 28 4a
+        E 47 80 24 40
+        E 3779 90 24 58
+        E 17 80 28 40
+        E 3836 90 26 55
+        E 42 80 24 40
+        E 3865 90 24 38
+        E 29 80 26 40
+        E 3814 90 2b 4b
+        E 62 80 24 40
+        E 1843 90 26 55
+        E 31 80 2b 40
+        E 1829 90 24 52
+        E 20 80 26 40
+        E 3857 90 2b 5c
+        E 97 80 24 40
+        E 1616 80 2b 40
+        E 76 90 28 66
+        E 171 80 28 40
+        E 1457 b0 7b 00
+        CCINTERP 32
+        CHASE_CC_TAKEOFFS 1
+        GUID {CC03498B-E835-41A8-8197-C71BEB269A3C}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 2414
+      >
+    >
+    <ITEM
+      POSITION 187.82608695652175
+      SNAPOFFS 0
+      LENGTH 27.82608695652169
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {91CE1CAB-348E-4183-9664-768DC88CAB9E}
+      IID 2659
+      NAME "04-Bass-Recorded MIDI"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {71815AE5-2782-411C-A2B4-F11922ED0992}
+      RECPASS 6
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        CCINTERP 32
+        POOLEDEVTS {2E1F8AF0-FBBA-41ED-BE0C-906D7DBF63C4}
+        E 0 90 24 51
+        E 3770 90 2b 5c
+        E 51 80 24 40
+        E 1874 90 26 45
+        E 18 80 2b 40
+        E 1940 90 24 5a
+        E 20 80 26 40
+        E 3798 90 2b 57
+        E 71 80 24 40
+        E 1868 90 26 5a
+        E 22 80 2b 40
+        E 1904 90 24 5d
+        E 4 80 26 40
+        E 3805 90 28 4a
+        E 47 80 24 40
+        E 3779 90 24 58
+        E 17 80 28 40
+        E 3836 90 26 55
+        E 42 80 24 40
+        E 3865 90 24 38
+        E 29 80 26 40
+        E 3814 90 2b 4b
+        E 62 80 24 40
+        E 1843 90 26 55
+        E 31 80 2b 40
+        E 1829 90 24 52
+        E 20 80 26 40
+        E 3857 90 2b 5c
+        E 97 80 24 40
+        E 1616 80 2b 40
+        E 76 90 28 66
+        E 171 80 28 40
+        E 1457 b0 7b 00
+        CCINTERP 32
+        CHASE_CC_TAKEOFFS 1
+        GUID {FA8CB761-5EE6-491E-9AB9-03E9BCFA6AB8}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 2415
+      >
+    >
+  >
+  <EXTENSIONS
+  >
+>

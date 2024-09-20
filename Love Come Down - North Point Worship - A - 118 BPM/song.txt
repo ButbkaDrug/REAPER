@@ -1,0 +1,100 @@
+[Intro]
+#1
+
+[Interlude]
+#4 1 5 6m
+#4 1 5
+
+[Outro]
+#4 1 5 6m
+#4 1 5 1
+
+[Ending]
+#1
+
+[ Chorus ]
+#4 1
+I will ^sing for^ever
+#5 6m
+Of Your ^love come ^down
+#4 1
+With my ^hands to ^Heaven
+#5
+Shout Your p^raises loud
+#4 1
+I was ^lost in ^darkness
+#5 6m
+When You ^pulled me ^out
+#4 1
+I will ^sing for^ever
+#5 1
+Of Your ^love come ^down
+
+[ Verse 1 ]
+#1 5 6m
+I ^once was blind I ^could not ^see
+#4 1 5
+^Chains of s^in had ^shackled me
+#1 5 6m
+But ^God in heaven ^heard my ^plea
+#4 1 5 1
+And ^Jesus ^Jesus ^rescued ^me
+
+[ Tag 1 ]
+#4 1 5 1
+Yeah ^Jesus ^Jesus ^rescued ^me
+
+[ Verse 2 ]
+Grace so sweet it floods my soul
+And hope eternal won't let go
+My debt erased at Calvary
+When Jesus Jesus rescued me
+
+[ Verse 3 ]
+Well th^ere's a home bey^ond the ^sky
+A ^song we'll s^ing for ^all of time
+The gr^ave is empty ^I am f^ree
+'Cause ^Jesus ^Jesus ^rescued me
+
+[ Tag 2 ]
+#4 1
+I will ^sing for^ever
+#5 1
+Of Your ^love come ^down
+
+[ Verse 1 R ]
+Я был слеп, не видел я
+В цепи грех сковал меня
+Но Бог услышал мою мольбу
+Иисус, Иисус, Ты спас меня
+Иисус, Иисус, Ты спас меня
+
+[ Chorus R ]
+Буду в^ечно п^еть я
+О Tво^ей люб^ви
+Руки п^одним^ая
+Вознес^у хвал^у
+Был пот^ерян ^я
+Tы вытащ^ил из ть^мы
+Буду в^ечно п^еть я
+О Tво^ей любв^и
+
+[ Verse 2 R ]
+Бл^агодать т^ак слад^ка
+Над^ежду в^ечную^ несёт
+Мой д^олг оплачен н^а Крес^те
+Иис^ус, Иис^ус, Ты сп^ас мен^я
+
+[ Verse 3 R ]
+В небе дом есть для меня
+Мы будем петь Тебе всегда
+Пуста могила, свободен я
+Иисус, Иисус, Ты спас меня
+Иисус, Иисус, Ты спас меня
+
+[ Tag 1 R ]
+Иис^ус, Иис^ус, Ты сп^ас мен^я
+
+[ Tag 2 R ]
+Буду вечно петь я
+О Tвоей любви

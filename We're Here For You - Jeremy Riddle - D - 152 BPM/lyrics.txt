@@ -1,0 +1,110 @@
+[ Intro ]
+--Pad & Acoustic
+#1 42 1 42
+
+[ Chorus ]
+#1                   5add4
+Jesus  we are here
+#42
+We’re here for You
+#1                       5add4
+We’ve gathered  in this place
+#42
+To honor You
+#1                      5add4
+To worship  You in Spirit
+#42
+And in truth
+#1                   5add4
+Jesus  we are here
+#42
+We’re here for You
+
+[ Verse 1 ]
+#1
+Lift  up your hands
+#42
+Let your praises  rise
+#1
+Open  your heart
+#42
+Loose the song  inside
+#6m7
+Let   us rejoice
+#42
+Let us magnify
+#1/3 42
+His na- me
+
+[ Chorus ]
+#1                5add4
+Jesus  we are here
+#42
+We’re here for You
+#1                   5add4
+We’ve gathered  in this place
+#42
+To honor You
+#1                  5add4
+To worship  You in Spirit
+#42
+And in truth
+#1                5add4
+Jesus  we are here
+#42
+We’re here for You
+
+[ Verse 2 ]
+#1
+Break  out in praise
+#42
+Let your shout  arise
+#1
+For our  God redeemed us
+#42
+With His mighty  power
+#6m7
+Let’s  sing together
+#4         1/3 4
+Let us magnify  His na- me
+
+[ Turnaround ]
+#1 1/5 42
+#1 1/5 42
+
+[ Turnaround 2 ]
+#6m7 5add4 42
+#6m7 5add4 42
+
+[ Ending ]
+#1
+
+
+
+[ Verse 1 R ]
+О, руки воздень
+Пусть звучит хвала
+О, сердце открой
+Песню воспевай
+Возрадуйтесь все
+С нами прославляй Христа
+
+[ Verse 2 R ]
+{-0.3852874406, 2.42842196}
+В славе прорвись!
+{2.0431345194, 3.675548298}
+Громче прославляй!
+{5.7186828174, 2.8270635167}
+Ведь Бог искупил нас
+{8.5457463341, 3.960814733}
+Своей силой спас
+{12.5065610671, 2.2967605285}
+Воспойте все вместе
+{14.8033215956, 3.1964469775}
+С нами прославляй Христа
+
+[ Chorus R ]
+О, Иисус мы все здесь для Тебя
+Что бы чтить и славить здесь Тебя
+Что б в Духе Правды славу воздавать
+О, Иисус мы все здесь для Тебя

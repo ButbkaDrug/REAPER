@@ -1,0 +1,123 @@
+[ Intro ]
+#6m 5 4 5
+
+[ Interlude ]
+#4 5 4/6 5
+
+[Turnaround]
+--Breakdown last chord
+#6m 5 4 5
+
+[ Vamp ]
+-- 1 bar build
+#5
+
+[ Outro ]
+--Hold last chord
+#6m 5 4 5
+#6m 5 4
+
+[ Ending ]
+--Trash Can Ending
+#4
+
+[ Verse 1 ]
+#6m 5
+^Lord of eternit^y
+#2m 6m
+The ^mystery behind the v^eil
+#4 1
+L^ord over Heaven and ^earth
+#5sus4 5
+God of Isr^ael
+
+[ Verse 2 ]
+^Come with Your wisdom and^ power
+C^lothed in Your honor and^ strength
+L^ord hear the cry of our h^earts
+Come O conquering K^ing
+
+[ Pre Chorus 1 ]
+#4 5
+And ^every eye will se^e
+#4/6 5/7
+Your gl^ory fill the sk^y
+
+[ Chorus ]
+#6m 4
+Adon^ai Adon^ai
+#1
+Every kne^e will bow to You
+#5
+L^ord Most High
+#6m 4
+Adon^ai Adon^ai
+#1
+You al^one are God
+#5
+Every t^ongue will cry
+Adonai
+
+[ Verse 3 ]
+^Here Jerusalem^ waits
+^Praises lifted^ on high
+^Here the beautiful g^ates
+Long to see You ar^ise^
+
+[ Pre Chorus 2 ]
+When all of Zion sings
+Baruch ha ba b’shem
+
+
+[ Bridge ]
+#1
+^>You are Lord
+#4
+Over ^all the earth
+#1
+You are L^ord
+#5
+Over all the ^earth
+#1
+^>You are Lord
+#4
+Over ^all the earth
+#1
+You are L^ord
+#5
+Over all the ^earth
+
+[ Verse 1 R ]
+Б^ог вечност^и,
+Г^осподь неба и земл^и
+Т^айна сокрыта в Теб^е,
+Бог Израи^ля^
+
+[ Verse 2 R ]
+Да пр^идет Царство Тво^е
+В^оля да будет Тво^я
+Ты сл^ышишь крик наших серд^ец
+Побеждающ^ий Царь^
+
+[ Pre Chorus 1 R ]
+Ув^идит вся земл^я
+Славу в^ечного Цар^я
+
+[ Chorus R ]
+Адон^ай, Адон^ай!
+Преклон^ится все,
+Скажет вс^я земля
+Адон^ай, Адон^ай!
+Ты од^ин есть Бог,
+Ты од^ин есть Царь
+Адонай!
+
+[ Bridge R ]
+^>Ты Господь
+Неба ^и земли
+Ты наш Б^ог,
+Нет другого, как Т^ы
+^>Ты Господь
+Неба ^и земли
+Ты наш Б^ог,
+Нет другого, как Т^ы

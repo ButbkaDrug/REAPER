@@ -1,0 +1,116 @@
+[Intro]
+#1 4 1 4
+
+[Ending]
+#1
+
+[ Verse 1 ]
+#1 4 1
+{1.5814285714, 5.18}
+^Are you h^urting and broken with^in
+#4 6m
+{6.7614285714, 4.38}
+Overwh^elmed by the weight of your ^sin
+#4
+{11.1414285714, 4.2871428571}
+Jesus is c^alling
+
+[ Verse 2 ]
+{1.3728571429, 5.1563159601}
+^Have you c^ome to the end of yours^elf
+{6.529173103, 4.6739204237}
+Do you th^irst for a drink from the ^well
+{11.2030935267, 4.1388928159}
+Jesus is c^alling
+
+[ Chorus ]
+#1 2m
+{0.5672942809, 5.0726674145}
+^O come to^ the altar
+#6m 4
+{5.6399616954, 5.1281891475}
+^The Father’s arms are ^open wide
+#1 2m
+{10.7681508429, 5.2240903225}
+^Forgiveness^ was bought with
+#6m 4
+{15.9922411654, 4.5791874061}
+^The precious blood of J^esus Christ
+
+[ Verse 3 ]
+Leave behind your regrets and mistakes
+Come today there’s no reason to wait
+Jesus is calling
+
+[ Verse 4 ]
+Bring your sorrows and trade them for joy
+From the ashes a new life is born
+Jesus is calling
+
+[ Bridge ]
+#1
+Oh what a S^avior
+#6m
+Isn’t He ^wonderful
+#4 1
+Sing allel^uia Christ is risen
+#1
+Bow down bef^ore Him
+#6m
+For He is ^Lord of all
+#4 1
+Sing allel^uia Christ is risen
+
+[ Verse 5 ]
+Bear your cross as you wait for the crown
+Tell the world of the treasure you’ve found
+
+[ Verse 1 R ]
+Ты разбит и так трудно идти?
+И так тянут назад все грехи?
+Иисус призывает
+
+[ Verse 2 R ]
+Ты устал, опустел изнутри?
+Но осталась ли жажда, чтоб пить?
+Иисус призывает
+
+[ Chorus R ]
+^Придите^ к престолу
+^Скорей в объ^ятия отца
+^Прощен ты,^ искуплен
+^Бесценной кр^овью Христа
+
+[ Verse 3 R ]
+{1.3575391744, 5.2089480317}
+^Оставл^яя ошибки и гр^усть,
+{6.5664872061, 4.6133512606}
+Нет прич^ин, чтобы ждать - прихо^ди
+{11.1798384667, 4.2487329619}
+Иисус призыв^ает
+
+[ Verse 4 R ]
+{1.424578654, 5.0979045659}
+^Из печ^али ты в радость войд^и
+{6.5224832199, 4.754679308}
+С ним из п^епла рождается ^жизнь
+{11.2771625279, 4.1514089006}
+Иисус призыв^ает
+
+[ Bridge R ]
+{0, 3.7200328375}
+О наш спас^итель,
+{3.7200328375, 4.9686630005}
+Как ты прек^расен, Бог
+{8.688695838, 10.2751387829}
+Пой аллил^уйя, воскрес спаситель
+{18.9638346209, 5.0953427937}
+Склонимся пр^ед ним
+{24.0591774146, 5.2220225869}
+Он есть Гос^подь всего
+{29.2812000015, 11.8616571413}
+Пой аллил^уйя, воскрес спас^итель
+
+[ Verse 5 R ]
+Крест возьми и к награде иди
+Расскажи, что нашел ты в пути

@@ -1,0 +1,1584 @@
+<REAPER_PROJECT 0.1 "6.36/win64" 1633982381
+  RIPPLE 0
+  GROUPOVERRIDE 0 0 0
+  AUTOXFADE 1
+  ENVATTACH 1
+  POOLEDENVATTACH 0
+  MIXERUIFLAGS 11 48
+  PEAKGAIN 1
+  FEEDBACK 0
+  PANLAW 1
+  PROJOFFS 0 0 0
+  MAXPROJLEN 0 600
+  GRID 3199 8 1 8 1 0 0 0
+  TIMEMODE 1 5 -1 30 0 0 -1
+  VIDEO_CONFIG 0 0 256
+  PANMODE 3
+  CURSOR 127.05882352941177
+  ZOOM 3.84268890911181 0 0
+  VZOOMEX 4 0
+  USE_REC_CFG 0
+  RECMODE 1
+  SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
+  LOOP 0
+  LOOPGRAN 0 4
+  RECORD_PATH "" ""
+  <RECORD_CFG
+  >
+  <APPLYFX_CFG
+  >
+  RENDER_FILE "C:\Users\Butbk\Music\Click Tracks\The Blessing click.mp3"
+  RENDER_FMT 0 2 44100
+  RENDER_1X 0
+  RENDER_RANGE 1 0 0 18 1000
+  RENDER_RESAMPLE 3 0 1
+  RENDER_ADDTOPROJ 0
+  RENDER_STEMS 0
+  RENDER_DITHER 0
+  TIMELOCKMODE 1
+  TEMPOENVLOCKMODE 1
+  ITEMMIX 0
+  DEFPITCHMODE 589824 0
+  TAKELANE 1
+  SAMPLERATE 44100 0 0
+  <RENDER_CFG
+    bDNwbaAAAAAAAAAAAgAAAP////8EAAAAoAAAAAAAAAA=
+  >
+  LOCK 1
+  <METRONOME 6 2
+    VOL 0.25 0.125
+    FREQ 800 1600 1
+    BEATLEN 4
+    SAMPLES "" ""
+    PATTERN 2863311530 2863311529
+  >
+  GLOBAL_AUTO -1
+  TEMPO 136 4 4
+  PLAYRATE 1 0 0.25 4
+  SELECTION 0 0
+  SELECTION2 0 0
+  MASTERAUTOMODE 0
+  MASTERTRACKHEIGHT 0 0
+  MASTERPEAKCOL 16576
+  MASTERMUTESOLO 0
+  MASTERTRACKVIEW 0 0.6667 0.5 0.5 0 -1 0 0 0 0 -1 -1 0
+  MASTERHWOUT 0 0 1 0 0 0 0 -1
+  MASTER_NCH 2 2
+  MASTER_VOLUME 0.999999996066 0 -1 -1 1
+  MASTER_FX 1
+  MASTER_SEL 0
+  <MASTERPLAYSPEEDENV
+    EGUID {1EA965F3-472C-441D-822A-CFF93922C550}
+    ACT 0 -1
+    VIS 0 1 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 0 -1 -1
+  >
+  <TEMPOENVEX
+    EGUID {7265C892-E568-4F2A-9D25-B66CF65478A7}
+    ACT 1 -1
+    VIS 1 0 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 1 -1 -1
+    PT 0.000000000000 136.0000000000 1
+  >
+  MARKER 44 7.05882352941171 "Intro The Blessing" 1 33488896 1 R {FCA88AB4-7110-44A8-83B2-416BCB388F0F}
+  MARKER 44 21.17647058823513 "" 1 33488896 1 R
+  MARKER 45 21.17647058823513 Intro 1 33488896 1 R {E7E5EB6F-3E42-4688-B68A-7482C0DDAAB5}
+  MARKER 45 35.29411764705856 "" 1 33488896 1 R
+  MARKER 46 35.29411764705856 Verse 1 16842751 1 R {BB9DFBA1-295D-4AAE-AB2A-DED49E8BA74C}
+  MARKER 46 63.52941176470586 "" 1 16842751 1 R
+  MARKER 47 63.52941176470586 Vamp 1 33488896 1 R {A05B22A0-5882-4805-9C30-80031ED921F9}
+  MARKER 47 67.05882352941171 "" 1 33488896 1 R
+  MARKER 48 67.05882352941171 Verse 1 16842751 1 R {CB8A3776-7080-4D27-B62B-A752584F3A32}
+  MARKER 48 95.29411764705856 "" 1 16842751 1 R
+  MARKER 49 95.29411764705856 Vamp 1 33488896 1 R {FA2E6DC1-F16C-4BB3-ADED-DDD0471C4D29}
+  MARKER 49 98.82352941176487 "" 1 33488896 1 R
+  MARKER 50 98.82352941176487 Chorus 1 33521792 1 R {87A114B6-7DFC-4297-99B9-CDF4B65B7510}
+  MARKER 50 127.05882352941171 "" 1 33521792 1 R
+  MARKER 51 127.05882352941171 "Verse RUS" 1 16842751 1 R {48B5DB5F-56B5-4428-9F00-BB7D63CD7DD1}
+  MARKER 51 155.29411764705856 "" 1 16842751 1 R
+  MARKER 52 155.29411764705856 Vamp 1 33521792 1 R {A0AC8A0C-D88B-4251-86E1-CB861A4E30BC}
+  MARKER 52 158.82352941176487 "" 1 33521792 1 R
+  MARKER 53 158.82352941176487 "Chorus RUS" 1 33521792 1 R {F3614669-21C8-447E-BE42-BED56C5118E5}
+  MARKER 53 187.05882352941171 "" 1 33521792 1 R
+  MARKER 54 187.05882352941171 "Chorus RUS" 1 33521792 1 R {CE901100-183B-4447-A3A0-E1A1A8566E7D}
+  MARKER 54 215.29411764705856 "" 1 33521792 1 R
+  MARKER 1 215.29411764705881 Intrelude 1 16842496 1 R {9A55B0F7-20E8-47EA-9ACC-A0CE97F25F7A}
+  MARKER 1 229.41176470588235 "" 1 16842496 1 R
+  MARKER 56 229.41176470588243 "Bridge 1 Eng" 1 16777471 1 R {A9B2E342-2287-4C35-BF5E-011334CCC603}
+  MARKER 56 243.52941176470586 "" 1 16777471 1 R
+  MARKER 57 243.52941176470586 "Bridge 1 Eng" 1 16777471 1 R {37B94AFE-A3FF-4A24-A61D-D8BF552923DF}
+  MARKER 57 257.64705882352928 "" 1 16777471 1 R
+  MARKER 58 257.64705882352928 "Bridge 1" 1 16777471 1 R {67879817-7D38-486B-BF29-8674CF9D673B}
+  MARKER 58 270 "" 1 16777471 1 R
+  MARKER 59 270 "Bridge 1" 1 16777471 1 R {6676003C-DFAB-4D37-B9A5-B24F88E5784C}
+  MARKER 59 284.11764705882342 "" 1 16777471 1 R
+  MARKER 60 284.11764705882342 "Bridge 2" 1 25198847 1 R {2BEE4507-36EB-4E55-952D-9AE0F2D58B7A}
+  MARKER 60 298.23529411764684 "" 1 25198847 1 R
+  MARKER 61 298.23529411764684 "Bridge 3" 1 25198847 1 R {546F1938-2531-496D-844F-70E610BF5EE3}
+  MARKER 61 312.35294117647072 "" 1 25198847 1 R
+  MARKER 62 312.35294117647072 Refrain 1 33488896 1 R {079E30BF-A712-497C-8D16-EC3A5A653988}
+  MARKER 62 326.47058823529414 "" 1 33488896 1 R
+  MARKER 63 326.47058823529414 Chorus 1 33521792 1 R {7938EF1D-D3A8-41E0-9451-A610AD54F075}
+  MARKER 63 354.70588235294099 "" 1 33521792 1 R
+  MARKER 64 354.70588235294099 "Bridge 1" 1 16777471 1 R {86F01482-F778-4BFD-96AA-AA4262B8CACB}
+  MARKER 64 368.82352941176487 "" 1 16777471 1 R
+  MARKER 65 368.82352941176487 "Bridge 2" 1 25198847 1 R {CDC795AC-BCAC-4333-A156-F2A88CCECC2D}
+  MARKER 65 382.94117647058829 "" 1 25198847 1 R
+  MARKER 66 382.94117647058829 "Bridge 3" 1 16777471 1 R {F192408E-062D-455A-A25B-95BA4D08A526}
+  MARKER 66 397.05882352941171 "" 1 16777471 1 R
+  MARKER 67 397.05882352941171 Refrain 1 33488896 1 R {825E3BBC-25FE-433F-9F3F-83A0B005BC23}
+  MARKER 67 411.17647058823513 "" 1 33488896 1 R
+  MARKER 68 411.17647058823513 Instrumental 1 33488896 1 R {11D47D87-FC6F-44D4-88B5-7CAB3773081F}
+  MARKER 68 425.29411764705901 "" 1 33488896 1 R
+  MARKER 69 425.29411764705901 "Chorus RUS" 1 16842751 1 R {457FB4EC-4BB4-43EC-8ADA-36D5A15D28AC}
+  MARKER 69 453.52941176470586 "" 1 16842751 1 R
+  MARKER 70 453.52941176470586 "Bridge 1 ENG" 1 16777471 1 R {66BF8890-075F-4F45-9394-6352081B6A51}
+  MARKER 70 467.64705882352928 "" 1 16777471 1 R
+  MARKER 71 467.64705882352928 "Bridge 2" 1 25198847 1 R {AA090356-6638-4B1C-ABDB-E8D49D951FAD}
+  MARKER 71 481.7647058823527 "" 1 25198847 1 R
+  MARKER 72 481.7647058823527 "Bridge 3" 1 16777471 1 R {63ED074D-7989-4E76-8D80-ED1A0F034C9A}
+  MARKER 72 495.88235294117658 "" 1 16777471 1 R
+  MARKER 73 495.88235294117658 Refrain 1 33488896 1 R {5E2B885D-33BA-4D14-8DD1-2DAEF328A996}
+  MARKER 73 510 "" 1 33488896 1 R
+  MARKER 74 510 Ending 1 0 1 R {BE9241CD-545D-4DAC-8C06-003855260766}
+  MARKER 74 524.11764705882342 "" 1 0 1 R
+  <PROJBAY
+  >
+  <TRACK {F3DF191E-DA9C-4889-9DDD-34D3CF443434}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 1 1
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 -1 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {F3DF191E-DA9C-4889-9DDD-34D3CF443434}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    HWOUT 1040 0 1 0 0 0 0 -1:U -1
+  >
+  <TRACK {1B9A4169-5A7C-45D1-BF0C-B09FF77B98FD}
+    NAME Cues
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 0.30016558353203 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 -1 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {1B9A4169-5A7C-45D1-BF0C-B09FF77B98FD}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 0.44117647058824
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      BEAT 1
+      SEL 0
+      IGUID {E575CF77-643C-4867-84FB-10D2ADDD8BB2}
+      IID 2325
+      NAME "English Female - 1.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1.41666666666667 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5E4E272C-31EE-4702-A8CA-C616423D7C47}
+      <SOURCE WAVE
+        FILE "C:\Users\Butbk\Music\Click and Guide Samples\English Guides\Song Sections\English Female - 1.wav"
+      >
+    >
+    <ITEM
+      POSITION 1.76470588235294
+      SNAPOFFS 0
+      LENGTH 0.44117647058824
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      BEAT 1
+      SEL 0
+      IGUID {6C0335C7-5963-4F4B-B1ED-B0A66247A486}
+      IID 2326
+      NAME "English Female - 2.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1.41666666666667 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {99974D3F-F65E-49DD-B29D-4823BFBB8792}
+      <SOURCE WAVE
+        FILE "C:\Users\Butbk\Music\Click and Guide Samples\English Guides\Song Sections\English Female - 2.wav"
+      >
+    >
+    <ITEM
+      POSITION 3.52941176470588
+      SNAPOFFS 0
+      LENGTH 0.44117647058824
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      BEAT 1
+      SEL 0
+      IGUID {083BD258-0234-4236-ABF3-95147ED04CCC}
+      IID 2331
+      NAME "English Female - 1.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1.41666666666667 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {61423DC1-C31E-4384-ABBA-8DBD3CC786F5}
+      <SOURCE WAVE
+        FILE "C:\Users\Butbk\Music\Click and Guide Samples\English Guides\Song Sections\English Female - 1.wav"
+      >
+    >
+    <ITEM
+      POSITION 4.41176470588235
+      SNAPOFFS 0
+      LENGTH 0.44117647058824
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      BEAT 1
+      SEL 0
+      IGUID {D851A2BC-E0A1-4123-B7A9-EDEE1226004F}
+      IID 2334
+      NAME "English Female - 2.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1.41666666666667 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D5DFB006-9262-4779-B9E7-85AE73430B70}
+      <SOURCE WAVE
+        FILE "C:\Users\Butbk\Music\Click and Guide Samples\English Guides\Song Sections\English Female - 2.wav"
+      >
+    >
+    <ITEM
+      POSITION 5.29411764705882
+      SNAPOFFS 0
+      LENGTH 0.44117647058824
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      BEAT 1
+      SEL 0
+      IGUID {77C62EEC-2652-4676-8603-E6119790F550}
+      IID 2327
+      NAME "English Female - 3.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1.41666666666667 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {072BE441-591A-48F2-A121-35A2CB8F0E45}
+      <SOURCE WAVE
+        FILE "C:\Users\Butbk\Music\Click and Guide Samples\English Guides\Song Sections\English Female - 3.wav"
+      >
+    >
+    <ITEM
+      POSITION 6.17647058823529
+      SNAPOFFS 0
+      LENGTH 0.44117647058823
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      BEAT 1
+      SEL 0
+      IGUID {A112AC5D-D0EF-473B-ACA2-D6FC9DE8B98F}
+      IID 2328
+      NAME "English Female - 4.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1.41666666666667 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F0E6EFF2-0B3F-45A1-A271-FDAEE0460F2A}
+      <SOURCE WAVE
+        FILE "C:\Users\Butbk\Music\Click and Guide Samples\English Guides\Song Sections\English Female - 4.wav"
+      >
+    >
+    <ITEM
+      POSITION 17.64705882349517
+      SNAPOFFS 0
+      LENGTH 0.88235294117727
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.010294 0 1 0 0 0
+      FADEOUT 1 0.010294 0 1 0 0 0
+      MUTE 0 0
+      BEAT 1
+      SEL 0
+      IGUID {3929D793-440C-49AB-B5F9-0BA9E5D2BB41}
+      IID 190
+      NAME "English Female - Intro.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1.41666666666538 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5BD9B716-A212-4A50-ABE5-AAC31E84408B}
+      <SOURCE WAVE
+        FILE "C:\Users\Butbk\Music\Click and Guide Samples\English Guides\Song Sections\English Female - Intro.wav"
+      >
+    >
+    <ITEM
+      POSITION 31.76470588240772
+      SNAPOFFS 0
+      LENGTH 0.88235294117647
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.010294 0 1 0 0 0
+      FADEOUT 1 0.010294 0 1 0 0 0
+      MUTE 0 0
+      BEAT 1
+      SEL 0
+      IGUID {32A89865-A79E-4B76-A9B5-D6BF7410B3C6}
+      IID 191
+      NAME "English Female - Verse.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1.45208012093726 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A15C0346-4C23-4612-9222-D62C0A733B42}
+      <SOURCE WAVE
+        FILE "C:\Users\Butbk\Music\Click and Guide Samples\English Guides\Song Sections\English Female - Verse.wav"
+      >
+    >
+    <ITEM
+      POSITION 32.64705882349517
+      SNAPOFFS 0
+      LENGTH 0.88235294117647
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.010294 0 1 0 0 0
+      FADEOUT 1 0.010294 0 1 0 0 0
+      MUTE 0 0
+      BEAT 1
+      SEL 0
+      IGUID {31A2276F-BDF1-47D2-AF5E-E9C2F354B61D}
+      IID 520
+      NAME "English Female - 2.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1.41666666666667 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2D1E3761-60D4-457F-98B5-40AC6CADBD1C}
+      <SOURCE WAVE
+        FILE "C:\Users\Butbk\Music\Click and Guide Samples\English Guides\Song Sections\English Female - 2.wav"
+      >
+    >
+    <ITEM
+      POSITION 33.52941176469903
+      SNAPOFFS 0
+      LENGTH 0.88235294117667
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.010294 0 1 0 0 0
+      FADEOUT 1 0.010294 0 1 0 0 0
+      MUTE 0 0
+      BEAT 1
+      SEL 0
+      IGUID {B00D3A30-ADC9-4B87-BB6B-1C2FD19B1B37}
+      IID 521
+      NAME "English Female - 3.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1.41666666666636 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C22B0AF2-6D4D-410F-8AAC-956D70817F26}
+      <SOURCE WAVE
+        FILE "C:\Users\Butbk\Music\Click and Guide Samples\English Guides\Song Sections\English Female - 3.wav"
+      >
+    >
+    <ITEM
+      POSITION 34.4117647059029
+      SNAPOFFS 0
+      LENGTH 0.88235294117647
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.010294 0 1 0 0 0
+      FADEOUT 1 0.010294 0 1 0 0 0
+      MUTE 0 0
+      BEAT 1
+      SEL 0
+      IGUID {4E621A68-7675-43E4-B730-428321F1D58A}
+      IID 522
+      NAME "English Female - 4.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1.41666666666667 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {705836A0-9F46-4EF1-A042-87671B7CEE3F}
+      <SOURCE WAVE
+        FILE "C:\Users\Butbk\Music\Click and Guide Samples\English Guides\Song Sections\English Female - 4.wav"
+      >
+    >
+    <ITEM
+      POSITION 60
+      SNAPOFFS 0
+      LENGTH 0.88235294117567
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.010294 0 1 0 0 0
+      FADEOUT 1 0.010294 0 1 0 0 0
+      MUTE 0 0
+      BEAT 1
+      SEL 0
+      IGUID {91AB5886-3F24-4140-B434-4724DCAA65E0}
+      IID 192
+      NAME "English Female - Vamp.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1.45208012093859 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {248D0F9F-9079-4E12-987C-6D94F161EA8F}
+      <SOURCE WAVE
+        FILE "C:\Users\Butbk\Music\Click and Guide Samples\English Guides\Song Sections\English Female - Vamp.wav"
+      >
+    >
+    <ITEM
+      POSITION 63.52941176469903
+      SNAPOFFS 0
+      LENGTH 0.88235294117686
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.010294 0 1 0 0 0
+      FADEOUT 1 0.010294 0 1 0 0 0
+      MUTE 0 0
+      BEAT 1
+      SEL 0
+      IGUID {EBEC8842-DF09-4A7E-B0DF-2E86D12C1032}
+      IID 193
+      NAME "English Female - Verse.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1.45208012093682 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {84EF08F1-D440-4369-AD7A-B3386F8C3876}
+      <SOURCE WAVE
+        FILE "C:\Users\Butbk\Music\Click and Guide Samples\English Guides\Song Sections\English Female - Verse.wav"
+      >
+    >
+    <ITEM
+      POSITION 91.76470588240772
+      SNAPOFFS 0
+      LENGTH 0.88235294117688
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.010294 0 1 0 0 0
+      FADEOUT 1 0.010294 0 1 0 0 0
+      MUTE 0 0
+      BEAT 1
+      SEL 0
+      IGUID {11CAEAF6-F523-4510-A12F-6C1EF2776B38}
+      IID 194
+      NAME "English Female - Vamp.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1.4520801209366 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C4933605-3CEA-4BF2-9410-AC102F398186}
+      <SOURCE WAVE
+        FILE "C:\Users\Butbk\Music\Click and Guide Samples\English Guides\Song Sections\English Female - Vamp.wav"
+      >
+    >
+    <ITEM
+      POSITION 95.29411764710676
+      SNAPOFFS 0
+      LENGTH 0.88235294117567
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.010294 0 1 0 0 0
+      FADEOUT 1 0.010294 0 1 0 0 0
+      MUTE 0 0
+      BEAT 1
+      SEL 0
+      IGUID {98615D5F-42F5-49D6-8A39-674534E340FB}
+      IID 195
+      NAME "English Female - Chorus.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1.4520801209386 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2DB7EE40-50E9-4FBA-AF0E-79371A12388F}
+      <SOURCE WAVE
+        FILE "C:\Users\Butbk\Music\Click and Guide Samples\English Guides\Song Sections\English Female - Chorus.wav"
+      >
+    >
+    <ITEM
+      POSITION 96.17647058819421
+      SNAPOFFS 0
+      LENGTH 0.88235294117666
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.010294 0 1 0 0 0
+      FADEOUT 1 0.010294 0 1 0 0 0
+      MUTE 0 0
+      BEAT 1
+      SEL 0
+      IGUID {983597AE-E2D1-4AA0-8AE8-0D7D9802FD13}
+      IID 523
+      NAME "English Female - 2.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1.41666666666638 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BF7E36D6-146A-438D-B7D2-7F39B920852C}
+      <SOURCE WAVE
+        FILE "C:\Users\Butbk\Music\Click and Guide Samples\English Guides\Song Sections\English Female - 2.wav"
+      >
+    >
+    <ITEM
+      POSITION 97.05882352939807
+      SNAPOFFS 0
+      LENGTH 0.88235294117648
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.010294 0 1 0 0 0
+      FADEOUT 1 0.010294 0 1 0 0 0
+      MUTE 0 0
+      BEAT 1
+      SEL 0
+      IGUID {31AA81BC-8BD2-491B-BA3B-F3B22BAEDABE}
+      IID 524
+      NAME "English Female - 3.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1.41666666666665 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D6A62108-1BDB-4C64-99D7-CA476FF324BD}
+      <SOURCE WAVE
+        FILE "C:\Users\Butbk\Music\Click and Guide Samples\English Guides\Song Sections\English Female - 3.wav"
+      >
+    >
+    <ITEM
+      POSITION 97.94117647060193
+      SNAPOFFS 0
+      LENGTH 0.88235294117646
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.010294 0 1 0 0 0
+      FADEOUT 1 0.010294 0 1 0 0 0
+      MUTE 0 0
+      BEAT 1
+      SEL 0
+      IGUID {0649BE9F-7C8F-4368-9B87-845BFB8ACC29}
+      IID 525
+      NAME "English Female - 4.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1.41666666666669 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {06499D4B-17F4-484D-B768-3107653A9289}
+      <SOURCE WAVE
+        FILE "C:\Users\Butbk\Music\Click and Guide Samples\English Guides\Song Sections\English Female - 4.wav"
+      >
+    >
+    <ITEM
+      POSITION 123.52941176469903
+      SNAPOFFS 0
+      LENGTH 0.88235294117688
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.010294 0 1 0 0 0
+      FADEOUT 1 0.010294 0 1 0 0 0
+      MUTE 0 0
+      BEAT 1
+      SEL 0
+      IGUID {599210BD-AAAB-4070-A0DB-5A87593B7D08}
+      IID 196
+      NAME "English Female - Verse.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1.45208012093659 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {27EA1430-A4ED-4793-AC37-F8EE5E9F6931}
+      <SOURCE WAVE
+        FILE "C:\Users\Butbk\Music\Click and Guide Samples\English Guides\Song Sections\English Female - Verse.wav"
+      >
+    >
+    <ITEM
+      POSITION 151.76470588240772
+      SNAPOFFS 0
+      LENGTH 0.88235294117669
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.010294 0 1 0 0 0
+      FADEOUT 1 0.010294 0 1 0 0 0
+      MUTE 0 0
+      BEAT 1
+      SEL 0
+      IGUID {AF758F84-A34E-4C01-85AE-EFEE5A99FC96}
+      IID 197
+      NAME "English Female - Vamp.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1.45208012093691 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {01EC488D-00D1-4295-AD81-6C194339B196}
+      <SOURCE WAVE
+        FILE "C:\Users\Butbk\Music\Click and Guide Samples\English Guides\Song Sections\English Female - Vamp.wav"
+      >
+    >
+    <ITEM
+      POSITION 155.29411764710676
+      SNAPOFFS 0
+      LENGTH 0.88235294117609
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.010294 0 1 0 0 0
+      FADEOUT 1 0.010294 0 1 0 0 0
+      MUTE 0 0
+      BEAT 1
+      SEL 0
+      IGUID {9C320A83-928C-4449-BFAD-CC05C662913F}
+      IID 198
+      NAME "English Female - Chorus.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1.45208012093787 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A7D6F40B-76A5-4527-97F2-90FAD5157DC8}
+      <SOURCE WAVE
+        FILE "C:\Users\Butbk\Music\Click and Guide Samples\English Guides\Song Sections\English Female - Chorus.wav"
+      >
+    >
+    <ITEM
+      POSITION 183.52941176469903
+      SNAPOFFS 0
+      LENGTH 0.88235294117567
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.010294 0 1 0 0 0
+      FADEOUT 1 0.010294 0 1 0 0 0
+      MUTE 0 0
+      BEAT 1
+      SEL 0
+      IGUID {E1311A5B-5289-4287-8DFE-589705158904}
+      IID 199
+      NAME "English Female - Chorus.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1.45208012093859 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {CB7D1A6E-3EB7-4676-95C6-D8152118813B}
+      <SOURCE WAVE
+        FILE "C:\Users\Butbk\Music\Click and Guide Samples\English Guides\Song Sections\English Female - Chorus.wav"
+      >
+    >
+    <ITEM
+      POSITION 185.29411764710676
+      SNAPOFFS 0
+      LENGTH 0.88235294117689
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.010294 0 1 0 0 0
+      FADEOUT 1 0.010294 0 1 0 0 0
+      MUTE 0 0
+      BEAT 1
+      SEL 0
+      IGUID {F12C26DE-293E-418B-8EA9-E103232AE9EB}
+      IID 200
+      NAME "English Female - Slowly Build.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1.45208012093657 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {006B40A7-3923-4681-9AA0-80D949D8224A}
+      <SOURCE WAVE
+        FILE "C:\Users\Butbk\Music\Click and Guide Samples\English Guides\Dynamic Cues\English Female - Slowly Build.wav"
+      >
+    >
+    <ITEM
+      POSITION 211.76470588240772
+      SNAPOFFS 0
+      LENGTH 0.88235294117689
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.010294 0 1 0 0 0
+      FADEOUT 1 0.010294 0 1 0 0 0
+      MUTE 0 0
+      BEAT 1
+      SEL 0
+      IGUID {463C3AF7-FF4D-40DE-AFCD-B6EE3358ECB2}
+      IID 201
+      NAME "English Female - Interlude.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1.45208012093658 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {97D837F2-911C-4212-B02B-D50564AF16FE}
+      <SOURCE WAVE
+        FILE "C:\Users\Butbk\Music\Click and Guide Samples\English Guides\Song Sections\English Female - Interlude.wav"
+      >
+    >
+    <ITEM
+      POSITION 213.52941176469903
+      SNAPOFFS 0
+      LENGTH 0.88235294117646
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.010294 0 1 0 0 0
+      FADEOUT 1 0.010294 0 1 0 0 0
+      MUTE 0 0
+      BEAT 1
+      SEL 0
+      IGUID {7BE4B360-42E5-464A-B83B-B045F135E653}
+      IID 202
+      NAME "English Female - Breakdown.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1.45208012093727 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A542BBF0-25D4-4834-A0C1-A257A02865D7}
+      <SOURCE WAVE
+        FILE "C:\Users\Butbk\Music\Click and Guide Samples\English Guides\Song Sections\English Female - Breakdown.wav"
+      >
+    >
+    <ITEM
+      POSITION 225.88235294120386
+      SNAPOFFS 0
+      LENGTH 0.88235294117646
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.010294 0 1 0 0 0
+      FADEOUT 1 0.010294 0 1 0 0 0
+      MUTE 0 0
+      BEAT 1
+      SEL 0
+      IGUID {36194E6C-CC1C-4DFB-AFFB-B3CA89D3B3FA}
+      IID 203
+      NAME "English Female - Bridge 1.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1.45208012093729 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {82E8FCEC-06AB-4623-85A2-E7185BBB0CBC}
+      <SOURCE WAVE
+        FILE "C:\Users\Butbk\Music\Click and Guide Samples\English Guides\Song Sections\English Female - Bridge 1.wav"
+      >
+    >
+    <ITEM
+      POSITION 240
+      SNAPOFFS 0
+      LENGTH 0.88235294117686
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.010294 0 1 0 0 0
+      FADEOUT 1 0.010294 0 1 0 0 0
+      MUTE 0 0
+      BEAT 1
+      SEL 0
+      IGUID {7203124C-985F-47B6-AEC7-DD50C09333A3}
+      IID 204
+      NAME "English Female - Bridge 1.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1.45208012093662 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D4D7C69E-5ECF-49FA-9CC8-468166B91DDF}
+      <SOURCE WAVE
+        FILE "C:\Users\Butbk\Music\Click and Guide Samples\English Guides\Song Sections\English Female - Bridge 1.wav"
+      >
+    >
+    <ITEM
+      POSITION 254.11764705879614
+      SNAPOFFS 0
+      LENGTH 0.88235294117567
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.010294 0 1 0 0 0
+      FADEOUT 1 0.010294 0 1 0 0 0
+      MUTE 0 0
+      BEAT 1
+      SEL 0
+      IGUID {AD153F82-1908-4BF3-A639-719C6CC202AC}
+      IID 205
+      NAME "English Female - Bridge 1.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1.45208012093859 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {90FF4CD6-C031-4D7D-8078-F8897758B0EA}
+      <SOURCE WAVE
+        FILE "C:\Users\Butbk\Music\Click and Guide Samples\English Guides\Song Sections\English Female - Bridge 1.wav"
+      >
+    >
+    <ITEM
+      POSITION 268.23529411759228
+      SNAPOFFS 0
+      LENGTH 0.88235294117601
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.010294 0 1 0 0 0
+      FADEOUT 1 0.010294 0 1 0 0 0
+      MUTE 0 0
+      BEAT 1
+      SEL 0
+      IGUID {4CB0FB2F-8358-44C4-B301-C05033816180}
+      IID 206
+      NAME "English Female - Bridge 1.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1.452080120938 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {68CB7F17-64F9-4EB5-B752-3800EAF966B9}
+      <SOURCE WAVE
+        FILE "C:\Users\Butbk\Music\Click and Guide Samples\English Guides\Song Sections\English Female - Bridge 1.wav"
+      >
+    >
+    <ITEM
+      POSITION 280.58823529411762
+      SNAPOFFS 0
+      LENGTH 0.88235294117607
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.010294 0 1 0 0 0
+      FADEOUT 1 0.010294 0 1 0 0 0
+      MUTE 0 0
+      BEAT 1
+      SEL 0
+      IGUID {1D632D97-9F31-45B1-8780-260495CBAAB4}
+      IID 207
+      NAME "English Female - Bridge 2.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1.45208012093793 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B55815B1-C23E-4D38-90BF-0C9CADF51ADD}
+      <SOURCE WAVE
+        FILE "C:\Users\Butbk\Music\Click and Guide Samples\English Guides\Song Sections\English Female - Bridge 2.wav"
+      >
+    >
+    <ITEM
+      POSITION 284.11764705879614
+      SNAPOFFS 0
+      LENGTH 0.88235294117692
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.010294 0 1 0 0 0
+      FADEOUT 1 0.010294 0 1 0 0 0
+      MUTE 0 0
+      BEAT 1
+      SEL 0
+      IGUID {25208431-2BB5-4378-A7D7-108B9A538376}
+      IID 208
+      NAME "English Female - Slowly Build.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1.45208012093653 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7BB4B631-B1D7-4C42-B00A-CF7972093AAD}
+      <SOURCE WAVE
+        FILE "C:\Users\Butbk\Music\Click and Guide Samples\English Guides\Dynamic Cues\English Female - Slowly Build.wav"
+      >
+    >
+    <ITEM
+      POSITION 296.47058823530097
+      SNAPOFFS 0
+      LENGTH 0.88235294117811
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.010294 0 1 0 0 0
+      FADEOUT 1 0.010294 0 1 0 0 0
+      MUTE 0 0
+      BEAT 1
+      SEL 0
+      IGUID {D04A7BCB-0113-42A9-90FD-129334FCED21}
+      IID 209
+      NAME "English Female - Bridge 3.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1.45208012093455 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2DC6FD21-4D63-4F6E-B246-9E287279C5B3}
+      <SOURCE WAVE
+        FILE "C:\Users\Butbk\Music\Click and Guide Samples\English Guides\Song Sections\English Female - Bridge 3.wav"
+      >
+    >
+    <ITEM
+      POSITION 310.5882352940971
+      SNAPOFFS 0
+      LENGTH 0.88235294117686
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.010294 0 1 0 0 0
+      FADEOUT 1 0.010294 0 1 0 0 0
+      MUTE 0 0
+      BEAT 1
+      SEL 0
+      IGUID {B739F2C9-718F-4DB6-BEB7-E3787CCC3B93}
+      IID 210
+      NAME "English Female - Refrain.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1.45208012093662 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A329784B-7B6E-469A-8345-4306A8534116}
+      <SOURCE WAVE
+        FILE "C:\Users\Butbk\Music\Click and Guide Samples\English Guides\Song Sections\English Female - Refrain.wav"
+      >
+    >
+    <ITEM
+      POSITION 312.35294117650483
+      SNAPOFFS 0
+      LENGTH 0.88235294117652
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.010294 0 1 0 0 0
+      FADEOUT 1 0.010294 0 1 0 0 0
+      MUTE 0 0
+      BEAT 1
+      SEL 0
+      IGUID {59097301-CEBF-4C3E-9421-DB1F2474157E}
+      IID 211
+      NAME "English Female - Build.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1.45208012093718 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6EF04B14-2C64-4380-BFD0-70C8A5419253}
+      <SOURCE WAVE
+        FILE "C:\Users\Butbk\Music\Click and Guide Samples\English Guides\Dynamic Cues\English Female - Build.wav"
+      >
+    >
+    <ITEM
+      POSITION 324.70588235289324
+      SNAPOFFS 0
+      LENGTH 0.88235294117646
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.010294 0 1 0 0 0
+      FADEOUT 1 0.010294 0 1 0 0 0
+      MUTE 0 0
+      BEAT 1
+      SEL 0
+      IGUID {44C57CFF-BE70-47B9-9378-BE0F698DF639}
+      IID 212
+      NAME "English Female - Chorus.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1.45208012093728 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {689EC8F8-3F32-4AA1-A3CD-941C40C75F80}
+      <SOURCE WAVE
+        FILE "C:\Users\Butbk\Music\Click and Guide Samples\English Guides\Song Sections\English Female - Chorus.wav"
+      >
+    >
+    <ITEM
+      POSITION 352.94117647060193
+      SNAPOFFS 0
+      LENGTH 0.88235294117567
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.010294 0 1 0 0 0
+      FADEOUT 1 0.010294 0 1 0 0 0
+      MUTE 0 0
+      BEAT 1
+      SEL 0
+      IGUID {F7FB5D97-0808-452A-A781-587EB4C37B23}
+      IID 213
+      NAME "English Female - Bridge 1.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1.45208012093859 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A3252B16-1412-4E52-AF2E-5D475CADCE5C}
+      <SOURCE WAVE
+        FILE "C:\Users\Butbk\Music\Click and Guide Samples\English Guides\Song Sections\English Female - Bridge 1.wav"
+      >
+    >
+    <ITEM
+      POSITION 367.05882352939807
+      SNAPOFFS 0
+      LENGTH 0.88235294117607
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.010294 0 1 0 0 0
+      FADEOUT 1 0.010294 0 1 0 0 0
+      MUTE 0 0
+      BEAT 1
+      SEL 0
+      IGUID {2ED11FAB-6DB0-4461-B0EF-AB204AC9F930}
+      IID 214
+      NAME "English Female - Bridge 2.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1.45208012093793 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {07672DB6-0107-4303-94A5-2B760C07224A}
+      <SOURCE WAVE
+        FILE "C:\Users\Butbk\Music\Click and Guide Samples\English Guides\Song Sections\English Female - Bridge 2.wav"
+      >
+    >
+    <ITEM
+      POSITION 381.17647058819421
+      SNAPOFFS 0
+      LENGTH 0.88235294117607
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.010294 0 1 0 0 0
+      FADEOUT 1 0.010294 0 1 0 0 0
+      MUTE 0 0
+      BEAT 1
+      SEL 0
+      IGUID {33E1DD02-34E3-4F55-BEF6-290CFF35444A}
+      IID 215
+      NAME "English Female - Bridge 3.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1.45208012093792 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BD7AF4A0-ED7E-4B20-A5CA-3959AD0E2415}
+      <SOURCE WAVE
+        FILE "C:\Users\Butbk\Music\Click and Guide Samples\English Guides\Song Sections\English Female - Bridge 3.wav"
+      >
+    >
+    <ITEM
+      POSITION 395.29411764710676
+      SNAPOFFS 0
+      LENGTH 0.88235294117806
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.010294 0 1 0 0 0
+      FADEOUT 1 0.010294 0 1 0 0 0
+      MUTE 0 0
+      BEAT 1
+      SEL 0
+      IGUID {1319EA9F-8915-4131-B4BD-93C913D265B9}
+      IID 216
+      NAME "English Female - Refrain.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1.45208012093465 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5FD29949-F318-4A9E-9ACD-BA7253C57B5B}
+      <SOURCE WAVE
+        FILE "C:\Users\Butbk\Music\Click and Guide Samples\English Guides\Song Sections\English Female - Refrain.wav"
+      >
+    >
+    <ITEM
+      POSITION 409.4117647059029
+      SNAPOFFS 0
+      LENGTH 0.88235294117686
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.010294 0 1 0 0 0
+      FADEOUT 1 0.010294 0 1 0 0 0
+      MUTE 0 0
+      BEAT 1
+      SEL 0
+      IGUID {FEA58891-1B9C-4ED9-9067-B9C290A13D56}
+      IID 217
+      NAME "English Female - Instrumental.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1.45208012093663 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {77AFEFD0-CDFE-4FD0-AA0E-2A80BD659EFD}
+      <SOURCE WAVE
+        FILE "C:\Users\Butbk\Music\Click and Guide Samples\English Guides\Song Sections\English Female - Instrumental.wav"
+      >
+    >
+    <ITEM
+      POSITION 423.52941176469903
+      SNAPOFFS 0
+      LENGTH 0.88235294117646
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.010294 0 1 0 0 0
+      FADEOUT 1 0.010294 0 1 0 0 0
+      MUTE 0 0
+      BEAT 1
+      SEL 0
+      IGUID {D5A1C920-7860-4503-B4CB-7F5731FE2431}
+      IID 218
+      NAME "English Female - Chorus.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1.45208012093727 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0741CDD9-F479-41A7-8B86-DB740B8B8AF0}
+      <SOURCE WAVE
+        FILE "C:\Users\Butbk\Music\Click and Guide Samples\English Guides\Song Sections\English Female - Chorus.wav"
+      >
+    >
+    <ITEM
+      POSITION 451.76470588240772
+      SNAPOFFS 0
+      LENGTH 0.88235294117567
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.010294 0 1 0 0 0
+      FADEOUT 1 0.010294 0 1 0 0 0
+      MUTE 0 0
+      BEAT 1
+      SEL 0
+      IGUID {A803A9D7-0A2D-44BA-B113-4308D27A3506}
+      IID 219
+      NAME "English Female - Bridge 1.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1.45208012093859 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8F3F27E9-BA07-42CD-AF43-14BD6EEEA0E4}
+      <SOURCE WAVE
+        FILE "C:\Users\Butbk\Music\Click and Guide Samples\English Guides\Song Sections\English Female - Bridge 1.wav"
+      >
+    >
+    <ITEM
+      POSITION 465.88235294120386
+      SNAPOFFS 0
+      LENGTH 0.88235294117567
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.010294 0 1 0 0 0
+      FADEOUT 1 0.010294 0 1 0 0 0
+      MUTE 0 0
+      BEAT 1
+      SEL 0
+      IGUID {69A4DCA6-E598-4346-9A80-189D3DED8DF5}
+      IID 220
+      NAME "English Female - Bridge 2.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1.45208012093858 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E020E2F9-1F4C-4424-BD67-576E6299AE74}
+      <SOURCE WAVE
+        FILE "C:\Users\Butbk\Music\Click and Guide Samples\English Guides\Song Sections\English Female - Bridge 2.wav"
+      >
+    >
+    <ITEM
+      POSITION 480
+      SNAPOFFS 0
+      LENGTH 0.88235294117607
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.010294 0 1 0 0 0
+      FADEOUT 1 0.010294 0 1 0 0 0
+      MUTE 0 0
+      BEAT 1
+      SEL 0
+      IGUID {DED582AB-7114-497D-A739-CB6342E124FB}
+      IID 221
+      NAME "English Female - Bridge 3.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1.45208012093792 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D6DBCDCD-8273-4DFA-B836-093600E4B74C}
+      <SOURCE WAVE
+        FILE "C:\Users\Butbk\Music\Click and Guide Samples\English Guides\Song Sections\English Female - Bridge 3.wav"
+      >
+    >
+    <ITEM
+      POSITION 494.11764705879614
+      SNAPOFFS 0
+      LENGTH 0.8823529411772
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.010294 0 1 0 0 0
+      FADEOUT 1 0.010294 0 1 0 0 0
+      MUTE 0 0
+      BEAT 1
+      SEL 0
+      IGUID {06B445A0-CA48-4A93-8694-F23CDB1BD6F2}
+      IID 222
+      NAME "English Female - Refrain.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1.45208012093605 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F8E70EC9-2517-4348-8235-907ED5E21962}
+      <SOURCE WAVE
+        FILE "C:\Users\Butbk\Music\Click and Guide Samples\English Guides\Song Sections\English Female - Refrain.wav"
+      >
+    >
+    <ITEM
+      POSITION 508.23529411759228
+      SNAPOFFS 0
+      LENGTH 0.88235294117681
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.010294 0 1 0 0 0
+      FADEOUT 1 0.010294 0 1 0 0 0
+      MUTE 0 0
+      BEAT 1
+      SEL 0
+      IGUID {2214921A-FD96-48A3-850B-36C241E69CC4}
+      IID 223
+      NAME "English Female - Ending.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1.45208012093673 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {83AAF4F5-EFC5-45F7-BD9C-275AD88AFCD3}
+      <SOURCE WAVE
+        FILE "C:\Users\Butbk\Music\Click and Guide Samples\English Guides\Song Sections\English Female - Ending.wav"
+      >
+    >
+  >
+  <TRACK {B6B8F108-9818-454C-AC9E-AF6C1EBD1B0B}
+    NAME Click
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 2 -1
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 -1 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {B6B8F108-9818-454C-AC9E-AF6C1EBD1B0B}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 538.36354166666661
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {F52F718C-3C49-4F71-80DA-680E730F900E}
+      IID 628
+      NAME "Click source"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {72FB3A86-17E9-41A8-B156-06D5266E3194}
+      <SOURCE CLICK
+        AUTO 1
+        BPM 136
+        BPI 4
+        VOL 0.800276 0.399772
+        FREQ 800 1600 1
+        BEATLEN 4
+        SAMPLES "C:\Users\Butbk\Music\Metronome\hi_click.wav" "C:\Users\Butbk\Music\Metronome\low_click.wav"
+        PATTERN 2863311530 2863311529
+      >
+    >
+  >
+  <TRACK {3A6752F0-3637-4ADE-A5A7-6C3240E4836A}
+    NAME "Bass - stem"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 0.5971017421931 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
+    FREEMODE 0
+    SEL 0
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {3A6752F0-3637-4ADE-A5A7-6C3240E4836A}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    HWOUT 1035 0 1 0 0 0 0 -1:U -1
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 539.36354166666672
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {F0BBDD97-532E-4AB7-9CC1-321027183956}
+      IID 2301
+      NAME "Bass - stem"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BF722432-1328-4D31-B083-A3D95BB6CC04}
+      <SOURCE WAVE
+        FILE "The Blessing_stems_Bass.wav"
+      >
+    >
+  >
+  <TRACK {EF53D00B-87CD-4D6D-83F4-4AFAA1908BD6}
+    NAME "EG Bus"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 0.12587620189617 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 1 1
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 -1 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {EF53D00B-87CD-4D6D-83F4-4AFAA1908BD6}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT 24 52 983 599
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+    >
+  >
+  <TRACK {5240021F-E3C0-4A1C-B7A6-3EB8269DF8DE}
+    NAME "EG 1 - stem"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 0.99997119979732 -0.136 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
+    FREEMODE 0
+    SEL 0
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {5240021F-E3C0-4A1C-B7A6-3EB8269DF8DE}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 540.36354166666672
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {BE533A7E-96D5-4FA5-A9A7-283623659EA4}
+      IID 2302
+      NAME "EG 1 - stem"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F2369565-1915-43EF-B1A5-BF3686962CBF}
+      <SOURCE WAVE
+        FILE "The Blessing_stems_EG 1.wav"
+      >
+    >
+  >
+  <TRACK {875B784E-6691-4D2D-A908-9187B541ABB7}
+    NAME "EG 2 - stem"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0.312 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
+    FREEMODE 0
+    SEL 1
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {875B784E-6691-4D2D-A908-9187B541ABB7}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 541.36354166666672
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {72187293-658E-4EAE-B6BE-E6A035E7D199}
+      IID 2303
+      NAME "EG 2 - stem"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8C5CD383-9B81-46C5-9BB3-401474CF67CD}
+      <SOURCE WAVE
+        FILE "The Blessing_stems_EG 2.wav"
+      >
+    >
+  >
+  <TRACK {EBC1F01A-0FDA-4A8F-9262-B9C232CD58F8}
+    NAME "EG 3 - stem"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 0.30016558353203 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 2 -1
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
+    FREEMODE 0
+    SEL 0
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {EBC1F01A-0FDA-4A8F-9262-B9C232CD58F8}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 542.36354166666672
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {F9841225-EB71-4AED-9D79-2C9C80EA885D}
+      IID 2304
+      NAME "EG 3 - stem"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2B808C16-6E3C-47DB-B482-B953B5B20667}
+      <SOURCE WAVE
+        FILE "The Blessing_stems_EG 3.wav"
+      >
+    >
+  >
+  <TRACK {DDE7EA2A-1932-404E-81A8-3F10531CC9FF}
+    NAME "Fake Viktar"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 1 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
+    FREEMODE 0
+    SEL 0
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {DDE7EA2A-1932-404E-81A8-3F10531CC9FF}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 0 0
+    HWOUT 1031 0 1 0 0 0 0 -1:U -1
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 397.05882352941177
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {E051487C-5822-401D-8BB1-DB8534521768}
+      IID 2324
+      NAME "Vocal 2 - stem"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C2D86FED-CFE2-4092-8A89-86D399E005B4}
+      <SOURCE WAVE
+        FILE "The Blessing_stems_Vocal 2-001.wav"
+      >
+    >
+  >
+  <EXTENSIONS
+  >
+>

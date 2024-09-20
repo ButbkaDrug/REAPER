@@ -1,0 +1,1599 @@
+<REAPER_PROJECT 0.1 "6.77/win64" 1701361360
+  TITLE Newborn
+  AUTHOR Antioch
+  <NOTES 0 0
+    |IIV1TaV2B1B2B3B4ItV3TaB1B2B3B4E
+  >
+  RIPPLE 0
+  GROUPOVERRIDE 0 0 0
+  AUTOXFADE 129
+  ENVATTACH 3
+  POOLEDENVATTACH 0
+  MIXERUIFLAGS 11 1
+  PEAKGAIN 1
+  FEEDBACK 0
+  PANLAW 1
+  PROJOFFS 0 0 0
+  MAXPROJLEN 0 600
+  GRID 3199 8 1 8 1 0 0 0
+  TIMEMODE 1 5 -1 30 0 0 -1
+  VIDEO_CONFIG 0 0 256
+  PANMODE 3
+  CURSOR 88.88888888888889
+  ZOOM 1.63018138293111 0 0
+  VZOOMEX 5 0
+  USE_REC_CFG 0
+  RECMODE 1
+  SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
+  LOOP 0
+  LOOPGRAN 0 4
+  RECORD_PATH "AudioFiles" ""
+  <RECORD_CFG
+    ZXZhdxgAAA==
+  >
+  <APPLYFX_CFG
+  >
+  RENDER_FILE ""
+  RENDER_PATTERN ""
+  RENDER_FMT 0 2 0
+  RENDER_1X 0
+  RENDER_RANGE 1 0 0 18 1000
+  RENDER_RESAMPLE 3 0 1
+  RENDER_ADDTOPROJ 0
+  RENDER_STEMS 0
+  RENDER_DITHER 0
+  TIMELOCKMODE 1
+  TEMPOENVLOCKMODE 1
+  ITEMMIX 1
+  DEFPITCHMODE 589824 0
+  TAKELANE 1
+  SAMPLERATE 44100 0 0
+  <RENDER_CFG
+    ZXZhdxgAAA==
+  >
+  LOCK 1
+  <METRONOME 6 2
+    VOL 1 1
+    FREQ 800 1600 1
+    BEATLEN 4
+    SAMPLES "/home/butbkadrug/Music/Assets/Clicks/New Click -  Blip-accents.wav" "/home/butbkadrug/Music/Assets/Clicks/New Click -  Blip-sixteenth.wav"
+    PATTERN 2863311530 2863311529
+    MULT 2
+  >
+  GLOBAL_AUTO -1
+  TEMPO 108 4 4
+  PLAYRATE 1 0 0.25 4
+  SELECTION 311.11111111111109 311.11111111111109
+  SELECTION2 311.11111111111109 311.11111111111109
+  MASTERAUTOMODE 0
+  MASTERTRACKHEIGHT 0 0
+  MASTERPEAKCOL 16576
+  MASTERMUTESOLO 0
+  MASTERTRACKVIEW 1 0.6667 0.5 0.5 0 -1 0 0 0 0 0 0 0
+  MASTERHWOUT 0 0 1 0 0 0 0 -1
+  MASTERHWOUT 0 0 1 0 0 0 2 -1
+  MASTERHWOUT 0 0 1 0 0 0 4 -1
+  MASTERHWOUT 0 0 1 0 0 0 1030 -1
+  MASTERHWOUT 0 0 1 0 0 0 1031 -1
+  MASTERHWOUT 0 0 1 0 0 0 8 -1
+  MASTERHWOUT 16 0 1 0 0 0 0 -1
+  MASTER_NCH 2 2
+  MASTER_VOLUME 1 0 -1 -1 1
+  MASTER_PANMODE 3
+  MASTER_FX 1
+  MASTER_SEL 0
+  <MASTERPLAYSPEEDENV
+    EGUID {676C926A-C04F-682B-0073-A1AFE7A36F66}
+    ACT 0 -1
+    VIS 0 1 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 0 -1 -1
+  >
+  <TEMPOENVEX
+    EGUID {755AC66E-304D-E08B-9ABF-A7A9624D8DFA}
+    ACT 0 -1
+    VIS 1 0 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 1 -1 -1
+    PT 0.000000000000 108.0000000000 1
+  >
+  MARKER 1 0 Intro 1 29189418 1 R {F1A3A3B0-255C-482B-A62D-F50530FC2B92}
+  MARKER 1 13.33333333333333 "" 1 29189418 1 R
+  MARKER 2 13.33333333333333 Intro 1 29189418 1 R {55B0664C-9217-4439-A60B-76D0D2D808E2}
+  MARKER 2 22.22222222222222 "" 1 29189418 1 R
+  MARKER 3 22.22222222222222 "Verse 1" 1 33515125 1 R {D0B5D276-2A9B-37A7-0637-CED985ABB685}
+  MARKER 3 66.66666666666667 "" 1 33515125 1 R
+  MARKER 4 66.66666666666667 Turnaround 1 29209898 1 R {5BC69FBA-C98F-F69C-7454-BC0BFC92515E}
+  MARKER 4 75.55555555555556 "" 1 29209898 1 R
+  MARKER 5 75.55555555555556 "Verse 2" 1 33515125 1 R {2CA5EDB3-E787-4943-B67E-50C255937AA9}
+  MARKER 5 120 "" 1 33515125 1 R
+  MARKER 19 120 Intro 1 29189418 1 R {77776AB1-248C-DA66-DA74-A69373D99AAE}
+  MARKER 19 137.77777777777777 "" 1 29189418 1 R
+  MARKER 18 137.77777777777777 "Verse 1" 1 33515125 1 R {C320B6CE-881F-119F-1E1D-73A714EA1A69}
+  MARKER 18 182.22222222222223 "" 1 33515125 1 R
+  MARKER 20 182.22222222222223 Turnaround 1 29209898 1 R {95CE6727-1C6C-89AD-260B-EC0F81290DC5}
+  MARKER 20 191.11111111111109 "" 1 29209898 1 R
+  MARKER 21 191.11111111111114 "Verse 2" 1 33515125 1 R {35D06CC2-09B0-1D0F-46A8-08AD1C34425D}
+  MARKER 21 235.55555555555554 "" 1 33515125 1 R
+  MARKER 10 235.55555555555554 Interlude 1 29209898 1 R {19E6E2C6-E561-D795-ADCD-7FC77AE6A67D}
+  MARKER 10 244.44444444444446 "" 1 29209898 1 R
+  MARKER 11 244.44444444444446 "Verse 3" 1 33515125 1 R {1EAE6AF0-3E54-54CF-F71B-C87024E2D677}
+  MARKER 11 288.88888888888891 "" 1 33515125 1 R
+  MARKER 6 288.88888888888891 Intro 1 29189418 1 R {8A12C49C-EC37-429C-AED2-4A2630DF0389}
+  MARKER 6 306.66666666666669 "" 1 29189418 1 R
+  MARKER 17 306.66666666666669 Ending 1 29209898 1 R {033B872C-2A87-0075-2E29-E73C3528DE0B}
+  MARKER 17 315.5555555555556 "" 1 29209898 1 R
+  <PROJBAY
+  >
+  <TRACK {63546305-B5B4-7E49-158B-49515A83B875}
+    NAME Click
+    PEAKCOL 33532072
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 -1 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {63546305-B5B4-7E49-158B-49515A83B875}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    MAINSEND_NCH 1
+    <FXCHAIN
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+    >
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 306.66666666666669
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {08A60F5F-BD6F-03E3-B738-1949C0D8F265}
+      IID 207
+      NAME "Click source"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D800327A-3795-2D51-3654-41A96C9C6167}
+      <SOURCE CLICK
+        AUTO 1
+        BPM 108
+        BPI 4
+        VOL 1 1
+        FREQ 800 1600 1
+        BEATLEN 4
+        SAMPLES "C:\Users\butbkadrug\Music\Assets\Clicks\New Click -  Blip-accents.wav" "C:\Users\butbkadrug\Music\Assets\Clicks\New Click -  Blip-sixteenth.wav"
+        PATTERN 2863311530 2863311529
+        MULT 1
+      >
+    >
+  >
+  <TRACK {482A7D4B-D58A-AE56-F79B-D4EF59E1CE3C}
+    NAME Guide
+    PEAKCOL 33532072
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 2 -1
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 -1 0
+    SEL 1
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {482A7D4B-D58A-AE56-F79B-D4EF59E1CE3C}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 1
+    MAINSEND_NCH 1
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 1.11111111111111
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {C55CC1C1-0F7A-D988-DF2C-03079BE6E229}
+      IID 1
+      NAME "English Female - 1.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {160C443A-08CC-8330-C861-E8AE24774601}
+      <SOURCE WAVE
+        FILE "C:\Users\butbkadrug\Music\Assets\Cues\English Female - 1.wav"
+      >
+    >
+    <ITEM
+      POSITION 1.11111111111111
+      SNAPOFFS 0
+      LENGTH 1.11111111111111
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {4A956469-3252-B6A8-F127-1D209A749E8C}
+      IID 2
+      NAME "English Female - 2.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C14646E4-625B-E7D1-9ABE-28086B1D6230}
+      <SOURCE WAVE
+        FILE "C:\Users\butbkadrug\Music\Assets\Cues\English Female - 2.wav"
+      >
+    >
+    <ITEM
+      POSITION 2.22222222222222
+      SNAPOFFS 0
+      LENGTH 0.55555555555555
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {2785B292-76FE-97C0-2ADC-AECF7744D8C4}
+      IID 67
+      NAME "English Female - Intro.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9CF73BE1-1049-0B14-0C3A-95069C00DABF}
+      <SOURCE WAVE
+        FILE "C:\Users\butbkadrug\Music\Assets\Cues\English Female - Intro.wav"
+      >
+    >
+    <ITEM
+      POSITION 2.77777777777778
+      SNAPOFFS 0
+      LENGTH 0.55555555555556
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {2F9F30B5-1D01-7EAC-190A-3A05D2E0B281}
+      IID 68
+      NAME "English Female - 2.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {38EB68D8-24E4-931B-3EBE-F9E3F443FF2A}
+      <SOURCE WAVE
+        FILE "C:\Users\butbkadrug\Music\Assets\Cues\English Female - 2.wav"
+      >
+    >
+    <ITEM
+      POSITION 3.33333333333333
+      SNAPOFFS 0
+      LENGTH 0.55555555555556
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {7E6DDD52-9BA6-BDF5-51B8-52AF27D55B1F}
+      IID 69
+      NAME "English Female - 3.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C23BB53C-4D2C-CAF3-5ED9-81DF28377196}
+      <SOURCE WAVE
+        FILE "C:\Users\butbkadrug\Music\Assets\Cues\English Female - 3.wav"
+      >
+    >
+    <ITEM
+      POSITION 3.88888888888889
+      SNAPOFFS 0
+      LENGTH 0.55555555555556
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {C649BA84-77B3-F5B0-5905-ABD5FDE025E9}
+      IID 70
+      NAME "English Female - 4.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {CF5FA551-D248-6DB9-D3F0-F697F6F7270E}
+      <SOURCE WAVE
+        FILE "C:\Users\butbkadrug\Music\Assets\Cues\English Female - 4.wav"
+      >
+    >
+    <ITEM
+      POSITION 11.11111111111111
+      SNAPOFFS 0
+      LENGTH 0.55555555555556
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {06145639-A98E-D8B3-36C9-948D76E3D600}
+      IID 3
+      NAME "English Female - Intro.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {61123BD1-379E-1724-B51A-7FA2AD7E2D15}
+      <SOURCE WAVE
+        FILE "C:\Users\butbkadrug\Music\Assets\Cues\English Female - Intro.wav"
+      >
+    >
+    <ITEM
+      POSITION 11.66666666666667
+      SNAPOFFS 0
+      LENGTH 0.55555555555556
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B20D38AE-2E4D-34C6-2058-4AA830A34375}
+      IID 4
+      NAME "English Female - 2.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {54D0580A-9B09-FC64-D06E-23B44C507010}
+      <SOURCE WAVE
+        FILE "C:\Users\butbkadrug\Music\Assets\Cues\English Female - 2.wav"
+      >
+    >
+    <ITEM
+      POSITION 12.22222222222222
+      SNAPOFFS 0
+      LENGTH 0.55555555555556
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {08916307-408F-200E-14D2-508037DB6304}
+      IID 5
+      NAME "English Female - 3.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {60AD3AC7-DE55-6385-E582-A7F323B357F3}
+      <SOURCE WAVE
+        FILE "C:\Users\butbkadrug\Music\Assets\Cues\English Female - 3.wav"
+      >
+    >
+    <ITEM
+      POSITION 12.77777777777778
+      SNAPOFFS 0
+      LENGTH 0.55555555555556
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {BE55D531-C744-96A8-AD8E-F71377444C4E}
+      IID 6
+      NAME "English Female - 4.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2661A1DA-C288-C589-4999-EDC00C72ED18}
+      <SOURCE WAVE
+        FILE "C:\Users\butbkadrug\Music\Assets\Cues\English Female - 4.wav"
+      >
+    >
+    <ITEM
+      POSITION 20
+      SNAPOFFS 0
+      LENGTH 0.55555555555556
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {6CB989F7-A81C-1525-975C-AAC2537C2DA5}
+      IID 153
+      NAME "English Female - Verse 1.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {069278D3-B071-C9A6-11DE-1E9FD0DE7CFD}
+      <SOURCE WAVE
+        FILE "C:\Users\butbkadrug\Music\Assets\Cues\English Female - Verse 1.wav"
+      >
+    >
+    <ITEM
+      POSITION 20.55555555555556
+      SNAPOFFS 0
+      LENGTH 0.55555555555556
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {5FD68FBC-57CC-F93A-3879-D3713886777E}
+      IID 154
+      NAME "English Female - 2.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {EBAADDE1-3C01-69C1-EC23-EC5E40E92572}
+      <SOURCE WAVE
+        FILE "C:\Users\butbkadrug\Music\Assets\Cues\English Female - 2.wav"
+      >
+    >
+    <ITEM
+      POSITION 21.11111111111111
+      SNAPOFFS 0
+      LENGTH 0.55555555555556
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {CFF66593-1F18-74D7-3C4A-94C232B0F2C1}
+      IID 155
+      NAME "English Female - 3.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2B5B6649-D2F2-DE1B-B972-2378164E62C2}
+      <SOURCE WAVE
+        FILE "C:\Users\butbkadrug\Music\Assets\Cues\English Female - 3.wav"
+      >
+    >
+    <ITEM
+      POSITION 21.66666666666667
+      SNAPOFFS 0
+      LENGTH 0.55555555555556
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {860A8D02-ED35-E8B0-B606-DA859C6117F5}
+      IID 156
+      NAME "English Female - 4.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A6F592ED-3515-8E3A-F273-189F2068EC6D}
+      <SOURCE WAVE
+        FILE "C:\Users\butbkadrug\Music\Assets\Cues\English Female - 4.wav"
+      >
+    >
+    <ITEM
+      POSITION 64.44444444444444
+      SNAPOFFS 0
+      LENGTH 0.55555555555556
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {45D60153-982A-27B5-F08A-B108F466ACFC}
+      IID 178
+      NAME "English Female - Turnaround.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7CC22F85-4276-20B0-B074-8CB90D25B4CB}
+      <SOURCE WAVE
+        FILE "C:\Users\butbkadrug\Music\Assets\Cues\English Female - Turnaround.wav"
+      >
+    >
+    <ITEM
+      POSITION 65
+      SNAPOFFS 0
+      LENGTH 0.55555555555556
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {0C27EB5A-6FDD-B6D6-9321-25989E9377D8}
+      IID 179
+      NAME "English Female - 2.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2B82BDA3-6664-B900-85FC-9B096B6FF151}
+      <SOURCE WAVE
+        FILE "C:\Users\butbkadrug\Music\Assets\Cues\English Female - 2.wav"
+      >
+    >
+    <ITEM
+      POSITION 65.55555555555556
+      SNAPOFFS 0
+      LENGTH 0.55555555555556
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B02B87C1-73CF-E5DF-B2A1-2DD82E03731D}
+      IID 180
+      NAME "English Female - 3.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E8867471-7A0E-06A2-995E-A2393D2E7E19}
+      <SOURCE WAVE
+        FILE "C:\Users\butbkadrug\Music\Assets\Cues\English Female - 3.wav"
+      >
+    >
+    <ITEM
+      POSITION 66.11111111111111
+      SNAPOFFS 0
+      LENGTH 0.55555555555556
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {75B315D6-A34C-6DAC-C439-591FF9B7D5B2}
+      IID 181
+      NAME "English Female - 4.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0497A4C8-DBD0-58BE-D4AF-F7F302459A76}
+      <SOURCE WAVE
+        FILE "C:\Users\butbkadrug\Music\Assets\Cues\English Female - 4.wav"
+      >
+    >
+    <ITEM
+      POSITION 73.33333333333333
+      SNAPOFFS 0
+      LENGTH 0.55555555555556
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {BDF1C32C-EB28-2CEA-86BF-9053794042A0}
+      IID 194
+      NAME "English Female - Verse 2.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {EAEFD857-B6C2-8594-2278-6167584A7706}
+      <SOURCE WAVE
+        FILE "C:\Users\butbkadrug\Music\Assets\Cues\English Female - Verse 2.wav"
+      >
+    >
+    <ITEM
+      POSITION 73.88888888888889
+      SNAPOFFS 0
+      LENGTH 0.55555555555556
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {6333B8A4-A587-CC9C-4D55-3AB866AF37AD}
+      IID 195
+      NAME "English Female - 2.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {22C2579E-D3C9-79C3-36F3-B54D99B6F621}
+      <SOURCE WAVE
+        FILE "C:\Users\butbkadrug\Music\Assets\Cues\English Female - 2.wav"
+      >
+    >
+    <ITEM
+      POSITION 74.44444444444444
+      SNAPOFFS 0
+      LENGTH 0.55555555555556
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {10F6FA78-06E4-B47A-E9EC-FC02413DD913}
+      IID 196
+      NAME "English Female - 3.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {FA05846F-8802-1D90-8EB5-32B24963956B}
+      <SOURCE WAVE
+        FILE "C:\Users\butbkadrug\Music\Assets\Cues\English Female - 3.wav"
+      >
+    >
+    <ITEM
+      POSITION 75
+      SNAPOFFS 0
+      LENGTH 0.55555555555556
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {1275B7C2-F71F-6D25-8DAE-2AFA5A9E7337}
+      IID 197
+      NAME "English Female - 4.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {CC2981C3-1F3D-4E28-C33C-B958AD5B02DA}
+      <SOURCE WAVE
+        FILE "C:\Users\butbkadrug\Music\Assets\Cues\English Female - 4.wav"
+      >
+    >
+    <ITEM
+      POSITION 117.77777777775191
+      SNAPOFFS 0
+      LENGTH 0.55555555555556
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {E1A91E2F-5A8C-F192-BC24-B37D6D2BF220}
+      IID 209
+      NAME "English Female - Intro.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B7EF2FB9-6DA8-4AF8-576F-3D2FA65D415F}
+      <SOURCE WAVE
+        FILE "C:\Users\butbkadrug\Music\Assets\Cues\English Female - Intro.wav"
+      >
+    >
+    <ITEM
+      POSITION 118.33333333333333
+      SNAPOFFS 0
+      LENGTH 0.55555555555556
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {C846B808-6279-B8C9-EB07-F05B6C7C5EE3}
+      IID 210
+      NAME "English Female - 2.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {462A1911-D1EC-92D9-9FC3-2B47216A383D}
+      <SOURCE WAVE
+        FILE "C:\Users\butbkadrug\Music\Assets\Cues\English Female - 2.wav"
+      >
+    >
+    <ITEM
+      POSITION 118.88888888888889
+      SNAPOFFS 0
+      LENGTH 0.55555555555556
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {F70FC012-B756-45AD-BC7B-B9FCAF0875AC}
+      IID 211
+      NAME "English Female - 3.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {FB61C2F7-5343-CD02-6BBD-3123C44CB377}
+      <SOURCE WAVE
+        FILE "C:\Users\butbkadrug\Music\Assets\Cues\English Female - 3.wav"
+      >
+    >
+    <ITEM
+      POSITION 119.44444444444444
+      SNAPOFFS 0
+      LENGTH 0.55555555555556
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {7FD454AD-BF7B-5EDD-BAC2-27B99A2CCED9}
+      IID 212
+      NAME "English Female - 4.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9EA63FF3-40C1-83FC-B2F3-08B0E9B2B16D}
+      <SOURCE WAVE
+        FILE "C:\Users\butbkadrug\Music\Assets\Cues\English Female - 4.wav"
+      >
+    >
+  >
+  <TRACK {A762872A-06E5-B82B-E60E-674806CFFC04}
+    NAME Drums
+    PEAKCOL 16804823
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 1 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 1 1
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 -1 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {A762872A-06E5-B82B-E60E-674806CFFC04}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 8
+  >
+  <TRACK {36CC55DC-E1BA-1654-E77D-43BE73BD8347}
+    NAME Perc
+    PEAKCOL 33532072
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 1 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 -1 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {36CC55DC-E1BA-1654-E77D-43BE73BD8347}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 120
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {95C03442-3797-FD08-3342-3BF9ECE01173}
+      IID 213
+      NAME Perc.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {83C3ED83-FE0E-CED2-6240-196AE087A3C5}
+      <SOURCE WAVE
+        FILE "D:\Music\BICF Worship\Multitracks\Newborn King-Fill the Skies-E-108.00bpm\Newborn King\Perc.wav"
+      >
+    >
+    <ITEM
+      POSITION 120
+      SNAPOFFS 0
+      LENGTH 8.88888888888889
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {42350A37-550B-4010-A272-729F7CF58AE1}
+      IID 351
+      NAME Perc.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 13.33333333333333
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5AECC5DE-656F-4413-BA31-1CBD3A581805}
+      <SOURCE WAVE
+        FILE "D:\Music\BICF Worship\Multitracks\Newborn King-Fill the Skies-E-108.00bpm\Newborn King\Perc.wav"
+      >
+    >
+    <ITEM
+      POSITION 128.88888888888886
+      SNAPOFFS 0
+      LENGTH 8.88888888888889
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {2B7545EA-97E9-4295-A9B0-614914E07D66}
+      IID 352
+      NAME Perc.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 13.33333333333333
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E883F58F-183E-4955-9CD8-26A6A8BFEC87}
+      <SOURCE WAVE
+        FILE "D:\Music\BICF Worship\Multitracks\Newborn King-Fill the Skies-E-108.00bpm\Newborn King\Perc.wav"
+      >
+    >
+    <ITEM
+      POSITION 137.77777777777777
+      SNAPOFFS 0
+      LENGTH 44.44444444444445
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {18022E6E-1BBA-5A6C-980E-ADBA0886B2D5}
+      IID 157
+      NAME Perc.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 22.22222222222222
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D09D70EA-84ED-BA27-EAEE-41971F613A80}
+      <SOURCE WAVE
+        FILE "D:\Music\BICF Worship\Multitracks\Newborn King-Fill the Skies-E-108.00bpm\Newborn King\Perc.wav"
+      >
+    >
+    <ITEM
+      POSITION 182.22222222222223
+      SNAPOFFS 0
+      LENGTH 8.88888888888889
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {BD3D9DFF-9E88-7BDE-91AB-854603535802}
+      IID 245
+      NAME Perc.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 66.66666666666667
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E17976FB-A900-507D-3A72-4CB527D42005}
+      <SOURCE WAVE
+        FILE "D:\Music\BICF Worship\Multitracks\Newborn King-Fill the Skies-E-108.00bpm\Newborn King\Perc.wav"
+      >
+    >
+    <ITEM
+      POSITION 191.11111111111111
+      SNAPOFFS 0
+      LENGTH 44.44444444444444
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {A7B32854-4CF3-D5BF-A4AE-784329AA9A7A}
+      IID 198
+      NAME Perc.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 75.55555555555556
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {DA363CCB-2F37-E38C-A426-C1582554DB9D}
+      <SOURCE WAVE
+        FILE "D:\Music\BICF Worship\Multitracks\Newborn King-Fill the Skies-E-108.00bpm\Newborn King\Perc.wav"
+      >
+    >
+    <ITEM
+      POSITION 235.55555555555554
+      SNAPOFFS 0
+      LENGTH 8.88888888888891
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {80E0C3FC-D5A8-DB5C-FABB-431437546C33}
+      IID 73
+      NAME Perc.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 191.11111111111109
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {07A40BE4-5B8B-31DC-03C6-9411F68E5EC0}
+      <SOURCE WAVE
+        FILE "D:\Music\BICF Worship\Multitracks\Newborn King-Fill the Skies-E-108.00bpm\Newborn King\Perc.wav"
+      >
+    >
+    <ITEM
+      POSITION 244.44444444444446
+      SNAPOFFS 0
+      LENGTH 44.44444444444446
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {50AB1698-F455-3AA5-34A5-C4E98E469C62}
+      IID 73
+      NAME Perc.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 200
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {87056C41-D3EA-B281-2D48-583DB6408D80}
+      <SOURCE WAVE
+        FILE "D:\Music\BICF Worship\Multitracks\Newborn King-Fill the Skies-E-108.00bpm\Newborn King\Perc.wav"
+      >
+    >
+    <ITEM
+      POSITION 288.88888888888891
+      SNAPOFFS 0
+      LENGTH 8.88888888888889
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {48DD6A8D-8F08-5D7F-04F6-B8036BA3FB52}
+      IID 171
+      NAME Perc.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 13.33333333333333
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D91279DF-95A4-AB9B-08A6-A0534C3886E9}
+      <SOURCE WAVE
+        FILE "D:\Music\BICF Worship\Multitracks\Newborn King-Fill the Skies-E-108.00bpm\Newborn King\Perc.wav"
+      >
+    >
+    <ITEM
+      POSITION 297.77777777777777
+      SNAPOFFS 0
+      LENGTH 8.88888888888889
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {C356A89B-FCDA-6D74-5EF9-7F45337949B1}
+      IID 73
+      NAME Perc.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 13.33333333333333
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {77B24329-BDDD-37E3-CD05-516D21D99AE7}
+      <SOURCE WAVE
+        FILE "D:\Music\BICF Worship\Multitracks\Newborn King-Fill the Skies-E-108.00bpm\Newborn King\Perc.wav"
+      >
+    >
+    <ITEM
+      POSITION 306.66666666666669
+      SNAPOFFS 0
+      LENGTH 8.88888888888891
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {98B35B97-A0C1-2CE9-DC43-17FEE2925D27}
+      IID 73
+      NAME Perc.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 333.33333333333337
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C53A000D-2042-445C-2787-3C06B1133677}
+      <SOURCE WAVE
+        FILE "D:\Music\BICF Worship\Multitracks\Newborn King-Fill the Skies-E-108.00bpm\Newborn King\Perc.wav"
+      >
+    >
+  >
+  <TRACK {55DD32A9-B6A2-782B-FD39-2047586D3906}
+    NAME FX
+    PEAKCOL 33532072
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 1 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 2 -1
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 -1 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {55DD32A9-B6A2-782B-FD39-2047586D3906}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    HWOUT 16 0 1 0 0 0 0 -1:U -1
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 120
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {10C01E23-0543-CE0A-E4DD-F1C52021B014}
+      IID 215
+      NAME FX.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E852E420-F617-E2EC-D92A-A24741314C43}
+      <SOURCE WAVE
+        FILE "D:\Music\BICF Worship\Multitracks\Newborn King-Fill the Skies-E-108.00bpm\Newborn King\FX.wav"
+      >
+    >
+    <ITEM
+      POSITION 120
+      SNAPOFFS 0
+      LENGTH 8.88888888888889
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {1827BF60-BC8B-4474-ABA7-0CB1D9E17CDE}
+      IID 353
+      NAME FX.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 13.33333333333333
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {AEE5B301-03C8-488E-8F05-C6049BB5C395}
+      <SOURCE WAVE
+        FILE "D:\Music\BICF Worship\Multitracks\Newborn King-Fill the Skies-E-108.00bpm\Newborn King\FX.wav"
+      >
+    >
+    <ITEM
+      POSITION 128.88888888888886
+      SNAPOFFS 0
+      LENGTH 8.88888888888889
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {D1E4992C-63DA-48D3-8DFA-621587079C9B}
+      IID 354
+      NAME FX.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 13.33333333333333
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F059CE47-1A4D-4462-9310-58B7F1D5C81F}
+      <SOURCE WAVE
+        FILE "D:\Music\BICF Worship\Multitracks\Newborn King-Fill the Skies-E-108.00bpm\Newborn King\FX.wav"
+      >
+    >
+    <ITEM
+      POSITION 137.77777777777777
+      SNAPOFFS 0
+      LENGTH 44.44444444444445
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {E9ACC941-5EBF-E5CE-7C25-AAB60B10F32E}
+      IID 160
+      NAME FX.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 22.22222222222222
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {53BD7FF1-3E58-8CE6-BE32-AE79BB3A953F}
+      <SOURCE WAVE
+        FILE "D:\Music\BICF Worship\Multitracks\Newborn King-Fill the Skies-E-108.00bpm\Newborn King\FX.wav"
+      >
+    >
+    <ITEM
+      POSITION 182.22222222222223
+      SNAPOFFS 0
+      LENGTH 8.88888888888889
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {D0E7DCBD-D963-8019-26ED-4D5A2DECC10B}
+      IID 246
+      NAME FX.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 66.66666666666667
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {37401C14-3F9C-B528-C618-2AFC99628A07}
+      <SOURCE WAVE
+        FILE "D:\Music\BICF Worship\Multitracks\Newborn King-Fill the Skies-E-108.00bpm\Newborn King\FX.wav"
+      >
+    >
+    <ITEM
+      POSITION 191.11111111111111
+      SNAPOFFS 0
+      LENGTH 44.44444444444444
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {F235F037-D9A3-5D20-8A92-4BEB3867D9EB}
+      IID 201
+      NAME FX.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 75.55555555555556
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3817D19E-8EDC-4EC6-1F3F-D5ACC4096C1C}
+      <SOURCE WAVE
+        FILE "D:\Music\BICF Worship\Multitracks\Newborn King-Fill the Skies-E-108.00bpm\Newborn King\FX.wav"
+      >
+    >
+    <ITEM
+      POSITION 235.55555555555554
+      SNAPOFFS 0
+      LENGTH 8.88888888888891
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {A4CCFCB6-69D3-F5E2-008E-683D7CF24112}
+      IID 75
+      NAME FX.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 191.11111111111109
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F3584F49-AE25-8EE0-3A45-5BAD642BA198}
+      <SOURCE WAVE
+        FILE "D:\Music\BICF Worship\Multitracks\Newborn King-Fill the Skies-E-108.00bpm\Newborn King\FX.wav"
+      >
+    >
+    <ITEM
+      POSITION 244.44444444444446
+      SNAPOFFS 0
+      LENGTH 37.77777777777777
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {967CBBC3-01A0-9D75-ABBE-0C5A0567B086}
+      IID 75
+      NAME FX.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 200
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {656FCAF0-38BF-0EAF-EEAE-7F358314F744}
+      <SOURCE WAVE
+        FILE "D:\Music\BICF Worship\Multitracks\Newborn King-Fill the Skies-E-108.00bpm\Newborn King\FX.wav"
+      >
+    >
+    <ITEM
+      POSITION 282.22222222222223
+      SNAPOFFS 0
+      LENGTH 15.5555555555556
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {F56AD88C-E0B8-4FE1-8BBC-CACF7BE25BFB}
+      IID 172
+      NAME FX.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 6.66666666666664
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0BC7BBC1-1E6B-37E9-BA4E-A89A48CE981D}
+      <SOURCE WAVE
+        FILE "D:\Music\BICF Worship\Multitracks\Newborn King-Fill the Skies-E-108.00bpm\Newborn King\FX.wav"
+      >
+    >
+    <ITEM
+      POSITION 297.77777777777777
+      SNAPOFFS 0
+      LENGTH 8.88888888888889
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {C89D48A0-D051-2BD2-A851-1FED7EAC5FC0}
+      IID 75
+      NAME FX.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 13.33333333333333
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8CD19264-577B-BE11-AB55-A6A966C443A8}
+      <SOURCE WAVE
+        FILE "D:\Music\BICF Worship\Multitracks\Newborn King-Fill the Skies-E-108.00bpm\Newborn King\FX.wav"
+      >
+    >
+  >
+  <TRACK {E0DC295C-08A7-98E6-5BBE-113BD45F2AE5}
+    NAME Synth
+    PEAKCOL 30015690
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 1 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 -1 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {E0DC295C-08A7-98E6-5BBE-113BD45F2AE5}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 120
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B4EA45E3-EA00-3437-3C37-F4257F84354F}
+      IID 217
+      NAME "Keys 1.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F51FC61D-6CE9-48E8-E7F5-E078B3F718CE}
+      <SOURCE WAVE
+        FILE "D:\Music\BICF Worship\Multitracks\Newborn King-Fill the Skies-E-108.00bpm\Newborn King\Keys 1.wav"
+      >
+    >
+    <ITEM
+      POSITION 120
+      SNAPOFFS 0
+      LENGTH 8.88888888888889
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {6173536D-9767-40E4-90A2-124354CAA11F}
+      IID 355
+      NAME "Keys 1.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 13.33333333333333
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {709994D5-FF46-4124-B750-1A77E985A60C}
+      <SOURCE WAVE
+        FILE "D:\Music\BICF Worship\Multitracks\Newborn King-Fill the Skies-E-108.00bpm\Newborn King\Keys 1.wav"
+      >
+    >
+    <ITEM
+      POSITION 128.88888888888886
+      SNAPOFFS 0
+      LENGTH 8.88888888888889
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {4E396517-D906-46B7-8805-1E04109B9EF4}
+      IID 356
+      NAME "Keys 1.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 13.33333333333333
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8922FA3F-AC35-4840-9C47-B4AFCED5C70F}
+      <SOURCE WAVE
+        FILE "D:\Music\BICF Worship\Multitracks\Newborn King-Fill the Skies-E-108.00bpm\Newborn King\Keys 1.wav"
+      >
+    >
+    <ITEM
+      POSITION 137.77777777777777
+      SNAPOFFS 0
+      LENGTH 44.44444444444445
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {50CFA9A7-F6F3-7135-F4D2-77929E0623DB}
+      IID 163
+      NAME "Keys 1.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 22.22222222222222
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {024B8C02-07CA-E825-F9D2-A8DF8D4652E6}
+      <SOURCE WAVE
+        FILE "D:\Music\BICF Worship\Multitracks\Newborn King-Fill the Skies-E-108.00bpm\Newborn King\Keys 1.wav"
+      >
+    >
+    <ITEM
+      POSITION 182.22222222222223
+      SNAPOFFS 0
+      LENGTH 8.88888888888889
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {139A8116-0B3B-C5CB-8E0D-090CD22CB716}
+      IID 247
+      NAME "Keys 1.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 66.66666666666667
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {465E0D4B-C685-AE5A-405F-7BADC65D302C}
+      <SOURCE WAVE
+        FILE "D:\Music\BICF Worship\Multitracks\Newborn King-Fill the Skies-E-108.00bpm\Newborn King\Keys 1.wav"
+      >
+    >
+    <ITEM
+      POSITION 191.11111111111111
+      SNAPOFFS 0
+      LENGTH 46.11111111111111
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B13D9318-74BC-D8F7-CF0F-FAFFB70E7ED8}
+      IID 204
+      NAME "Keys 1.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 75.55555555555556
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {64B5235D-24E3-0C64-5387-BC3D9B2C5ADA}
+      <SOURCE WAVE
+        FILE "D:\Music\BICF Worship\Multitracks\Newborn King-Fill the Skies-E-108.00bpm\Newborn King\Keys 1.wav"
+      >
+    >
+    <ITEM
+      POSITION 237.22222222222223
+      SNAPOFFS 0
+      LENGTH 51.66666666666669
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {72B3180E-B6BA-1624-00F4-1AFDBA9E67D0}
+      IID 74
+      NAME "Keys 1.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 192.77777777777777
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {DC89EEA8-1BF4-196E-6CA5-BFB9FDB74021}
+      <SOURCE WAVE
+        FILE "D:\Music\BICF Worship\Multitracks\Newborn King-Fill the Skies-E-108.00bpm\Newborn King\Keys 1.wav"
+      >
+    >
+    <ITEM
+      POSITION 244.44443444444445
+      SNAPOFFS 0
+      LENGTH 0.00001
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {02C3FA28-7E89-3A2C-D34F-CC04620E8E15}
+      IID 74
+      NAME "Keys 1.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 199.99999
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0826C70A-E194-E6BA-9DF6-1DDBB6CD26A2}
+      <SOURCE WAVE
+        FILE "D:\Music\BICF Worship\Multitracks\Newborn King-Fill the Skies-E-108.00bpm\Newborn King\Keys 1.wav"
+      >
+    >
+    <ITEM
+      POSITION 288.88888888888891
+      SNAPOFFS 0
+      LENGTH 8.88888888888889
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {E864C394-04A1-76FD-F5A5-BCE726F07071}
+      IID 173
+      NAME "Keys 1.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 13.33333333333333
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8B88DFFD-0D29-98CA-3958-8040DE39312E}
+      <SOURCE WAVE
+        FILE "D:\Music\BICF Worship\Multitracks\Newborn King-Fill the Skies-E-108.00bpm\Newborn King\Keys 1.wav"
+      >
+    >
+    <ITEM
+      POSITION 297.77777777777777
+      SNAPOFFS 0
+      LENGTH 8.88888888888889
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {E5B59A1D-2E24-FC98-2C2C-861409A73BED}
+      IID 74
+      NAME "Keys 1.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 13.33333333333333
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C1986E4A-EC15-835A-1AE8-F91963A59549}
+      <SOURCE WAVE
+        FILE "D:\Music\BICF Worship\Multitracks\Newborn King-Fill the Skies-E-108.00bpm\Newborn King\Keys 1.wav"
+      >
+    >
+    <ITEM
+      POSITION 306.66666666666669
+      SNAPOFFS 0
+      LENGTH 8.8888888888888
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {E090C841-B121-46AB-BEB6-BAFFD669011A}
+      IID 74
+      NAME "Keys 1.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 333.33333333333343
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {DD0B24FE-E3A2-4161-84BE-E9DFB170B1A9}
+      <SOURCE WAVE
+        FILE "D:\Music\BICF Worship\Multitracks\Newborn King-Fill the Skies-E-108.00bpm\Newborn King\Keys 1.wav"
+      >
+    >
+  >
+  <EXTENSIONS
+    <SWSAUTOCOLOR
+      {00000000-0000-0000-0000-000000000000} 0 "" "" ""
+      {63546305-B5B4-7E49-158B-49515A83B875} 33532072 "" "" ""
+      {482A7D4B-D58A-AE56-F79B-D4EF59E1CE3C} 33532072 "" "" ""
+      {A762872A-06E5-B82B-E60E-674806CFFC04} 16804823 "" "" ""
+      {36CC55DC-E1BA-1654-E77D-43BE73BD8347} 33532072 "" "" ""
+      {55DD32A9-B6A2-782B-FD39-2047586D3906} 33532072 "" "" ""
+      {E0DC295C-08A7-98E6-5BBE-113BD45F2AE5} 30015690 "" "" ""
+    >
+  >
+>

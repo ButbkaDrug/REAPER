@@ -1,0 +1,14 @@
+[Chords 6]
+#1 4 1 4
+
+[chords 10]
+#1 6m 4
+
+[chords 15]
+#1 2m 6m 4
+
+[chords 16]
+#1 2m 6m 4
+
+[chords 17]
+#1

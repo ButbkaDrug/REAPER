@@ -1,0 +1,105 @@
+[Intro]
+#1
+
+[ Verse 1 ]
+Blessed be Your name
+In the land of the plentiful
+Where Your streams of abundance flow
+Blessed be Your name
+
+[ Verse 2 ]
+Blessed be Your name
+When I'm found in that desert place
+Though I walk through the wilderness
+Blessed be Your name
+
+[ Pre Chorus ]
+Every blessing You pour out I'll
+Turn back to praise
+When the darkness closes in Lord
+Still I will say
+
+[ Chorus ]
+Blessed be the name of the Lord
+Blessed be Your name
+Blessed be the name of the Lord
+Blessed be Your glorious name
+
+[ Verse 3 ]
+Blessed be Your name
+When the sun's shining down on me
+When the world's all as it should be
+Blessed be Your name
+
+[ Verse 4 ]
+Blessed be Your name
+On the road marked with suffering
+Though there's pain in the offering
+Blessed be Your name name
+
+[ Bridge ]
+{-0.5172413793, 3.6206896552}
+You give and take away
+{3.1034482759, 4.1379310345}
+You give and take away
+{7.2413793104, 4.6551724138}
+My heart will chose to say
+{11.8965517242, 4.6551724138}
+Blessed be Your name
+
+[ Verse 1 R ]
+{0.5172413793, 3.1034482759}
+Будь благословен
+{3.6206896552, 4.1379310345}
+На земле, где обильный плод,
+{7.7586206897, 4.1379310345}
+Где течет молоко и мед,
+{11.8965517242, 4.6551724138}
+Будь благословен!
+
+[ Verse 2 R ]
+{0.5172413793, 3.1034482758}
+Будь благословен
+{3.6206896551, 4.1379310345}
+На иссохшей и пустой земле,
+{7.7586206896, 4.1379310345}
+Когда грусть и печаль в душе,
+{11.8965517241, 4.6551724138}
+Будь благословен!
+
+[ Pre Chorus R ]
+{4.1379310345, 4.1379310345}
+За Твои благословенья
+{8.275862069, 4.1379310344}
+Я воздам хвалу,
+{12.4137931034, 4.1379310345}
+Даже если тьма окружит,
+Все равно скажу
+
+[ Chorus R ]
+{-1.5517241379, 4.1379310345}
+Будь благословен, мой Господь,
+{2.5862068966, 4.1379310345}
+Будь благослооовен!
+{6.7241379311, 4.1379310344}
+Будь благословен, мой Господь,
+{10.8620689655, 5.6896551725}
+Будь благословен, великий Бог!
+
+[ Verse 3 R ]
+Будь благословен,
+Когда солнце светит надо мной,
+Жизнь течет быстрою рекой,
+Будь благословен!
+
+[ Verse 4 R ]
+Будь благословен
+На пути испытания,
+Там, где боль и страдания,
+Будь благословен!
+
+[ Bridge R ]
+Ты можешь всё мне дать,
+Ты можешь всё отнять,
+Но я хочу за всё
+Тебя благословлять!
