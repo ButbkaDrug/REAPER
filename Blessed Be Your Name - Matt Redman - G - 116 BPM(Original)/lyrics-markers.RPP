@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "7.07/linux-x86_64" 1721942054
+<REAPER_PROJECT 0.1 "7.19/linux-x86_64" 1727118627
   AUTHOR PROJECT_AUTHOR
   RIPPLE 0
   GROUPOVERRIDE 0 0 0
@@ -11,13 +11,13 @@
   PANLAW 1
   PROJOFFS 0 0 0
   MAXPROJLEN 0 600
-  GRID 3199 8 1 8 1 0 0 0
+  GRID 3455 8 1 8 1 0 0 0
   TIMEMODE 1 5 -1 30 0 0 -1
   VIDEO_CONFIG 0 0 256
   PANMODE 3
-  CURSOR 0
-  ZOOM 134.48366149349661 0 0
-  VZOOMEX 12.12996292 90
+  CURSOR 7.25917046019164
+  ZOOM 41.484538775678 0 0
+  VZOOMEX 29.00743484 373
   USE_REC_CFG 0
   RECMODE 1
   SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
@@ -49,10 +49,14 @@
   LOCK 1
   <METRONOME 6 2
     VOL 0.25 0.125
-    FREQ 800 1600 1
     BEATLEN 4
+    FREQ 800 1600 1
     SAMPLES "" ""
-    PATTERN 2863311530 2863311529
+    SPLIGNORE 0 0
+    SPLDEF 2 660 "" 0
+    SPLDEF 3 440 "" 0
+    PATTERN 0 169
+    PATTERNSTR ABBB
     MULT 2
   >
   GLOBAL_AUTO -1
@@ -92,7 +96,6 @@
   MARKER 1 8.27586206896552 "" 1
   MARKER 2 8.27586206896552 Intro 1 0 1 B {555A68F7-B1CA-5F2A-84FE-D31347E27BCB} 0
   MARKER 2 16.55172413793104 "" 1
-  MARKER 1 8.79310344827586 "NOTE: Drums - Ride Cymbal(4th)" 0 0 1 B {0FEBED1F-C0B1-0D08-895B-482742BF4820} 0
   MARKER 3 16.55172413793104 "Verse 1 R" 1 0 1 B {26DA8E12-0708-23E1-7B1C-C7346F451D2E} 0
   MARKER 3 33.10344827586207 "" 1
   MARKER 16 17.06896551724138 "" 0 0 1 B {12A37336-586E-8604-77AA-4C24A8635777} 0
@@ -125,14 +128,26 @@
   MARKER 7 84.82758620689656 "Verse 3" 1 0 1 B {4763EA40-FEE4-679C-BF55-654126B445B7} 0
   MARKER 7 101.37931034482759 "" 1
   MARKER 6 85.34482758620689 "NOTE: Drums - Kick(4th) + Low Tom(8th) + High Tom(on 2 and 4)" 0 0 1 B {4EF0D0D5-9754-93A0-4309-621291DAC7DD} 0
+  MARKER 40 85.46592272515875 "" 0 0 1 B {4D8B3AC9-CF6F-BDB2-D8BB-54C4C991D91F} 0
+  MARKER 41 88.60657892973806 "" 0 0 1 B {CA8CDA8D-343A-064C-AC87-A9399A7BEAFE} 0
+  MARKER 42 92.71620537618679 "" 0 0 1 B {EE1499BC-C431-B30F-353E-2483BF1FBD4F} 0
+  MARKER 43 96.84400094374931 "" 0 0 1 B {3B89A25D-D851-DBC6-947B-C7BF85C78619} 0
   MARKER 26 101.37931034482759 "Verse 4" 1 0 1 B {7333D285-1006-AE26-1FF1-5DC633B91CA5} 0
   MARKER 26 117.93103448275862 "" 1
+  MARKER 44 101.94937952461112 "" 0 0 1 B {E2941256-1F7C-F11F-9EE5-4FC7144C5078} 0
+  MARKER 45 105.17552887713296 "" 0 0 1 B {50A98FFE-6885-3F26-7312-997A866BBB92} 0
+  MARKER 46 113.37344758982081 "" 0 0 1 B {474A921D-2CC6-0830-5BAF-411A42905B01} 0
   MARKER 8 117.93103448275862 "Pre Chorus" 1 0 1 B {5864569F-FE62-9460-DB7F-88022B35AB62} 0
   MARKER 8 134.48275862068965 "" 1
   MARKER 7 118.44827586206897 "NOTE: Same grove but snare in place of High Tom" 0 0 1 B {22506762-93F0-3E7F-5E7C-DDE8F5F1161B} 0
+  MARKER 47 133.17459774467119 START 0 0 1 B {4A8D29DA-1792-7993-C2BE-453C05E7AE19} 0
   MARKER 9 134.48275862068965 Chorus 1 0 1 B {3054CB54-2E3E-7692-741B-7D068D3C8FC3} 0
   MARKER 9 151.0344827586207 "" 1
   MARKER 8 135 "NOTE: Drums - Money beat" 0 0 1 B {03573149-ADBB-183E-F722-912D9D43871A} 0
+  MARKER 48 137.3137079905886 "" 0 0 1 B {BAA7DF21-77C7-4293-3112-A688B5F1594B} 0
+  MARKER 49 141.11595181347141 "" 0 0 1 B {5A74348F-18EB-CCD2-F353-E6D5E48E639C} 0
+  MARKER 51 141.19884345080709 "" 0 0 1 B {C35BC114-DB9B-AF95-FCDF-725C3F4F45CF} 0
+  MARKER 50 145.64272283453533 "" 0 0 1 B {2F9798C5-49B3-17D9-46C0-3656B91C7641} 0
   MARKER 10 151.0344827586207 Chorus 1 0 1 B {D0917058-5C12-80FE-8BA9-00DF7D95ED8D} 0
   MARKER 10 167.58620689655174 "" 1
   MARKER 9 151.55172413793105 "NOTE: Drums Break on Last Bar" 0 0 1 B {F87B4DE2-AA83-A9C2-9323-67B69E9B7049} 0
@@ -187,14 +202,14 @@
     BEAT -1
     AUTOMODE 0
     VOLPAN 1 0 -1 -1 1
-    MUTESOLO 0 2 0
+    MUTESOLO 0 0 0
     IPHASE 0
     PLAYOFFS 0 1
     ISBUS 0 0
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
-    FIXEDLANES 9 0 0
-    SEL 1
+    FIXEDLANES 9 0 0 0 0
+    SEL 0
     REC 0 0 1 0 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0 0 0 0 0
@@ -205,7 +220,6 @@
     PERF 0
     AUXRECV 1 0 1 0 0 0 0 0 0 -1:U 0 -1 ''
     AUXRECV 2 0 1 0 0 0 0 0 0 -1:U 0 -1 ''
-    AUXRECV 5 0 1 0 0 0 0 0 0 -1:U 0 -1 ''
     MIDIOUT -1
     MAINSEND 1 0
   >
@@ -221,7 +235,7 @@
     ISBUS 0 0
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
-    SEL 0
+    SEL 1
     REC 0 0 1 0 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0 0 0 0 0
@@ -242,7 +256,7 @@
       FADEIN 1 0 0 1 0 0 0
       FADEOUT 1 0.01 0 1 0 0 0
       MUTE 0 0
-      SEL 0
+      SEL 1
       IGUID {18B56C74-C21C-7698-A93E-AF761FFAAF2D}
       IID 6
       NAME "Click source"
@@ -254,12 +268,16 @@
       <SOURCE CLICK
         AUTO 1
         BPM 120
-        BPI 4
+        BPI 4 4
         VOL 1 1
-        FREQ 800 1600 1
         BEATLEN 4
+        FREQ 800 1600 1
         SAMPLES "/mnt/win10/Users/butbkadrug/Music/Assets/Clicks/New Click -  Blip-accents.wav" "/mnt/win10/Users/butbkadrug/Music/Assets/Clicks/New Click -  Blip-sixteenth.wav"
-        PATTERN 2863311530 2863311529
+        SPLIGNORE 0 0
+        SPLDEF 2 660 "" 0
+        SPLDEF 3 440 "" 0
+        PATTERN 0 169
+        PATTERNSTR ABBB
         MULT 2
       >
     >
@@ -312,7 +330,7 @@
       CHANMODE 0
       GUID {D89E21F7-C599-910D-0D14-D353D0CC0C96}
       <SOURCE WAVE
-        FILE "/mnt/win10/Users/butbkadrug/Music/Assets/Cues/English Female - 1.wav"
+        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 1.wav"
       >
     >
     <ITEM
@@ -334,7 +352,7 @@
       CHANMODE 0
       GUID {052F7687-6FA6-9D1C-D21C-C4990621B0FA}
       <SOURCE WAVE
-        FILE "/mnt/win10/Users/butbkadrug/Music/Assets/Cues/English Female - 2.wav"
+        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 2.wav"
       >
     >
     <ITEM
@@ -356,7 +374,7 @@
       CHANMODE 0
       GUID {B4C813D4-33AA-C152-00EF-5AE7DFC26ED9}
       <SOURCE WAVE
-        FILE "/mnt/win10/Users/butbkadrug/Music/Assets/Cues/English Female - Intro.wav"
+        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - Intro.wav"
       >
     >
     <ITEM
@@ -378,7 +396,7 @@
       CHANMODE 0
       GUID {39EB2171-F63D-DE42-81EF-12F5F3FDFF23}
       <SOURCE WAVE
-        FILE "/mnt/win10/Users/butbkadrug/Music/Assets/Cues/English Female - 2.wav"
+        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 2.wav"
       >
     >
     <ITEM
@@ -400,7 +418,7 @@
       CHANMODE 0
       GUID {3EB8B4D7-D404-FDA9-C18B-84DBE41B1D52}
       <SOURCE WAVE
-        FILE "/mnt/win10/Users/butbkadrug/Music/Assets/Cues/English Female - 3.wav"
+        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 3.wav"
       >
     >
     <ITEM
@@ -422,7 +440,7 @@
       CHANMODE 0
       GUID {EEA7E8D6-F335-9BB5-A8ED-004B9D7C9EFB}
       <SOURCE WAVE
-        FILE "/mnt/win10/Users/butbkadrug/Music/Assets/Cues/English Female - 4.wav"
+        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 4.wav"
       >
     >
     <ITEM
@@ -444,7 +462,7 @@
       CHANMODE 0
       GUID {CE21A7FE-85BA-7851-70B8-258A78CE242E}
       <SOURCE WAVE
-        FILE "/mnt/win10/Users/butbkadrug/Music/Assets/Cues/English Female - Verse 1.wav"
+        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - Verse 1.wav"
       >
     >
     <ITEM
@@ -466,7 +484,7 @@
       CHANMODE 0
       GUID {39E34A70-4F8E-D7D9-43ED-BA1B2C925F2F}
       <SOURCE WAVE
-        FILE "/mnt/win10/Users/butbkadrug/Music/Assets/Cues/English Female - 3.wav"
+        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 3.wav"
       >
     >
     <ITEM
@@ -488,7 +506,7 @@
       CHANMODE 0
       GUID {07E48F0B-B2DC-7969-B3D9-66310BCCC02D}
       <SOURCE WAVE
-        FILE "/mnt/win10/Users/butbkadrug/Music/Assets/Cues/English Female - 4.wav"
+        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 4.wav"
       >
     >
     <ITEM
@@ -510,7 +528,7 @@
       CHANMODE 0
       GUID {D843515E-FA19-BBA9-AF28-75C06FF68223}
       <SOURCE WAVE
-        FILE "/mnt/win10/Users/butbkadrug/Music/Assets/Cues/English Female - Verse 2.wav"
+        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - Verse 2.wav"
       >
     >
     <ITEM
@@ -533,7 +551,7 @@
       CHANMODE 0
       GUID {0AEB857C-3DFD-AE69-DF77-2E04E6237151}
       <SOURCE WAVE
-        FILE "/mnt/win10/Users/butbkadrug/Music/Assets/Cues/English Female - Drums In.wav"
+        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - Drums In.wav"
       >
     >
     <ITEM
@@ -555,7 +573,7 @@
       CHANMODE 0
       GUID {DCE46C35-F28B-896D-83C0-90156CCBA0C1}
       <SOURCE WAVE
-        FILE "/mnt/win10/Users/butbkadrug/Music/Assets/Cues/English Female - Pre Chorus.wav"
+        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - Pre Chorus.wav"
       >
     >
     <ITEM
@@ -577,7 +595,7 @@
       CHANMODE 0
       GUID {C3676DB5-DACB-E280-8E05-6E2BC3068C78}
       <SOURCE WAVE
-        FILE "/mnt/win10/Users/butbkadrug/Music/Assets/Cues/English Female - 3.wav"
+        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 3.wav"
       >
     >
     <ITEM
@@ -599,7 +617,7 @@
       CHANMODE 0
       GUID {0FD85222-C71E-95C4-5138-4C0BBF170E78}
       <SOURCE WAVE
-        FILE "/mnt/win10/Users/butbkadrug/Music/Assets/Cues/English Female - 4.wav"
+        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 4.wav"
       >
     >
     <ITEM
@@ -621,7 +639,7 @@
       CHANMODE 0
       GUID {4770FD45-63D4-A497-67D3-BDC47CA23F25}
       <SOURCE WAVE
-        FILE "/mnt/win10/Users/butbkadrug/Music/Assets/Cues/English Female - Chorus.wav"
+        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - Chorus.wav"
       >
     >
     <ITEM
@@ -643,7 +661,7 @@
       CHANMODE 0
       GUID {35C8ADCB-BFA4-1E92-DDF4-1E3C54341EA6}
       <SOURCE WAVE
-        FILE "/mnt/win10/Users/butbkadrug/Music/Assets/Cues/English Female - 3.wav"
+        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 3.wav"
       >
     >
     <ITEM
@@ -665,7 +683,7 @@
       CHANMODE 0
       GUID {08D03902-A797-8896-DE4B-CC31A7BE6660}
       <SOURCE WAVE
-        FILE "/mnt/win10/Users/butbkadrug/Music/Assets/Cues/English Female - 4.wav"
+        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 4.wav"
       >
     >
     <ITEM
@@ -687,7 +705,7 @@
       CHANMODE 0
       GUID {28B435A1-494D-6E74-22CE-2F8B7420CA9C}
       <SOURCE WAVE
-        FILE "/mnt/win10/Users/butbkadrug/Music/Assets/Cues/English Female - Vamp.wav"
+        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - Vamp.wav"
       >
     >
     <ITEM
@@ -709,7 +727,7 @@
       CHANMODE 0
       GUID {F38087CD-5744-FC35-A760-DC2E4D649389}
       <SOURCE WAVE
-        FILE "/mnt/win10/Users/butbkadrug/Music/Assets/Cues/English Female - Verse 3.wav"
+        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - Verse 3.wav"
       >
     >
     <ITEM
@@ -731,7 +749,7 @@
       CHANMODE 0
       GUID {1B42A4C5-9AF1-BA98-E5CF-011976D509F0}
       <SOURCE WAVE
-        FILE "/mnt/win10/Users/butbkadrug/Music/Assets/Cues/English Female - 3.wav"
+        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 3.wav"
       >
     >
     <ITEM
@@ -753,7 +771,7 @@
       CHANMODE 0
       GUID {5F7AFC02-BE75-0C62-AE2E-A21D3324B409}
       <SOURCE WAVE
-        FILE "/mnt/win10/Users/butbkadrug/Music/Assets/Cues/English Female - 4.wav"
+        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 4.wav"
       >
     >
     <ITEM
@@ -775,7 +793,7 @@
       CHANMODE 0
       GUID {A6F47821-9780-B865-0D42-E91AC002C0AD}
       <SOURCE WAVE
-        FILE "/mnt/win10/Users/butbkadrug/Music/Assets/Cues/English Female - Verse 4.wav"
+        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - Verse 4.wav"
       >
     >
     <ITEM
@@ -797,7 +815,7 @@
       CHANMODE 0
       GUID {258C73D7-9485-1D87-032C-7A06C1BA660B}
       <SOURCE WAVE
-        FILE "/mnt/win10/Users/butbkadrug/Music/Assets/Cues/English Female - 3.wav"
+        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 3.wav"
       >
     >
     <ITEM
@@ -819,7 +837,7 @@
       CHANMODE 0
       GUID {60417FAB-1CD8-262F-146F-C9B0EE81BA43}
       <SOURCE WAVE
-        FILE "/mnt/win10/Users/butbkadrug/Music/Assets/Cues/English Female - 4.wav"
+        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 4.wav"
       >
     >
     <ITEM
@@ -841,7 +859,7 @@
       CHANMODE 0
       GUID {59DC68EA-059E-7C2D-FE5F-38F432191A24}
       <SOURCE WAVE
-        FILE "/mnt/win10/Users/butbkadrug/Music/Assets/Cues/English Female - Pre Chorus.wav"
+        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - Pre Chorus.wav"
       >
     >
     <ITEM
@@ -863,7 +881,7 @@
       CHANMODE 0
       GUID {E10A69CB-1BA4-E436-270D-3E0B0A6027FF}
       <SOURCE WAVE
-        FILE "/mnt/win10/Users/butbkadrug/Music/Assets/Cues/English Female - 3.wav"
+        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 3.wav"
       >
     >
     <ITEM
@@ -885,7 +903,7 @@
       CHANMODE 0
       GUID {F997DC61-84F5-870D-7B4A-740D7096C60E}
       <SOURCE WAVE
-        FILE "/mnt/win10/Users/butbkadrug/Music/Assets/Cues/English Female - 4.wav"
+        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 4.wav"
       >
     >
     <ITEM
@@ -907,7 +925,7 @@
       CHANMODE 0
       GUID {1B829BD7-4EE2-C471-F5EE-74EF9E38F312}
       <SOURCE WAVE
-        FILE "/mnt/win10/Users/butbkadrug/Music/Assets/Cues/English Female - Chorus.wav"
+        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - Chorus.wav"
       >
     >
     <ITEM
@@ -929,7 +947,7 @@
       CHANMODE 0
       GUID {31FC19DE-7BB9-2EE8-3D9D-4ECB45C79059}
       <SOURCE WAVE
-        FILE "/mnt/win10/Users/butbkadrug/Music/Assets/Cues/English Female - 3.wav"
+        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 3.wav"
       >
     >
     <ITEM
@@ -951,7 +969,7 @@
       CHANMODE 0
       GUID {2E0AF6F7-465E-1A6E-5690-3F088E143EBE}
       <SOURCE WAVE
-        FILE "/mnt/win10/Users/butbkadrug/Music/Assets/Cues/English Female - 4.wav"
+        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 4.wav"
       >
     >
     <ITEM
@@ -973,7 +991,7 @@
       CHANMODE 0
       GUID {D69504F1-5146-B24F-96DB-643AA663E592}
       <SOURCE WAVE
-        FILE "/mnt/win10/Users/butbkadrug/Music/Assets/Cues/English Female - Chorus.wav"
+        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - Chorus.wav"
       >
     >
     <ITEM
@@ -995,7 +1013,7 @@
       CHANMODE 0
       GUID {E3BC1FF2-A79A-F765-EED6-4EA00B10EBA2}
       <SOURCE WAVE
-        FILE "/mnt/win10/Users/butbkadrug/Music/Assets/Cues/English Female - 3.wav"
+        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 3.wav"
       >
     >
     <ITEM
@@ -1017,7 +1035,7 @@
       CHANMODE 0
       GUID {22A1D340-AB7B-1460-9EC6-6F18C3892B21}
       <SOURCE WAVE
-        FILE "/mnt/win10/Users/butbkadrug/Music/Assets/Cues/English Female - 4.wav"
+        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 4.wav"
       >
     >
     <ITEM
@@ -1039,7 +1057,7 @@
       CHANMODE 0
       GUID {F9644C6F-D90A-4895-889F-81BFEBE5C9B7}
       <SOURCE WAVE
-        FILE "/mnt/win10/Users/butbkadrug/Music/Assets/Cues/English Female - Vamp.wav"
+        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - Vamp.wav"
       >
     >
     <ITEM
@@ -1061,7 +1079,7 @@
       CHANMODE 0
       GUID {E6E6870B-18AF-92FF-9285-D08AD354288E}
       <SOURCE WAVE
-        FILE "/mnt/win10/Users/butbkadrug/Music/Assets/Cues/English Female - Bridge.wav"
+        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - Bridge.wav"
       >
     >
     <ITEM
@@ -1083,7 +1101,7 @@
       CHANMODE 0
       GUID {15B72B82-8D23-4D0D-F684-FE99FB6FC75B}
       <SOURCE WAVE
-        FILE "/mnt/win10/Users/butbkadrug/Music/Assets/Cues/English Female - 3.wav"
+        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 3.wav"
       >
     >
     <ITEM
@@ -1105,7 +1123,7 @@
       CHANMODE 0
       GUID {55F79F16-61D6-3B37-DB39-274211DCE7E2}
       <SOURCE WAVE
-        FILE "/mnt/win10/Users/butbkadrug/Music/Assets/Cues/English Female - 4.wav"
+        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 4.wav"
       >
     >
     <ITEM
@@ -1127,7 +1145,7 @@
       CHANMODE 0
       GUID {A3E6F821-F14B-77E2-F68F-762B63ED6B91}
       <SOURCE WAVE
-        FILE "/mnt/win10/Users/butbkadrug/Music/Assets/Cues/English Female - Bridge.wav"
+        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - Bridge.wav"
       >
     >
     <ITEM
@@ -1149,7 +1167,7 @@
       CHANMODE 0
       GUID {82AF1BE7-AE85-EA87-0A63-6D1B5ACF60A8}
       <SOURCE WAVE
-        FILE "/mnt/win10/Users/butbkadrug/Music/Assets/Cues/English Female - 3.wav"
+        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 3.wav"
       >
     >
     <ITEM
@@ -1171,7 +1189,7 @@
       CHANMODE 0
       GUID {931E329F-4F9E-63B8-79AB-78C6370DBC75}
       <SOURCE WAVE
-        FILE "/mnt/win10/Users/butbkadrug/Music/Assets/Cues/English Female - 4.wav"
+        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 4.wav"
       >
     >
     <ITEM
@@ -1193,7 +1211,7 @@
       CHANMODE 0
       GUID {032E827C-BF89-1AE7-D579-9FAE4F4A9A45}
       <SOURCE WAVE
-        FILE "/mnt/win10/Users/butbkadrug/Music/Assets/Cues/English Female - Vamp.wav"
+        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - Vamp.wav"
       >
     >
     <ITEM
@@ -1215,7 +1233,7 @@
       CHANMODE 0
       GUID {5C962363-0BFF-0409-66C7-7795EEAF2A13}
       <SOURCE WAVE
-        FILE "/mnt/win10/Users/butbkadrug/Music/Assets/Cues/English Female - Chorus.wav"
+        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - Chorus.wav"
       >
     >
     <ITEM
@@ -1237,7 +1255,7 @@
       CHANMODE 0
       GUID {85C43824-43E2-764D-6B8B-F54C28B0733D}
       <SOURCE WAVE
-        FILE "/mnt/win10/Users/butbkadrug/Music/Assets/Cues/English Female - 3.wav"
+        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 3.wav"
       >
     >
     <ITEM
@@ -1259,7 +1277,7 @@
       CHANMODE 0
       GUID {D6247372-2002-BE1A-828A-59FFAE1D4B25}
       <SOURCE WAVE
-        FILE "/mnt/win10/Users/butbkadrug/Music/Assets/Cues/English Female - 4.wav"
+        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 4.wav"
       >
     >
     <ITEM
@@ -1281,7 +1299,7 @@
       CHANMODE 0
       GUID {6E6B40D3-F911-41A5-D3BD-06A0A5B0D147}
       <SOURCE WAVE
-        FILE "/mnt/win10/Users/butbkadrug/Music/Assets/Cues/English Female - Chorus.wav"
+        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - Chorus.wav"
       >
     >
     <ITEM
@@ -1303,7 +1321,7 @@
       CHANMODE 0
       GUID {92E17EEF-E40B-3152-D9D4-6B5DE0B7EA86}
       <SOURCE WAVE
-        FILE "/mnt/win10/Users/butbkadrug/Music/Assets/Cues/English Female - 3.wav"
+        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 3.wav"
       >
     >
     <ITEM
@@ -1325,7 +1343,7 @@
       CHANMODE 0
       GUID {84580442-6A4F-B4E4-D524-625155C6A358}
       <SOURCE WAVE
-        FILE "/mnt/win10/Users/butbkadrug/Music/Assets/Cues/English Female - 4.wav"
+        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 4.wav"
       >
     >
     <ITEM
@@ -1347,7 +1365,7 @@
       CHANMODE 0
       GUID {DE99606D-D456-F635-1BA5-C5ED1F53D47E}
       <SOURCE WAVE
-        FILE "/mnt/win10/Users/butbkadrug/Music/Assets/Cues/English Female - Vamp.wav"
+        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - Vamp.wav"
       >
     >
     <ITEM
@@ -1369,7 +1387,7 @@
       CHANMODE 0
       GUID {80D74775-0E86-D84F-A0C1-4E700ADBEA7D}
       <SOURCE WAVE
-        FILE "/mnt/win10/Users/butbkadrug/Music/Assets/Cues/English Female - Bridge.wav"
+        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - Bridge.wav"
       >
     >
     <ITEM
@@ -1391,7 +1409,7 @@
       CHANMODE 0
       GUID {7779E359-6694-3FE0-3FC5-09855E0656E7}
       <SOURCE WAVE
-        FILE "/mnt/win10/Users/butbkadrug/Music/Assets/Cues/English Female - 3.wav"
+        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 3.wav"
       >
     >
     <ITEM
@@ -1413,7 +1431,7 @@
       CHANMODE 0
       GUID {E9661D60-7654-36CA-D0A6-115ED0465332}
       <SOURCE WAVE
-        FILE "/mnt/win10/Users/butbkadrug/Music/Assets/Cues/English Female - 4.wav"
+        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 4.wav"
       >
     >
     <ITEM
@@ -1435,7 +1453,7 @@
       CHANMODE 0
       GUID {119DCC2E-1059-031A-EC5D-564B5C56D326}
       <SOURCE WAVE
-        FILE "/mnt/win10/Users/butbkadrug/Music/Assets/Cues/English Female - Bridge.wav"
+        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - Bridge.wav"
       >
     >
     <ITEM
@@ -1458,7 +1476,7 @@
       CHANMODE 0
       GUID {4DA37931-D617-9421-290F-1A50E0822B99}
       <SOURCE WAVE
-        FILE "/mnt/win10/Users/butbkadrug/Music/Assets/Cues/English Female - Drums In.wav"
+        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - Drums In.wav"
       >
     >
     <ITEM
@@ -1480,7 +1498,7 @@
       CHANMODE 0
       GUID {AA2D39E1-6F7A-8B75-4766-6A378CE4298D}
       <SOURCE WAVE
-        FILE "/mnt/win10/Users/butbkadrug/Music/Assets/Cues/English Female - Bridge.wav"
+        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - Bridge.wav"
       >
     >
     <ITEM
@@ -1502,7 +1520,7 @@
       CHANMODE 0
       GUID {DFB19F53-68AD-F4F6-B94F-683B9A89F83B}
       <SOURCE WAVE
-        FILE "/mnt/win10/Users/butbkadrug/Music/Assets/Cues/English Female - 3.wav"
+        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 3.wav"
       >
     >
     <ITEM
@@ -1524,7 +1542,7 @@
       CHANMODE 0
       GUID {AA4BF1DC-B0BC-E59B-1F4E-E059464D5BBB}
       <SOURCE WAVE
-        FILE "/mnt/win10/Users/butbkadrug/Music/Assets/Cues/English Female - 4.wav"
+        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 4.wav"
       >
     >
     <ITEM
@@ -1546,7 +1564,7 @@
       CHANMODE 0
       GUID {DEF942CC-5272-2558-FFE5-02616BE1D666}
       <SOURCE WAVE
-        FILE "/mnt/win10/Users/butbkadrug/Music/Assets/Cues/English Female - Vamp.wav"
+        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - Vamp.wav"
       >
     >
     <ITEM
@@ -1568,7 +1586,7 @@
       CHANMODE 0
       GUID {AEC41578-CCF2-FBB9-FD82-F6E0A28B3C54}
       <SOURCE WAVE
-        FILE "/mnt/win10/Users/butbkadrug/Music/Assets/Cues/English Female - Chorus.wav"
+        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - Chorus.wav"
       >
     >
     <ITEM
@@ -1590,7 +1608,7 @@
       CHANMODE 0
       GUID {BC19B5C7-FA76-29F5-AD29-829A4B46D9DF}
       <SOURCE WAVE
-        FILE "/mnt/win10/Users/butbkadrug/Music/Assets/Cues/English Female - 3.wav"
+        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 3.wav"
       >
     >
     <ITEM
@@ -1612,7 +1630,7 @@
       CHANMODE 0
       GUID {9C250B36-7811-C83E-B04F-09DB6A6AC925}
       <SOURCE WAVE
-        FILE "/mnt/win10/Users/butbkadrug/Music/Assets/Cues/English Female - 4.wav"
+        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 4.wav"
       >
     >
     <ITEM
@@ -1634,7 +1652,7 @@
       CHANMODE 0
       GUID {BF3E81F2-3F14-ED8E-0662-3B00A2F83D7A}
       <SOURCE WAVE
-        FILE "/mnt/win10/Users/butbkadrug/Music/Assets/Cues/English Female - Chorus.wav"
+        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - Chorus.wav"
       >
     >
     <ITEM
@@ -1656,7 +1674,7 @@
       CHANMODE 0
       GUID {0A540A6C-0565-0A4B-8832-A59218AE05A3}
       <SOURCE WAVE
-        FILE "/mnt/win10/Users/butbkadrug/Music/Assets/Cues/English Female - 3.wav"
+        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 3.wav"
       >
     >
     <ITEM
@@ -1678,7 +1696,7 @@
       CHANMODE 0
       GUID {99C4AFC2-F4A7-EE6E-CB6C-1919E8320D6E}
       <SOURCE WAVE
-        FILE "/mnt/win10/Users/butbkadrug/Music/Assets/Cues/English Female - 4.wav"
+        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 4.wav"
       >
     >
     <ITEM
@@ -1700,95 +1718,24 @@
       CHANMODE 0
       GUID {D553C475-49CD-3A57-C70B-EE7B79F6A167}
       <SOURCE WAVE
-        FILE "/mnt/win10/Users/butbkadrug/Music/Assets/Cues/English Female - Ending.wav"
+        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - Ending.wav"
       >
     >
   >
-  <TRACK {5A702FDA-6202-6B73-5B2F-9853AE496AF9}
-    NAME "Fundamental C WAV"
+  <TRACK {8BE8A20F-12B3-AB78-B714-AC6C1A52ED55}
+    NAME ORIGINAL
     PEAKCOL 16576
     BEAT -1
     AUTOMODE 0
+    PANLAWFLAGS 3
     VOLPAN 1 0 -1 -1 1
-    MUTESOLO 1 0 0
-    IPHASE 0
-    PLAYOFFS 0 1
-    ISBUS 0 0
-    BUSCOMP 0 0 0 0 0
-    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
-    FIXEDLANES 9 0 0
-    SEL 0
-    REC 0 0 1 0 0 0 0 0
-    VU 2
-    TRACKHEIGHT 0 0 0 0 0 0 0
-    INQ 0 0 0 0.5 100 0 0 100
-    NCHAN 2
-    FX 1
-    TRACKID {5A702FDA-6202-6B73-5B2F-9853AE496AF9}
-    PERF 0
-    MIDIOUT -1
-    MAINSEND 1 2
-    <ITEM
-      POSITION 8.27586206898559
-      SNAPOFFS 0
-      LENGTH 316.55172413791053
-      LOOP 0
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0 0
-      FADEOUT 1 33.11690560153301 0 1 0 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {6A9640B0-A7DC-EEE6-3848-2EF610E99583}
-      IID 270
-      NAME "Fundamental C WAV.wav"
-      VOLPAN 1 0 1 -1
-      SOFFS 0
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {7F1210F1-A2FF-3A79-745A-1ECC4E063412}
-      <SOURCE WAVE
-        FILE "/mnt/media/Music/BICF Worship/PADs/Fundamental PADs by Multitracks/Fundamental C WAV.wav"
-      >
-    >
-  >
-  <TRACK {6DFF3031-1EC1-68A6-E7DE-D2EB572AB889}
-    NAME "Matt Redman - Blessed Be Your Name (Lyrics And Chords) [drums]"
-    PEAKCOL 16576
-    BEAT -1
-    AUTOMODE 0
-    VOLPAN 1 0 -1 -1 1
-    MUTESOLO 0 0 0
-    IPHASE 0
-    PLAYOFFS 0 1
-    ISBUS 0 0
-    BUSCOMP 0 0 0 0 0
-    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
-    FIXEDLANES 9 0 0
-    SEL 0
-    REC 0 0 1 0 0 0 0 0
-    VU 2
-    TRACKHEIGHT 0 0 0 0 0 0 0
-    INQ 0 0 0 0.5 100 0 0 100
-    NCHAN 2
-    FX 1
-    TRACKID {6DFF3031-1EC1-68A6-E7DE-D2EB572AB889}
-    PERF 0
-    MIDIOUT -1
-    MAINSEND 1 0
-  >
-  <TRACK {DCC432DA-1B7D-F346-A9D0-515D096A7CEC}
-    NAME ""
-    PEAKCOL 16576
-    BEAT -1
-    AUTOMODE 0
-    VOLPAN 0.83627504012513 0 -1 -1 1
     MUTESOLO 0 0 0
     IPHASE 0
     PLAYOFFS 0 1
     ISBUS 1 1
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
-    FIXEDLANES 9 0 0
+    FIXEDLANES 9 0 0 0 0
     SEL 0
     REC 0 0 1 0 0 0 0 0
     VU 2
@@ -1796,24 +1743,25 @@
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 2
     FX 1
-    TRACKID {DCC432DA-1B7D-F346-A9D0-515D096A7CEC}
+    TRACKID {8BE8A20F-12B3-AB78-B714-AC6C1A52ED55}
     PERF 0
     MIDIOUT -1
-    MAINSEND 1 2
+    MAINSEND 1 0
   >
-  <TRACK {CFA7BDA6-F5CE-5E2E-E3A1-12D0FF7F3491}
+  <TRACK {9CE0A81F-9CDC-9BA8-287E-A785F6310758}
     NAME "Matt Redman - Blessed Be Your Name (Lyrics And Chords) [music]"
     PEAKCOL 16576
     BEAT -1
     AUTOMODE 0
-    VOLPAN 1.67748946805408 0 -1 -1 1
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
     MUTESOLO 0 0 0
     IPHASE 0
     PLAYOFFS 0 1
     ISBUS 0 0
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
-    FIXEDLANES 9 0 0
+    FIXEDLANES 9 0 0 0 0
     SEL 0
     REC 0 0 1 0 0 0 0 0
     VU 2
@@ -1821,68 +1769,47 @@
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 2
     FX 1
-    TRACKID {CFA7BDA6-F5CE-5E2E-E3A1-12D0FF7F3491}
+    TRACKID {9CE0A81F-9CDC-9BA8-287E-A785F6310758}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
     <ITEM
-      POSITION 0
+      POSITION 6.51641436629364
       SNAPOFFS 0
-      LENGTH 324.82758620689657
-      LOOP 0
-      ALLTAKES 0
-      FADEIN 1 16.4802711631787 0 1 0 0 0
-      FADEOUT 1 0 0 1 0 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {43B5F09D-87B6-1226-2114-5D6E6F3BFF25}
-      IID 271
-      NAME "Matt Redman - Blessed Be Your Name (Lyrics And Chords) [bass].mp3"
-      VOLPAN 1 0 1 -1
-      SOFFS 6.93159516540408
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {D8812A90-EA22-A001-4F2E-7EF13A64EA95}
-      <SOURCE MP3
-        FILE "/home/butbkadrug/Documents/Matt Redman - Blessed Be Your Name (Lyrics And Chords) [bass].mp3" 1
-      >
-    >
-    <ITEM
-      POSITION 324.82758620689657
-      SNAPOFFS 0
-      LENGTH 4.13794860817944
-      LOOP 0
+      LENGTH 333.91065837829365
+      LOOP 1
       ALLTAKES 0
       FADEIN 1 0 0 1 0 0 0
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {FEB6D5B3-632F-07A3-4619-CAB9875FBC68}
-      IID 271
-      NAME "Matt Redman - Blessed Be Your Name (Lyrics And Chords) [bass].mp3"
+      IGUID {9878BFBE-32DC-3758-4794-8FCB19B2F274}
+      IID 326
+      NAME "Matt Redman - Blessed Be Your Name (Lyrics And Chords) [music].mp3"
       VOLPAN 1 0 1 -1
-      SOFFS 331.75918137230065
+      SOFFS 13.44827586206897
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {D9340E05-A947-07C4-A2D3-CB5E35BB869B}
+      GUID {AD0EF977-1CB4-CDCB-ECDF-6177083CA8CB}
       <SOURCE MP3
-        FILE "/home/butbkadrug/Documents/Matt Redman - Blessed Be Your Name (Lyrics And Chords) [bass].mp3" 1
+        FILE "/home/butbkadrug/Downloads/Matt Redman - Blessed Be Your Name (Lyrics And Chords) [music].mp3" 1
       >
     >
   >
-  <TRACK {20F1897D-E06A-A3D6-7D70-92259955EBA2}
+  <TRACK {8A333104-B274-2A98-17FF-3443B370617B}
     NAME "Matt Redman - Blessed Be Your Name (Lyrics And Chords) [vocals]"
     PEAKCOL 16576
     BEAT -1
     AUTOMODE 0
-    VOLPAN 0 0 -1 -1 1
-    MUTESOLO 0 0 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 2 0
     IPHASE 0
     PLAYOFFS 0 1
     ISBUS 0 0
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
-    FIXEDLANES 9 0 0
+    FIXEDLANES 9 0 0 0 0
     SEL 0
     REC 0 0 1 0 0 0 0 0
     VU 2
@@ -1890,174 +1817,31 @@
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 2
     FX 1
-    TRACKID {20F1897D-E06A-A3D6-7D70-92259955EBA2}
+    TRACKID {8A333104-B274-2A98-17FF-3443B370617B}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
     <ITEM
-      POSITION 0
+      POSITION 6.51641436629364
       SNAPOFFS 0
-      LENGTH 328.96553481507601
-      LOOP 0
+      LENGTH 333.91065837829365
+      LOOP 1
       ALLTAKES 0
-      FADEIN 1 16.4802711631787 0 1 0 0 0
+      FADEIN 1 0 0 1 0 0 0
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {A226C8B0-8AE5-B2DF-990B-079CE2F6ACC9}
-      IID 272
-      NAME "Matt Redman - Blessed Be Your Name (Lyrics And Chords) [drums].mp3"
-      VOLPAN 1 0 1 -1
-      SOFFS 6.93159516540408
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {FFE66CEE-DAEE-1745-F797-324853C9C1C9}
-      <SOURCE MP3
-        FILE "/home/butbkadrug/Documents/Matt Redman - Blessed Be Your Name (Lyrics And Chords) [drums].mp3" 1
-      >
-    >
-  >
-  <TRACK {26939233-24C7-0B20-1DDA-7348D7E02F55}
-    NAME "Matt Redman - Blessed Be Your Name (Lyrics And Chords)"
-    PEAKCOL 16576
-    BEAT -1
-    AUTOMODE 0
-    VOLPAN 0.80045807461246 0 -1 -1 1
-    MUTESOLO 0 0 0
-    IPHASE 0
-    PLAYOFFS 0 1
-    ISBUS 0 0
-    BUSCOMP 0 0 0 0 0
-    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
-    FIXEDLANES 9 0 0
-    SEL 0
-    REC 0 0 1 0 0 0 0 0
-    VU 2
-    TRACKHEIGHT 0 0 0 0 0 0 0
-    INQ 0 0 0 0.5 100 0 0 100
-    NCHAN 2
-    FX 1
-    TRACKID {26939233-24C7-0B20-1DDA-7348D7E02F55}
-    PERF 0
-    MIDIOUT -1
-    MAINSEND 1 0
-    <ITEM
-      POSITION 0
-      SNAPOFFS 0
-      LENGTH 328.96553481507601
-      LOOP 0
-      ALLTAKES 0
-      FADEIN 1 16.4802711631787 0 1 0 0 0
-      FADEOUT 1 0 0 1 0 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {3B7C7A6B-76F8-DC3F-988C-45A61322CB04}
-      IID 273
-      NAME "Matt Redman - Blessed Be Your Name (Lyrics And Chords) [music].mp3"
-      VOLPAN 1 0 1 -1
-      SOFFS 6.93159516540408
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {D75B9675-5EF3-D1B9-19F0-42C29E099970}
-      <SOURCE MP3
-        FILE "/home/butbkadrug/Documents/Matt Redman - Blessed Be Your Name (Lyrics And Chords) [music].mp3" 1
-      >
-    >
-  >
-  <TRACK {57E51B6B-226A-A37C-1DB8-231DB7EB09A4}
-    NAME ""
-    PEAKCOL 16576
-    BEAT -1
-    AUTOMODE 0
-    VOLPAN 0.54474440076806 0 -1 -1 1
-    MUTESOLO 0 0 0
-    IPHASE 0
-    PLAYOFFS 0 1
-    ISBUS 0 0
-    BUSCOMP 0 0 0 0 0
-    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
-    FIXEDLANES 9 0 0
-    SEL 0
-    REC 0 0 1 0 0 0 0 0
-    VU 2
-    TRACKHEIGHT 0 0 0 0 0 0 0
-    INQ 0 0 0 0.5 100 0 0 100
-    NCHAN 2
-    FX 1
-    TRACKID {57E51B6B-226A-A37C-1DB8-231DB7EB09A4}
-    PERF 0
-    MIDIOUT -1
-    MAINSEND 1 0
-    <ITEM
-      POSITION 0
-      SNAPOFFS 0
-      LENGTH 328.96553481507601
-      LOOP 0
-      ALLTAKES 0
-      FADEIN 1 16.93243996664242 0 1 0 0 0
-      FADEOUT 1 0 0 1 0 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {7DD04D24-1E3A-834F-1ABE-7EFF542E2189}
-      IID 274
+      IGUID {F09A9060-DF09-2C36-C568-0705EA398914}
+      IID 327
       NAME "Matt Redman - Blessed Be Your Name (Lyrics And Chords) [vocals].mp3"
       VOLPAN 1 0 1 -1
-      SOFFS 6.93159516540408
+      SOFFS 13.44827586206897
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {29B9D06E-6D6F-2663-8FD8-9EBE28722C84}
+      GUID {29ADD0F1-97F8-6711-81AB-8821F95566FB}
       <SOURCE MP3
-        FILE "/home/butbkadrug/Documents/Matt Redman - Blessed Be Your Name (Lyrics And Chords) [vocals].mp3" 1
+        FILE "/home/butbkadrug/Downloads/Matt Redman - Blessed Be Your Name (Lyrics And Chords) [vocals].mp3" 1
       >
     >
-  >
-  <TRACK {EAEE22A3-AC88-8C31-9D1F-3E2BDC4B2374}
-    NAME ""
-    PEAKCOL 16576
-    BEAT -1
-    AUTOMODE 0
-    VOLPAN 1 0 -1 -1 1
-    MUTESOLO 1 0 0
-    IPHASE 0
-    PLAYOFFS 0 1
-    ISBUS 2 -1
-    BUSCOMP 0 0 0 0 0
-    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
-    FIXEDLANES 9 0 0
-    SEL 0
-    REC 0 0 1 0 0 0 0 0
-    VU 2
-    TRACKHEIGHT 0 0 0 0 0 0 0
-    INQ 0 0 0 0.5 100 0 0 100
-    NCHAN 2
-    FX 1
-    TRACKID {EAEE22A3-AC88-8C31-9D1F-3E2BDC4B2374}
-    PERF 0
-    MIDIOUT -1
-    MAINSEND 1 0
-    <ITEM
-      POSITION 0
-      SNAPOFFS 0
-      LENGTH 328.9655172413793
-      LOOP 0
-      ALLTAKES 0
-      FADEIN 1 16.4802711631787 0 1 0 0 0
-      FADEOUT 1 0 0 1 0 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {8D8548B0-4C09-1553-66DC-8CC48EEDE3E6}
-      IID 275
-      NAME "Matt Redman - Blessed Be Your Name (Lyrics And Chords).mp3"
-      VOLPAN 1 0 1 -1
-      SOFFS 6.93159516540408
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {18810DC6-017A-7436-A500-BB1FADA25CBC}
-      <SOURCE MP3
-        FILE "/home/butbkadrug/Documents/Matt Redman - Blessed Be Your Name (Lyrics And Chords).mp3" 1
-      >
-    >
-  >
-  <EXTENSIONS
   >
 >

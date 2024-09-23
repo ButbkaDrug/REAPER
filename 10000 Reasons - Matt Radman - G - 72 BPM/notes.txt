@@ -1,4 +1,5 @@
-
+[Note 1]
+--Just a test note
 
 [ Note 2 ]
 Piano only

@@ -1,49 +1,48 @@
 
-
 [ Note 2 ]
-Drums - Ride Cymbal(4th)
+--Drums: Ride Cymbal(4th)
 
 [ Note 25 ]
-Drusm - Add Kick(4th)
+--Drums:  Add Kick(4th)
 
 [ Note 4 ]
-Drums - Kick(4th) + Low Tom(on 2 and 4)
+--Drums: Kick(4th) + Low Tom(on 2 and 4)
 
 [ Note 5 ]
-Drums - Kick(4th), Low Tom(8th) and Snare(on 2 and 4)
+--Drums: Kick(4th), Low Tom(8th) and Snare(on 2 and 4)
 
 [ Note 6 ]
-Drums - Ride only(4th)
+--Drums: Ride only(4th)
 
 [ Note 7 ]
-Drums - Kick(4th) + Low Tom(8th) + High Tom(on 2 and 4)
+--Drums: Kick(4th) + Low Tom(8th) + High Tom(on 2 and 4)
 
 [ Note 8 ]
-Same grove but snare in place of High Tom
+--Drums: Same grove but snare in place of High Tom
 
 [ Note 9 ]
-Drums - Money beat
+--Drums: Money beat
 
 [ Note 10 ]
-Drums Break on Last Bar
+--Drums:Break on Last Bar
 
 [ Note 11 ]
-Drums - Build to bridge. Kick, Snare, Low Tom 8th note build
+--Drums: Build to bridge. Kick, Snare, Low Tom 8th note build
 
 [ Note 12 ]
-Drums - Money beat(open hi-hat)
+--Drums: Money beat(open hi-hat)
 
 [ Note 16 ]
-Drums - Break on last Bar
+--Drums: Break on last Bar
 
 [ Note 19 ]
-Drums - Start on 3rd bar. Kick(4th) Low Tom(8th) High Tom(on 2 and 4)
+--Drums: Start on 3rd bar. Kick(4th) Low Tom(8th) High Tom(on 2 and 4)
 
 [ Note 21 ]
-Drums - Same beat but with Snare in place of High Tom
+--Drums: Same beat but with Snare in place of High Tom
 
 [ Note 20 ]
-Money Beat
+--Drums: Money Beat
 
 [ Note 24 ]
-Drums - Accents
+--Drums: Accents

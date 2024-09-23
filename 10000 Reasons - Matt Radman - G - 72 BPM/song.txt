@@ -1,5 +1,5 @@
 [Intro]
---Plays like chorus
+--Plays like chorus 
 #4 1 5/7 6m
 #4 1 5sus4 5
 
