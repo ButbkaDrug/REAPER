@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "7.07/linux-x86_64" 1718466054
+<REAPER_PROJECT 0.1 "7.19/linux-x86_64" 1728576000
   TITLE One
   AUTHOR Bethel
   <NOTES 0 0
@@ -19,8 +19,8 @@
   TIMEMODE 1 5 -1 30 0 0 -1
   VIDEO_CONFIG 0 0 256
   PANMODE 3
-  CURSOR 165.40540540540542
-  ZOOM 2.64582498887191 0 0
+  CURSOR 289.45945945945948
+  ZOOM 14.61791040097819 3800 0
   VZOOMEX 12 0
   USE_REC_CFG 0
   RECMODE 1
@@ -54,10 +54,14 @@
   LOCK 1
   <METRONOME 7 2
     VOL 1 1
-    FREQ 800 1600 1
     BEATLEN 4
+    FREQ 800 1600 1
     SAMPLES "" ""
-    PATTERN 2863311530 2863311513
+    SPLIGNORE 0 0
+    SPLDEF 2 660 "" 0
+    SPLDEF 3 440 "" 0
+    PATTERN 0 153
+    PATTERNSTR ABAB
     MULT 2
   >
   GLOBAL_AUTO -1
@@ -114,10 +118,12 @@
   MARKER 10 240 "" 1
   MARKER 11 240 Bridge 1 0 1 B {E4B66A46-0D22-E698-EAFD-CD391740B115} 0
   MARKER 11 265.94594594594594 "" 1
-  MARKER 12 265.94594594594594 Outro 1 0 1 B {8EEFC6F5-5764-65E5-0852-DFB9DA339D1E} 0
-  MARKER 12 291.89189189189187 "" 1
-  MARKER 13 291.89189189189187 Ending 1 0 1 B {B97FD36F-FD15-7EDC-A76C-2B23C8631519} 0
-  MARKER 13 304.86486486486484 "" 1
+  MARKER 12 265.94594594594594 Outro 9 0 1 B {8EEFC6F5-5764-65E5-0852-DFB9DA339D1E} 0
+  MARKER 12 291.89189189189187 "" 9
+  MARKER 14 291.89189189189187 Outro 9 0 1 B {2483C34A-52CE-E0D5-4289-3F1A6AD950C2} 0
+  MARKER 14 317.83783783783781 "" 9
+  MARKER 13 317.83783783783781 Ending 1 0 1 B {B97FD36F-FD15-7EDC-A76C-2B23C8631519} 0
+  MARKER 13 330.81081081081078 "" 1
   <PROJBAY
   >
   <TRACK {659C6BDB-5265-F56A-B10E-FD6F4D8A6648}
@@ -154,23 +160,61 @@
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {5021AE0C-BC2F-4FD3-B111-D8AC2D963924}
-      IID 84
+      IGUID {3DF851A3-6DB3-184F-410B-297B3BB31A77}
+      IID 124
       NAME "Click source"
       VOLPAN 1 0 1 -1
       SOFFS 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {A755648D-FD14-4E0D-9EEF-2E4AD6480252}
+      GUID {41AF4E81-9CBA-DB90-5B06-0F634F0C0100}
       <SOURCE CLICK
         AUTO 1
         BPM 74
-        BPI 4
+        BPI 4 4
         VOL 1 1
-        FREQ 800 1600 1
         BEATLEN 4
+        FREQ 800 1600 1
         SAMPLES "/home/butbkadrug/Music/Assets/Clicks/New Click -  Blip-accents.wav" "/home/butbkadrug/Music/Assets/Clicks/New Click -  Blip-sixteenth.wav"
-        PATTERN 2863311530 2863311529
+        SPLIGNORE 0 0
+        SPLDEF 2 660 "" 0
+        SPLDEF 3 440 "" 0
+        PATTERN 0 169
+        PATTERNSTR ABBB
+        MULT 1
+      >
+    >
+    <ITEM
+      POSITION 291.89189189189187
+      SNAPOFFS 0
+      LENGTH 25.94594594594599
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {7BA78184-4F93-6804-B2AB-F876ADC2D7F0}
+      IID 84
+      NAME "Click source"
+      VOLPAN 1 0 1 -1
+      SOFFS 265.94594594594594
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4F467BA8-EB1B-0BC4-09D3-FD8D90F0E25E}
+      <SOURCE CLICK
+        AUTO 1
+        BPM 74
+        BPI 4 4
+        VOL 1 1
+        BEATLEN 4
+        FREQ 800 1600 1
+        SAMPLES "/home/butbkadrug/Music/Assets/Clicks/New Click -  Blip-accents.wav" "/home/butbkadrug/Music/Assets/Clicks/New Click -  Blip-sixteenth.wav"
+        SPLIGNORE 0 0
+        SPLDEF 2 660 "" 0
+        SPLDEF 3 440 "" 0
+        PATTERN 0 169
+        PATTERNSTR ABBB
         MULT 1
       >
     >
@@ -996,7 +1040,73 @@
       >
     >
     <ITEM
-      POSITION 288.64864864864865
+      POSITION 288.64864864863921
+      SNAPOFFS 0
+      LENGTH 0.81081081081084
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {FB166756-EE97-A328-13A6-4F8301D71153}
+      IID 39
+      NAME "English Female - Outro.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F07F7E8C-995D-CB6B-B144-B11067E9194F}
+      <SOURCE WAVE
+        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - Outro.wav"
+      >
+    >
+    <ITEM
+      POSITION 290.27027027027026
+      SNAPOFFS 0
+      LENGTH 0.81081081081081
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {A0713B72-6957-1284-4AAF-E33F988489FA}
+      IID 127
+      NAME "English Female - 3.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {32E07686-A7CC-986D-4ED6-0F36366B37E6}
+      <SOURCE WAVE
+        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 3.wav"
+      >
+    >
+    <ITEM
+      POSITION 291.08108108108109
+      SNAPOFFS 0
+      LENGTH 0.81081081081081
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {D5DF78E6-4917-5C06-4EEA-1F72E689FAF1}
+      IID 128
+      NAME "English Female - 4.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4C49A6EB-26FD-CA54-FA35-81CD86091904}
+      <SOURCE WAVE
+        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 4.wav"
+      >
+    >
+    <ITEM
+      POSITION 314.59459459459458
       SNAPOFFS 0
       LENGTH 0.81081081081081
       LOOP 0
@@ -1018,7 +1128,7 @@
       >
     >
     <ITEM
-      POSITION 290.27027027027026
+      POSITION 316.2162162162162
       SNAPOFFS 0
       LENGTH 0.81081081081081
       LOOP 0
@@ -1040,7 +1150,7 @@
       >
     >
     <ITEM
-      POSITION 291.08108108108109
+      POSITION 317.02702702702703
       SNAPOFFS 0
       LENGTH 0.81081081081081
       LOOP 0
@@ -1061,7 +1171,5 @@
         FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 4.wav"
       >
     >
-  >
-  <EXTENSIONS
   >
 >

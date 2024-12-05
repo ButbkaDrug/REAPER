@@ -4,13 +4,13 @@
 [Instrumental]
 --Played same as regular chorus
 #15 6m7 42
-#15 4sus4 6m7 42
+#15 54 6m7 42
 
 [Breakdown]
 #15
 
 [Outro]
-#1sus4 1 1sus4 1
+#14 1 14 1
 
 [Ending]
 #15
@@ -45,15 +45,15 @@ To face the ^day
 #5add4 42
 {7.3748902546, 4.2142230026}
 And in Your ^presence all our ^fears
-#15 5sus4
+#15 54
 {11.5891132572, 4.2142230026}
 Are washed a^way washed ^away
 
 [ Chorus 1 ]
-#1sus4 1 6m7 42
+#14 1 6m7 42
 {-0.5267778753, 7.8354192786}
 Hos^an - ^na Ho^sanna
-#15 4sus4
+#15 54
 {7.3086414033, 4.1939266747}
 You are the ^God who saves ^us
 #6m7 42
@@ -61,15 +61,15 @@ You are the ^God who saves ^us
 Worthy of ^all our prai^ses
 
 [ Chorus 2 ]
-#1sus4 1 6m7 42
+#14 1 6m7 42
 {-0.5267778753, 7.90166813}
 Hos^an - ^na Ho^sanna
-#15 4sus4
+#15 54
 {7.3748902547, 3.9235316776}
 Come have Your ^way among ^us
 #6m7 42
 {11.2984219323, 6.6120258289}
-We welcome You ^here Lord Je^sus
+We welcome You ^here Lord Je^
 
 [ Verse 3 ]
 Hear the sound of
@@ -90,9 +90,9 @@ Cause when we see You we find strength To face the day
 And in Your presence all our fears Are washed away
 
 [ Tag ]
-#1sus4 1 1sus4 1
+#14 1 14 1
 {-0.5267778754, 7.90166813}
-Hosanna Hosann
+Ho^san^na Ho^san^na
 
 [ Verse 1 R ]
 Тебя мы славим,
@@ -116,19 +116,19 @@ Hosanna Hosann
 
 [ Chorus 1 R ]
 {-0.5267778753, 7.8354192786}
-Осанна, Осанна
+Ос^анн^а, Ос^анн^а
 {7.3086414033, 4.1939266747}
-Ты - тот, кто спасает жизни,
+Ты - тот, кто спас^ает жизн^и,
 {11.502568078, 4.3007681819}
-Один Ты достоин славы
+Один Ты дост^оин слав^ы
 
 [ Chorus 2 R ]
 {-0.5267778753, 7.90166813}
-Осанна, Осанна
+Ос^анн^а, Ос^анн^а
 {7.3086414033, 4.1939266747}
-Приди и живи в нас, вечно,
+Приди и жив^и в нас, вечн^о,
 {11.2984219323, 6.6120258289}
-Ты - Святый Господь, Спаситель
+Ты - Святый Госп^одь, Спасит^ель
 
 [ Verse 3 R ]
 {0, 4.2142230026}
@@ -154,4 +154,4 @@ Oбновля^ешь,
 
 [ Tag R ]
 {-0.5267778754, 7.90166813}
-Осанна, Осанна
+Ос^анн^а, Ос^анн^а

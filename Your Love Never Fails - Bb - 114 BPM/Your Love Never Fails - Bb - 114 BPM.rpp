@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "7.07/linux-x86_64" 1722359774
+<REAPER_PROJECT 0.1 "7.27/linux-x86_64" 1732788158
   <NOTES 0 0
     | 
   >
@@ -17,9 +17,9 @@
   TIMEMODE 1 5 -1 30 0 0 -1
   VIDEO_CONFIG 0 0 256
   PANMODE 3
-  CURSOR 305.26315789473682
-  ZOOM 79.86757845401806 24216 0
-  VZOOMEX 35 1325
+  CURSOR 52.46659708014046
+  ZOOM 112.4178702560926 5714 0
+  VZOOMEX 9.86988831 0
   USE_REC_CFG 0
   RECMODE 1
   SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
@@ -52,10 +52,14 @@
   LOCK 1
   <METRONOME 6 2
     VOL 0.32511 0.043784
-    FREQ 700 700 1
     BEATLEN 4
+    FREQ 700 700 1
     SAMPLES "" ""
-    PATTERN 2863311530 2863311513
+    SPLIGNORE 0 0
+    SPLDEF 2 660 "" 0
+    SPLDEF 3 440 "" 0
+    PATTERN 0 153
+    PATTERNSTR ABAB
     MULT 2
   >
   GLOBAL_AUTO -1
@@ -67,7 +71,7 @@
   MASTERTRACKHEIGHT 0 0
   MASTERPEAKCOL 16576
   MASTERMUTESOLO 0
-  MASTERTRACKVIEW 1 0.6667 0.5 0.5 0 -1 0 0 2 2 0 0 0 0
+  MASTERTRACKVIEW 0 0.6667 0.5 0.5 0 -1 0 0 2 2 0 0 0 0
   MASTERHWOUT 0 0 1 0 0 0 0 -1
   MASTERHWOUT 0 0 1 0 0 0 4 -1
   MASTERHWOUT 0 0 1 0 0 0 1030 -1
@@ -97,7 +101,7 @@
     LANEHEIGHT 0 0
     ARM 0
     DEFSHAPE 1 -1 -1
-    PT 0.000000000000 114.0000000000 1 0 0 8 0 "" 2863311530 2863311513
+    PT 0.000000000000 114.0000000000 1 0 0 8 0 "" 0 153 0 ABAB
   >
   MARKER 1 0 "Your Love Never Fails - Jesus Culture - Bb - 114 BPM" 1 16842751 1 B {543E47F6-87F1-4C5B-40AF-AEF1BD7461F5} 0
   MARKER 1 2.10526315789474 "" 1
@@ -194,7 +198,7 @@
     ISBUS 0 0
     BUSCOMP 0 0 1 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 -1 0
-    SEL 0
+    SEL 1
     REC 0 0 1 0 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0 0 0 0 0
@@ -227,12 +231,16 @@
       <SOURCE CLICK
         AUTO 1
         BPM 120
-        BPI 4
+        BPI 4 4
         VOL 1 1
-        FREQ 800 1600 1
         BEATLEN 4
-        SAMPLES "/mnt/win10/Users/butbkadrug/Music/Assets/Clicks/New Click -  Blip-accents.wav" "/mnt/win10/Users/butbkadrug/Music/Assets/Clicks/New Click -  Blip-sixteenth.wav"
-        PATTERN 2863311530 2863311529
+        FREQ 800 1600 1
+        SAMPLES "/home/butbkadrug/Music/Assets/Clicks/New Click -  Blip-accents.wav" "/home/butbkadrug/Music/Assets/Clicks/New Click -  Blip-sixteenth.wav"
+        SPLIGNORE 0 0
+        SPLDEF 2 660 "" 0
+        SPLDEF 3 440 "" 0
+        PATTERN 0 43433
+        PATTERNSTR ABBBABBB
         MULT 2
       >
     >
@@ -249,7 +257,7 @@
     ISBUS 0 0
     BUSCOMP 0 0 1 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 -1 0
-    SEL 1
+    SEL 0
     REC 0 0 1 0 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0 0 0 0 0
@@ -1366,7 +1374,7 @@
     ISBUS 0 0
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
-    FIXEDLANES 9 0 0
+    FIXEDLANES 9 0 0 0 0
     SEL 0
     REC 0 0 1 0 0 0 0 0
     VU 2

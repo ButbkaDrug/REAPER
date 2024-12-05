@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "7.19/linux-x86_64" 1724572947
+<REAPER_PROJECT 0.1 "7.24/linux-x86_64" 1731228240
   AUTHOR PROJECT_AUTHOR
   RIPPLE 0
   GROUPOVERRIDE 0 0 0
@@ -15,7 +15,7 @@
   TIMEMODE 1 5 -1 30 0 0 -1
   VIDEO_CONFIG 0 0 256
   PANMODE 3
-  CURSOR 17.04209815118939
+  CURSOR 34.06451612903226
   ZOOM 4.5213267266622 0 0
   VZOOMEX 2.86322975 0
   USE_REC_CFG 0
@@ -132,7 +132,7 @@
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
     FIXEDLANES 9 0 0 0 0
-    SEL 0
+    SEL 1
     REC 0 0 1 0 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0 0 0 0 0
@@ -153,7 +153,7 @@
       FADEIN 1 0 0 1 0 0 0
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
-      SEL 0
+      SEL 1
       IGUID {6FFA8288-DFEB-CC6C-5F2D-51132756D97A}
       IID 19
       NAME "Click source"
@@ -169,7 +169,7 @@
         VOL 1 1
         BEATLEN 4
         FREQ 800 1600 1
-        SAMPLES "/mnt/win10/Users/butbkadrug/Music/Assets/Clicks/New Click -  Blip-accents.wav" "/mnt/win10/Users/butbkadrug/Music/Assets/Clicks/New Click -  Blip-sixteenth.wav"
+        SAMPLES "/home/butbkadrug/Music/Assets/Clicks/New Click -  Blip-accents.wav" "/home/butbkadrug/Music/Assets/Clicks/New Click -  Blip-sixteenth.wav"
         SPLIGNORE 0 0
         SPLDEF 2 660 "" 0
         SPLDEF 3 440 "" 0
@@ -625,7 +625,7 @@
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
     FIXEDLANES 9 0 0 0 0
-    SEL 1
+    SEL 0
     REC 0 0 1 0 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0 0 0 0 0
@@ -658,5 +658,7 @@
         FILE "/home/butbkadrug/Downloads/All That I Am _ Treasured VBS _ Group Publishing [vocals].mp3" 1
       >
     >
+  >
+  <EXTENSIONS
   >
 >

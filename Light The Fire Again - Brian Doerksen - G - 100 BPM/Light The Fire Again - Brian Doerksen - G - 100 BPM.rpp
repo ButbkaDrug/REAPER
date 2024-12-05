@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "7.07/linux-x86_64" 1717267147
+<REAPER_PROJECT 0.1 "7.24/linux-x86_64" 1730633436
   RIPPLE 0
   GROUPOVERRIDE 0 0 0
   AUTOXFADE 129
@@ -14,8 +14,8 @@
   TIMEMODE 1 5 -1 30 0 0 -1
   VIDEO_CONFIG 0 0 256
   PANMODE 3
-  CURSOR 41.28912570983056
-  ZOOM 7.96819972193473 0 0
+  CURSOR 169.65113778418959
+  ZOOM 2.85736487721823 0 0
   VZOOMEX 19 0
   USE_REC_CFG 0
   RECMODE 1
@@ -49,17 +49,21 @@
   LOCK 1
   <METRONOME 6 2
     VOL 1 0.682679
-    FREQ 800 1600 1
     BEATLEN 4
+    FREQ 800 1600 1
     SAMPLES "C:\Users\butbkadrug\Music\Assets\Clicks\New Click -  Blip-accents.wav" "C:\Users\butbkadrug\Music\Assets\Clicks\New Click -  Blip-sixteenth.wav"
-    PATTERN 2863311530 2863311513
+    SPLIGNORE 0 0
+    SPLDEF 2 660 "" 0
+    SPLDEF 3 440 "" 0
+    PATTERN 0 153
+    PATTERNSTR ABAB
     MULT 2
   >
   GLOBAL_AUTO -1
   TEMPO 120 4 4
   PLAYRATE 1 0 0.25 4
-  SELECTION 0 0
-  SELECTION2 0 0
+  SELECTION 81.64948453608247 106.39175257731959
+  SELECTION2 81.64948453608247 106.39175257731959
   MASTERAUTOMODE 0
   MASTERTRACKHEIGHT 0 0
   MASTERPEAKCOL 16576
@@ -85,51 +89,34 @@
     LANEHEIGHT 0 0
     ARM 0
     DEFSHAPE 1 -1 -1
-    PT 0.000000000000 97.0000000000 1 0 0 8 0 "" 2863311530 2863311513
+    PT 0.000000000000 97.0000000000 1 0 0 8 0 "" 0 153 0 ABAB
   >
   MARKER 2 0 "Light The Fire Again" 1 16842751 1 B {F7CA8F97-DD94-42AF-BED4-644C2D64251C} 0
   MARKER 2 7.42268041237113 "" 1
   MARKER 1 7.42268041237113 Intro 1 16842751 1 B {2694186C-C3B6-4C8F-B02D-31F16B4875E9} 0
   MARKER 1 27.21649484536082 "" 1
-  MARKER 3 27.21649484536082 "Verse 1" 1 25198847 1 B {6F8CC060-A103-4809-BC1D-449F7B460C10} 0
+  MARKER 3 27.21649484536082 "Verse 1 R" 1 25198847 1 B {6F8CC060-A103-4809-BC1D-449F7B460C10} 0
   MARKER 3 47.01030927835052 "" 1
-  MARKER 1 27.83505154639175 "" 0 0 1 B {E8A54F81-3CCF-FCF0-3FE7-8CBD5FE00012} 0
-  MARKER 2 31.84100512300875 "" 0 0 1 B {2E0E2DC6-667A-D5E9-3FFA-8C93272D9BD4} 0
-  MARKER 3 37.73024705289755 "" 0 0 1 B {6227CB5F-DC29-E40E-C6DF-A26646E3AF55} 0
-  MARKER 4 41.5993893996433 "" 0 0 1 B {D17D5900-A1E4-B26D-22DD-95CE4D6F9574} 0
   MARKER 4 47.01030927835052 Instrumental 1 21855490 1 B {5E59AC0D-746C-4F6E-BE66-CDDAD9C84D1A} 0
   MARKER 4 56.90721649484536 "" 1
-  MARKER 5 48.26969354781296 EOL 0 0 1 B {D3BDDEBE-5D1B-6470-32A0-C7B754853F96} 0
-  MARKER 5 56.90721649484536 "Verse 2" 1 25198847 1 B {24A804C9-1317-4EBB-94C8-18C91074FD2E} 0
+  MARKER 5 56.90721649484536 "Verse 2 R" 1 25198847 1 B {24A804C9-1317-4EBB-94C8-18C91074FD2E} 0
   MARKER 5 76.70103092783506 "" 1
-  MARKER 6 57.31520638074117 "" 0 0 1 B {2F3567FF-AF7D-20F2-59EA-8A8F7561AF22} 0
-  MARKER 7 61.48926763433811 "" 0 0 1 B {0686B17F-ADE9-2179-9428-906EBB60EE19} 0
-  MARKER 8 67.4013040075223 "" 0 0 1 B {22369D05-5F19-4C69-7D42-6D4AA572D15E} 0
-  MARKER 9 71.28911053554016 "" 0 0 1 B {219214AE-B480-6DFD-34DE-A36AF118C2F6} 0
   MARKER 6 76.70103092783506 Vamp 1 16842751 1 B {D368A912-8F40-4A39-B6A3-F6160044B52B} 0
   MARKER 6 81.64948453608247 "" 1
-  MARKER 7 81.64948453608247 Chorus 1 27469061 1 B {CA72905E-4E90-4136-9AD9-9185139284C8} 0
-  MARKER 7 106.39175257731959 "" 1
-  MARKER 10 81.64948453608247 "" 0 0 1 B {D0BBF462-3D61-5515-00D2-4E74A0D91124} 0
-  MARKER 11 85.02933736333581 "" 0 0 1 B {3071BAE4-D78E-96F7-0B01-4330929D4715} 0
-  MARKER 12 88.77401652856413 "" 0 0 1 B {87608F3E-DCBB-CE39-73BB-3E9298A70312} 0
-  MARKER 13 91.13123656471021 "" 0 0 1 B {1B4DDB0C-872A-2C2F-5804-525AC19E83A7} 0
-  MARKER 14 95.20598495433073 "" 0 0 1 B {244B0BA2-0C4F-65BD-2B33-8828FC09324D} 0
-  MARKER 15 100.1132088214006 "" 0 0 1 B {4C9F7FAF-B81D-99C8-160B-0155D26C1F02} 0
-  MARKER 16 105.0846939533964 "" 0 0 1 B {D2FEDFAE-52B0-7A13-F511-B1EBD30DFC67} 0
+  MARKER 7 81.64948453608247 "Chorus R" 9 27469061 1 B {CA72905E-4E90-4136-9AD9-9185139284C8} 0
+  MARKER 7 106.39175257731959 "" 9
   MARKER 8 106.39175257731959 Instrumental 1 21855490 1 B {50B7022C-2996-4B26-8817-82F69F44035B} 0
   MARKER 8 126.18556701030928 "" 1
-  MARKER 17 107.78658804687238 EOL 0 0 1 B {70ADAFA2-E76D-EBC5-59CF-07DD8296B6EE} 0
-  MARKER 9 126.18556701030928 "Verse 1 R" 1 25198847 1 B {2FAFE02E-D5C5-4F50-84FF-BC189D4C196D} 0
-  MARKER 9 145.97938144329896 "" 1
+  MARKER 9 126.18556701030928 "Verse 1" 9 25198847 1 B {2FAFE02E-D5C5-4F50-84FF-BC189D4C196D} 0
+  MARKER 9 145.97938144329896 "" 9
   MARKER 10 145.97938144329896 Instrumental 1 21855490 1 B {AE8657BA-CD69-4E74-833A-527939F7E5CB} 0
   MARKER 10 155.8762886597938 "" 1
-  MARKER 11 155.8762886597938 "Verse 2 R" 1 25198847 1 B {A994700C-EC68-4D68-B578-BA50EB71A6BB} 0
-  MARKER 11 175.67010309278351 "" 1
+  MARKER 11 155.8762886597938 "Verse 2" 9 25198847 1 B {A994700C-EC68-4D68-B578-BA50EB71A6BB} 0
+  MARKER 11 175.67010309278351 "" 9
   MARKER 16 175.67010309278351 Vamp 1 16842751 1 B {15E45608-5B2D-488B-AD56-7A2742B90D46} 0
   MARKER 16 180.61855670103094 "" 1
-  MARKER 13 180.61855670103094 "Chorus R" 1 27469061 1 B {5B78D8A4-8609-4F9D-AA14-96CA499DA2D6} 0
-  MARKER 13 205.36082474226805 "" 1
+  MARKER 13 180.61855670103094 Chorus 9 27469061 1 B {5B78D8A4-8609-4F9D-AA14-96CA499DA2D6} 0
+  MARKER 13 205.36082474226805 "" 9
   MARKER 18 205.36082474226805 Instrumental 1 21855490 1 B {39063DC7-C64B-4DE0-85CB-EC0AE4DE5C84} 0
   MARKER 18 225.15463917525773 "" 1
   MARKER 12 225.15463917525773 Ending 1 16842751 1 B {2EAFAFFE-799A-455B-9DF6-01AF432ED7EE} 0
@@ -169,7 +156,7 @@
       FADEIN 1 0 0 1 0 0 0
       FADEOUT 1 0.01030927835052 0 1 0 0 0
       MUTE 0 0
-      SEL 0
+      SEL 1
       IGUID {6B78C30F-0001-4B2B-A128-A3078CED98ED}
       IID 2694
       NAME "Click source"
@@ -181,12 +168,16 @@
       <SOURCE CLICK
         AUTO 1
         BPM 120
-        BPI 4
+        BPI 4 4
         VOL 1 1
-        FREQ 800 1600 1
         BEATLEN 4
-        SAMPLES "/mnt/win10/Users/butbkadrug/Music/Assets/Clicks/New Click -  Blip-accents.wav" "/mnt/win10/Users/butbkadrug/Music/Assets/Clicks/New Click -  Blip-sixteenth.wav"
-        PATTERN 2863311530 2863311529
+        FREQ 800 1600 1
+        SAMPLES "/home/butbkadrug/Music/Assets/Clicks/New Click -  Blip-accents.wav" "/home/butbkadrug/Music/Assets/Clicks/New Click -  Blip-sixteenth.wav"
+        SPLIGNORE 0 0
+        SPLDEF 2 660 "" 0
+        SPLDEF 3 440 "" 0
+        PATTERN 0 43433
+        PATTERNSTR ABBBABBB
         MULT 2
       >
     >
@@ -234,7 +225,7 @@
       CHANMODE 0
       GUID {40217B47-8A09-424F-9A48-B12857E579A1}
       <SOURCE WAVE
-        FILE "/mnt/win10/Users/butbkadrug/Music/Assets/Cues/English Female - Drums.wav"
+        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - Drums.wav"
       >
     >
     <ITEM
@@ -256,7 +247,7 @@
       CHANMODE 0
       GUID {3D7D64EB-ECE9-44F9-9A6C-9613B3BE720F}
       <SOURCE WAVE
-        FILE "/mnt/win10/Users/butbkadrug/Music/Assets/Cues/English Female - 2.wav"
+        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 2.wav"
       >
     >
     <ITEM
@@ -278,7 +269,7 @@
       CHANMODE 0
       GUID {888F4790-8503-4189-A3E6-ABC84DF0DD26}
       <SOURCE WAVE
-        FILE "/mnt/win10/Users/butbkadrug/Music/Assets/Cues/English Female - 3.wav"
+        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 3.wav"
       >
     >
     <ITEM
@@ -300,7 +291,7 @@
       CHANMODE 0
       GUID {72684DFC-5969-4B98-A744-944359F8D006}
       <SOURCE WAVE
-        FILE "/mnt/win10/Users/butbkadrug/Music/Assets/Cues/English Female - 4.wav"
+        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 4.wav"
       >
     >
     <ITEM
@@ -322,7 +313,7 @@
       CHANMODE 0
       GUID {C37211FE-678E-4D80-9791-FD14248244B7}
       <SOURCE WAVE
-        FILE "/mnt/win10/Users/butbkadrug/Music/Assets/Cues/English Female - All In.wav"
+        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - All In.wav"
       >
     >
     <ITEM
@@ -345,7 +336,7 @@
       CHANMODE 0
       GUID {87954D39-665E-49DA-A0E8-E83EAB20BBCF}
       <SOURCE WAVE
-        FILE "/mnt/win10/Users/butbkadrug/Music/Assets/Cues/English Female - Verse.wav"
+        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - Verse.wav"
       >
     >
     <ITEM
@@ -368,7 +359,7 @@
       CHANMODE 0
       GUID {BCC3B682-1A0D-4BD5-ADBA-2AB080265763}
       <SOURCE WAVE
-        FILE "/mnt/win10/Users/butbkadrug/Music/Assets/Cues/English Female - Instrumental.wav"
+        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - Instrumental.wav"
       >
     >
     <ITEM
@@ -391,7 +382,7 @@
       CHANMODE 0
       GUID {0734F37F-E285-4418-A1E8-022712015428}
       <SOURCE WAVE
-        FILE "/mnt/win10/Users/butbkadrug/Music/Assets/Cues/English Female - Verse.wav"
+        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - Verse.wav"
       >
     >
     <ITEM
@@ -414,7 +405,7 @@
       CHANMODE 0
       GUID {3D539536-21DC-45E5-A50F-4F28E9FA1983}
       <SOURCE WAVE
-        FILE "/mnt/win10/Users/butbkadrug/Music/Assets/Cues/English Female - Vamp.wav"
+        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - Vamp.wav"
       >
     >
     <ITEM
@@ -437,7 +428,7 @@
       CHANMODE 0
       GUID {596784E9-D3A4-4E12-BBD1-305B38C5A530}
       <SOURCE WAVE
-        FILE "/mnt/win10/Users/butbkadrug/Music/Assets/Cues/English Female - Chorus.wav"
+        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - Chorus.wav"
       >
     >
     <ITEM
@@ -460,7 +451,7 @@
       CHANMODE 0
       GUID {3FEBB696-EE97-40FE-B631-AFD0F683DE31}
       <SOURCE WAVE
-        FILE "/mnt/win10/Users/butbkadrug/Music/Assets/Cues/English Female - Instrumental.wav"
+        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - Instrumental.wav"
       >
     >
     <ITEM
@@ -483,7 +474,7 @@
       CHANMODE 0
       GUID {DCAFEC96-B818-4178-9318-1771EFC00361}
       <SOURCE WAVE
-        FILE "/mnt/win10/Users/butbkadrug/Music/Assets/Cues/English Female - Verse.wav"
+        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - Verse.wav"
       >
     >
     <ITEM
@@ -506,7 +497,7 @@
       CHANMODE 0
       GUID {DD148F34-8F12-43F6-A6C4-0D8AF49DAEEC}
       <SOURCE WAVE
-        FILE "/mnt/win10/Users/butbkadrug/Music/Assets/Cues/English Female - Instrumental.wav"
+        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - Instrumental.wav"
       >
     >
     <ITEM
@@ -529,7 +520,7 @@
       CHANMODE 0
       GUID {1D8834BC-7063-41F3-BA83-9647C4A8A098}
       <SOURCE WAVE
-        FILE "/mnt/win10/Users/butbkadrug/Music/Assets/Cues/English Female - Verse.wav"
+        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - Verse.wav"
       >
     >
     <ITEM
@@ -552,7 +543,7 @@
       CHANMODE 0
       GUID {9EFD2A94-80E1-4729-9886-07C7A8A3D58E}
       <SOURCE WAVE
-        FILE "/mnt/win10/Users/butbkadrug/Music/Assets/Cues/English Female - Vamp.wav"
+        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - Vamp.wav"
       >
     >
     <ITEM
@@ -575,7 +566,7 @@
       CHANMODE 0
       GUID {5D91F932-E4F5-463C-AFEF-6BC37F4157BD}
       <SOURCE WAVE
-        FILE "/mnt/win10/Users/butbkadrug/Music/Assets/Cues/English Female - Chorus.wav"
+        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - Chorus.wav"
       >
     >
     <ITEM
@@ -598,7 +589,7 @@
       CHANMODE 0
       GUID {73C9C3CA-E27E-4A4F-A4EE-598981506526}
       <SOURCE WAVE
-        FILE "/mnt/win10/Users/butbkadrug/Music/Assets/Cues/English Female - Vamp.wav"
+        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - Vamp.wav"
       >
     >
     <ITEM
@@ -621,7 +612,7 @@
       CHANMODE 0
       GUID {9C1D050F-C52A-46AF-A821-F55AED11B888}
       <SOURCE WAVE
-        FILE "/mnt/win10/Users/butbkadrug/Music/Assets/Cues/English Female - Ending.wav"
+        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - Ending.wav"
       >
     >
   >
@@ -637,7 +628,7 @@
     ISBUS 0 0
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
-    FIXEDLANES 9 0 0
+    FIXEDLANES 9 0 0 0 0
     SEL 0
     REC 0 0 1 0 0 0 0 0
     VU 2

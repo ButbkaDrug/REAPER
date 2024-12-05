@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "7.19/linux-x86_64" 1726821192
+<REAPER_PROJECT 0.1 "7.24/linux-x86_64" 1728820230
   RIPPLE 0
   GROUPOVERRIDE 0 0 0
   AUTOXFADE 128
@@ -14,8 +14,8 @@
   TIMEMODE 1 5 -1 30 0 0 -1
   VIDEO_CONFIG 0 0 256
   PANMODE 3
-  CURSOR 16.55172413793104
-  ZOOM 35.35244505918015 386 0
+  CURSOR 9.93103448275862
+  ZOOM 12.67724685135802 0 0
   VZOOMEX 7 0
   USE_REC_CFG 0
   RECMODE 1
@@ -48,22 +48,22 @@
   >
   LOCK 1
   <METRONOME 6 2
-    VOL 0.25 0.125
+    VOL 1 1
     BEATLEN 4
     FREQ 800 1600 1
-    SAMPLES "" ""
+    SAMPLES "/home/butbkadrug/Music/Assets/Clicks/New Click -  Blip-accents.wav" "/home/butbkadrug/Music/Assets/Clicks/New Click -  Blip-sixteenth.wav"
     SPLIGNORE 0 0
     SPLDEF 2 660 "" 0
     SPLDEF 3 440 "" 0
     PATTERN 0 169
     PATTERNSTR ABBB
-    MULT 1
+    MULT 2
   >
   GLOBAL_AUTO -1
   TEMPO 72.5 4 4
   PLAYRATE 1 0 0.25 4
-  SELECTION 192 198.62068965517241
-  SELECTION2 192 198.62068965517241
+  SELECTION 297.93103448275861 0
+  SELECTION2 297.93103448275861 0
   MASTERAUTOMODE 0
   MASTERTRACKHEIGHT 0 0
   MASTERPEAKCOL 16576
@@ -133,7 +133,7 @@
     ISBUS 0 0
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
-    SEL 0
+    SEL 1
     REC 0 0 1 0 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0 0 0 0 0
@@ -148,58 +148,35 @@
     <ITEM
       POSITION 0
       SNAPOFFS 0
-      LENGTH 294.62068965517238
+      LENGTH 297.93103448275861
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0 0 1 0 0 0
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
-      FADEFLAG 1
-      SEL 0
-      IGUID {9F602FC5-8D99-4235-9364-5B91C2B956E9}
-      IID 3586
+      SEL 1
+      IGUID {284E7388-C03A-4E35-3728-6C094DF23909}
+      IID 3680
       NAME "Click source"
       VOLPAN 1 0 1 -1
       SOFFS 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {52EB7DE8-D16D-4C0D-BC23-5A1AE2E0A6F9}
+      GUID {D8E8B8CB-45C5-DF14-E348-AC2FEF14E41B}
       <SOURCE CLICK
-        AUTO 0
+        AUTO 1
         BPM 72.5
         BPI 4 4
-        VOL 1 1
+        VOL 0.993546 0.993546
         BEATLEN 4
-        FREQ 800 1600 1
-        SAMPLES "/mnt/win10/Users/butbkadrug/Music/Assets/Clicks/New Click -  Blip-accents.wav" "/mnt/win10/Users/butbkadrug/Music/Assets/Clicks/New Click -  Blip-sixteenth.wav"
+        FREQ 1760 880 1
+        SAMPLES "/home/butbkadrug/Music/Assets/Clicks/New Click -  Blip-accents.wav" "/home/butbkadrug/Music/Assets/Clicks/New Click -  Blip-sixteenth.wav"
         SPLIGNORE 0 0
         SPLDEF 2 660 "" 0
         SPLDEF 3 440 "" 0
-        PATTERN 0 153
-        PATTERNSTR ABAB
-        MULT 2
-      >
-    >
-    <ITEM
-      POSITION 281.37931034481153
-      SNAPOFFS 0
-      LENGTH 294.6206875
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0 0
-      FADEOUT 1 0 0 1 0 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {8EFCABCA-BA95-5F9B-9270-FC30B490B581}
-      IID 3633
-      NAME "10000 Reasons - Matt Radman - G - 72 BPM.rpp"
-      VOLPAN 1 0 1 -1
-      SOFFS 0
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {E072871F-A094-5858-5FBC-A43B41E19231}
-      <SOURCE RPP_PROJECT
-        FILE "10000 Reasons - Matt Radman - G - 72 BPM.rpp"
+        PATTERN 0 169
+        PATTERNSTR ABBB
+        MULT 1
       >
     >
   >
@@ -215,7 +192,7 @@
     ISBUS 2 -1
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
-    SEL 1
+    SEL 0
     REC 0 0 1 0 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0 0 0 0 0
@@ -375,7 +352,7 @@
       FADEOUT 1 0.01 0 1 0 0 0
       MUTE 0 0
       BEAT 1
-      SEL 1
+      SEL 0
       IGUID {BF60275C-D2DE-4DB4-98CA-C77F93214017}
       IID 3531
       NAME "English Female - Chorus.wav"
@@ -1285,5 +1262,7 @@
         FILE "/home/butbkadrug/Music/Assets/Cues/English Female - Last Time.wav"
       >
     >
+  >
+  <EXTENSIONS
   >
 >

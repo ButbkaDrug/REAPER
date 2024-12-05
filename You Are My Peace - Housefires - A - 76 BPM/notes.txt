@@ -1,0 +1,20 @@
+
+
+[ Notes 18 ]
+--drums: Drums out
+
+[ Notes 2 ]
+--drums: No Drums
+
+[ Notes 5 ]
+--drums: Drums In
+--drums: Hi hat & Kick
+
+[ Notes 11 ]
+--drums: Kick+ Hihat
+
+[ Notes 12 ]
+--drums: Full Groove
+
+[ Notes 7 ]
+--drums: Full Groove

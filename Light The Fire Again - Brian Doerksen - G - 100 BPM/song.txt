@@ -1,57 +1,67 @@
+[Intro]
+#1 5 2m 4
 
+[ Vamp ]
+#1
+
+[Endign]
+#1
+
+[Turnaround]
+#1 5 2m 4
+
+[Instrumental]
+#1 5 2m 4
 
 [ Verse 1 ]
-{0.618556701, 4.0059535766}
-Don't let my love grow cold
-{4.6245102776, 5.8892419299}
-I'm calling out light the fire again
-{10.5137522075, 3.8691423467}
-Don't let my vision die
-{14.3828945542, 6.6703041482}
-I'm calling out light the fire again
+#1 5
+^Don't let my love^ grow cold
+#2m 4
+I'm ^calling out ^light the fire again
+#1 5
+^Don't let my ^vision die
+#2m 4
+I'm ^calling out ^light the fire again
 
 [ Verse 2 ]
-{0.4079898859, 4.1740612536}
-You know my heart my deeds
-{4.5820511395, 5.9120363732}
-I'm calling out light the fire again
-{10.4940875127, 3.887806528}
-I need Your discipline
-{14.3818940407, 5.4119203923}
-I'm calling out light the fire again
+^You know my ^heart my deeds
+I'm ^calling out ^light the fire again
+^I need Your ^discipline
+I'm ^calling out ^light the fire again
 
 [ Chorus ]
-{0, 3.3798528272}
-I am here to buy gold
-{3.3798528272, 3.7446791653}
-Refined in the fire
-{7.1245319925, 2.3572200361}
-Naked and poor
-{9.4817520286, 4.0747483896}
-Wretched and blind I come
-{13.5565004182, 4.9072238671}
-Clothe me in white
-{18.4637242853, 4.971485132}
+#2m 6m
+^I am here to buy gold^
+#5
+Refined in the ^fire
+#4
+^Naked and poor
+#1/3 5
+^Wretched and blind I ^come
+#7b 7b/4 7b
+Clothe me in wh^ite
+#4/6 4 4/6 5sus4
 So I won't be ashamed
-{23.4352094173, 2.7018940935}
-Lord light the fire again
+#42
+^Lord light the fire again
 
 [ Verse 1 R ]
-Не дай любви остыть,
-Взываю я, зажги огонь опять.
-Не дай тебя забыть,
-Взываю я, зажги огонь опять.
+^Не дай любви^ остыть,
+Взыв^аю я, зажг^и огонь опять.
+^Не дай тебя^ забыть,
+Взыв^аю я, зажг^и огонь опять.
 
 [ Verse 2 R ]
-Ты знаешь каждый шаг,
-Взываю я, зажги огонь опять.
-Ты измени меня,
-Взываю я, зажги огонь опять.
+^Ты знаешь ^каждый шаг,
+Взыв^аю я, зажг^и огонь опять.
+^Ты измени^ меня,
+Взыв^аю я, зажг^и огонь опять.
 
 [ Chorus R ]
-Я сейчас пред тобой,
-Созданье твоё
-Беден и слаб, жалок и cлеп господь,
-Ты нужен мне!
+^Я сейчас пред тобой^,
+Созданье тв^оё
+Б^еден и слаб,
+^Жалок и cл^еп Господь,
+Ты нужен мне!^
 Свободным хочу быть я.
-Зажги же огонь опять
+^Зажги же огонь опять

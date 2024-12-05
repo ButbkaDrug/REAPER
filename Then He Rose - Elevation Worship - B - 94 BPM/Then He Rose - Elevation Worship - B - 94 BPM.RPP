@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "7.19/linux-x86_64" 1723975680
+<REAPER_PROJECT 0.1 "7.27/linux-x86_64" 1733149374
   TITLE Then
   AUTHOR Elevation
   <NOTES 0 0
@@ -7,7 +7,7 @@
   RIPPLE 0
   GROUPOVERRIDE 0 0 0
   AUTOXFADE 129
-  ENVATTACH 3
+  ENVATTACH 2
   POOLEDENVATTACH 0
   MIXERUIFLAGS 11 48
   PEAKGAIN 1
@@ -19,13 +19,13 @@
   TIMEMODE 1 5 -1 30 0 0 -1
   VIDEO_CONFIG 0 0 256
   PANMODE 3
-  CURSOR 219.57446808510639
-  ZOOM 4.6112266909343 564 0
-  VZOOMEX 6 0
+  CURSOR 227.2340425531915
+  ZOOM 35.8596041380915 7810 0
+  VZOOMEX 2 0
   USE_REC_CFG 0
   RECMODE 1
   SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
-  LOOP 0
+  LOOP 1
   LOOPGRAN 0 4
   RECORD_PATH "AudioFiles" ""
   <RECORD_CFG
@@ -66,20 +66,27 @@
   >
   GLOBAL_AUTO -1
   TEMPO 94 4 4
-  PLAYRATE 1 0 0.25 4
-  SELECTION 296.17021276595744 0
-  SELECTION2 296.17021276595744 0
+  PLAYRATE 0.7 0 0.25 4
+  SELECTION 227.2340425531915 229.62765957446808
+  SELECTION2 227.2340425531915 229.62765957446808
   MASTERAUTOMODE 0
   MASTERTRACKHEIGHT 0 0
   MASTERPEAKCOL 16576
   MASTERMUTESOLO 0
-  MASTERTRACKVIEW 0 0.6667 0.5 0.5 -1 -1 -1 0 0 0 -1 -1 0 0
+  MASTERTRACKVIEW 1 0.6667 0.5 0.5 -1 -1 -1 0 0 0 0 0 0 0
   MASTERHWOUT 0 0 1 0 0 0 0 -1
+  MASTERHWOUT 16 0 1 0 0 0 0 -1
   MASTER_NCH 2 2
   MASTER_VOLUME 1 0 -1 -1 1
   MASTER_PANMODE 3
   MASTER_FX 1
   MASTER_SEL 0
+  <MASTERFXLIST
+    WNDRECT 186 77 1180 211
+    SHOW 0
+    LASTSEL 2
+    DOCKED 0
+  >
   <MASTERPLAYSPEEDENV
     EGUID {676C926A-C04F-682B-0073-A1AFE7A36F66}
     ACT 0 -1
@@ -124,8 +131,8 @@
   MARKER 12 209.36170212765958 "" 1
   MARKER 13 209.36170212765958 "Bridge 2" 1 0 1 B {0F4BF850-CD08-04F2-61FA-9A16EEC991C8} 0
   MARKER 13 229.78723404255319 "" 1
-  MARKER 14 229.78723404255319 "Bridge 1 R" 1 0 1 B {44DD840A-BE34-BD09-63D1-35C0AD34F28A} 0
-  MARKER 14 250.21276595744681 "" 1
+  MARKER 14 229.78723404255319 "Bridge 1 R" 9 0 1 B {44DD840A-BE34-BD09-63D1-35C0AD34F28A} 0
+  MARKER 14 250.21276595744681 "" 9
   MARKER 15 250.21276595744681 "Bridge 2 R" 1 0 1 B {E2DDDB39-3403-19D0-1A6A-C3231578D420} 0
   MARKER 15 270.63829787234044 "" 1
   MARKER 16 270.63829787234044 "Chorus R" 1 0 1 B {5A7C56F7-D0DC-F681-D1AB-EEFFAAE9C4BE} 0
@@ -149,7 +156,7 @@
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
     FIXEDLANES 9 0 0 0 0
-    SEL 1
+    SEL 0
     REC 0 0 1 0 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0 0 0 0 0
@@ -202,7 +209,7 @@
     BEAT -1
     AUTOMODE 0
     VOLPAN 1 0 -1 -1 1
-    MUTESOLO 0 0 0
+    MUTESOLO 1 0 0
     IPHASE 0
     PLAYOFFS 0 1
     ISBUS 0 0
@@ -241,7 +248,7 @@
       CHANMODE 0
       GUID {F8BF362A-EF42-2DE5-6A42-9C6E78A35A51}
       <SOURCE WAVE
-        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 1.wav"
+        FILE "AudioFiles/English Female - 1.wav"
       >
     >
     <ITEM
@@ -264,7 +271,7 @@
       CHANMODE 0
       GUID {B2EF1B49-11FC-FC5A-550A-70DD4796D50A}
       <SOURCE WAVE
-        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 2.wav"
+        FILE "AudioFiles/English Female - 2.wav"
       >
     >
     <ITEM
@@ -286,7 +293,7 @@
       CHANMODE 0
       GUID {FA357444-A991-74B6-1548-6B2CD3F1FC06}
       <SOURCE WAVE
-        FILE "//home//butbkadrug//Music//Assets//Cues//English Female - Intro.wav"
+        FILE "AudioFiles/English Female - Intro.wav"
       >
     >
     <ITEM
@@ -308,7 +315,7 @@
       CHANMODE 0
       GUID {6B122431-49B6-2A19-5FF3-7B2D62C72FD2}
       <SOURCE WAVE
-        FILE "//home//butbkadrug//Music//Assets//Cues//English Female - 3.wav"
+        FILE "AudioFiles/English Female - 3.wav"
       >
     >
     <ITEM
@@ -330,7 +337,7 @@
       CHANMODE 0
       GUID {987BAFFE-B073-9FA3-73EB-F851E1657AD3}
       <SOURCE WAVE
-        FILE "//home//butbkadrug//Music//Assets//Cues//English Female - 4.wav"
+        FILE "AudioFiles/English Female - 4.wav"
       >
     >
     <ITEM
@@ -352,7 +359,7 @@
       CHANMODE 0
       GUID {4FE2AC5D-0D3B-35C4-5B5B-E44EC44CBFFC}
       <SOURCE WAVE
-        FILE "//home//butbkadrug//Music//Assets//Cues//English Female - Verse 1.wav"
+        FILE "AudioFiles/English Female - Verse 1.wav"
       >
     >
     <ITEM
@@ -374,7 +381,7 @@
       CHANMODE 0
       GUID {01048E3E-D457-4F57-D857-5505D687B1B3}
       <SOURCE WAVE
-        FILE "//home//butbkadrug//Music//Assets//Cues//English Female - 3.wav"
+        FILE "AudioFiles/English Female - 3.wav"
       >
     >
     <ITEM
@@ -396,7 +403,7 @@
       CHANMODE 0
       GUID {7387E512-9373-5375-2B7B-E159EF7B5D77}
       <SOURCE WAVE
-        FILE "//home//butbkadrug//Music//Assets//Cues//English Female - 4.wav"
+        FILE "AudioFiles/English Female - 4.wav"
       >
     >
     <ITEM
@@ -418,7 +425,7 @@
       CHANMODE 0
       GUID {5C17C52B-81B9-EF38-243E-6EF5063FBA21}
       <SOURCE WAVE
-        FILE "//home//butbkadrug//Music//Assets//Cues//English Female - Verse 2.wav"
+        FILE "AudioFiles/English Female - Verse 2.wav"
       >
     >
     <ITEM
@@ -440,7 +447,7 @@
       CHANMODE 0
       GUID {8011F70B-1E3D-3DF1-A343-8489476ED72B}
       <SOURCE WAVE
-        FILE "//home//butbkadrug//Music//Assets//Cues//English Female - 3.wav"
+        FILE "AudioFiles/English Female - 3.wav"
       >
     >
     <ITEM
@@ -462,7 +469,7 @@
       CHANMODE 0
       GUID {B92B0D15-6645-6606-8F8A-1A42CFEEFFD0}
       <SOURCE WAVE
-        FILE "//home//butbkadrug//Music//Assets//Cues//English Female - 4.wav"
+        FILE "AudioFiles/English Female - 4.wav"
       >
     >
     <ITEM
@@ -484,7 +491,7 @@
       CHANMODE 0
       GUID {E2742F47-52F9-F64A-F257-21F35D6113E0}
       <SOURCE WAVE
-        FILE "//home//butbkadrug//Music//Assets//Cues//English Female - Pre Chorus.wav"
+        FILE "AudioFiles/English Female - Pre Chorus.wav"
       >
     >
     <ITEM
@@ -507,7 +514,7 @@
       CHANMODE 0
       GUID {8C9B437D-0288-A354-8964-0A181218DA46}
       <SOURCE WAVE
-        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - Breakdown.wav"
+        FILE "AudioFiles/English Female - Breakdown.wav"
       >
     >
     <ITEM
@@ -529,7 +536,7 @@
       CHANMODE 0
       GUID {099EDB36-1DB2-4444-8A9D-2AF4E834F8D0}
       <SOURCE WAVE
-        FILE "//home//butbkadrug//Music//Assets//Cues//English Female - Chorus.wav"
+        FILE "AudioFiles/English Female - Chorus.wav"
       >
     >
     <ITEM
@@ -552,7 +559,7 @@
       CHANMODE 0
       GUID {3C111707-4AB8-8572-07FE-B21A6F107464}
       <SOURCE WAVE
-        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - All In.wav"
+        FILE "AudioFiles/English Female - All In.wav"
       >
     >
     <ITEM
@@ -574,7 +581,7 @@
       CHANMODE 0
       GUID {D7B7519A-38CB-7FB2-997A-38CD4DF25CBC}
       <SOURCE WAVE
-        FILE "//home//butbkadrug//Music//Assets//Cues//English Female - Refrain.wav"
+        FILE "AudioFiles/English Female - Refrain.wav"
       >
     >
     <ITEM
@@ -596,7 +603,7 @@
       CHANMODE 0
       GUID {3940DF86-BA0E-7258-D489-DEE1D2C02B46}
       <SOURCE WAVE
-        FILE "//home//butbkadrug//Music//Assets//Cues//English Female - 3.wav"
+        FILE "AudioFiles/English Female - 3.wav"
       >
     >
     <ITEM
@@ -618,7 +625,7 @@
       CHANMODE 0
       GUID {A6D9D523-14EE-38F3-3EAA-0DD6B65E94B9}
       <SOURCE WAVE
-        FILE "//home//butbkadrug//Music//Assets//Cues//English Female - 4.wav"
+        FILE "AudioFiles/English Female - 4.wav"
       >
     >
     <ITEM
@@ -640,7 +647,7 @@
       CHANMODE 0
       GUID {75F532D7-EC15-3C8A-B0FB-78D01D567AA5}
       <SOURCE WAVE
-        FILE "//home//butbkadrug//Music//Assets//Cues//English Female - Verse 3.wav"
+        FILE "AudioFiles/English Female - Verse 3.wav"
       >
     >
     <ITEM
@@ -662,7 +669,7 @@
       CHANMODE 0
       GUID {E7A8B700-E5C0-07AC-CC18-7AA8BB14C0B4}
       <SOURCE WAVE
-        FILE "//home//butbkadrug//Music//Assets//Cues//English Female - 3.wav"
+        FILE "AudioFiles/English Female - 3.wav"
       >
     >
     <ITEM
@@ -684,7 +691,7 @@
       CHANMODE 0
       GUID {6FB24914-B10C-637C-646A-4422ACA0A37F}
       <SOURCE WAVE
-        FILE "//home//butbkadrug//Music//Assets//Cues//English Female - 4.wav"
+        FILE "AudioFiles/English Female - 4.wav"
       >
     >
     <ITEM
@@ -706,7 +713,7 @@
       CHANMODE 0
       GUID {9F897773-2D8E-AED6-5BB5-A9DF0E0A1DFF}
       <SOURCE WAVE
-        FILE "//home//butbkadrug//Music//Assets//Cues//English Female - Pre Chorus.wav"
+        FILE "AudioFiles/English Female - Pre Chorus.wav"
       >
     >
     <ITEM
@@ -729,7 +736,7 @@
       CHANMODE 0
       GUID {1DA28DD1-CA5C-F130-D665-7F054D20CC3A}
       <SOURCE WAVE
-        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - Breakdown.wav"
+        FILE "AudioFiles/English Female - Breakdown.wav"
       >
     >
     <ITEM
@@ -751,7 +758,7 @@
       CHANMODE 0
       GUID {BB17C9E2-4880-00BC-1330-C420622530CE}
       <SOURCE WAVE
-        FILE "//home//butbkadrug//Music//Assets//Cues//English Female - Chorus.wav"
+        FILE "AudioFiles/English Female - Chorus.wav"
       >
     >
     <ITEM
@@ -774,7 +781,7 @@
       CHANMODE 0
       GUID {1825A740-BEB1-4C93-3406-9FA45447068C}
       <SOURCE WAVE
-        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - All In.wav"
+        FILE "AudioFiles/English Female - All In.wav"
       >
     >
     <ITEM
@@ -796,7 +803,7 @@
       CHANMODE 0
       GUID {ACE259C4-2090-B0AE-4C85-1C18A0209825}
       <SOURCE WAVE
-        FILE "//home//butbkadrug//Music//Assets//Cues//English Female - Refrain.wav"
+        FILE "AudioFiles/English Female - Refrain.wav"
       >
     >
     <ITEM
@@ -818,7 +825,7 @@
       CHANMODE 0
       GUID {DCA57459-68A4-D36E-91BF-4AA7EA0D8818}
       <SOURCE WAVE
-        FILE "//home//butbkadrug//Music//Assets//Cues//English Female - 3.wav"
+        FILE "AudioFiles/English Female - 3.wav"
       >
     >
     <ITEM
@@ -840,7 +847,7 @@
       CHANMODE 0
       GUID {8E1CA7DE-0057-A45F-E292-05FC9847A44B}
       <SOURCE WAVE
-        FILE "//home//butbkadrug//Music//Assets//Cues//English Female - 4.wav"
+        FILE "AudioFiles/English Female - 4.wav"
       >
     >
     <ITEM
@@ -862,7 +869,7 @@
       CHANMODE 0
       GUID {2CCE0A47-4E45-5F3B-8898-C5F2889C67FE}
       <SOURCE WAVE
-        FILE "//home//butbkadrug//Music//Assets//Cues//English Female - Instrumental.wav"
+        FILE "AudioFiles/English Female - Instrumental.wav"
       >
     >
     <ITEM
@@ -885,7 +892,7 @@
       CHANMODE 0
       GUID {3CEEC430-1DCD-7474-E340-0D26EFC9A767}
       <SOURCE WAVE
-        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - Breakdown.wav"
+        FILE "AudioFiles/English Female - Breakdown.wav"
       >
     >
     <ITEM
@@ -907,7 +914,7 @@
       CHANMODE 0
       GUID {A9ABDD11-93D6-01C5-E3E5-43B80746CDEA}
       <SOURCE WAVE
-        FILE "//home//butbkadrug//Music//Assets//Cues//English Female - Bridge.wav"
+        FILE "AudioFiles/English Female - Bridge.wav"
       >
     >
     <ITEM
@@ -929,7 +936,7 @@
       CHANMODE 0
       GUID {A7AB146C-1EF3-41B8-409A-3FF9740127D3}
       <SOURCE WAVE
-        FILE "//home//butbkadrug//Music//Assets//Cues//English Female - 3.wav"
+        FILE "AudioFiles/English Female - 3.wav"
       >
     >
     <ITEM
@@ -951,7 +958,7 @@
       CHANMODE 0
       GUID {60418B81-4DF4-FC01-5470-9D8021DBDE1B}
       <SOURCE WAVE
-        FILE "//home//butbkadrug//Music//Assets//Cues//English Female - 4.wav"
+        FILE "AudioFiles/English Female - 4.wav"
       >
     >
     <ITEM
@@ -973,7 +980,7 @@
       CHANMODE 0
       GUID {5966133E-D5C8-89FA-2EDE-4A78B81E6B5B}
       <SOURCE WAVE
-        FILE "//home//butbkadrug//Music//Assets//Cues//English Female - Bridge.wav"
+        FILE "AudioFiles/English Female - Bridge.wav"
       >
     >
     <ITEM
@@ -996,7 +1003,7 @@
       CHANMODE 0
       GUID {8362D85B-B0BF-9507-1D5F-6473BE875722}
       <SOURCE WAVE
-        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - Build.wav"
+        FILE "AudioFiles/English Female - Build.wav"
       >
     >
     <ITEM
@@ -1018,7 +1025,7 @@
       CHANMODE 0
       GUID {5AF55F5F-DCA4-B06C-81BB-A5801DA1FDDC}
       <SOURCE WAVE
-        FILE "//home//butbkadrug//Music//Assets//Cues//English Female - Bridge.wav"
+        FILE "AudioFiles/English Female - Bridge.wav"
       >
     >
     <ITEM
@@ -1041,7 +1048,7 @@
       CHANMODE 0
       GUID {D0563F76-F2E8-5DE8-E450-CE56C2B0CA32}
       <SOURCE WAVE
-        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - Build.wav"
+        FILE "AudioFiles/English Female - Build.wav"
       >
     >
     <ITEM
@@ -1063,7 +1070,7 @@
       CHANMODE 0
       GUID {0D1E889A-CC59-57BE-8913-E30F210AD9F6}
       <SOURCE WAVE
-        FILE "//home//butbkadrug//Music//Assets//Cues//English Female - Bridge.wav"
+        FILE "AudioFiles/English Female - Bridge.wav"
       >
     >
     <ITEM
@@ -1086,7 +1093,7 @@
       CHANMODE 0
       GUID {29FB3784-F534-D155-1F2F-BBDA451D58C5}
       <SOURCE WAVE
-        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - Last Time.wav"
+        FILE "AudioFiles/English Female - Last Time.wav"
       >
     >
     <ITEM
@@ -1109,7 +1116,7 @@
       CHANMODE 0
       GUID {17C3AE27-F832-BBF1-7B44-4B2696294782}
       <SOURCE WAVE
-        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - Breakdown.wav"
+        FILE "AudioFiles/English Female - Breakdown.wav"
       >
     >
     <ITEM
@@ -1131,7 +1138,7 @@
       CHANMODE 0
       GUID {DCD62FBD-9ECC-C00B-EAFD-9B60C7102518}
       <SOURCE WAVE
-        FILE "//home//butbkadrug//Music//Assets//Cues//English Female - Chorus.wav"
+        FILE "AudioFiles/English Female - Chorus.wav"
       >
     >
     <ITEM
@@ -1154,7 +1161,7 @@
       CHANMODE 0
       GUID {C430C854-CF84-CE54-7439-A526498ABE24}
       <SOURCE WAVE
-        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - All In.wav"
+        FILE "AudioFiles/English Female - All In.wav"
       >
     >
     <ITEM
@@ -1176,7 +1183,7 @@
       CHANMODE 0
       GUID {0A55CA5C-6E0C-656D-9A9E-8222E3A1DA57}
       <SOURCE WAVE
-        FILE "//home//butbkadrug//Music//Assets//Cues//English Female - Refrain.wav"
+        FILE "AudioFiles/English Female - Refrain.wav"
       >
     >
     <ITEM
@@ -1198,7 +1205,7 @@
       CHANMODE 0
       GUID {A36F4123-E212-DDEF-F42C-89CF14F09A57}
       <SOURCE WAVE
-        FILE "//home//butbkadrug//Music//Assets//Cues//English Female - 3.wav"
+        FILE "AudioFiles/English Female - 3.wav"
       >
     >
     <ITEM
@@ -1220,7 +1227,7 @@
       CHANMODE 0
       GUID {836324B9-FA39-8649-3C5F-615D56A04738}
       <SOURCE WAVE
-        FILE "//home//butbkadrug//Music//Assets//Cues//English Female - 4.wav"
+        FILE "AudioFiles/English Female - 4.wav"
       >
     >
     <ITEM
@@ -1242,7 +1249,7 @@
       CHANMODE 0
       GUID {765EC05B-FAD2-A588-99A8-6BECB8E9C983}
       <SOURCE WAVE
-        FILE "//home//butbkadrug//Music//Assets//Cues//English Female - Ending.wav"
+        FILE "AudioFiles/English Female - Ending.wav"
       >
     >
     <ITEM
@@ -1264,7 +1271,7 @@
       CHANMODE 0
       GUID {3FFF4EE5-C57D-7AAE-B9B2-96855613C43C}
       <SOURCE WAVE
-        FILE "//home//butbkadrug//Music//Assets//Cues//English Female - 3.wav"
+        FILE "AudioFiles/English Female - 3.wav"
       >
     >
     <ITEM
@@ -1286,8 +1293,1592 @@
       CHANMODE 0
       GUID {DCB7273C-F555-F4D5-C2B1-ACC649BEE171}
       <SOURCE WAVE
-        FILE "//home//butbkadrug//Music//Assets//Cues//English Female - 4.wav"
+        FILE "AudioFiles/English Female - 4.wav"
       >
     >
+  >
+  <TRACK {FBB74578-C3E4-74AE-94F5-576EF21C10CD}
+    NAME Drums
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {FBB74578-C3E4-74AE-94F5-576EF21C10CD}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    HWOUT 16 0 1 0 0 0 0 -1:U -1
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 316.61424036281181
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {21BFC28D-ADC8-816B-EC9A-5A68B474B9DF}
+      IID 134
+      NAME "22944941-8 [drums].mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {65EC7472-9686-4A89-A10D-A67733BF08FB}
+      <SOURCE MP3
+        FILE "AudioFiles/22944941-8 [drums].mp3" 1
+      >
+    >
+  >
+  <TRACK {EBD7931A-0059-FC32-D657-97305529E3D6}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 0.32759970788183 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    SEL 1
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 0
+    TRACKID {EBD7931A-0059-FC32-D657-97305529E3D6}
+    PERF 0
+    MIDIOUT -1
+    <MIDINOTENAMES
+      -1 65 Kick 0 65
+      -1 69 "Low Tom" 0 69
+      -1 72 Snare 0 72
+      -1 74 "Mid Tom" 0 74
+      -1 76 "Hi Tom" 0 76
+      -1 77 Ride 0 77
+      -1 79 Hi-Hat 0 79
+      -1 81 Crash 0 81
+    >
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT 37 49 1213 659
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <VST "VST3i: MT-PowerDrumKit (MANDA AUDIO) (16 out)" MT-PowerDrumKit.vst3 0 "" 672034263{E79A02246D7767B26A4FFB0690BFCFC8} ""
+        120OKO5e7f4AAAAAEAAAAAEAAAAAAAAAAgAAAAAAAAAEAAAAAAAAAAgAAAAAAAAAEAAAAAAAAAAgAAAAAAAAAEAAAAAAAAAAgAAAAAAAAAAAAQAAAAAAAAACAAAAAAAA
+        AAQAAAAAAAAACAAAAAAAAAAQAAAAAAAAACAAAAAAAAAAQAAAAAAAAACAAAAAAAAAtAIAAAEAAAD//xAA
+        pAIAAAEAAAACAAAApAIAALgeRT+JQUA/mpk5P5TAJj8AACA/DD0+P5HvQj9XlkA/2H4yP9h+Mj+NJTA/jSUwP40lMD8AAAA/AAAAPwAAAD891K4+nFOxPm8Sgz4X2Q4/
+        HVpEP2RXIj/hlSg/jNqVPk7ULj9O1C4/AACAPwAAgD8AAIA/AACAPwAAgD8AAIA/AACAPwAAgD8AAIA/AACAPwAAgD8AAIA/AACAPwAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAmdNJPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAIA/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAPwAAAAAAAAAAAAAAAAAAgD8AAIA/AACAPwAAAAAAAAAAAAAAAAAAAAAAAAAAY9MGP532FD8AAJg+
+        F5whPxEAtD4URiM/nDMiPAuaGj+MShY/A5oMP6pgHD8AANg+AADIPpf/JD8RAOw+EQDUPgAA4D6QoAQ/gZUTPwAAAAARAPw+AAD4PhEA9D4AAAAAEQDMPgAAwD4AALA+
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAkD65xp8+AAAAAAAAAD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAD8AAIA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgD8AAAA9AAAAAAAAgD8AAIA/CtcjPAAAfj8AACg/AAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAIA/AAAAAAAAAAA=
+        AFRydWUgUHJlc2V0ABAAAAA=
+      >
+      PRESETNAME "True Preset"
+      FLOATPOS 0 0 0 0
+      FXID {CC38992F-4570-3A2A-C28F-B6E0FC4455E9}
+      WAK 0 0
+    >
+    <ITEM
+      POSITION 5.1063829787234
+      SNAPOFFS 0
+      LENGTH 10.21276595744681
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {AC14DC84-F876-DA15-9019-EDB30A06D3B8}
+      IID 135
+      NAME 04-MIDI
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E4B4DF34-F69C-8056-D94D-B8ACDBFA2D88}
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        CCINTERP 32
+        POOLEDEVTS {7EEBA0D2-AE9C-4E05-2E2E-B69EFE420BFC}
+        E 0 90 41 60
+        E 0 90 51 60
+        E 120 80 41 00
+        E 0 80 51 00
+        E 600 90 41 60
+        E 120 80 41 00
+        E 120 90 48 60
+        E 0 90 4f 60
+        E 120 80 48 00
+        E 0 80 4f 00
+        E 360 90 41 60
+        E 0 90 4f 60
+        E 120 80 41 00
+        E 0 80 4f 00
+        E 360 90 4f 60
+        E 120 80 4f 00
+        E 360 90 41 60
+        E 0 90 4f 60
+        E 120 80 41 00
+        E 0 80 4f 00
+        E 360 90 48 60
+        E 0 90 4f 60
+        E 120 80 48 00
+        E 0 80 4f 00
+        E 360 90 4f 60
+        E 120 80 4f 00
+        E 360 90 41 60
+        E 0 90 4f 60
+        E 120 80 41 00
+        E 0 80 4f 00
+        E 360 90 4f 60
+        E 120 80 4f 00
+        E 120 90 41 60
+        E 120 80 41 00
+        E 120 90 48 60
+        E 0 90 4f 60
+        E 120 80 48 00
+        E 0 80 4f 00
+        E 360 90 41 60
+        E 0 90 4f 60
+        E 120 80 41 00
+        E 0 80 4f 00
+        E 360 90 4f 60
+        E 120 80 4f 00
+        E 360 90 4f 60
+        E 0 90 41 60
+        E 120 80 4f 00
+        E 0 80 41 00
+        E 360 90 48 60
+        E 0 90 4f 60
+        E 120 80 48 00
+        E 0 80 4f 00
+        E 360 90 4f 60
+        E 120 80 4f 00
+        E 360 90 41 60
+        E 0 90 51 60
+        E 120 80 41 00
+        E 0 80 51 00
+        E 600 90 41 60
+        E 120 80 41 00
+        E 120 90 48 60
+        E 0 90 4f 60
+        E 120 80 48 00
+        E 0 80 4f 00
+        E 360 90 41 60
+        E 0 90 4f 60
+        E 120 80 41 00
+        E 0 80 4f 00
+        E 360 90 4f 60
+        E 120 80 4f 00
+        E 360 90 41 60
+        E 0 90 4f 60
+        E 120 80 41 00
+        E 0 80 4f 00
+        E 360 90 48 60
+        E 0 90 4f 60
+        E 120 80 48 00
+        E 0 80 4f 00
+        E 360 90 4f 60
+        E 120 80 4f 00
+        E 360 90 41 60
+        E 0 90 4f 60
+        E 120 80 41 00
+        E 0 80 4f 00
+        E 360 90 4f 60
+        E 120 80 4f 00
+        E 120 90 41 60
+        E 120 80 41 00
+        E 120 90 48 60
+        E 0 90 4f 60
+        E 120 80 48 00
+        E 0 80 4f 00
+        E 360 90 41 60
+        E 0 90 4f 60
+        E 120 80 41 00
+        E 0 80 4f 00
+        E 360 90 4f 60
+        E 120 80 4f 00
+        E 360 90 41 60
+        E 0 90 4f 60
+        E 120 80 41 00
+        E 0 80 4f 00
+        E 360 90 48 60
+        E 0 90 4f 60
+        E 120 80 48 00
+        E 0 80 4f 00
+        E 360 90 4f 60
+        E 120 80 4f 00
+        E 360 b0 7b 00
+        CCINTERP 32
+        CHASE_CC_TAKEOFFS 1
+        GUID {3F397DAA-35CD-18AE-0B4D-428A5D6AAF4C}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 37
+        VELLANE -1 77 0 0 1
+        VELLANE -2 9 79 0 1
+        CFGEDITVIEW 13053.27093 0.076012 0 22 0 -1 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL -252
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 1 0 1 1 65545 1 1 1 1 1 0.5 14 68 1364 708 0 3 0 0 0 0 0 0 0 0.5 0 0 1 64
+      >
+    >
+    <ITEM
+      POSITION 15.31914893617021
+      SNAPOFFS 0
+      LENGTH 20.4255319148936
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {5215899F-0D1D-47C9-9337-5E3EBABF4BA2}
+      IID 161
+      NAME 04-MIDI-glued
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C5E84112-F3B8-DEAF-8493-2D238590F7A2}
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        CCINTERP 32
+        POOLEDEVTS {9E370E08-18F2-ACF3-55AC-E4DD32493B79}
+        E 0 90 41 60
+        E 0 90 51 60
+        E 120 80 41 00
+        E 0 80 51 00
+        E 600 90 41 60
+        E 120 80 41 00
+        E 120 90 48 60
+        E 0 90 4f 60
+        E 120 80 48 00
+        E 0 80 4f 00
+        E 360 90 41 60
+        E 0 90 4f 60
+        E 120 80 41 00
+        E 0 80 4f 00
+        E 360 90 4f 60
+        E 120 80 4f 00
+        E 360 90 4f 60
+        E 120 80 4f 00
+        E 360 90 48 60
+        E 0 90 4f 60
+        E 120 80 48 00
+        E 0 80 4f 00
+        E 360 90 4f 60
+        E 120 80 4f 00
+        E 360 90 41 60
+        E 0 90 4f 60
+        E 120 80 41 00
+        E 0 80 4f 00
+        E 360 90 4f 60
+        E 120 80 4f 00
+        E 120 90 41 60
+        E 120 80 41 00
+        E 120 90 48 60
+        E 0 90 4f 60
+        E 120 80 48 00
+        E 0 80 4f 00
+        E 360 90 41 60
+        E 0 90 4f 60
+        E 120 80 41 00
+        E 0 80 4f 00
+        E 360 90 4f 60
+        E 120 80 4f 00
+        E 360 90 4f 60
+        E 120 80 4f 00
+        E 360 90 48 60
+        E 0 90 4f 60
+        E 120 80 48 00
+        E 0 80 4f 00
+        E 360 90 4f 60
+        E 120 80 4f 00
+        E 360 90 41 60
+        E 0 90 4f 60
+        E 120 80 41 00
+        E 0 80 4f 00
+        E 360 90 4f 60
+        E 120 80 4f 00
+        E 120 90 41 60
+        E 120 80 41 00
+        E 120 90 48 60
+        E 0 90 4f 60
+        E 120 80 48 00
+        E 0 80 4f 00
+        E 360 90 41 60
+        E 0 90 4f 60
+        E 120 80 41 00
+        E 0 80 4f 00
+        E 360 90 4f 60
+        E 120 80 4f 00
+        E 360 90 4f 60
+        E 120 80 4f 00
+        E 360 90 48 60
+        E 0 90 4f 60
+        E 120 80 48 00
+        E 0 80 4f 00
+        E 360 90 4f 60
+        E 120 80 4f 00
+        E 360 90 41 60
+        E 0 90 4f 60
+        E 120 80 41 00
+        E 0 80 4f 00
+        E 360 90 4f 60
+        E 120 80 4f 00
+        E 120 90 41 60
+        E 120 80 41 00
+        E 120 90 48 60
+        E 0 90 4f 60
+        E 120 80 48 00
+        E 0 80 4f 00
+        E 360 90 41 60
+        E 0 90 4f 60
+        E 120 80 41 00
+        E 0 80 4f 00
+        E 360 90 4f 60
+        E 120 80 4f 00
+        E 360 90 4f 60
+        E 120 80 4f 00
+        E 360 90 48 60
+        E 0 90 4f 60
+        E 120 80 48 00
+        E 0 80 4f 00
+        E 360 90 4f 60
+        E 120 80 4f 00
+        E 360 90 41 60
+        E 0 90 4f 60
+        E 120 80 41 00
+        E 0 80 4f 00
+        E 360 90 4f 60
+        E 120 80 4f 00
+        E 120 90 41 60
+        E 120 80 41 00
+        E 120 90 48 60
+        E 0 90 4f 60
+        E 120 80 48 00
+        E 0 80 4f 00
+        E 360 90 41 60
+        E 0 90 4f 60
+        E 120 80 41 00
+        E 0 80 4f 00
+        E 360 90 4f 60
+        E 120 80 4f 00
+        E 360 90 4f 60
+        E 120 80 4f 00
+        E 360 90 48 60
+        E 0 90 4f 60
+        E 120 80 48 00
+        E 0 80 4f 00
+        E 360 90 4f 60
+        E 120 80 4f 00
+        E 360 90 41 60
+        E 0 90 4f 60
+        E 120 80 41 00
+        E 0 80 4f 00
+        E 360 90 4f 60
+        E 120 80 4f 00
+        E 120 90 41 60
+        E 120 80 41 00
+        E 120 90 48 60
+        E 0 90 4f 60
+        E 120 80 48 00
+        E 0 80 4f 00
+        E 360 90 41 60
+        E 0 90 4f 60
+        E 120 80 41 00
+        E 0 80 4f 00
+        E 360 90 4f 60
+        E 120 80 4f 00
+        E 360 90 4f 60
+        E 120 80 4f 00
+        E 360 90 48 60
+        E 0 90 4f 60
+        E 120 80 48 00
+        E 0 80 4f 00
+        E 360 90 4f 60
+        E 120 80 4f 00
+        E 360 90 41 60
+        E 0 90 4f 60
+        E 120 80 41 00
+        E 0 80 4f 00
+        E 360 90 4f 60
+        E 120 80 4f 00
+        E 120 90 41 60
+        E 120 80 41 00
+        E 120 90 48 60
+        E 0 90 4f 60
+        E 120 80 48 00
+        E 0 80 4f 00
+        E 360 90 41 60
+        E 0 90 4f 60
+        E 120 80 41 00
+        E 0 80 4f 00
+        E 360 90 4f 60
+        E 120 80 4f 00
+        E 360 90 4f 60
+        E 120 80 4f 00
+        E 360 90 48 60
+        E 0 90 4f 60
+        E 120 80 48 00
+        E 0 80 4f 00
+        E 360 90 4f 60
+        E 120 80 4f 00
+        E 360 90 41 60
+        E 0 90 4f 60
+        E 120 80 41 00
+        E 0 80 4f 00
+        E 360 90 4f 60
+        E 120 80 4f 00
+        E 120 90 41 60
+        E 120 80 41 00
+        E 120 90 48 60
+        E 0 90 4f 60
+        E 120 80 48 00
+        E 0 80 4f 00
+        E 360 90 41 60
+        E 0 90 4f 60
+        E 120 80 41 00
+        E 0 80 4f 00
+        E 360 90 4f 60
+        E 120 80 4f 00
+        E 360 90 4f 60
+        E 120 80 4f 00
+        E 360 90 48 60
+        E 0 90 4f 60
+        E 120 80 48 00
+        E 0 80 4f 00
+        E 120 90 48 60
+        E 120 80 48 00
+        E 120 90 50 6d
+        E 120 80 50 00
+        E 360 b0 7b 00
+        CCINTERP 32
+        CHASE_CC_TAKEOFFS 1
+        GUID {5F7E892A-729D-983E-74A3-E9291B536564}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 3006
+        VELLANE -1 77 0 0 1
+        VELLANE -2 9 79 0 1
+      >
+    >
+    <ITEM
+      POSITION 35.74468085106383
+      SNAPOFFS 0
+      LENGTH 20.42553191489362
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {C0BEC820-8AEA-7244-D9CA-F3F7426ECB3B}
+      IID 162
+      NAME 04-MIDI-glued
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B26D8F3C-9D1C-A245-45A5-1C6081197CCC}
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        CCINTERP 32
+        POOLEDEVTS {D2C2FFFD-3328-39DF-A9E0-56D73FA9A21F}
+        E 0 90 41 60
+        E 0 90 51 60
+        E 120 80 41 00
+        E 0 80 51 00
+        E 600 90 41 60
+        E 120 80 41 00
+        E 120 90 48 60
+        E 0 90 4f 60
+        E 120 80 48 00
+        E 0 80 4f 00
+        E 360 90 41 60
+        E 0 90 4f 60
+        E 120 80 41 00
+        E 0 80 4f 00
+        E 360 90 4f 60
+        E 120 80 4f 00
+        E 360 90 4f 60
+        E 120 80 4f 00
+        E 360 90 48 60
+        E 0 90 4f 60
+        E 120 80 48 00
+        E 0 80 4f 00
+        E 360 90 4f 60
+        E 120 80 4f 00
+        E 360 90 41 60
+        E 0 90 4f 60
+        E 120 80 41 00
+        E 0 80 4f 00
+        E 360 90 4f 60
+        E 120 80 4f 00
+        E 120 90 41 60
+        E 120 80 41 00
+        E 120 90 48 60
+        E 0 90 4f 60
+        E 120 80 48 00
+        E 0 80 4f 00
+        E 360 90 41 60
+        E 0 90 4f 60
+        E 120 80 41 00
+        E 0 80 4f 00
+        E 360 90 4f 60
+        E 120 80 4f 00
+        E 360 90 4f 60
+        E 120 80 4f 00
+        E 360 90 48 60
+        E 0 90 4f 60
+        E 120 80 48 00
+        E 0 80 4f 00
+        E 360 90 4f 60
+        E 120 80 4f 00
+        E 360 90 41 60
+        E 0 90 4f 60
+        E 120 80 41 00
+        E 0 80 4f 00
+        E 360 90 4f 60
+        E 120 80 4f 00
+        E 120 90 41 60
+        E 120 80 41 00
+        E 120 90 48 60
+        E 0 90 4f 60
+        E 120 80 48 00
+        E 0 80 4f 00
+        E 360 90 41 60
+        E 0 90 4f 60
+        E 120 80 41 00
+        E 0 80 4f 00
+        E 360 90 4f 60
+        E 120 80 4f 00
+        E 360 90 4f 60
+        E 120 80 4f 00
+        E 360 90 48 60
+        E 0 90 4f 60
+        E 120 80 48 00
+        E 0 80 4f 00
+        E 360 90 4f 60
+        E 120 80 4f 00
+        E 360 90 41 60
+        E 0 90 4f 60
+        E 120 80 41 00
+        E 0 80 4f 00
+        E 360 90 4f 60
+        E 120 80 4f 00
+        E 120 90 41 60
+        E 120 80 41 00
+        E 120 90 48 60
+        E 0 90 4f 60
+        E 120 80 48 00
+        E 0 80 4f 00
+        E 360 90 41 60
+        E 0 90 4f 60
+        E 120 80 41 00
+        E 0 80 4f 00
+        E 360 90 4f 60
+        E 120 80 4f 00
+        E 360 90 4f 60
+        E 120 80 4f 00
+        E 360 90 48 60
+        E 0 90 4f 60
+        E 120 80 48 00
+        E 0 80 4f 00
+        E 360 90 4f 60
+        E 120 80 4f 00
+        E 360 90 41 60
+        E 0 90 4f 60
+        E 120 80 41 00
+        E 0 80 4f 00
+        E 360 90 4f 60
+        E 120 80 4f 00
+        E 120 90 41 60
+        E 120 80 41 00
+        E 120 90 48 60
+        E 0 90 4f 60
+        E 120 80 48 00
+        E 0 80 4f 00
+        E 360 90 41 60
+        E 0 90 4f 60
+        E 120 80 41 00
+        E 0 80 4f 00
+        E 360 90 4f 60
+        E 120 80 4f 00
+        E 360 90 4f 60
+        E 120 80 4f 00
+        E 360 90 48 60
+        E 0 90 4f 60
+        E 120 80 48 00
+        E 0 80 4f 00
+        E 360 90 4f 60
+        E 120 80 4f 00
+        E 360 90 41 60
+        E 0 90 4f 60
+        E 120 80 41 00
+        E 0 80 4f 00
+        E 360 90 4f 60
+        E 120 80 4f 00
+        E 120 90 41 60
+        E 120 80 41 00
+        E 120 90 48 60
+        E 0 90 4f 60
+        E 120 80 48 00
+        E 0 80 4f 00
+        E 360 90 41 60
+        E 0 90 4f 60
+        E 120 80 41 00
+        E 0 80 4f 00
+        E 360 90 4f 60
+        E 120 80 4f 00
+        E 360 90 4f 60
+        E 120 80 4f 00
+        E 360 90 48 60
+        E 0 90 4f 60
+        E 120 80 48 00
+        E 0 80 4f 00
+        E 360 90 4f 60
+        E 120 80 4f 00
+        E 360 90 41 60
+        E 0 90 4f 60
+        E 120 80 41 00
+        E 0 80 4f 00
+        E 360 90 4f 60
+        E 120 80 4f 00
+        E 120 90 41 60
+        E 120 80 41 00
+        E 120 90 48 60
+        E 0 90 4f 60
+        E 120 80 48 00
+        E 0 80 4f 00
+        E 360 90 41 60
+        E 0 90 4f 60
+        E 120 80 41 00
+        E 0 80 4f 00
+        E 360 90 4f 60
+        E 120 80 4f 00
+        E 360 90 4f 60
+        E 120 80 4f 00
+        E 360 90 48 60
+        E 0 90 4f 60
+        E 120 80 48 00
+        E 0 80 4f 00
+        E 360 90 4f 60
+        E 120 80 4f 00
+        E 360 90 41 60
+        E 0 90 4f 60
+        E 120 80 41 00
+        E 0 80 4f 00
+        E 360 90 4f 60
+        E 120 80 4f 00
+        E 120 90 41 60
+        E 120 80 41 00
+        E 120 90 48 60
+        E 0 90 4f 60
+        E 120 80 48 00
+        E 0 80 4f 00
+        E 360 90 41 60
+        E 0 90 4f 60
+        E 120 80 41 00
+        E 0 80 4f 00
+        E 360 90 4f 60
+        E 120 80 4f 00
+        E 360 90 4f 60
+        E 0 90 41 6d
+        E 120 80 4f 00
+        E 0 80 41 00
+        E 360 90 48 60
+        E 120 80 48 00
+        E 120 90 4a 60
+        E 120 80 4a 00
+        E 120 90 45 60
+        E 120 80 45 00
+        E 120 90 41 60
+        E 120 80 41 00
+        E 120 b0 7b 00
+        CCINTERP 32
+        CHASE_CC_TAKEOFFS 1
+        GUID {81EB2B3F-3F95-FE48-282C-7CA583D3B589}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 3008
+        VELLANE -1 77 0 0 1
+        VELLANE -2 9 79 0 1
+      >
+    >
+    <ITEM
+      POSITION 188.93617021276594
+      SNAPOFFS 0
+      LENGTH 20.42553191489364
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {DE9FF709-BAB7-9882-76D5-34DA8319AD8C}
+      IID 159
+      NAME 04-MIDI-glued
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1B3D0F6A-5728-0D8C-9AE9-25D4363E10EE}
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        CCINTERP 32
+        POOLEDEVTS {C73A5E94-285C-EBAF-6092-6D6CA27B6FA0}
+        E 0 90 41 60
+        E 120 80 41 00
+        E 840 90 41 60
+        E 120 80 41 00
+        E 840 90 41 60
+        E 120 80 41 00
+        E 840 90 41 60
+        E 0 90 48 60
+        E 120 80 41 00
+        E 0 80 48 00
+        E 840 90 41 60
+        E 120 80 41 00
+        E 840 90 41 60
+        E 120 80 41 00
+        E 840 90 41 60
+        E 120 80 41 00
+        E 840 90 41 60
+        E 0 90 48 60
+        E 120 80 41 00
+        E 0 80 48 00
+        E 840 90 41 60
+        E 120 80 41 00
+        E 840 90 41 60
+        E 120 80 41 00
+        E 840 90 41 60
+        E 120 80 41 00
+        E 840 90 41 60
+        E 0 90 48 60
+        E 120 80 41 00
+        E 0 80 48 00
+        E 840 90 41 60
+        E 120 80 41 00
+        E 840 90 41 60
+        E 120 80 41 00
+        E 840 90 41 60
+        E 120 80 41 00
+        E 600 90 48 60
+        E 120 80 48 00
+        E 120 90 41 60
+        E 0 90 48 60
+        E 120 80 41 00
+        E 0 80 48 00
+        E 840 90 41 60
+        E 120 80 41 00
+        E 840 90 41 60
+        E 120 80 41 00
+        E 840 90 41 60
+        E 120 80 41 00
+        E 840 90 41 60
+        E 0 90 48 60
+        E 120 80 41 00
+        E 0 80 48 00
+        E 840 90 41 60
+        E 120 80 41 00
+        E 840 90 41 60
+        E 120 80 41 00
+        E 840 90 41 60
+        E 120 80 41 00
+        E 840 90 41 60
+        E 0 90 48 60
+        E 120 80 41 00
+        E 0 80 48 00
+        E 840 90 41 60
+        E 120 80 41 00
+        E 840 90 41 60
+        E 120 80 41 00
+        E 840 90 41 60
+        E 120 80 41 00
+        E 840 90 41 60
+        E 0 90 48 60
+        E 120 80 41 00
+        E 0 80 48 00
+        E 840 90 41 60
+        E 120 80 41 00
+        E 840 90 41 60
+        E 120 80 41 00
+        E 360 90 48 60
+        E 120 80 48 00
+        E 360 90 41 60
+        E 0 90 48 60
+        E 120 80 41 00
+        E 0 80 48 00
+        E 120 90 48 60
+        E 120 80 48 00
+        E 360 90 4c 60
+        E 120 80 4c 00
+        E 120 90 41 60
+        E 0 90 45 60
+        E 120 80 41 00
+        E 0 80 45 00
+        E 360 90 41 60
+        E 120 80 41 00
+        E 120 90 45 60
+        E 120 80 45 00
+        E 120 b0 7b 00
+        CCINTERP 32
+        CHASE_CC_TAKEOFFS 1
+        GUID {8D9A45F9-03E6-2781-4E69-171A292B25DF}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 3002
+        VELLANE -1 77 0 0 1
+        VELLANE -2 9 79 0 1
+      >
+    >
+    <ITEM
+      POSITION 209.36170212765958
+      SNAPOFFS 0
+      LENGTH 20.42553191489361
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {20E5475B-3ED5-F9D6-C480-8DD77F0908BE}
+      IID 160
+      NAME 04-MIDI-glued
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C25770C4-571A-B072-23A5-8EFF885C2B76}
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        CCINTERP 32
+        POOLEDEVTS {9503F40E-51DD-1ECE-5CDC-661D50DB3170}
+        E 0 90 41 60
+        E 0 90 51 60
+        E 120 80 41 00
+        E 0 80 51 00
+        E 840 90 41 60
+        E 120 80 41 00
+        E 360 90 48 60
+        E 120 80 48 00
+        E 360 90 41 60
+        E 120 80 41 00
+        E 600 90 48 60
+        E 120 80 48 00
+        E 120 90 41 60
+        E 0 90 48 60
+        E 120 80 41 00
+        E 0 80 48 00
+        E 840 90 41 60
+        E 120 80 41 00
+        E 840 90 41 60
+        E 120 80 41 00
+        E 360 90 48 60
+        E 120 80 48 00
+        E 360 90 41 60
+        E 120 80 41 00
+        E 600 90 48 60
+        E 120 80 48 00
+        E 120 90 41 60
+        E 0 90 48 60
+        E 120 80 41 00
+        E 0 80 48 00
+        E 840 90 41 60
+        E 0 90 51 60
+        E 120 80 41 00
+        E 0 80 51 00
+        E 840 90 41 60
+        E 120 80 41 00
+        E 360 90 48 60
+        E 120 80 48 00
+        E 360 90 41 60
+        E 120 80 41 00
+        E 600 90 48 60
+        E 120 80 48 00
+        E 120 90 41 60
+        E 0 90 48 60
+        E 120 80 41 00
+        E 0 80 48 00
+        E 840 90 41 60
+        E 120 80 41 00
+        E 840 90 41 60
+        E 120 80 41 00
+        E 360 90 48 60
+        E 120 80 48 00
+        E 360 90 41 60
+        E 120 80 41 00
+        E 360 90 48 60
+        E 120 80 48 00
+        E 360 90 48 60
+        E 120 80 48 00
+        E 120 90 48 60
+        E 120 80 48 00
+        E 120 90 41 60
+        E 120 80 41 00
+        E 120 90 41 60
+        E 120 80 41 00
+        E 120 90 41 60
+        E 0 90 51 60
+        E 120 80 41 00
+        E 0 80 51 00
+        E 840 90 41 60
+        E 120 80 41 00
+        E 360 90 48 60
+        E 120 80 48 00
+        E 360 90 41 60
+        E 120 80 41 00
+        E 600 90 48 60
+        E 120 80 48 00
+        E 120 90 41 60
+        E 0 90 48 60
+        E 120 80 41 00
+        E 0 80 48 00
+        E 840 90 41 60
+        E 120 80 41 00
+        E 840 90 41 60
+        E 120 80 41 00
+        E 360 90 48 60
+        E 120 80 48 00
+        E 360 90 41 60
+        E 120 80 41 00
+        E 600 90 48 60
+        E 120 80 48 00
+        E 120 90 41 60
+        E 0 90 48 60
+        E 120 80 41 00
+        E 0 80 48 00
+        E 840 90 41 60
+        E 0 90 51 60
+        E 120 80 41 00
+        E 0 80 51 00
+        E 840 90 41 60
+        E 120 80 41 00
+        E 360 90 48 60
+        E 120 80 48 00
+        E 360 90 41 60
+        E 120 80 41 00
+        E 600 90 48 60
+        E 120 80 48 00
+        E 120 90 41 60
+        E 0 90 48 60
+        E 120 80 41 00
+        E 0 80 48 00
+        E 840 90 41 60
+        E 120 80 41 00
+        E 360 90 48 60
+        E 120 80 48 00
+        E 120 90 48 60
+        E 120 80 48 00
+        E 120 90 41 60
+        E 120 80 41 00
+        E 120 90 45 60
+        E 120 80 45 00
+        E 120 90 45 60
+        E 120 80 45 00
+        E 360 90 41 60
+        E 120 80 41 00
+        E 360 90 48 60
+        E 120 80 48 00
+        E 120 90 48 60
+        E 120 80 48 00
+        E 120 90 48 60
+        E 120 80 48 00
+        E 120 90 4c 60
+        E 120 80 4c 00
+        E 120 90 45 60
+        E 120 80 45 00
+        E 120 90 45 60
+        E 120 80 45 00
+        E 120 b0 7b 00
+        CCINTERP 32
+        CHASE_CC_TAKEOFFS 1
+        GUID {3EF9469E-2239-6AA7-7AE8-5861A2EF8E89}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 3004
+        VELLANE -1 77 0 0 1
+        VELLANE -2 9 79 0 1
+        CFGEDITVIEW 26830.505637 0.295557 46 12 0 -1 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 0
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 1 0 1 1 65545 1 1 1 1 1 0.25 14 68 1364 708 0 3 0 0 0 0 0 0 0 0.5 0 0 1 64
+      >
+    >
+    <ITEM
+      POSITION 229.78723404255319
+      SNAPOFFS 0
+      LENGTH 2.55319148936169
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {310735A1-F65D-F959-1E83-489190F4C673}
+      IID 171
+      NAME 04-MIDI-glued
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9264392C-4E62-129E-4F1F-CBB58A5225A2}
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        CCINTERP 32
+        POOLEDEVTS {86D971FE-B6CE-0211-7828-71EFE946534A}
+        E 0 90 41 60
+        E 0 90 51 60
+        E 0 90 45 60
+        E 120 80 41 00
+        E 0 80 51 00
+        E 0 80 45 00
+        E 360 90 45 60
+        E 120 80 45 00
+        E 120 90 4c 60
+        E 120 80 4c 00
+        E 120 90 41 60
+        E 0 90 45 60
+        E 120 80 41 00
+        E 0 80 45 00
+        E 360 90 48 60
+        E 0 90 45 60
+        E 120 80 48 00
+        E 0 80 45 00
+        E 360 90 41 60
+        E 0 90 45 60
+        E 120 80 41 00
+        E 0 80 45 00
+        E 120 90 4c 60
+        E 120 80 4c 00
+        E 120 90 45 60
+        E 120 80 45 00
+        E 120 90 45 60
+        E 120 80 45 00
+        E 120 90 41 60
+        E 0 90 48 60
+        E 0 90 51 60
+        E 120 80 41 00
+        E 0 80 48 00
+        E 0 80 51 00
+        E 360 90 45 60
+        E 120 80 45 00
+        E 360 90 41 60
+        E 120 80 41 00
+        E 840 90 41 60
+        E 120 80 41 00
+        E 360 90 48 60
+        E 120 80 48 00
+        E 360 90 41 60
+        E 120 80 41 00
+        E 600 90 48 60
+        E 120 80 48 00
+        E 120 90 41 60
+        E 0 90 48 60
+        E 120 80 41 00
+        E 0 80 48 00
+        E 840 90 41 60
+        E 0 90 51 60
+        E 120 80 41 00
+        E 0 80 51 00
+        E 840 90 41 60
+        E 120 80 41 00
+        E 360 90 48 60
+        E 120 80 48 00
+        E 360 90 41 60
+        E 120 80 41 00
+        E 600 90 48 60
+        E 120 80 48 00
+        E 120 90 41 60
+        E 0 90 48 60
+        E 120 80 41 00
+        E 0 80 48 00
+        E 840 90 41 60
+        E 120 80 41 00
+        E 840 90 41 60
+        E 120 80 41 00
+        E 360 90 48 60
+        E 120 80 48 00
+        E 360 90 41 60
+        E 120 80 41 00
+        E 360 90 48 60
+        E 120 80 48 00
+        E 360 90 48 60
+        E 120 80 48 00
+        E 120 90 48 60
+        E 120 80 48 00
+        E 120 90 41 60
+        E 120 80 41 00
+        E 120 90 41 60
+        E 120 80 41 00
+        E 120 90 41 60
+        E 0 90 51 60
+        E 120 80 41 00
+        E 0 80 51 00
+        E 840 90 41 60
+        E 120 80 41 00
+        E 360 90 48 60
+        E 120 80 48 00
+        E 360 90 41 60
+        E 120 80 41 00
+        E 600 90 48 60
+        E 120 80 48 00
+        E 120 90 41 60
+        E 0 90 48 60
+        E 120 80 41 00
+        E 0 80 48 00
+        E 840 90 41 60
+        E 120 80 41 00
+        E 840 90 41 60
+        E 120 80 41 00
+        E 360 90 48 60
+        E 120 80 48 00
+        E 360 90 41 60
+        E 120 80 41 00
+        E 600 90 48 60
+        E 120 80 48 00
+        E 120 90 41 60
+        E 0 90 48 60
+        E 120 80 41 00
+        E 0 80 48 00
+        E 840 90 41 60
+        E 0 90 51 60
+        E 120 80 41 00
+        E 0 80 51 00
+        E 840 90 41 60
+        E 120 80 41 00
+        E 360 90 48 60
+        E 120 80 48 00
+        E 360 90 41 60
+        E 120 80 41 00
+        E 600 90 48 60
+        E 120 80 48 00
+        E 120 90 41 60
+        E 0 90 48 60
+        E 120 80 41 00
+        E 0 80 48 00
+        E 840 90 41 60
+        E 120 80 41 00
+        E 360 90 48 60
+        E 120 80 48 00
+        E 120 90 48 60
+        E 120 80 48 00
+        E 120 90 41 60
+        E 120 80 41 00
+        E 120 90 45 60
+        E 120 80 45 00
+        E 120 90 45 60
+        E 120 80 45 00
+        E 360 90 41 60
+        E 120 80 41 00
+        E 360 90 48 60
+        E 120 80 48 00
+        E 120 90 48 60
+        E 120 80 48 00
+        E 120 90 48 60
+        E 120 80 48 00
+        E 120 90 45 60
+        E 120 80 45 00
+        E 120 90 45 60
+        E 120 80 45 00
+        E 120 90 41 60
+        E 120 80 41 00
+        E 120 b0 7b 00
+        CCINTERP 32
+        CHASE_CC_TAKEOFFS 1
+        GUID {53A56F52-8A2F-9BF3-39FF-4A9C4767C947}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 3012
+        VELLANE -1 77 0 0 1
+        VELLANE -2 9 79 0 1
+        CFGEDITVIEW -1008.699244 0.257008 46 24 0 -1 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 0
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 1 0 1 1 65545 1 1 1 1 1 0.25 14 68 1364 708 0 3 0 0 0 0 0 0 0 0.5 0 0 1 64
+      >
+    >
+  >
+  <TRACK {B0E0A09A-FF0C-AEA3-BE72-8D2202DAEE16}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1.37177745379402 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 1 1
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {B0E0A09A-FF0C-AEA3-BE72-8D2202DAEE16}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT 223 143 902 458
+      SHOW 0
+      LASTSEL 1
+      DOCKED 0
+    >
+  >
+  <TRACK {41536934-7A03-A7EC-13D4-2E437885CB54}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 -0.552 -1 -1 1
+    MUTESOLO 1 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    SEL 0
+    REC 0 1 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {41536934-7A03-A7EC-13D4-2E437885CB54}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 178.72340425531914
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {43AFAA0A-E878-1C5B-5B37-7B3B61D1C4EF}
+      IID 2
+      NAME 05-241116_1202.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9FFE6C11-60C0-3183-167A-4DA45E5D4B5D}
+      RECPASS 1
+      <SOURCE WAVE
+        FILE "AudioFiles/05-241116_1202.wav"
+      >
+    >
+    <ITEM
+      POSITION 178.72340136054422
+      SNAPOFFS 0
+      LENGTH 137.3982993197279
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {628CB694-881A-8CB7-AC6F-619F240ABA7D}
+      IID 5
+      NAME 05-241116_1218.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 5.10836734693878
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4292DA8F-CE25-36E0-71C6-CC3C981B77E2}
+      RECPASS 3
+      <SOURCE WAVE
+        FILE "AudioFiles/05-241116_1218.wav"
+      >
+    >
+  >
+  <TRACK {6BC1A536-88A1-EA47-F983-FC1190659BED}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0.512 -1 -1 1
+    MUTESOLO 1 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 2 -1
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    SEL 0
+    REC 0 1 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {6BC1A536-88A1-EA47-F983-FC1190659BED}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 315.90167800453514
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {93C7BC78-9691-3D0B-D5B4-987A7AC936F1}
+      IID 4
+      NAME 06-241116_1212.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F9CAF8A4-756A-A2DF-83BF-4669A9F63E2C}
+      RECPASS 2
+      <SOURCE WAVE
+        FILE "AudioFiles/06-241116_1212.wav"
+      >
+    >
+  >
+  <TRACK {85F68760-E2E0-C828-B47E-3B06037DDA94}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 0.70858445955218 0 -1 -1 1
+    MUTESOLO 1 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    SEL 0
+    REC 0 1 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {85F68760-E2E0-C828-B47E-3B06037DDA94}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT 0 135 902 458
+      SHOW 0
+      LASTSEL 3
+      DOCKED 0
+      BYPASS 0 0 0
+      <VST "VST: ReaEQ (Cockos)" reaeq.vst.so 0 "" 1919247729<56535472656571726561657100000000> ""
+        cWVlcu5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAAzQAAAAEAAAAAABAA
+        IQAAAAUAAAAEAAAAAQAAAKzgt8mNk2BAAAAAAAAA8D//////////PwEIAAAAAQAAAAAAAAAAwHJAAAAAAAAA8D8AAAAAAAAAQAEIAAAAAQAAALgFn7s3I69A/WL/WayY
+        5j82MzMzMzPjPwEBAAAAAQAAAAAAAAAAiLNAAAAAAAAA8D+amZmZmZnpPwEEAAAAAAAAAAAAAAAAAFlAAAAAAAAA8D8AAAAAAAAAQAEBAAAAAQAAAAAAAAAAAPA/AAAA
+        AIQCAACWAQAAAgAAAA==
+        AFByb2dyYW0gMQAQAAAA
+      >
+      FLOATPOS 0 0 0 0
+      FXID {39BB74D8-A597-ADBE-8913-FFF6123E48C6}
+      WAK 0 0
+      BYPASS 0 0 0
+      <VST "VST: ReaTune (Cockos)" reatune.vst.so 0 "" 1919251566<5653547265746E72656174756E650000> ""
+        bnRlcu5e7f4EAAAAAQAAAAAAAAACAAAAAAAAAAQAAAAAAAAACAAAAAAAAAACAAAAAQAAAAAAAAACAAAAAAAAAGgAAAABAAAAAAAQAA==
+        AQAAAAAAAAAeAAAAuAEAAAAAAABrBQAA+gAAADIAAAAyAAAAAAAAAAAAAAAAAAAAAACAQgAAQEEAAAAAAAAgQgEAAAABAAAAAAALAAEAAAAAAAAAAAAAAAAAAAAfAwAA
+        CgIAACAAAAA=
+        AFByb2dyYW0gMQAQAAAA
+      >
+      FLOATPOS 0 0 0 0
+      FXID {8C1F7658-5C51-64AF-B897-1794A05950D6}
+      WAK 0 0
+      BYPASS 0 0 0
+      <VST "VST: Wider (airwindows)" Wider.so 0 "" 2003395698<56535477696472776964657200000000> ""
+        cmRpd+5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAADAAAAAEAAAAAABAA
+        AAAAPwAAAD8AAAA/
+        AERlZmF1bHQAEAAAAA==
+      >
+      PRESETNAME Default
+      FLOATPOS 0 0 0 0
+      FXID {C68D8A84-F8A2-9802-EF3D-47A567BBEBCE}
+      WAK 0 0
+      BYPASS 0 0 0
+      <VST "VST: ReaComp (Cockos)" reacomp.vst.so 0 "" 1919247213<5653547265636D726561636F6D700000> ""
+        bWNlcu9e7f4EAAAAAQAAAAAAAAACAAAAAAAAAAQAAAAAAAAACAAAAAAAAAACAAAAAQAAAAAAAAACAAAAAAAAAFwAAAAAAAAAAAAAAA==
+        776t3g3wrd78ir49UJgtPS7DojyfkSA8AAAAAAAAAAANBM0+tUbuOwAAAAAAAAAAvTeGNcjdyj8AAAAAAAAAACUGgT0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=
+        AHN0b2NrIC0gTW9kZXJuIFZvY2FsAAAAAAA=
+      >
+      PRESETNAME "stock - Modern Vocal"
+      FLOATPOS 0 0 0 0
+      FXID {3D77B75D-EABC-4635-5A0D-F66CD97B6791}
+      WAK 0 0
+    >
+    <ITEM
+      POSITION 5.10637188208617
+      SNAPOFFS 0
+      LENGTH 308.05335600907028
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {5E20E2FD-509E-345A-834E-19D007EC1CDF}
+      IID 7
+      NAME 08-241116_1227.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 5.10836734693878
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {271CC21C-0D08-BF6F-A22F-4BD3E8E0D261}
+      RECPASS 5
+      <SOURCE WAVE
+        FILE "AudioFiles/08-241116_1227.wav"
+      >
+    >
+  >
+  <TRACK {2B09786D-FC4C-530C-E22A-903D9A522C69}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 0.17733342414137 0.504 -1 -1 1
+    MUTESOLO 1 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    SEL 0
+    REC 0 1 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {2B09786D-FC4C-530C-E22A-903D9A522C69}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT 498 60 868 235
+      SHOW 0
+      LASTSEL 4
+      DOCKED 0
+      BYPASS 0 0 0
+      <VST "VST: ReaTune (Cockos)" reatune.vst.so 0 "" 1919251566<5653547265746E72656174756E650000> ""
+        bnRlcu5e7f4EAAAAAQAAAAAAAAACAAAAAAAAAAQAAAAAAAAACAAAAAAAAAACAAAAAQAAAAAAAAACAAAAAAAAAGgAAAABAAAAAAAQAA==
+        AQAAAAAAAAAeAAAAuAEAAAAAAABrBQAA+gAAADIAAAAyAAAAAAAAAAAAAAAAAAAAAACAQgAAQEEAAAAAAAAgQgEAAAABAAAAAAALAAEAAAAAAAAAAAAAAAAAAAAfAwAA
+        CgIAACAAAAA=
+        AFByb2dyYW0gMQAQAAAA
+      >
+      FLOATPOS 0 0 0 0
+      FXID {3A77AD14-B307-81E6-26FF-D6752379396A}
+      WAK 0 0
+      BYPASS 0 0 0
+      <VST "VST: Wider (airwindows)" Wider.so 0 "" 2003395698<56535477696472776964657200000000> ""
+        cmRpd+5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAADAAAAAEAAAAAABAA
+        AAAAPwAAAD8AAIA/
+        AERlZmF1bHQAEAAAAA==
+      >
+      PRESETNAME Default
+      FLOATPOS 0 0 0 0
+      FXID {DF0EB548-215C-2DA6-9C2B-94A964BCEE38}
+      WAK 0 0
+      BYPASS 0 0 0
+      <VST "VST: ReaComp (Cockos)" reacomp.vst.so 0 "" 1919247213<5653547265636D726561636F6D700000> ""
+        bWNlcu9e7f4EAAAAAQAAAAAAAAACAAAAAAAAAAQAAAAAAAAACAAAAAAAAAACAAAAAQAAAAAAAAACAAAAAAAAAFwAAAAAAAAAAAAAAA==
+        776t3g3wrd78ir49UJgtPS7DojyfkSA8AAAAAAAAAAANBM0+tUbuOwAAAAAAAAAAvTeGNcjdyj8AAAAAAAAAACUGgT0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=
+        AHN0b2NrIC0gTW9kZXJuIFZvY2FsAAAAAAA=
+      >
+      PRESETNAME "stock - Modern Vocal"
+      FLOATPOS 0 0 0 0
+      FXID {CF099A96-6321-9CCF-FD05-9A1B0DCB64F6}
+      WAK 0 0
+      BYPASS 0 0 0
+      <VST "VST: kPlateA (airwindows)" kPlateA.so 0 "" 1802529889<5653546B706C616B706C617465610000> ""
+        YWxwa+5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAAFAAAAAEAAAAAABAA
+        bxIDPgAAAD8AAIA/AAAAAEw3CT4=
+        AERlZmF1bHQAEAAAAA==
+      >
+      PRESETNAME Default
+      FLOATPOS 0 0 0 0
+      FXID {631464D6-F8DD-FD74-34C7-EBE6FF99FEE2}
+      WAK 0 0
+      BYPASS 0 0 0
+      <VST "VST: TapeDelay2 (airwindows)" TapeDelay2.so 0 "" 1953522797<5653547470646D7461706564656C6179> ""
+        bWRwdO5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAAGAAAAAEAAAAAABAA
+        Di1SPwAAAABt57s+2c73PgAAAAAbL109
+        AERlZmF1bHQAEAAAAA==
+      >
+      PRESETNAME Default
+      FLOATPOS 0 0 0 0
+      FXID {1B1948D7-1DCE-3E1C-220D-03646CE7F909}
+      WAK 0 0
+    >
+    <ITEM
+      POSITION 65.10637188208617
+      SNAPOFFS 0
+      LENGTH 30.00001109663724
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {748A4213-0FFD-5094-C855-FB38F6990532}
+      IID 8
+      NAME 09-241116_1250.wav
+      VOLPAN 1 0 7.794103 -1
+      SOFFS 6.38546485260771
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {DBC4620D-F6D7-DDC1-068B-455DEDDA5064}
+      RECPASS 6
+      <SOURCE WAVE
+        FILE "AudioFiles/09-241116_1250.wav"
+      >
+    >
+  >
+  <EXTENSIONS
   >
 >

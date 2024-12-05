@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "7.07/linux-x86_64" 1721916488
+<REAPER_PROJECT 0.1 "7.27/linux-x86_64" 1732801897
   AUTHOR PROJECT_AUTHOR
   RIPPLE 0
   GROUPOVERRIDE 0 0 0
@@ -15,7 +15,7 @@
   TIMEMODE 1 5 -1 30 0 0 -1
   VIDEO_CONFIG 0 0 256
   PANMODE 3
-  CURSOR 63.75
+  CURSOR 50.625
   ZOOM 6.36400816428834 0 0
   VZOOMEX 20 375
   USE_REC_CFG 0
@@ -50,10 +50,14 @@
   LOCK 1
   <METRONOME 6 2
     VOL 0.25 0.125
-    FREQ 800 1600 1
     BEATLEN 4
+    FREQ 800 1600 1
     SAMPLES "" ""
-    PATTERN 2863311530 2863311529
+    SPLIGNORE 0 0
+    SPLDEF 2 660 "" 0
+    SPLDEF 3 440 "" 0
+    PATTERN 0 169
+    PATTERNSTR ABBB
     MULT 1
   >
   GLOBAL_AUTO -1
@@ -124,14 +128,14 @@
     PEAKCOL 16576
     BEAT -1
     AUTOMODE 0
-    VOLPAN 1 0 -1 -1 1
+    VOLPAN 0.12007554149779 0 -1 -1 1
     MUTESOLO 0 0 0
     IPHASE 0
     PLAYOFFS 0 1
     ISBUS 0 0
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
-    FIXEDLANES 9 0 0
+    FIXEDLANES 9 0 0 0 0
     SEL 0
     REC 0 0 1 0 0 0 0 0
     VU 2
@@ -164,12 +168,16 @@
       <SOURCE CLICK
         AUTO 1
         BPM 128
-        BPI 4
+        BPI 4 4
         VOL 1 1
-        FREQ 800 1600 1
         BEATLEN 4
+        FREQ 800 1600 1
         SAMPLES "/home/butbkadrug/Music/Assets/Clicks/New Click -  Blip-accents.wav" "/home/butbkadrug/Music/Assets/Clicks/New Click -  Blip-sixteenth.wav"
-        PATTERN 2863311530 2863311529
+        SPLIGNORE 0 0
+        SPLDEF 2 660 "" 0
+        SPLDEF 3 440 "" 0
+        PATTERN 0 169
+        PATTERNSTR ABBB
         MULT 1
       >
     >
@@ -179,15 +187,15 @@
     PEAKCOL 16576
     BEAT -1
     AUTOMODE 0
-    VOLPAN 1 0 -1 -1 1
+    VOLPAN 0.11426401535961 0 -1 -1 1
     MUTESOLO 0 0 0
     IPHASE 0
     PLAYOFFS 0 1
     ISBUS 0 0
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
-    FIXEDLANES 9 0 0
-    SEL 1
+    FIXEDLANES 9 0 0 0 0
+    SEL 0
     REC 0 0 1 0 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0 0 0 0 0
@@ -1063,15 +1071,15 @@
     PEAKCOL 16576
     BEAT -1
     AUTOMODE 0
-    VOLPAN 1 0 -1 -1 1
+    VOLPAN 0.54156767745055 0 -1 -1 1
     MUTESOLO 0 0 0
     IPHASE 0
     PLAYOFFS 0 1
     ISBUS 0 0
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
-    FIXEDLANES 9 0 0
-    SEL 0
+    FIXEDLANES 9 0 0 0 0
+    SEL 1
     REC 0 0 1 0 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0 0 0 0 0
@@ -1092,17 +1100,17 @@
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
       BEAT 2
-      SEL 0
+      SEL 1
       IGUID {D17A829E-8352-9D3F-1F5C-2FFEA8921206}
       IID 1
       NAME "Deti Boga - Verit i lubit.mp3"
-      VOLPAN 1 0 1 -1
+      VOLPAN 1 0 0.8817 -1
       SOFFS 0.02038133307726
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
       GUID {FFFE6095-CC9F-753A-CBC5-A152BA47FE04}
       <SOURCE MP3
-        FILE "/home/butbkadrug/Downloads/Deti Boga - Verit i lubit.mp3" 1
+        FILE "AudioFiles/Deti Boga - Verit i lubit.mp3" 1
       >
     >
   >

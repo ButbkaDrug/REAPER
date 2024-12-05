@@ -1,11 +1,18 @@
 [Intro]
 #1
 
+[Vamp]
+#4
+
 [ Verse 1 ]
-Blessed be Your name
-In the land of the plentiful
-Where Your streams of abundance flow
-Blessed be Your name
+#1 5
+^Blessed be^ Your name
+#6m7 4
+In the ^land of the plen^tiful
+#1 5
+Where Your st^reams of a^bundance flow
+#4
+Blessed be Your n^ame
 
 [ Verse 2 ]
 Blessed be Your name
@@ -14,77 +21,89 @@ Though I walk through the wilderness
 Blessed be Your name
 
 [ Pre Chorus ]
-Every blessing You pour out I'll
-Turn back to praise
-When the darkness closes in Lord
-Still I will say
+#1 5
+^Every blessing Y^ou pour out I'll
+#6m7 4
+^Turn back to prai^se
+#1 5
+^When the darkness closes ^in Lord
+#6m7 4
+^Still I will s^ay
 
 [ Chorus ]
-Blessed be the name of the Lord
-Blessed be Your name
-Blessed be the name of the Lord
-Blessed be Your glorious name
+#1 5
+Blessed be the nam^e of the Lord^
+#6m 4
+Blessed be Your ^name>
+#1 5
+Blessed be the n^ame of the Lord ^
+#6m 5 4
+Blessed be Your g^lo - ^rious n^ame
 
 [ Verse 3 ]
-Blessed be Your name
-When the sun's shining down on me
-When the world's all as it should be
-Blessed be Your name
+^Blessed be^ Your name
+When the ^sun's shining down ^on me
+When the w^orld's all as it sho^uld be
+Blessed be Your n^ame
 
 [ Verse 4 ]
-Blessed be Your name
-On the road marked with suffering
-Though there's pain in the offering
-Blessed be Your name name
+^Blessed be^ Your name
+On the ^road marked with s^uffering
+Though there's p^ain in the offer^ing
+Blessed be Your name n^ame
 
 [ Bridge ]
+#1 5
 {-0.5172413793, 3.6206896552}
-You give and take away
+You g^ive and take aw^ay
+#6m7 4
 {3.1034482759, 4.1379310345}
-You give and take away
+You g^ive and take aw^ay
+#1 5
 {7.2413793104, 4.6551724138}
-My heart will chose to say
+My he^art will chose to s^ay
+#6m7 4
 {11.8965517242, 4.6551724138}
-Blessed be Your name
+B^lessed be Your n^ame
 
 [ Verse 1 R ]
 {0.5172413793, 3.1034482759}
-Будь благословен
+^Будь благ^ословен
 {3.6206896552, 4.1379310345}
-На земле, где обильный плод,
+На зем^ле, где о^бильный плод,
 {7.7586206897, 4.1379310345}
-Где течет молоко и мед,
+Где теч^ет моло^ко и мед,
 {11.8965517242, 4.6551724138}
-Будь благословен!
+Будь благослов^ен!
 
 [ Verse 2 R ]
 {0.5172413793, 3.1034482758}
-Будь благословен
+^Будь благ^ословен
 {3.6206896551, 4.1379310345}
-На иссохшей и пустой земле,
+На ис^сохшей и пуст^ой земле,
 {7.7586206896, 4.1379310345}
-Когда грусть и печаль в душе,
+Когда гр^усть и печ^аль в душе,
 {11.8965517241, 4.6551724138}
-Будь благословен!
+Будь благослов^ен!
 
 [ Pre Chorus R ]
 {4.1379310345, 4.1379310345}
-За Твои благословенья
+^За Твои благ^ословенья
 {8.275862069, 4.1379310344}
-Я воздам хвалу,
+^Я воздам хвал^у,
 {12.4137931034, 4.1379310345}
-Даже если тьма окружит,
-Все равно скажу
+^Даже если тьм^а окружит,
+^Все равно скаж^у
 
 [ Chorus R ]
 {-1.5517241379, 4.1379310345}
-Будь благословен, мой Господь,
+Будь благослов^ен, мой Госп^одь,
 {2.5862068966, 4.1379310345}
-Будь благослооовен!
+Будь благосло^оовен!^
 {6.7241379311, 4.1379310344}
-Будь благословен, мой Господь,
+Будь благослов^ен, мой Госп^одь,
 {10.8620689655, 5.6896551725}
-Будь благословен, великий Бог!
+Будь благосло^вен, вел^икий Б^ог!
 
 [ Verse 3 R ]
 Будь благословен,
@@ -99,7 +118,7 @@ Blessed be Your name
 Будь благословен!
 
 [ Bridge R ]
-Ты можешь всё мне дать,
-Ты можешь всё отнять,
-Но я хочу за всё
-Тебя благословлять!
+Ты м^ожешь всё мне д^ать,
+Ты ^можешь всё отн^ять,
+Но ^я хочу за вс^ё
+Те^бя благословл^ять!
