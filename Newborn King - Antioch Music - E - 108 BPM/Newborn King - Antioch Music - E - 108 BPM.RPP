@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "6.77/win64" 1701361360
+<REAPER_PROJECT 0.1 "7.27/linux-x86_64" 1733821507
   TITLE Newborn
   AUTHOR Antioch
   <NOTES 0 0
@@ -19,7 +19,7 @@
   TIMEMODE 1 5 -1 30 0 0 -1
   VIDEO_CONFIG 0 0 256
   PANMODE 3
-  CURSOR 88.88888888888889
+  CURSOR 17.77777777777778
   ZOOM 1.63018138293111 0 0
   VZOOMEX 5 0
   USE_REC_CFG 0
@@ -54,10 +54,14 @@
   LOCK 1
   <METRONOME 6 2
     VOL 1 1
-    FREQ 800 1600 1
     BEATLEN 4
+    FREQ 800 1600 1
     SAMPLES "/home/butbkadrug/Music/Assets/Clicks/New Click -  Blip-accents.wav" "/home/butbkadrug/Music/Assets/Clicks/New Click -  Blip-sixteenth.wav"
-    PATTERN 2863311530 2863311529
+    SPLIGNORE 0 0
+    SPLDEF 2 660 "" 0
+    SPLDEF 3 440 "" 0
+    PATTERN 0 169
+    PATTERNSTR ABBB
     MULT 2
   >
   GLOBAL_AUTO -1
@@ -69,7 +73,7 @@
   MASTERTRACKHEIGHT 0 0
   MASTERPEAKCOL 16576
   MASTERMUTESOLO 0
-  MASTERTRACKVIEW 1 0.6667 0.5 0.5 0 -1 0 0 0 0 0 0 0
+  MASTERTRACKVIEW 1 0.6667 0.5 0.5 0 -1 0 0 0 0 0 0 0 0
   MASTERHWOUT 0 0 1 0 0 0 0 -1
   MASTERHWOUT 0 0 1 0 0 0 2 -1
   MASTERHWOUT 0 0 1 0 0 0 4 -1
@@ -99,32 +103,32 @@
     DEFSHAPE 1 -1 -1
     PT 0.000000000000 108.0000000000 1
   >
-  MARKER 1 0 Intro 1 29189418 1 R {F1A3A3B0-255C-482B-A62D-F50530FC2B92}
-  MARKER 1 13.33333333333333 "" 1 29189418 1 R
-  MARKER 2 13.33333333333333 Intro 1 29189418 1 R {55B0664C-9217-4439-A60B-76D0D2D808E2}
-  MARKER 2 22.22222222222222 "" 1 29189418 1 R
-  MARKER 3 22.22222222222222 "Verse 1" 1 33515125 1 R {D0B5D276-2A9B-37A7-0637-CED985ABB685}
-  MARKER 3 66.66666666666667 "" 1 33515125 1 R
-  MARKER 4 66.66666666666667 Turnaround 1 29209898 1 R {5BC69FBA-C98F-F69C-7454-BC0BFC92515E}
-  MARKER 4 75.55555555555556 "" 1 29209898 1 R
-  MARKER 5 75.55555555555556 "Verse 2" 1 33515125 1 R {2CA5EDB3-E787-4943-B67E-50C255937AA9}
-  MARKER 5 120 "" 1 33515125 1 R
-  MARKER 19 120 Intro 1 29189418 1 R {77776AB1-248C-DA66-DA74-A69373D99AAE}
-  MARKER 19 137.77777777777777 "" 1 29189418 1 R
-  MARKER 18 137.77777777777777 "Verse 1" 1 33515125 1 R {C320B6CE-881F-119F-1E1D-73A714EA1A69}
-  MARKER 18 182.22222222222223 "" 1 33515125 1 R
-  MARKER 20 182.22222222222223 Turnaround 1 29209898 1 R {95CE6727-1C6C-89AD-260B-EC0F81290DC5}
-  MARKER 20 191.11111111111109 "" 1 29209898 1 R
-  MARKER 21 191.11111111111114 "Verse 2" 1 33515125 1 R {35D06CC2-09B0-1D0F-46A8-08AD1C34425D}
-  MARKER 21 235.55555555555554 "" 1 33515125 1 R
-  MARKER 10 235.55555555555554 Interlude 1 29209898 1 R {19E6E2C6-E561-D795-ADCD-7FC77AE6A67D}
-  MARKER 10 244.44444444444446 "" 1 29209898 1 R
-  MARKER 11 244.44444444444446 "Verse 3" 1 33515125 1 R {1EAE6AF0-3E54-54CF-F71B-C87024E2D677}
-  MARKER 11 288.88888888888891 "" 1 33515125 1 R
-  MARKER 6 288.88888888888891 Intro 1 29189418 1 R {8A12C49C-EC37-429C-AED2-4A2630DF0389}
-  MARKER 6 306.66666666666669 "" 1 29189418 1 R
-  MARKER 17 306.66666666666669 Ending 1 29209898 1 R {033B872C-2A87-0075-2E29-E73C3528DE0B}
-  MARKER 17 315.5555555555556 "" 1 29209898 1 R
+  MARKER 1 0 Intro 1 19555773 1 B {F1A3A3B0-255C-482B-A62D-F50530FC2B92} 0
+  MARKER 1 13.33333333333333 "" 1
+  MARKER 2 13.33333333333333 Intro 1 19555773 1 B {55B0664C-9217-4439-A60B-76D0D2D808E2} 0
+  MARKER 2 22.22222222222222 "" 1
+  MARKER 3 22.22222222222222 "Verse 1" 1 24471295 1 B {D0B5D276-2A9B-37A7-0637-CED985ABB685} 0
+  MARKER 3 66.66666666666667 "" 1
+  MARKER 4 66.66666666666667 Turnaround 1 19576253 1 B {5BC69FBA-C98F-F69C-7454-BC0BFC92515E} 0
+  MARKER 4 75.55555555555556 "" 1
+  MARKER 5 75.55555555555556 "Verse 2" 1 24471295 1 B {2CA5EDB3-E787-4943-B67E-50C255937AA9} 0
+  MARKER 5 120 "" 1
+  MARKER 19 120 Intro 1 19555773 1 B {77776AB1-248C-DA66-DA74-A69373D99AAE} 0
+  MARKER 19 137.77777777777777 "" 1
+  MARKER 18 137.77777777777777 "Verse 1" 1 24471295 1 B {C320B6CE-881F-119F-1E1D-73A714EA1A69} 0
+  MARKER 18 182.22222222222223 "" 1
+  MARKER 20 182.22222222222223 Turnaround 1 19576253 1 B {95CE6727-1C6C-89AD-260B-EC0F81290DC5} 0
+  MARKER 20 191.11111111111109 "" 1
+  MARKER 21 191.11111111111114 "Verse 2" 1 24471295 1 B {35D06CC2-09B0-1D0F-46A8-08AD1C34425D} 0
+  MARKER 21 235.55555555555554 "" 1
+  MARKER 10 235.55555555555554 Interlude 1 19576253 1 B {19E6E2C6-E561-D795-ADCD-7FC77AE6A67D} 0
+  MARKER 10 244.44444444444446 "" 1
+  MARKER 11 244.44444444444446 "Verse 3" 1 24471295 1 B {1EAE6AF0-3E54-54CF-F71B-C87024E2D677} 0
+  MARKER 11 288.88888888888891 "" 1
+  MARKER 6 288.88888888888891 Intro 1 19555773 1 B {8A12C49C-EC37-429C-AED2-4A2630DF0389} 0
+  MARKER 6 306.66666666666669 "" 1
+  MARKER 17 306.66666666666669 Ending 1 19576253 1 B {033B872C-2A87-0075-2E29-E73C3528DE0B} 0
+  MARKER 17 315.5555555555556 "" 1
   <PROJBAY
   >
   <TRACK {63546305-B5B4-7E49-158B-49515A83B875}
@@ -139,10 +143,10 @@
     ISBUS 0 0
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 -1 0
-    SEL 0
+    SEL 1
     REC 0 0 1 0 0 0 0 0
     VU 2
-    TRACKHEIGHT 0 0 0 0 0 0
+    TRACKHEIGHT 0 0 0 0 0 0 0
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 2
     FX 1
@@ -177,12 +181,16 @@
       <SOURCE CLICK
         AUTO 1
         BPM 108
-        BPI 4
+        BPI 4 4
         VOL 1 1
-        FREQ 800 1600 1
         BEATLEN 4
-        SAMPLES "C:\Users\butbkadrug\Music\Assets\Clicks\New Click -  Blip-accents.wav" "C:\Users\butbkadrug\Music\Assets\Clicks\New Click -  Blip-sixteenth.wav"
-        PATTERN 2863311530 2863311529
+        FREQ 800 1600 1
+        SAMPLES "/home/butbkadrug/Music/Assets/Clicks/New Click -  Blip-accents.wav" "/home/butbkadrug/Music/Assets/Clicks/New Click -  Blip-sixteenth.wav"
+        SPLIGNORE 0 0
+        SPLDEF 2 660 "" 0
+        SPLDEF 3 440 "" 0
+        PATTERN 0 169
+        PATTERNSTR ABBB
         MULT 1
       >
     >
@@ -199,10 +207,10 @@
     ISBUS 2 -1
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 -1 0
-    SEL 1
+    SEL 0
     REC 0 0 1 0 0 0 0 0
     VU 2
-    TRACKHEIGHT 0 0 0 0 0 0
+    TRACKHEIGHT 0 0 0 0 0 0 0
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 2
     FX 1
@@ -230,7 +238,7 @@
       CHANMODE 0
       GUID {160C443A-08CC-8330-C861-E8AE24774601}
       <SOURCE WAVE
-        FILE "C:\Users\butbkadrug\Music\Assets\Cues\English Female - 1.wav"
+        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 1.wav"
       >
     >
     <ITEM
@@ -252,7 +260,7 @@
       CHANMODE 0
       GUID {C14646E4-625B-E7D1-9ABE-28086B1D6230}
       <SOURCE WAVE
-        FILE "C:\Users\butbkadrug\Music\Assets\Cues\English Female - 2.wav"
+        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 2.wav"
       >
     >
     <ITEM
@@ -274,7 +282,7 @@
       CHANMODE 0
       GUID {9CF73BE1-1049-0B14-0C3A-95069C00DABF}
       <SOURCE WAVE
-        FILE "C:\Users\butbkadrug\Music\Assets\Cues\English Female - Intro.wav"
+        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - Intro.wav"
       >
     >
     <ITEM
@@ -296,7 +304,7 @@
       CHANMODE 0
       GUID {38EB68D8-24E4-931B-3EBE-F9E3F443FF2A}
       <SOURCE WAVE
-        FILE "C:\Users\butbkadrug\Music\Assets\Cues\English Female - 2.wav"
+        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 2.wav"
       >
     >
     <ITEM
@@ -318,7 +326,7 @@
       CHANMODE 0
       GUID {C23BB53C-4D2C-CAF3-5ED9-81DF28377196}
       <SOURCE WAVE
-        FILE "C:\Users\butbkadrug\Music\Assets\Cues\English Female - 3.wav"
+        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 3.wav"
       >
     >
     <ITEM
@@ -340,7 +348,7 @@
       CHANMODE 0
       GUID {CF5FA551-D248-6DB9-D3F0-F697F6F7270E}
       <SOURCE WAVE
-        FILE "C:\Users\butbkadrug\Music\Assets\Cues\English Female - 4.wav"
+        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 4.wav"
       >
     >
     <ITEM
@@ -362,7 +370,7 @@
       CHANMODE 0
       GUID {61123BD1-379E-1724-B51A-7FA2AD7E2D15}
       <SOURCE WAVE
-        FILE "C:\Users\butbkadrug\Music\Assets\Cues\English Female - Intro.wav"
+        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - Intro.wav"
       >
     >
     <ITEM
@@ -384,7 +392,7 @@
       CHANMODE 0
       GUID {54D0580A-9B09-FC64-D06E-23B44C507010}
       <SOURCE WAVE
-        FILE "C:\Users\butbkadrug\Music\Assets\Cues\English Female - 2.wav"
+        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 2.wav"
       >
     >
     <ITEM
@@ -406,7 +414,7 @@
       CHANMODE 0
       GUID {60AD3AC7-DE55-6385-E582-A7F323B357F3}
       <SOURCE WAVE
-        FILE "C:\Users\butbkadrug\Music\Assets\Cues\English Female - 3.wav"
+        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 3.wav"
       >
     >
     <ITEM
@@ -428,7 +436,7 @@
       CHANMODE 0
       GUID {2661A1DA-C288-C589-4999-EDC00C72ED18}
       <SOURCE WAVE
-        FILE "C:\Users\butbkadrug\Music\Assets\Cues\English Female - 4.wav"
+        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 4.wav"
       >
     >
     <ITEM
@@ -450,7 +458,7 @@
       CHANMODE 0
       GUID {069278D3-B071-C9A6-11DE-1E9FD0DE7CFD}
       <SOURCE WAVE
-        FILE "C:\Users\butbkadrug\Music\Assets\Cues\English Female - Verse 1.wav"
+        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - Verse 1.wav"
       >
     >
     <ITEM
@@ -472,7 +480,7 @@
       CHANMODE 0
       GUID {EBAADDE1-3C01-69C1-EC23-EC5E40E92572}
       <SOURCE WAVE
-        FILE "C:\Users\butbkadrug\Music\Assets\Cues\English Female - 2.wav"
+        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 2.wav"
       >
     >
     <ITEM
@@ -494,7 +502,7 @@
       CHANMODE 0
       GUID {2B5B6649-D2F2-DE1B-B972-2378164E62C2}
       <SOURCE WAVE
-        FILE "C:\Users\butbkadrug\Music\Assets\Cues\English Female - 3.wav"
+        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 3.wav"
       >
     >
     <ITEM
@@ -516,7 +524,7 @@
       CHANMODE 0
       GUID {A6F592ED-3515-8E3A-F273-189F2068EC6D}
       <SOURCE WAVE
-        FILE "C:\Users\butbkadrug\Music\Assets\Cues\English Female - 4.wav"
+        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 4.wav"
       >
     >
     <ITEM
@@ -538,7 +546,7 @@
       CHANMODE 0
       GUID {7CC22F85-4276-20B0-B074-8CB90D25B4CB}
       <SOURCE WAVE
-        FILE "C:\Users\butbkadrug\Music\Assets\Cues\English Female - Turnaround.wav"
+        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - Turnaround.wav"
       >
     >
     <ITEM
@@ -560,7 +568,7 @@
       CHANMODE 0
       GUID {2B82BDA3-6664-B900-85FC-9B096B6FF151}
       <SOURCE WAVE
-        FILE "C:\Users\butbkadrug\Music\Assets\Cues\English Female - 2.wav"
+        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 2.wav"
       >
     >
     <ITEM
@@ -582,7 +590,7 @@
       CHANMODE 0
       GUID {E8867471-7A0E-06A2-995E-A2393D2E7E19}
       <SOURCE WAVE
-        FILE "C:\Users\butbkadrug\Music\Assets\Cues\English Female - 3.wav"
+        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 3.wav"
       >
     >
     <ITEM
@@ -604,7 +612,7 @@
       CHANMODE 0
       GUID {0497A4C8-DBD0-58BE-D4AF-F7F302459A76}
       <SOURCE WAVE
-        FILE "C:\Users\butbkadrug\Music\Assets\Cues\English Female - 4.wav"
+        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 4.wav"
       >
     >
     <ITEM
@@ -626,7 +634,7 @@
       CHANMODE 0
       GUID {EAEFD857-B6C2-8594-2278-6167584A7706}
       <SOURCE WAVE
-        FILE "C:\Users\butbkadrug\Music\Assets\Cues\English Female - Verse 2.wav"
+        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - Verse 2.wav"
       >
     >
     <ITEM
@@ -648,7 +656,7 @@
       CHANMODE 0
       GUID {22C2579E-D3C9-79C3-36F3-B54D99B6F621}
       <SOURCE WAVE
-        FILE "C:\Users\butbkadrug\Music\Assets\Cues\English Female - 2.wav"
+        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 2.wav"
       >
     >
     <ITEM
@@ -670,7 +678,7 @@
       CHANMODE 0
       GUID {FA05846F-8802-1D90-8EB5-32B24963956B}
       <SOURCE WAVE
-        FILE "C:\Users\butbkadrug\Music\Assets\Cues\English Female - 3.wav"
+        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 3.wav"
       >
     >
     <ITEM
@@ -692,7 +700,7 @@
       CHANMODE 0
       GUID {CC2981C3-1F3D-4E28-C33C-B958AD5B02DA}
       <SOURCE WAVE
-        FILE "C:\Users\butbkadrug\Music\Assets\Cues\English Female - 4.wav"
+        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 4.wav"
       >
     >
     <ITEM
@@ -714,7 +722,7 @@
       CHANMODE 0
       GUID {B7EF2FB9-6DA8-4AF8-576F-3D2FA65D415F}
       <SOURCE WAVE
-        FILE "C:\Users\butbkadrug\Music\Assets\Cues\English Female - Intro.wav"
+        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - Intro.wav"
       >
     >
     <ITEM
@@ -736,7 +744,7 @@
       CHANMODE 0
       GUID {462A1911-D1EC-92D9-9FC3-2B47216A383D}
       <SOURCE WAVE
-        FILE "C:\Users\butbkadrug\Music\Assets\Cues\English Female - 2.wav"
+        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 2.wav"
       >
     >
     <ITEM
@@ -758,7 +766,7 @@
       CHANMODE 0
       GUID {FB61C2F7-5343-CD02-6BBD-3123C44CB377}
       <SOURCE WAVE
-        FILE "C:\Users\butbkadrug\Music\Assets\Cues\English Female - 3.wav"
+        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 3.wav"
       >
     >
     <ITEM
@@ -780,7 +788,7 @@
       CHANMODE 0
       GUID {9EA63FF3-40C1-83FC-B2F3-08B0E9B2B16D}
       <SOURCE WAVE
-        FILE "C:\Users\butbkadrug\Music\Assets\Cues\English Female - 4.wav"
+        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 4.wav"
       >
     >
   >
@@ -799,7 +807,7 @@
     SEL 0
     REC 0 0 1 0 0 0 0 0
     VU 2
-    TRACKHEIGHT 0 0 0 0 0 0
+    TRACKHEIGHT 0 0 0 0 0 0 0
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 2
     FX 1
@@ -823,7 +831,7 @@
     SEL 0
     REC 0 0 1 0 0 0 0 0
     VU 2
-    TRACKHEIGHT 0 0 0 0 0 0
+    TRACKHEIGHT 0 0 0 0 0 0 0
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 2
     FX 1
@@ -1089,7 +1097,7 @@
     SEL 0
     REC 0 0 1 0 0 0 0 0
     VU 2
-    TRACKHEIGHT 0 0 0 0 0 0
+    TRACKHEIGHT 0 0 0 0 0 0 0
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 2
     FX 1
@@ -1334,7 +1342,7 @@
     SEL 0
     REC 0 0 1 0 0 0 0 0
     VU 2
-    TRACKHEIGHT 0 0 0 0 0 0
+    TRACKHEIGHT 0 0 0 0 0 0 0
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 2
     FX 1
@@ -1587,13 +1595,12 @@
   >
   <EXTENSIONS
     <SWSAUTOCOLOR
-      {00000000-0000-0000-0000-000000000000} 0 "" "" ""
-      {63546305-B5B4-7E49-158B-49515A83B875} 33532072 "" "" ""
-      {482A7D4B-D58A-AE56-F79B-D4EF59E1CE3C} 33532072 "" "" ""
-      {A762872A-06E5-B82B-E60E-674806CFFC04} 16804823 "" "" ""
-      {36CC55DC-E1BA-1654-E77D-43BE73BD8347} 33532072 "" "" ""
-      {55DD32A9-B6A2-782B-FD39-2047586D3906} 33532072 "" "" ""
-      {E0DC295C-08A7-98E6-5BBE-113BD45F2AE5} 30015690 "" "" ""
+      {63546305-B5B4-7E49-158B-49515A83B875} 67086504 "" "" ""
+      {482A7D4B-D58A-AE56-F79B-D4EF59E1CE3C} 67086504 "" "" ""
+      {A762872A-06E5-B82B-E60E-674806CFFC04} 50359255 "" "" ""
+      {36CC55DC-E1BA-1654-E77D-43BE73BD8347} 67086504 "" "" ""
+      {55DD32A9-B6A2-782B-FD39-2047586D3906} 67086504 "" "" ""
+      {E0DC295C-08A7-98E6-5BBE-113BD45F2AE5} 63570122 "" "" ""
     >
   >
 >

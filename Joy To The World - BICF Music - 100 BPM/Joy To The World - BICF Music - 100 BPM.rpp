@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "6.77/win64" 1703174160
+<REAPER_PROJECT 0.1 "7.27/linux-x86_64" 1733415085
   <NOTES 0 2
   >
   RIPPLE 0
@@ -16,8 +16,8 @@
   TIMEMODE 1 5 -1 30 0 0 -1
   VIDEO_CONFIG 0 0 256
   PANMODE 3
-  CURSOR 200.4
-  ZOOM 32.82857827630645 5929 0
+  CURSOR 174
+  ZOOM 65.04018196186942 11060 0
   VZOOMEX 6 0
   USE_REC_CFG 0
   RECMODE 1
@@ -51,22 +51,26 @@
   LOCK 1
   <METRONOME 6 2
     VOL 1 1
-    FREQ 800 1600 1
     BEATLEN 4
+    FREQ 800 1600 1
     SAMPLES "C:\Users\butbkadrug\Music\Assets\Clicks\New Click -  Blip-accents.wav" "C:\Users\butbkadrug\Music\Assets\Clicks\New Click -  Blip-sixteenth.wav"
-    PATTERN 2863311530 2863311529
+    SPLIGNORE 0 0
+    SPLDEF 2 660 "" 0
+    SPLDEF 3 440 "" 0
+    PATTERN 0 169
+    PATTERNSTR ABBB
     MULT 2
   >
   GLOBAL_AUTO -1
   TEMPO 100 4 4
   PLAYRATE 1 0 0.25 4
-  SELECTION 120 144
-  SELECTION2 120 144
+  SELECTION 0 207.6
+  SELECTION2 0 207.6
   MASTERAUTOMODE 0
   MASTERTRACKHEIGHT 0 0
   MASTERPEAKCOL 16576
   MASTERMUTESOLO 0
-  MASTERTRACKVIEW 1 0.6667 0.5 0.5 0 -1 0 0 0 0 0 0 0
+  MASTERTRACKVIEW 1 0.6667 0.5 0.5 0 -1 0 0 0 0 0 0 0 0
   MASTERHWOUT 0 0 1 0 0 0 0 -1
   MASTERHWOUT 0 0 1 0 0 0 2 -1
   MASTERHWOUT 0 0 1 0 0 0 4 -1
@@ -96,42 +100,42 @@
     DEFSHAPE 1 -1 -1
     PT 0.000000000000 100.0000000000 1
   >
-  MARKER 1 0 "Joy To The World" 1 29209898 1 R {09E02038-8451-4CEE-8D64-8177F3E279FF}
-  MARKER 1 4.8 "" 1 29209898 1 R
-  MARKER 2 4.8 Intro 1 29189418 1 R {776EF090-7879-4940-8A99-364F20B6E69B}
-  MARKER 2 9.6 "" 1 29189418 1 R
-  MARKER 3 9.6 Verse 1 33515125 1 R {5C075459-A973-499D-9036-1BC80A5C9377}
-  MARKER 3 33.6 "" 1 33515125 1 R
-  MARKER 4 33.6 Vamp 1 33515125 1 R {6678E9E5-8EE9-4C79-9DDC-70DDA5B89CFD}
-  MARKER 4 37.2 "" 1 33515125 1 R
-  MARKER 5 37.2 Verse 1 33515125 1 R {6D0DACFE-A59F-402A-BE71-B64BE05D89B0}
-  MARKER 5 61.2 "" 1 33515125 1 R
-  MARKER 6 61.2 Vamp 1 33515125 1 R {4C716494-3744-4828-8934-94C767A84FF6}
-  MARKER 6 64.8 "" 1 33515125 1 R
-  MARKER 7 64.8 Verse 1 33515125 1 R {B54E47C2-C6B8-4FCF-8CB2-4B86C5DB6FDF}
-  MARKER 7 88.8 "" 1 33515125 1 R
-  MARKER 11 88.8 Vamp 1 33515125 1 R {497A994E-34AE-4D23-A07E-99B551BAB313}
-  MARKER 11 92.4 "" 1 33515125 1 R
-  MARKER 12 92.4 Verse 1 33515125 1 R {1C34FCA8-7945-455A-B040-AAB82DDC8523}
-  MARKER 12 116.4 "" 1 33515125 1 R
-  MARKER 13 116.4 Vamp 1 33515125 1 R {B6D006C3-9982-4B97-8A17-DD33B921BA26}
-  MARKER 13 120 "" 1 33515125 1 R
-  MARKER 14 120 Verse 1 33515125 1 R {921CDB02-5545-484D-8260-5F631D6C78A4}
-  MARKER 14 144 "" 1 33515125 1 R
-  MARKER 15 144 Vamp 1 33515125 1 R {4DE6C54D-0651-4227-801D-75176908423D}
-  MARKER 15 147.6 "" 1 33515125 1 R
-  MARKER 16 147.6 Verse 1 33515125 1 R {43089BDC-9F31-404B-80F1-25F8D7ECBBCA}
-  MARKER 16 171.6 "" 1 33515125 1 R
-  MARKER 17 171.6 Vamp 1 33515125 1 R {707538E3-1620-49E6-A0CA-2C71CF81DF9A}
-  MARKER 17 175.2 "" 1 33515125 1 R
-  MARKER 18 175.2 Verse 1 33515125 1 R {87B7633A-98C8-4A33-A3A4-0902F6F59DBF}
-  MARKER 18 199.2 "" 1 33515125 1 R
-  MARKER 8 199.2 Tag 1 17785596 1 R {A729F97C-7034-44B7-8DC5-1BB70D9A7585}
-  MARKER 8 202.8 "" 1 17785596 1 R
-  MARKER 9 202.8 Outro 1 29209898 1 R {EE1CC890-97A0-4EA1-BF2E-897964677344}
-  MARKER 9 207.6 "" 1 29209898 1 R
-  MARKER 10 207.6 Ending 1 29209898 1 R {5B511CA8-5EFF-4A6B-B39F-B3A6B0B4FC70}
-  MARKER 10 216 "" 1 29209898 1 R
+  MARKER 1 0 "Joy To The World" 1 19576253 1 B {09E02038-8451-4CEE-8D64-8177F3E279FF} 0
+  MARKER 1 4.8 "" 1
+  MARKER 2 4.8 Intro 1 19555773 1 B {776EF090-7879-4940-8A99-364F20B6E69B} 0
+  MARKER 2 9.6 "" 1
+  MARKER 3 9.6 Verse 1 24471295 1 B {5C075459-A973-499D-9036-1BC80A5C9377} 0
+  MARKER 3 33.6 "" 1
+  MARKER 4 33.6 Vamp 1 24471295 1 B {6678E9E5-8EE9-4C79-9DDC-70DDA5B89CFD} 0
+  MARKER 4 37.2 "" 1
+  MARKER 5 37.2 Verse 1 24471295 1 B {6D0DACFE-A59F-402A-BE71-B64BE05D89B0} 0
+  MARKER 5 61.2 "" 1
+  MARKER 6 61.2 Vamp 1 24471295 1 B {4C716494-3744-4828-8934-94C767A84FF6} 0
+  MARKER 6 64.8 "" 1
+  MARKER 7 64.8 Verse 1 24471295 1 B {B54E47C2-C6B8-4FCF-8CB2-4B86C5DB6FDF} 0
+  MARKER 7 88.8 "" 1
+  MARKER 11 88.8 Vamp 1 24471295 1 B {497A994E-34AE-4D23-A07E-99B551BAB313} 0
+  MARKER 11 92.4 "" 1
+  MARKER 12 92.4 Verse 1 24471295 1 B {1C34FCA8-7945-455A-B040-AAB82DDC8523} 0
+  MARKER 12 116.4 "" 1
+  MARKER 13 116.4 Vamp 1 24471295 1 B {B6D006C3-9982-4B97-8A17-DD33B921BA26} 0
+  MARKER 13 120 "" 1
+  MARKER 14 120 Verse 1 24471295 1 B {921CDB02-5545-484D-8260-5F631D6C78A4} 0
+  MARKER 14 144 "" 1
+  MARKER 15 144 Vamp 1 24471295 1 B {4DE6C54D-0651-4227-801D-75176908423D} 0
+  MARKER 15 147.6 "" 1
+  MARKER 16 147.6 Verse 1 24471295 1 B {43089BDC-9F31-404B-80F1-25F8D7ECBBCA} 0
+  MARKER 16 171.6 "" 1
+  MARKER 17 171.6 Vamp 1 24471295 1 B {707538E3-1620-49E6-A0CA-2C71CF81DF9A} 0
+  MARKER 17 175.2 "" 1
+  MARKER 18 175.2 Verse 1 24471295 1 B {87B7633A-98C8-4A33-A3A4-0902F6F59DBF} 0
+  MARKER 18 199.2 "" 1
+  MARKER 8 199.2 Tag 1 33317391 1 B {A729F97C-7034-44B7-8DC5-1BB70D9A7585} 0
+  MARKER 8 202.8 "" 1
+  MARKER 9 202.8 Outro 1 19576253 1 B {EE1CC890-97A0-4EA1-BF2E-897964677344} 0
+  MARKER 9 207.6 "" 1
+  MARKER 10 207.6 Ending 1 19576253 1 B {5B511CA8-5EFF-4A6B-B39F-B3A6B0B4FC70} 0
+  MARKER 10 216 "" 1
   <PROJBAY
   >
   <TRACK {E983F978-13D4-4D7C-8B36-EADEE9773AF7}
@@ -149,7 +153,7 @@
     SEL 0
     REC 0 0 1 0 0 0 0 0
     VU 2
-    TRACKHEIGHT 0 1 0 0 0 0
+    TRACKHEIGHT 0 1 0 0 0 0 0
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 2
     FX 1
@@ -161,240 +165,34 @@
     <ITEM
       POSITION 0
       SNAPOFFS 0
-      LENGTH 116.4
+      LENGTH 207.6
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0 0 1 0 0 0
-      FADEOUT 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {56D0B394-9EAF-4FD4-A50E-75004D217A02}
-      IID 278
+      IGUID {C7C8194C-069B-0527-52AA-480EF3F537F9}
+      IID 440
       NAME "Click source"
       VOLPAN 1 0 1 -1
       SOFFS 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {2A38A477-4DA3-40C0-BE89-E8947CB1F966}
+      GUID {50948788-8345-549C-B61B-FAA2EC52D072}
       <SOURCE CLICK
         AUTO 1
         BPM 100
-        BPI 4
+        BPI 4 4
         VOL 1 1
-        FREQ 800 1600 1
         BEATLEN 4
-        SAMPLES "C:\Users\butbkadrug\Music\Assets\Clicks\New Click -  Blip-accents.wav" "C:\Users\butbkadrug\Music\Assets\Clicks\New Click -  Blip-sixteenth.wav"
-        PATTERN 2863311530 2863311529
-        MULT 1
-      >
-    >
-    <ITEM
-      POSITION 116.4
-      SNAPOFFS 0
-      LENGTH 3.6
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0 0
-      FADEOUT 1 0.01 0 1 0 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {DB255B95-F2C4-4DF2-A387-051676B536EF}
-      IID 290
-      NAME "Click source"
-      VOLPAN 1 0 1 -1
-      SOFFS 33.6
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {2E35BEC2-4886-4104-9205-1F42785E336B}
-      <SOURCE CLICK
-        AUTO 1
-        BPM 100
-        BPI 4
-        VOL 1 1
-        FREQ 800 1600 1
-        BEATLEN 4
-        SAMPLES "C:\Users\butbkadrug\Music\Assets\Clicks\New Click -  Blip-accents.wav" "C:\Users\butbkadrug\Music\Assets\Clicks\New Click -  Blip-sixteenth.wav"
-        PATTERN 2863311530 2863311529
-        MULT 1
-      >
-    >
-    <ITEM
-      POSITION 120
-      SNAPOFFS 0
-      LENGTH 24
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0 0
-      FADEOUT 1 0.01 0 1 0 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {D911EC9D-10D3-4A92-BF66-F20733FE0522}
-      IID 319
-      NAME "Click source"
-      VOLPAN 1 0 1 -1
-      SOFFS 64.8
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {DDACD609-5B2E-4406-A497-DD63740AF951}
-      <SOURCE CLICK
-        AUTO 1
-        BPM 100
-        BPI 4
-        VOL 1 1
-        FREQ 800 1600 1
-        BEATLEN 4
-        SAMPLES "C:\Users\butbkadrug\Music\Assets\Clicks\New Click -  Blip-accents.wav" "C:\Users\butbkadrug\Music\Assets\Clicks\New Click -  Blip-sixteenth.wav"
-        PATTERN 2863311530 2863311529
-        MULT 1
-      >
-    >
-    <ITEM
-      POSITION 144
-      SNAPOFFS 0
-      LENGTH 3.6
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0 0
-      FADEOUT 1 0.01 0 1 0 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {97749FAD-8981-42D8-933A-966AC4121205}
-      IID 308
-      NAME "Click source"
-      VOLPAN 1 0 1 -1
-      SOFFS 33.6
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {A8147239-7B93-463E-B945-BC17AC9D1EE9}
-      <SOURCE CLICK
-        AUTO 1
-        BPM 100
-        BPI 4
-        VOL 1 1
-        FREQ 800 1600 1
-        BEATLEN 4
-        SAMPLES "C:\Users\butbkadrug\Music\Assets\Clicks\New Click -  Blip-accents.wav" "C:\Users\butbkadrug\Music\Assets\Clicks\New Click -  Blip-sixteenth.wav"
-        PATTERN 2863311530 2863311529
-        MULT 1
-      >
-    >
-    <ITEM
-      POSITION 147.6
-      SNAPOFFS 0
-      LENGTH 24
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0 0
-      FADEOUT 1 0.01 0 1 0 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {ADBDB486-F908-4C7C-AF88-B071EC5E7209}
-      IID 259
-      NAME "Click source"
-      VOLPAN 1 0 1 -1
-      SOFFS 64.8
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {823930F7-114B-4BFC-8C50-AE17B827659C}
-      <SOURCE CLICK
-        AUTO 1
-        BPM 100
-        BPI 4
-        VOL 1 1
-        FREQ 800 1600 1
-        BEATLEN 4
-        SAMPLES "C:\Users\butbkadrug\Music\Assets\Clicks\New Click -  Blip-accents.wav" "C:\Users\butbkadrug\Music\Assets\Clicks\New Click -  Blip-sixteenth.wav"
-        PATTERN 2863311530 2863311529
-        MULT 1
-      >
-    >
-    <ITEM
-      POSITION 171.6
-      SNAPOFFS 0
-      LENGTH 3.6
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0 0
-      FADEOUT 1 0.01 0 1 0 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {22D9F180-74C3-459E-B75D-2B1181B0AAA6}
-      IID 155
-      NAME "Click source"
-      VOLPAN 1 0 1 -1
-      SOFFS 33.6
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {F1330486-D585-4A7B-A9A3-A3000F1E5ADC}
-      <SOURCE CLICK
-        AUTO 1
-        BPM 100
-        BPI 4
-        VOL 1 1
-        FREQ 800 1600 1
-        BEATLEN 4
-        SAMPLES "C:\Users\butbkadrug\Music\Assets\Clicks\New Click -  Blip-accents.wav" "C:\Users\butbkadrug\Music\Assets\Clicks\New Click -  Blip-sixteenth.wav"
-        PATTERN 2863311530 2863311529
-        MULT 1
-      >
-    >
-    <ITEM
-      POSITION 175.2
-      SNAPOFFS 0
-      LENGTH 24
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0 0
-      FADEOUT 1 0.01 0 1 0 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {38CCEE46-62C2-4353-8B53-0C89CBC64D0B}
-      IID 301
-      NAME "Click source"
-      VOLPAN 1 0 1 -1
-      SOFFS 64.8
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {122D9ADE-C9C8-4771-83F6-9970E428BC42}
-      <SOURCE CLICK
-        AUTO 1
-        BPM 100
-        BPI 4
-        VOL 1 1
-        FREQ 800 1600 1
-        BEATLEN 4
-        SAMPLES "C:\Users\butbkadrug\Music\Assets\Clicks\New Click -  Blip-accents.wav" "C:\Users\butbkadrug\Music\Assets\Clicks\New Click -  Blip-sixteenth.wav"
-        PATTERN 2863311530 2863311529
-        MULT 1
-      >
-    >
-    <ITEM
-      POSITION 199.2
-      SNAPOFFS 0
-      LENGTH 16.8
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0 0
-      FADEOUT 1 0 0 1 0 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {EFF6E615-98E1-42AD-9D86-FCC88D01BD1F}
-      IID 155
-      NAME "Click source"
-      VOLPAN 1 0 1 -1
-      SOFFS 116.4
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {14039D04-CBFB-4879-BD24-F64F46C2100D}
-      <SOURCE CLICK
-        AUTO 1
-        BPM 100
-        BPI 4
-        VOL 1 1
-        FREQ 800 1600 1
-        BEATLEN 4
-        SAMPLES "C:\Users\butbkadrug\Music\Assets\Clicks\New Click -  Blip-accents.wav" "C:\Users\butbkadrug\Music\Assets\Clicks\New Click -  Blip-sixteenth.wav"
-        PATTERN 2863311530 2863311529
+        FREQ 1760 880 1
+        SAMPLES "/home/butbkadrug/Music/Assets/Clicks/New Click -  Blip-accents.wav" "/home/butbkadrug/Music/Assets/Clicks/New Click -  Blip-sixteenth.wav"
+        SPLIGNORE 0 0
+        SPLDEF 2 660 "" 0
+        SPLDEF 3 440 "" 0
+        PATTERN 0 169
+        PATTERNSTR ABBB
         MULT 1
       >
     >
@@ -414,7 +212,7 @@
     SEL 1
     REC 0 0 1 0 0 0 0 0
     VU 2
-    TRACKHEIGHT 0 1 0 0 0 0
+    TRACKHEIGHT 0 1 0 0 0 0 0
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 2
     FX 1
@@ -442,7 +240,7 @@
       CHANMODE 0
       GUID {7090A39B-087B-4CD7-8B12-AA7A075F9DF5}
       <SOURCE WAVE
-        FILE "C:\Users\butbkadrug\Music\Assets\Cues\English Female - 1.wav"
+        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 1.wav"
       >
     >
     <ITEM
@@ -464,7 +262,7 @@
       CHANMODE 0
       GUID {7AB1D35B-3C2F-46B0-B8E5-9218C2DFEC0F}
       <SOURCE WAVE
-        FILE "C:\Users\butbkadrug\Music\Assets\Cues\English Female - 2.wav"
+        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 2.wav"
       >
     >
     <ITEM
@@ -486,7 +284,7 @@
       CHANMODE 0
       GUID {F99B5A37-6EE8-43EF-933B-53EB9C10A9D6}
       <SOURCE WAVE
-        FILE "C:\Users\butbkadrug\Music\Assets\Cues\English Female - 1.wav"
+        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 1.wav"
       >
     >
     <ITEM
@@ -508,7 +306,7 @@
       CHANMODE 0
       GUID {760963CB-F31A-4A28-96F3-FC629E910521}
       <SOURCE WAVE
-        FILE "C:\Users\butbkadrug\Music\Assets\Cues\English Female - 2.wav"
+        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 2.wav"
       >
     >
     <ITEM
@@ -530,7 +328,7 @@
       CHANMODE 0
       GUID {C0A1827F-753B-4EB9-9F51-F61B4A044A16}
       <SOURCE WAVE
-        FILE "C:\Users\butbkadrug\Music\Assets\Cues\English Female - 3.wav"
+        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 3.wav"
       >
     >
     <ITEM
@@ -552,7 +350,7 @@
       CHANMODE 0
       GUID {9F7DCCC3-B20A-4DE4-8CA1-3E80AF0119BE}
       <SOURCE WAVE
-        FILE "C:\Users\butbkadrug\Music\Assets\Cues\English Female - 4.wav"
+        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 4.wav"
       >
     >
     <ITEM
@@ -574,7 +372,7 @@
       CHANMODE 0
       GUID {6CBC5225-DD4D-4F43-B35F-F76A0ED16A83}
       <SOURCE WAVE
-        FILE "C:\Users\butbkadrug\Music\Assets\Cues\English Female - Verse.wav"
+        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - Verse.wav"
       >
     >
     <ITEM
@@ -596,7 +394,7 @@
       CHANMODE 0
       GUID {FAC62314-E46B-4E24-8745-E871D143640F}
       <SOURCE WAVE
-        FILE "C:\Users\butbkadrug\Music\Assets\Cues\English Female - 2.wav"
+        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 2.wav"
       >
     >
     <ITEM
@@ -618,7 +416,7 @@
       CHANMODE 0
       GUID {47695F4E-EA7B-49A4-A787-9C50EA3A45DD}
       <SOURCE WAVE
-        FILE "C:\Users\butbkadrug\Music\Assets\Cues\English Female - 3.wav"
+        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 3.wav"
       >
     >
     <ITEM
@@ -640,7 +438,7 @@
       CHANMODE 0
       GUID {F48ED848-05ED-4585-B80E-00E52F2FC11C}
       <SOURCE WAVE
-        FILE "C:\Users\butbkadrug\Music\Assets\Cues\English Female - 4.wav"
+        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 4.wav"
       >
     >
     <ITEM
@@ -662,7 +460,7 @@
       CHANMODE 0
       GUID {AAEBA141-FCEC-4215-B1E9-4169DD6037E9}
       <SOURCE WAVE
-        FILE "C:\Users\butbkadrug\Music\Assets\Cues\English Female - Verse.wav"
+        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - Verse.wav"
       >
     >
     <ITEM
@@ -684,7 +482,7 @@
       CHANMODE 0
       GUID {A7DC7BAB-EB28-4907-B24F-77396E85F525}
       <SOURCE WAVE
-        FILE "C:\Users\butbkadrug\Music\Assets\Cues\English Female - 2.wav"
+        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 2.wav"
       >
     >
     <ITEM
@@ -706,7 +504,7 @@
       CHANMODE 0
       GUID {05F852DB-EC1D-4671-A490-D774A87C55DD}
       <SOURCE WAVE
-        FILE "C:\Users\butbkadrug\Music\Assets\Cues\English Female - 3.wav"
+        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 3.wav"
       >
     >
     <ITEM
@@ -728,7 +526,7 @@
       CHANMODE 0
       GUID {EA25657B-8B93-4121-9E7E-6E1C7664F418}
       <SOURCE WAVE
-        FILE "C:\Users\butbkadrug\Music\Assets\Cues\English Female - 4.wav"
+        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 4.wav"
       >
     >
     <ITEM
@@ -750,7 +548,7 @@
       CHANMODE 0
       GUID {FDB1E986-959F-420A-BF4B-2E1F721D3C10}
       <SOURCE WAVE
-        FILE "C:\Users\butbkadrug\Music\Assets\Cues\English Female - Verse.wav"
+        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - Verse.wav"
       >
     >
     <ITEM
@@ -772,7 +570,7 @@
       CHANMODE 0
       GUID {07452FAA-6A11-4D6B-B988-5931EC5E3B95}
       <SOURCE WAVE
-        FILE "C:\Users\butbkadrug\Music\Assets\Cues\English Female - 2.wav"
+        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 2.wav"
       >
     >
     <ITEM
@@ -794,7 +592,7 @@
       CHANMODE 0
       GUID {4559DC88-FA6D-4F8A-9DB3-CCCFFD145611}
       <SOURCE WAVE
-        FILE "C:\Users\butbkadrug\Music\Assets\Cues\English Female - 3.wav"
+        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 3.wav"
       >
     >
     <ITEM
@@ -816,7 +614,7 @@
       CHANMODE 0
       GUID {CF4282B4-249D-48D7-8DC0-8B8E8054D507}
       <SOURCE WAVE
-        FILE "C:\Users\butbkadrug\Music\Assets\Cues\English Female - 4.wav"
+        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 4.wav"
       >
     >
     <ITEM
@@ -838,7 +636,7 @@
       CHANMODE 0
       GUID {D0B7E580-96D1-41BC-9CE1-AFC42E58341D}
       <SOURCE WAVE
-        FILE "C:\Users\butbkadrug\Music\Assets\Cues\English Female - Verse.wav"
+        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - Verse.wav"
       >
     >
     <ITEM
@@ -860,7 +658,7 @@
       CHANMODE 0
       GUID {DE2D4092-3D8C-42B0-AE32-9FBF0D6CBD06}
       <SOURCE WAVE
-        FILE "C:\Users\butbkadrug\Music\Assets\Cues\English Female - 2.wav"
+        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 2.wav"
       >
     >
     <ITEM
@@ -882,7 +680,7 @@
       CHANMODE 0
       GUID {27058DB0-509B-4419-919A-50A4004CE2CC}
       <SOURCE WAVE
-        FILE "C:\Users\butbkadrug\Music\Assets\Cues\English Female - 3.wav"
+        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 3.wav"
       >
     >
     <ITEM
@@ -904,7 +702,7 @@
       CHANMODE 0
       GUID {28CACF99-F9FA-49FC-A85B-4DA09BA2B69A}
       <SOURCE WAVE
-        FILE "C:\Users\butbkadrug\Music\Assets\Cues\English Female - 4.wav"
+        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 4.wav"
       >
     >
     <ITEM
@@ -926,7 +724,7 @@
       CHANMODE 0
       GUID {6D07055F-0BAE-41D6-A46A-645146C498E1}
       <SOURCE WAVE
-        FILE "C:\Users\butbkadrug\Music\Assets\Cues\English Female - Tag.wav"
+        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - Tag.wav"
       >
     >
     <ITEM
@@ -948,7 +746,7 @@
       CHANMODE 0
       GUID {92569B45-AE83-45D7-A46E-90C133E5E1A4}
       <SOURCE WAVE
-        FILE "C:\Users\butbkadrug\Music\Assets\Cues\English Female - 2.wav"
+        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 2.wav"
       >
     >
     <ITEM
@@ -970,7 +768,7 @@
       CHANMODE 0
       GUID {923AA24C-0369-4913-8C52-13539995889B}
       <SOURCE WAVE
-        FILE "C:\Users\butbkadrug\Music\Assets\Cues\English Female - 3.wav"
+        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 3.wav"
       >
     >
     <ITEM
@@ -992,7 +790,7 @@
       CHANMODE 0
       GUID {987D1E0A-F0C5-41E6-8168-C642F377565C}
       <SOURCE WAVE
-        FILE "C:\Users\butbkadrug\Music\Assets\Cues\English Female - 4.wav"
+        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 4.wav"
       >
     >
     <ITEM
@@ -1014,7 +812,7 @@
       CHANMODE 0
       GUID {EEA90800-FBD8-4CD5-AFD9-4088EBC838CC}
       <SOURCE WAVE
-        FILE "C:\Users\butbkadrug\Music\Assets\Cues\English Female - Verse.wav"
+        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - Verse.wav"
       >
     >
     <ITEM
@@ -1036,7 +834,7 @@
       CHANMODE 0
       GUID {3C4900BD-EFE1-41EF-BDAA-641560F14A87}
       <SOURCE WAVE
-        FILE "C:\Users\butbkadrug\Music\Assets\Cues\English Female - 2.wav"
+        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 2.wav"
       >
     >
     <ITEM
@@ -1058,7 +856,7 @@
       CHANMODE 0
       GUID {9D5D0947-1449-4167-B7B4-1F523E28D11B}
       <SOURCE WAVE
-        FILE "C:\Users\butbkadrug\Music\Assets\Cues\English Female - 3.wav"
+        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 3.wav"
       >
     >
     <ITEM
@@ -1080,7 +878,7 @@
       CHANMODE 0
       GUID {BB9AB0CE-3ECC-4D39-80E5-DC76B80397E8}
       <SOURCE WAVE
-        FILE "C:\Users\butbkadrug\Music\Assets\Cues\English Female - 4.wav"
+        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 4.wav"
       >
     >
     <ITEM
@@ -1102,7 +900,7 @@
       CHANMODE 0
       GUID {4B5033C5-9017-4307-B046-9C5344A3D4D5}
       <SOURCE WAVE
-        FILE "C:\Users\butbkadrug\Music\Assets\Cues\English Female - Verse.wav"
+        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - Verse.wav"
       >
     >
     <ITEM
@@ -1124,7 +922,7 @@
       CHANMODE 0
       GUID {67F5C2DB-951A-42CF-A9A3-CD2C13489E37}
       <SOURCE WAVE
-        FILE "C:\Users\butbkadrug\Music\Assets\Cues\English Female - 2.wav"
+        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 2.wav"
       >
     >
     <ITEM
@@ -1146,7 +944,7 @@
       CHANMODE 0
       GUID {196DFCAB-4F46-4FE7-B277-D98EA099C5E6}
       <SOURCE WAVE
-        FILE "C:\Users\butbkadrug\Music\Assets\Cues\English Female - 3.wav"
+        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 3.wav"
       >
     >
     <ITEM
@@ -1168,7 +966,7 @@
       CHANMODE 0
       GUID {BEFD1A2C-02B0-4576-BEC6-A42BB2D5907A}
       <SOURCE WAVE
-        FILE "C:\Users\butbkadrug\Music\Assets\Cues\English Female - 4.wav"
+        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 4.wav"
       >
     >
     <ITEM
@@ -1190,73 +988,7 @@
       CHANMODE 0
       GUID {05CF4B92-7E5A-4717-8AA6-CAC1DFA0AE2A}
       <SOURCE WAVE
-        FILE "C:\Users\butbkadrug\Music\Assets\Cues\English Female - Verse.wav"
-      >
-    >
-    <ITEM
-      POSITION 173.4
-      SNAPOFFS 0
-      LENGTH 0.6
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0 0
-      FADEOUT 1 0.01 0 1 0 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {A7A3C09F-6498-4FDC-AF79-C82580806D32}
-      IID 4
-      NAME "English Female - 2.wav"
-      VOLPAN 1 0 1 -1
-      SOFFS 0
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {B743B531-B88B-4CA3-97C6-802428153620}
-      <SOURCE WAVE
-        FILE "C:\Users\butbkadrug\Music\Assets\Cues\English Female - 2.wav"
-      >
-    >
-    <ITEM
-      POSITION 174.00000000009314
-      SNAPOFFS 0
-      LENGTH 0.6
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0 0
-      FADEOUT 1 0.01 0 1 0 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {7751D230-901E-4582-9786-1162A23068D4}
-      IID 5
-      NAME "English Female - 3.wav"
-      VOLPAN 1 0 1 -1
-      SOFFS 0
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {1F7413D4-9BCC-4AA4-B3BC-090AA14043A5}
-      <SOURCE WAVE
-        FILE "C:\Users\butbkadrug\Music\Assets\Cues\English Female - 3.wav"
-      >
-    >
-    <ITEM
-      POSITION 174.60000000006985
-      SNAPOFFS 0
-      LENGTH 0.6
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0 0
-      FADEOUT 1 0.01 0 1 0 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {D248DC62-9E56-41D0-97A7-CD51B2631FEB}
-      IID 6
-      NAME "English Female - 4.wav"
-      VOLPAN 1 0 1 -1
-      SOFFS 0
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {BF9D05DC-301B-413B-9E42-6C0C45F2133B}
-      <SOURCE WAVE
-        FILE "C:\Users\butbkadrug\Music\Assets\Cues\English Female - 4.wav"
+        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - Verse.wav"
       >
     >
     <ITEM
@@ -1268,7 +1000,7 @@
       FADEIN 1 0.01 0 1 0 0 0
       FADEOUT 1 0.01 0 1 0 0 0
       MUTE 0 0
-      SEL 1
+      SEL 0
       IGUID {7A6D2DD5-6A81-44C3-8286-0A0C6C00847D}
       IID 83
       NAME "English Female - Outro.wav"
@@ -1278,7 +1010,7 @@
       CHANMODE 0
       GUID {0D1AC872-292A-4577-AED0-5F4DF3807294}
       <SOURCE WAVE
-        FILE "C:\Users\butbkadrug\Music\Assets\Cues\English Female - Outro.wav"
+        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - Outro.wav"
       >
     >
     <ITEM
@@ -1300,7 +1032,7 @@
       CHANMODE 0
       GUID {7E19E6F6-A055-4562-B75D-95D4CB080FFE}
       <SOURCE WAVE
-        FILE "C:\Users\butbkadrug\Music\Assets\Cues\English Female - Ending.wav"
+        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - Ending.wav"
       >
     >
     <ITEM
@@ -1322,7 +1054,7 @@
       CHANMODE 0
       GUID {D70E169F-0E6C-46AD-8757-6AE7E2D36155}
       <SOURCE WAVE
-        FILE "C:\Users\butbkadrug\Music\Assets\Cues\English Female - 3.wav"
+        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 3.wav"
       >
     >
     <ITEM
@@ -1344,7 +1076,7 @@
       CHANMODE 0
       GUID {4B61694F-5AC0-4572-93C7-BF16D69B3D1C}
       <SOURCE WAVE
-        FILE "C:\Users\butbkadrug\Music\Assets\Cues\English Female - 4.wav"
+        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 4.wav"
       >
     >
   >
@@ -1363,7 +1095,7 @@
     SEL 0
     REC 0 5088 1 0 0 0 0 0
     VU 2
-    TRACKHEIGHT 0 0 0 0 0 0
+    TRACKHEIGHT 0 0 0 0 0 0 0
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 2
     FX 1
@@ -2170,7 +1902,7 @@
     SEL 0
     REC 0 5088 1 0 0 0 0 0
     VU 2
-    TRACKHEIGHT 0 0 0 0 0 0
+    TRACKHEIGHT 0 0 0 0 0 0 0
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 2
     FX 1
@@ -17546,7 +17278,7 @@
     SEL 0
     REC 0 5088 1 0 0 0 0 0
     VU 2
-    TRACKHEIGHT 0 0 0 0 0 0
+    TRACKHEIGHT 0 0 0 0 0 0 0
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 2
     FX 1
@@ -17560,7 +17292,7 @@
       LASTSEL 1
       DOCKED 0
       BYPASS 0 0 0
-      <VST "VSTi: ReaSamplOmatic5000 (Cockos)" reasamplomatic.dll 0 "" 1920167789<56535472736F6D72656173616D706C6F> ""
+      <VST "VSTi: ReaSamplOmatic5000 (Cockos)" reasamplomatic.vst.so 0 "" 1920167789<56535472736F6D72656173616D706C6F> ""
         bW9zcu5e7f4AAAAAAgAAAAEAAAAAAAAAAgAAAAAAAABGAwAAAQAAAAAAEAA=
         QzpcVXNlcnNcYnV0YmthZHJ1Z1xNdXNpY1xBc3NldHNcU2FtcGxlc1xEcnVtcyBTYW1wbGVzXFZpbnRhZ2UgT3lzdGVyIERydW1zIC0gV0FWXEtpY2tzXFRydXRoIEtp
         Y2tcQmlnXFRydXRoIEtpY2sgLSBCaWcgLSBIMS53YXZ8QzpcVXNlcnNcYnV0YmthZHJ1Z1xNdXNpY1xBc3NldHNcU2FtcGxlc1xEcnVtcyBTYW1wbGVzXFZpbnRhZ2Ug
@@ -17577,7 +17309,7 @@
       FXID {62B03FB1-ACBE-4917-82B5-1EC6E1DE0F03}
       WAK 0 0
       BYPASS 0 0 0
-      <VST "VSTi: ReaSamplOmatic5000 (Cockos)" reasamplomatic.dll 0 "" 1920167789<56535472736F6D72656173616D706C6F> ""
+      <VST "VSTi: ReaSamplOmatic5000 (Cockos)" reasamplomatic.vst.so 0 "" 1920167789<56535472736F6D72656173616D706C6F> ""
         bW9zcu5e7f4AAAAAAgAAAAEAAAAAAAAAAgAAAAAAAABRAQAAAQAAAAAAEAA=
         QzpcVXNlcnNcYnV0YmthZHJ1Z1xNdXNpY1xBc3NldHNcU2FtcGxlc1xEcnVtcyBTYW1wbGVzXEtpY2sgKDc3KS53YXYAAAAAoDCD1T8AAAAAAADgPwAAAOB3B/E/DAaD
         wWAw2D8MBoPBYDDYP5qZmZmZmbE/zczMzMzM6z8AAAAAAAAAABzHcRzHcdw/AAAAAAAAAAD8qfHSTWJAPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPA/AAAA
@@ -17705,6 +17437,8 @@
         GUID {01DD906F-01DF-4EE4-AC95-DD5F97550E68}
         IGNTEMPO 0 120 4 4
         SRCCOLOR 2944
+        VELLANE -1 77 0 0 1
+        VELLANE -2 9 79 0 1
       >
     >
     <ITEM
@@ -17823,7 +17557,7 @@
         GUID {CE0A36C1-C412-48A6-931F-A41BCC8B368F}
         IGNTEMPO 0 120 4 4
         SRCCOLOR 2925
-        VELLANE -1 220 0
+        VELLANE -1 220 0 0 1
       >
     >
     <ITEM
@@ -17942,7 +17676,7 @@
         GUID {1300EF6D-0BB8-4970-95B6-A19E45104889}
         IGNTEMPO 0 120 4 4
         SRCCOLOR 2928
-        VELLANE -1 220 0
+        VELLANE -1 220 0 0 1
       >
     >
     <ITEM
@@ -18061,6 +17795,8 @@
         GUID {6FBDB026-83D4-43D7-A2F5-FC00AB38866B}
         IGNTEMPO 0 120 4 4
         SRCCOLOR 2946
+        VELLANE -1 77 0 0 1
+        VELLANE -2 9 79 0 1
       >
     >
     <ITEM
@@ -18172,6 +17908,8 @@
         GUID {C90DDA14-D3D1-4C7A-B429-5E2EFA0ABB39}
         IGNTEMPO 0 120 4 4
         SRCCOLOR 2949
+        VELLANE -1 77 0 0 1
+        VELLANE -2 9 79 0 1
       >
     >
     <ITEM
@@ -18290,6 +18028,8 @@
         GUID {88E386A6-B50B-4DC7-8361-B53E68C40DD1}
         IGNTEMPO 0 120 4 4
         SRCCOLOR 2948
+        VELLANE -1 77 0 0 1
+        VELLANE -2 9 79 0 1
       >
     >
     <ITEM
@@ -18401,6 +18141,8 @@
         GUID {4FEE231D-9342-4527-95EE-CEECD32A7846}
         IGNTEMPO 0 120 4 4
         SRCCOLOR 2945
+        VELLANE -1 77 0 0 1
+        VELLANE -2 9 79 0 1
       >
     >
     <ITEM
@@ -18519,6 +18261,8 @@
         GUID {D641C60E-A5D3-4573-99C8-6F1D894C1CCF}
         IGNTEMPO 0 120 4 4
         SRCCOLOR 2942
+        VELLANE -1 77 0 0 1
+        VELLANE -2 9 79 0 1
       >
     >
     <ITEM
@@ -18630,6 +18374,8 @@
         GUID {9B6441FC-4018-4295-8FBB-464713876981}
         IGNTEMPO 0 120 4 4
         SRCCOLOR 2947
+        VELLANE -1 77 0 0 1
+        VELLANE -2 9 79 0 1
       >
     >
     <ITEM
@@ -18748,7 +18494,7 @@
         GUID {E0890267-0077-4DBC-ADAF-51FAF54FBE15}
         IGNTEMPO 0 120 4 4
         SRCCOLOR 2923
-        VELLANE -1 220 0
+        VELLANE -1 220 0 0 1
       >
     >
   >
@@ -18767,7 +18513,7 @@
     SEL 0
     REC 0 1 1 0 0 0 0 0
     VU 2
-    TRACKHEIGHT 0 0 0 0 0 0
+    TRACKHEIGHT 0 0 0 0 0 0 0
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 2
     FX 1
@@ -18782,7 +18528,7 @@
       LASTSEL 1
       DOCKED 0
       BYPASS 0 0 0
-      <VST "VST: ReaEQ (Cockos)" reaeq.dll 0 "" 1919247729<56535472656571726561657100000000> ""
+      <VST "VST: ReaEQ (Cockos)" reaeq.vst.so 0 "" 1919247729<56535472656571726561657100000000> ""
         cWVlcu5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAArAAAAAEAAAAAABAA
         IQAAAAQAAAADAAAAAQAAAAAAAAAAgGZAAAAAAAAA8D8AAAAAAAAAQAEIAAAAAQAAAAAAAAAAwHJAAAAAAAAA8D8AAAAAAAAAQAEIAAAAAQAAAAAAAAAAQI9AAAAAAAAA
         8D8AAAAAAAAAQAEBAAAAAQAAAAAAAAAAiLNAAAAAAAAA8D8AAAAAAAAAQAEBAAAAAQAAAAAAAAAAAPA/AAAAAP0BAABcAQAAAgAAAA==
@@ -18792,7 +18538,7 @@
       FXID {326F5CA7-73ED-437A-BAB8-866E3D8AE0EF}
       WAK 0 0
       BYPASS 0 0 0
-      <VST "VST: ReaLimit (Cockos)" realimit.dll 0 "" 1919708532<565354726C6D747265616C696D697400> ""
+      <VST "VST: ReaLimit (Cockos)" realimit.vst.so 0 "" 1919708532<565354726C6D747265616C696D697400> ""
         dG1scu5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAAMAAAAAEAAAAAABAA
         AwAAAAAAAAAyMzMzM7M2wAAAAAAAABjAAgAAAAAAAAAAAAAAAAAAAD+fduMQw8Y/
         AFByb2dyYW0gMQAQAAAA
@@ -19139,7 +18885,7 @@
     SEL 0
     REC 0 0 1 0 0 0 0 0
     VU 2
-    TRACKHEIGHT 0 0 0 0 0 0
+    TRACKHEIGHT 0 0 0 0 0 0 0
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 2
     FX 1
@@ -19153,7 +18899,7 @@
       LASTSEL 0
       DOCKED 0
       BYPASS 0 0 0
-      <VST "VST: ReaEQ (Cockos)" reaeq.dll 0 "" 1919247729<56535472656571726561657100000000> ""
+      <VST "VST: ReaEQ (Cockos)" reaeq.vst.so 0 "" 1919247729<56535472656571726561657100000000> ""
         cWVlcu5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAArAAAAAEAAAAAABAA
         IQAAAAQAAAAEAAAAAQAAAAAAAAAAAFlAAAAAAAAA8D8AAAAAAAAAQAEIAAAAAQAAAAAAAAAAwHJAAAAAAAAA8D8AAAAAAAAAQAEIAAAAAQAAAAAAAAAAQI9AAAAAAAAA
         8D8AAAAAAAAAQAEBAAAAAQAAAAAAAAAAiLNAAAAAAAAA8D8AAAAAAAAAQAEBAAAAAQAAAAAAAAAAAPA/AAAAAP0BAABcAQAAAgAAAA==
@@ -19179,7 +18925,7 @@
     SEL 0
     REC 0 0 1 0 0 0 0 0
     VU 2
-    TRACKHEIGHT 0 0 0 0 0 0
+    TRACKHEIGHT 0 0 0 0 0 0 0
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 2
     FX 1
@@ -19525,7 +19271,7 @@
     SEL 0
     REC 0 0 1 0 0 0 0 0
     VU 2
-    TRACKHEIGHT 0 0 0 0 0 0
+    TRACKHEIGHT 0 0 0 0 0 0 0
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 2
     FX 1
