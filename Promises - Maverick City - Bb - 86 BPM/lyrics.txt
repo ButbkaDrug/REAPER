@@ -4,6 +4,13 @@
 [ Instrumental ]
 #4 1 6m 5
 
+[ Outro ]
+#6m7 1/3 4 1
+^Great is Your ^faithfuln^ess to ^me
+
+[ Ending ]
+#1
+
 [Verse 1 ]
 #6m7 4
 ^God of Abrah^am
@@ -45,21 +52,21 @@ I will p^raise Your ^name
 ^Great is Your ^faithfuln^ess to ^me
 
 [ Verse 2 ]
-God from age to age
-Though the earth may pass away
-Your word remains the same
-Your history can prove
-There's nothing You can't do
-You're faithful and true
+>God from age to ^age
+Though the earth may pass a^way
+Your word remains the ^same
+>Your history can ^prove
+There's nothing You can't ^do
+You're faithful a^nd true
 
 [ Bridge ]
 #4 1
 I ^put my faith in ^Jesus
-#6m 5
+#6m7 5add4
 My ^anchor to the ^ground
-#4 1
+#4 1/3
 ^My hope and firm foun^dation
-#6m 5
+#6m7 5add4
 He'll ^never let me ^down
 
 [ Tag ]
@@ -79,20 +86,24 @@ Great is Your faithfulness to me
 
 
 [ Verse 1 R ]
-Авраама Бог
-Ты есть завета Бог
-Верен Своим Словам
-В постоянстве
-Доказал любовь
-Совершишь все, что сказал
+>Авраама Б^ог
+Ты есть завета Б^ог
+Верен Своим Слов^ам
+>В постоянств^е
+Доказал люб^овь
+Совершишь все, что сказ^ал
 
 [ Pre Chorus R ]
-И когда придет
-Будь то ветер, шторм
-Буду стойким я
-Сердце слушает
-Твое Слово Бог
-Это сбудется
+И когда при^дет
+Будь то в^етер, шторм
+Буду ст^ойким ^я
+Сердце сл^ушает
+Твое Сл^ово Бог
+Это сб^удетс^я
+
+[ Chorus 1 R ]
+^Верность Т^воя Бог так в^елик^а
+^Верность Т^воя Бог так в^елик^а
 
 [ Chorus R ]
 Верность Твоя Бог так велика
@@ -110,7 +121,11 @@ Great is Your faithfulness to me
 О, как Верен Ты
 
 [ Bridge R ]
-Я верю в Иисуса
-Мой якорь на земле
-Надежда и твердыня
-Не подведет меня
+Я в^ерю в Иис^уса
+Мой ^якорь на ^земле
+Над^ежда и твер^дыня
+Не п^одведет мен^я
+
+[ Tag R]
+#4 1
+Не п^одведет мен^я

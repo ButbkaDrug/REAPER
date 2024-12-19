@@ -5,6 +5,9 @@
 --Intro groove
 #1
 
+[Bridge]
+#1 6m7 1 4 2
+
 [ Ending ]
 #1
 

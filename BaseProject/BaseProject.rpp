@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "7.27/linux-x86_64" 1733823331
+<REAPER_PROJECT 0.1 "7.27/linux-x86_64" 1734587272
   AUTHOR PROJECT_AUTHOR
   RIPPLE 0
   GROUPOVERRIDE 0 0 0
@@ -15,8 +15,8 @@
   TIMEMODE 1 5 -1 30 0 0 -1
   VIDEO_CONFIG 0 0 256
   PANMODE 3
-  CURSOR 2048
-  ZOOM 0.05899825980016 0 0
+  CURSOR 1024
+  ZOOM 8.77130659274613 8464 0
   VZOOMEX 13.7977314 0
   USE_REC_CFG 0
   RECMODE 1
@@ -81,15 +81,6 @@
     SHOW 0
     LASTSEL 0
     DOCKED 0
-    BYPASS 0 0 0
-    <VST "VST: ReaLimit (Cockos)" realimit.vst.so 0 "" 1919708532<565354726C6D747265616C696D697400> ""
-      dG1scu5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAAMAAAAAEAAAAAABAA
-      AwAAAAAAAAAwMzMzMzMiwMDMzMzMzOy/AgAAAAAAAAAAAAAAAAAAAD+fduMQw8Y/
-      AFByb2dyYW0gMQAQAAAA
-    >
-    FLOATPOS 0 0 0 0
-    FXID {3C38984A-B183-9C77-3D8A-86B6F9798E7D}
-    WAK 0 0
   >
   <MASTERPLAYSPEEDENV
     EGUID {17B2E884-0F07-24C0-70D2-1A8137310D18}
@@ -137,7 +128,7 @@
     SEL 1
     REC 0 0 1 0 0 0 0 0
     VU 2
-    TRACKHEIGHT 0 0 0 0 0 0 0
+    TRACKHEIGHT 233 0 0 0 0 0 0
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 10
     FX 1
@@ -154,89 +145,111 @@
     <ITEM
       POSITION 0
       SNAPOFFS 0
-      LENGTH 360.31607709750563
+      LENGTH 281.70447916666666
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0 0 1 0 0 0
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {9248B1AB-5514-9EC5-8E27-7AEC5CC88D7B}
-      IID 382
-      NAME "Hosanna - Praise is Rising (Live) - Paul Baloche - G - 113.9 BPM.RPP"
+      IGUID {6B17C461-36DA-9907-7EB8-374898E65B57}
+      IID 82
+      NAME "This Is Amazing Grace - Phil Wickham - Bb - 98 BPM.rpp"
       VOLPAN 1 0 1 -1
       SOFFS 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {5BFA2940-4222-B6D1-C053-6130D11B5CAC}
+      GUID {A68D9BB3-AFCF-4C1F-0CC0-BEA004DA6A45}
       <SOURCE RPP_PROJECT
-        FILE "/home/butbkadrug/Music/REAPER/Hosanna - Praise is Rising (Live) - Paul Baloche - G - 113.9 BPM/Hosanna - Praise is Rising (Live) - Paul Baloche - G - 113.9 BPM.RPP"
+        FILE "/home/butbkadrug/Music/REAPER/This Is Amazing Grace - Phil Wickham - Bb - 98 BPM/This Is Amazing Grace - Phil Wickham - Bb - 98 BPM.rpp"
       >
     >
     <ITEM
       POSITION 1024
       SNAPOFFS 0
-      LENGTH 315.55555555555554
+      LENGTH 336.97675
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {D4B3AF53-8A43-DCE1-62F4-EAC0990D6556}
+      IID 3332
+      NAME "Promises(VIKTAR Version) - Maverick City - Bb - 86 BPM.rpp"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {90C8ED23-69B3-AC17-1236-66601D8CEDCE}
+      <SOURCE RPP_PROJECT
+        FILE "/home/butbkadrug/Music/REAPER/Promises - Maverick City - Bb - 86 BPM/Promises(VIKTAR Version) - Maverick City - Bb - 86 BPM.rpp"
+      >
+    >
+    <ITEM
+      POSITION 2048
+      SNAPOFFS 0
+      LENGTH 189.7394375
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0 0 1 0 0 0
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {4DA2C9FE-A318-918D-BBBF-230311DD2853}
-      IID 382
-      NAME "Newborn King - Antioch Music - E - 108 BPM.RPP"
+      IGUID {DF50F610-168D-4844-B268-E7C17B4108B1}
+      IID 155
+      NAME "Zvezda Rojdestva - Kids Song - A - 73 BPM.RPP"
       VOLPAN 1 0 1 -1
       SOFFS 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {AF5D306A-8C35-055C-C77A-FE8B6D35DA67}
+      GUID {AB0A9D73-0ABD-36D5-6B1A-EE1D7350F73F}
       <SOURCE RPP_PROJECT
-        FILE "/home/butbkadrug/Music/REAPER/Newborn King - Antioch Music - E - 108 BPM/Newborn King - Antioch Music - E - 108 BPM.RPP"
+        FILE "/home/butbkadrug/Music/REAPER/Zvezda Rojdestva - Kids Song - A - 73 BPM/Zvezda Rojdestva - Kids Song - A - 73 BPM.RPP"
       >
     >
     <ITEM
       POSITION 3072
       SNAPOFFS 0
-      LENGTH 205.93220833333362
+      LENGTH 369
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0 0 1 0 0 0
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {47D2BA58-B98A-E2DF-06D8-437C586C3FBA}
-      IID 3445
-      NAME "Love Come Down - North Point Worship - A - 118 BPM.rpp"
+      IGUID {20DA1877-C8B5-C5A2-4286-CC5DCC8F7A7B}
+      IID 2724
+      NAME "O Holy Night - A - 80 BPM.rpp"
       VOLPAN 1 0 1 -1
       SOFFS 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {4ACE4496-C5F4-CBB1-30E5-3C0A75EDCCFF}
+      GUID {4B9D9EF7-86EF-7F33-A1A8-B9C38C1FE6A7}
       <SOURCE RPP_PROJECT
-        FILE "/home/butbkadrug/Music/REAPER/Love Come Down - North Point Worship - A - 118 BPM/Love Come Down - North Point Worship - A - 118 BPM.rpp"
+        FILE "/home/butbkadrug/Music/REAPER/O Holy Night - A - 80 BPM/O Holy Night - A - 80 BPM.rpp"
       >
     >
     <ITEM
       POSITION 4096
       SNAPOFFS 0
-      LENGTH 340
+      LENGTH 317.41935416666666
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0 0 1 0 0 0
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {66A464B7-4A2B-10EC-975D-4B4368B5E64D}
-      IID 383
-      NAME "Build My Life - Patt Barat - G - 72 BPM.rpp"
+      IGUID {2626C91F-0BE0-D7A4-08AF-F1A7014CF43D}
+      IID 2506
+      NAME "Perfect God - G - 62 BPM.rpp"
       VOLPAN 1 0 1 -1
       SOFFS 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {A46E6CAD-9125-2F18-6A2F-6C0B40DD9EF9}
+      GUID {7A122215-68EB-0821-B544-318E5C32A7D6}
       <SOURCE RPP_PROJECT
-        FILE "/home/butbkadrug/Music/REAPER/Build My Life - Patt Barat - G - 72 BPM/Build My Life - Patt Barat - G - 72 BPM.rpp"
+        FILE "/home/butbkadrug/Music/REAPER/Perfect God - G - 62 BPM/Perfect God - G - 62 BPM.rpp"
       >
     >
     <ITEM
@@ -252,7 +265,7 @@
       IGUID {B5499A34-617D-5CD5-53D6-ED17351D8B7F}
       IID 3
       NAME "Zvezda Rojdestva - Kids Song - A - 73 BPM.RPP"
-      VOLPAN 1 0 1 -1
+      VOLPAN 0.549541 0 1 -1
       SOFFS 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
@@ -310,7 +323,7 @@
       IGUID {F7FAB4C1-B087-2DF5-BB71-8EEB22E8F6D3}
       IID 15
       NAME "Rojdestvo - Deti Boga - A - 100 BPM.RPP"
-      VOLPAN 1 0 1 -1
+      VOLPAN 1.364583 0 1 -1
       SOFFS 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
@@ -364,7 +377,7 @@
       IGUID {4546CE49-5878-D29D-E55D-303D9DFEDD5E}
       IID 2
       NAME "What Child Is This - Kids Song - A - 100 BPM.RPP"
-      VOLPAN 1 0 1 -1
+      VOLPAN 0.530884 0 1 -1
       SOFFS 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
@@ -408,7 +421,7 @@
       IGUID {205E539A-A122-7F99-D828-2426F0C8D7D5}
       IID 2
       NAME "Star Of The Morning - Kids Song - Db - 100 BPM.RPP"
-      VOLPAN 1 0 1 -1
+      VOLPAN 0.966051 0 1 -1
       SOFFS 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
@@ -502,9 +515,19 @@
     MAINSEND 1 0
     HWOUT 16 0 1 0 0 0 0 -1:U -1
     <FXCHAIN
+      WNDRECT 32 77 1180 457
       SHOW 0
       LASTSEL 0
       DOCKED 0
+      BYPASS 0 0 0
+      <VST "VST: ReaLimit (Cockos)" realimit.vst.so 0 "" 1919708532<565354726C6D747265616C696D697400> ""
+        dG1scu5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAAMAAAAAEAAAAAABAA
+        AwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAD+fduMQw8Y/
+        AFByb2dyYW0gMQAQAAAA
+      >
+      FLOATPOS 0 0 0 0
+      FXID {F0DA6AF5-DB5F-75F0-33D7-092DF942F083}
+      WAK 0 0
     >
     <ITEM
       POSITION 32768
