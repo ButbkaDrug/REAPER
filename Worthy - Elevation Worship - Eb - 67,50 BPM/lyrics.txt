@@ -13,32 +13,32 @@
 
 [ Verse 1 ]
 #1 5sus4 5
-It was my cross You bore
+>It was my c^ross You bore^
 #1/3 4
-So I could live in the freedom
+So I could ^live in the fr^eedom
 #1/5 5
-You died for
+You ^died f^or
 #1 5sus4 5
-And now my life is Yours
+>And now my ^life is Yours^
 #1/3
-And I will sing
+And I will ^sing
 #4 1/5 5
-Of Your goodness forevermore
+Of Your g^oodness fo^reverm^ore
 
 [Vamp]
 #5
 
 [ Chorus ]
 #4 5
-Worthy is Your name Jesus
+Worthy is Your n^ame Jes^us
 #1/3
-You deserve the praise
+You deserve the p^raise
 #6m7
-Worthy is Your name
+Worthy is Your ^name
 #4 5
-Worthy is Your name Jesus
+Worthy is Your n^ame Jes^us
 #1/3
-You deserve the praise
+You deserve the p^raise
 #
 Worthy is Your name
 
@@ -48,51 +48,59 @@ Worthy is Your name
 
 [ Verse 2 ]
 #1 5sus4 5
-And now my shame is gone
+>And now my ^shame is gone^
 #1/3
-I stand amazed
+I stand ^amazed
 #4 1/5 5
-In Your love undeniable
+In Your love unde^ni^able
 #1 5sus4 5
-Your grace goes on and on
+>Your grace goes ^on and on^
 #1/3
-And I will sing
+And I will ^sing
 #4 1/5 5
-Of Your goodness forevermore
+Of Your ^goodness fo^rev^ermore
 
 [ Bridge ]
 #4
-Be exalted now in the heavens
+Be ex^alted now in the heavens
 #2m7
-As Your glory fills this place
+As Your g^lory fills this place
 #6m7
-You alone deserve our praise
+You a^lone deserve our praise
 #5 1/3
-You're the name above all names
+You're the n^ame above all ^names
 
 [ Verse 1 R ]
-Ты взял мой крест тогда
-И принял смерть,
-Чтобы жил я в свободе.
-Всю жизнь Тебе отдам,
-Хочу воспеть Твою благость вовеки,
+#1 5sus4 5
+>Ты взял мой к^рест тогда^
+#1/3
+И принял с^мерть,
+#4 1/5 5
+Чтобы ж^ил я в сво^бод^е.
+#1 5sus4 5
+>Всю жизнь Те^бе отдам,^
+#4 1/5 5
+Хочу восп^еть Твою б^лагость вов^еки,
 Бог
 
 [ Chorus R ]
-Достоин Ты один, Иисус.
-Чести и хвалы
-Достоин только Ты.
+Достоин Ты од^ин, Иис^ус.
+Чести и х^валы
+Достоин только ^Ты.
+Достоин Ты од^ин, Иис^ус.
+Чести и х^валы
+Достоин только ^Ты.
 
 [ Verse 2 R ]
-Я не стыжусь теперь,
-В любви Твоей
-Находясь несомненной!
-Даёшь вновь милость мне,
-Хочу воспеть Твою благость вовеки,
+>Я не стыж^усь теперь,^
+В любви Тв^оей
+Наход^ясь несомн^енн^ой!
+>Даёшь вновь м^илость мне,^
+Хочу восп^еть Твою бл^агость вов^еки,
 Бог!
 
 [ Bridge R ]
-Возвеличен будь Ты на небе
-Изливая славу здесь
-Ты принять достоин честь
-Твоё имя выше всех
+Возвел^ичен будь Ты на небе
+Изли^вая славу здесь
+Ты при^нять достоин честь
+Твоё ^имя выше в^сех
