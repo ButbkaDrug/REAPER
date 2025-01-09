@@ -2,39 +2,42 @@
 #6m 5/7 1 1/3
 #4 4/5 4
 
+[Instrumental]
+#1 4 5
+
 [ Verse 1 ]
 #6m 5/7 1
-There's a place where mercy reigns
+There's a p^lace where ^mercy r^eigns
 #1/3 4 4/5 4
-And never dies
+And ^never d^ies^ ......^
 #6m 5/7 1
-There's a place where streams of grace
+There's a p^lace where st^reams of gr^ace
 #1/3 4 4/5 4
-Flow deep and wide
+Flow ^deep and w^ide^ ......^
 
 [ Pre Chorus ]
 #5sus4 4
-Where all the love I've ever found
+Where all the ^love I've ever f^ound
 #5sus4 4
-Comes like a flood comes flowing down
+Comes like a ^flood comes flowing d^own
 
 [ Chorus ]
 #4
-At the cross at the cross
+At the cr^oss at the cross
 #1
-I surrender my life
+I surr^ender my life
 #5
-I'm in awe of You
+I'm in ^awe of You
 #2m
-I'm in awe of You
+I'm in ^awe of You
 #4
-Where Your love ran red
+Where Your l^ove ran red
 #1
-And my sin washed white
+And my s^in washed white
 #5
-I owe all to You
+I owe ^all to You
 #2m
-I owe all to You Jesus
+I owe ^all to You Jesus
 
 [Interlude]
 #4 1 4/1
@@ -65,8 +68,6 @@ Here You save my life
 Here I bow down
 Here I bow down
 
-[Instrumental]
-#1 4 5
 
 [ Tag ]
 #5
@@ -79,23 +80,25 @@ I owe all to You Jesus
 Благодать и милость льёшь Ты без конца
 
 [ Pre Chorus R ]
-Где вся любовь Твоя ко мне
-Течёт рекой, течёт с небес
+Где вся лю^бовь Твоя ко^ мне
+Течёт ре^кой, течёт с^ небес
 
 [ Chorus R ]
-У креста, у креста
-Возложу жизнь свою
-Трепещу всегда
-Пред Тобою я
-Там, где грех убелил
-Кровью Ты окропив
-И в долгу всегда пред Тобою я
-Иисус
+У крест^а, у креста
+Возлож^у жизнь свою
+Трепещ^у всегда
+Пред То^бою я
+Там, где гр^ех убелил
+Кровью Т^ы окропив
+И в дол^гу всегда
+Пред Тоб^ою я, Иисус
 
 
 [ Verse 2 R ]
-Знаю я, что у греха там власти нет
-В сердце там есть с Богом мир и прощенье
+Знаю ^я, чт^о у гр^еха
+Там ^власти н^ет ^......^
+В сердце^ там есть с Б^о - г^ом мир
+И про^щень^е ...^.......^
 
 [ Bridge 1 R ]
 Здесь надежда есть
