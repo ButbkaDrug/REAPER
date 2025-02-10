@@ -76,16 +76,16 @@ H^ow could I keep it ins^ide
 [ Bridge 1 ]
 #1
 I’ll pr^aise cause you’re sovereign
-#1
+#4/1
 Pr^aise cause you reign
-#1
-Pr^aise cause you rose and defeated the grave
+#5/1 4/1
+Pr^aise cause you rose and de^feated the grave
 #1
 I’ll pr^aise cause you’re faithful
-#1
+#4/1
 Pr^aise cause you’re true
-#1
-Pr^aise cause there’s nobody greater than you
+#5/1 4/1
+Pr^aise cause there’s nobody g^reater than you
 
 [ Bridge 2 ]
 #1
@@ -111,3 +111,48 @@ P^raise cause there’s nobody gr^eater than you
 [ Instrumental ]
 #6m  4  1  5 
 
+[ Verse 1 R ]
+Я славлю в долинах, 
+Я славлю в горах,
+Когда я уверен 
+И когда в сердце страх.
+
+[ Verse 2 R ]
+Я славлю, когда враг
+Меня окружает,
+Поток благодати 
+Меня защищает.
+
+[ Pre Chorus R ]
+Пока есть дыхание
+Снова воскликну :
+
+[ Chorus 1 R ]
+Славь душа Господа!
+Славь душа Господа!
+
+[ Verse 3 R ]
+Я славлю в свободе,
+Я славлю в нужде,
+Я славлю, ведь знаю - 
+В Твоей я руке. 
+
+[ Verse 4 R ]
+Хвала - это сила.
+Это больше, чем звук.
+Хвалою все стены 
+Иерихона падут!
+
+[ Chorus 2 R ]
+Буду я петь ведь
+Бог мой живой!
+Не удержать голос мой!
+Славь душа Господа
+
+[ Bridge R ]
+Ты Бог суверенный,
+Славлю Тебя!
+Правишь вселенной, Ты верен всегда!
+Славлю, воскрес Ты,
+И смерть победил
+Славлю, Ты к жизни меня возрадил.

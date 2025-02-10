@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "7.27/linux-x86_64" 1737031033
+<REAPER_PROJECT 0.1 "7.27/linux-x86_64" 1739106056
   AUTHOR PROJECT_AUTHOR
   RIPPLE 0
   GROUPOVERRIDE 0 0 0
@@ -15,9 +15,9 @@
   TIMEMODE 1 5 -1 30 0 0 -1
   VIDEO_CONFIG 0 0 256
   PANMODE 3
-  CURSOR 0
-  ZOOM 3.29203992908901 0 0
-  VZOOMEX 3.87178898 0
+  CURSOR 16384
+  ZOOM 9.46089788653149 164996 0
+  VZOOMEX 19.00165367 0
   USE_REC_CFG 0
   RECMODE 1
   SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
@@ -111,11 +111,12 @@
   MARKER 10 18432 "" 0 0 1 B {D61D9515-BDBC-52B8-7F9B-DE4A004665FB} 0
   <PROJBAY
   >
-  <TRACK {5D232EF5-43E7-8751-3F38-4641E4BBF816}
-    NAME "Click Track"
+  <TRACK {80118AFA-689A-BD33-1CE4-92AB51F0A721}
+    NAME "Click & Guide"
     PEAKCOL 16576
     BEAT -1
     AUTOMODE 0
+    PANLAWFLAGS 3
     VOLPAN 1 0 -1 -1 1
     MUTESOLO 0 0 0
     IPHASE 0
@@ -124,113 +125,130 @@
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
     FIXEDLANES 9 0 0 0 0
-    SEL 1
+    SEL 0
     REC 0 0 1 0 0 0 0 0
     VU 2
-    TRACKHEIGHT 0 0 0 0 0 0 0
+    TRACKHEIGHT 212 0 0 0 0 0 0
     INQ 0 0 0 0.5 100 0 0 100
-    NCHAN 10
+    NCHAN 4
     FX 1
-    TRACKID {5D232EF5-43E7-8751-3F38-4641E4BBF816}
+    TRACKID {80118AFA-689A-BD33-1CE4-92AB51F0A721}
     PERF 0
     MIDIOUT -1
-    MAINSEND 1 0
+    MAINSEND 0 0
     HWOUT 1032 0 1 0 0 0 0 -1:U -1
-    <FXCHAIN
-      SHOW 0
-      LASTSEL 0
-      DOCKED 0
-    >
     <ITEM
       POSITION 0
       SNAPOFFS 0
-      LENGTH 281.70447916666666
+      LENGTH 284.21052083333331
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0 0 1 0 0 0
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {3615E81D-8178-97AC-6B75-853095C9A5DC}
-      IID 6
-      NAME "This Is Amazing Grace - Phil Wickham - Bb - 98 BPM.rpp"
+      IGUID {DFBB72F1-2A0B-599F-24BC-939FA2119555}
+      IID 3439
+      NAME "How Great Is Our God - Chris Tomlin - C - 76 BPM.rpp"
       VOLPAN 1 0 1 -1
       SOFFS 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {59AC8992-0656-4E0E-E781-E86DC376109B}
+      GUID {6F47DE70-0646-7BD4-8CF5-E16897D0EE71}
       <SOURCE RPP_PROJECT
-        FILE "/home/butbkadrug/Music/REAPER/This Is Amazing Grace - Phil Wickham - Bb - 98 BPM/This Is Amazing Grace - Phil Wickham - Bb - 98 BPM.rpp"
+        FILE "/home/butbkadrug/Music/REAPER/How Great Is Our God - Chris Tomlin - C - 76 BPM/How Great Is Our God - Chris Tomlin - C - 76 BPM.rpp"
       >
     >
     <ITEM
       POSITION 2048
       SNAPOFFS 0
-      LENGTH 316.61424036281181
+      LENGTH 340
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0 0 1 0 0 0
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {006DCF02-508C-CF7B-7E94-DE07CE96C408}
-      IID 183
-      NAME "Then He Rose - Elevation Worship - B - 94 BPM.RPP"
+      IGUID {CCAE073F-50E7-4799-5388-F11A4293D2A9}
+      IID 3440
+      NAME "Build My Life - Patt Barat - G - 72 BPM.rpp"
       VOLPAN 1 0 1 -1
       SOFFS 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {D5E081EF-E315-AF8E-AF9A-8927B7DB9EBC}
+      GUID {D2446E3F-A06C-EF7B-31A9-9C7BEE430E99}
       <SOURCE RPP_PROJECT
-        FILE "/home/butbkadrug/Music/REAPER/Then He Rose - Elevation Worship - B - 94 BPM/Then He Rose - Elevation Worship - B - 94 BPM.RPP"
+        FILE "/home/butbkadrug/Music/REAPER/Build My Life - Patt Barat - G - 72 BPM/Build My Life - Patt Barat - G - 72 BPM.rpp"
       >
     >
     <ITEM
       POSITION 4096
       SNAPOFFS 0
-      LENGTH 212.74510416666817
+      LENGTH 147
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0 0 1 0 0 0
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
-      SEL 0
-      IGUID {98D688C7-CAF9-3E8F-1BCD-D528A011E2A5}
-      IID 190
-      NAME "Pust Slishit Vsya Zemplya - Kids Song - A - 60 BPM.RPP"
+      SEL 1
+      IGUID {E2B1438D-9C2D-2A42-472D-EE7A725B23D9}
+      IID 3444
+      NAME "Good In Every Way - Lifetree Kids - D - 100 BPM.RPP"
       VOLPAN 1 0 1 -1
       SOFFS 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {7DADDEDC-41FF-3E18-613A-45DC957EFB3E}
+      GUID {E767A2B4-ABB4-9D21-F76F-518C74775680}
       <SOURCE RPP_PROJECT
-        FILE "/home/butbkadrug/Music/REAPER/Pust Slishit Vsya Zemplya - Kids Song - A - 60 BPM/Pust Slishit Vsya Zemplya - Kids Song - A - 60 BPM.RPP"
+        FILE "/home/butbkadrug/Music/REAPER/Good In Every Way - Lifetree Kids - D - 100 BPM/Good In Every Way - Lifetree Kids - D - 100 BPM.RPP"
       >
     >
     <ITEM
       POSITION 6144
       SNAPOFFS 0
-      LENGTH 370.843375
+      LENGTH 321.4285625
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0 0 1 0 0 0
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {74A1C780-7130-544F-352D-D40AB930F6FE}
-      IID 183
-      NAME "Reckless Love - Cory Asbury - Gb - 83 BPM.rpp"
+      IGUID {658372A6-D869-7398-CF78-93B1809D16B8}
+      IID 3441
+      NAME "O Come to the Altar - Elevation Worship - B - 70 BPM.RPP"
       VOLPAN 1 0 1 -1
       SOFFS 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {F89170F1-672C-C45B-5BAA-4DC9F8FC2B2A}
+      GUID {5607CED2-7350-9AC3-B0B5-C7D947296B0C}
       <SOURCE RPP_PROJECT
-        FILE "/home/butbkadrug/Music/REAPER/Reckless Love - Cory Asbury - Gb - 83 BPM/Reckless Love - Cory Asbury - Gb - 83 BPM.rpp"
+        FILE "/home/butbkadrug/Music/REAPER/O Come to the Altar - Elevation Worship - B - 70 BPM/O Come to the Altar - Elevation Worship - B - 70 BPM.RPP"
       >
     >
     <ITEM
       POSITION 8192
+      SNAPOFFS 0
+      LENGTH 384.79116666666664
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {FC2479E3-DEA0-7452-6A7E-CCE68650CDEC}
+      IID 3442
+      NAME "What a Beautiful Name - Hillsong Worship - D - 68 BPM.RPP"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {09AD4055-8DBB-DB8B-71EE-C1A2B8FBA097}
+      <SOURCE RPP_PROJECT
+        FILE "/home/butbkadrug/Music/REAPER/What a Beautiful Name - Hillsong Worship - D - 68 BPM/What a Beautiful Name - Hillsong Worship - D - 68 BPM.RPP"
+      >
+    >
+    <ITEM
+      POSITION 10240
       SNAPOFFS 0
       LENGTH 346.28570833333333
       LOOP 1
@@ -239,104 +257,60 @@
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {ADA5DC32-CECB-7924-0D7F-C3BF92C2EB38}
-      IID 184
+      IGUID {4ABB3066-A9B0-6A02-A3A5-C68CE38C4335}
+      IID 3443
       NAME "Still - Hillsong United - C - 70 BPM.rpp"
       VOLPAN 1 0 1 -1
       SOFFS 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {9F3A9122-5A0A-AB25-CC1D-2AF4C7EC32D0}
+      GUID {B4040A40-EAC9-A67E-D050-C9F42FDCB0EB}
       <SOURCE RPP_PROJECT
         FILE "/home/butbkadrug/Music/REAPER/Still - Hillsong United - C - 70 BPM/Still - Hillsong United - C - 70 BPM.rpp"
       >
     >
     <ITEM
-      POSITION 10240
+      POSITION 12288
       SNAPOFFS 0
-      LENGTH 225.12310657596373
+      LENGTH 147
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0 0 1 0 0 0
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {78843AF7-D861-8F81-6ACB-91FBBD8F307F}
-      IID 139
-      NAME "Praise - Seph Schlueter - A - 129 BPM.RPP"
+      IGUID {28AF6052-74CE-3FBE-E264-4DBCEAFA1763}
+      IID 3484
+      NAME "Good In Every Way - Lifetree Kids - D - 100 BPM.RPP"
       VOLPAN 1 0 1 -1
       SOFFS 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {C4C1DA4D-0912-3171-770E-4D5A374F90BF}
-      TKM 0 "Praise - Seph Schlueter - A - 129 BPM" 0 3.720937
-      TKM 3.7209375 Intro 0 7.441854
-      TKM 10.69766666666667 START 0 0
-      TKM 11.16279166666667 "Verse 1" 0 14.883729
-      TKM 13.488375 "" 0 0
-      TKM 17.67441666666667 "" 0 0
-      TKM 20.465125 "" 0 0
-      TKM 25.11627083333333 START 0 0
-      TKM 26.04652083333333 "Verse 2" 0 14.883708
-      TKM 28.37208333333333 "" 0 0
-      TKM 32.55814583333333 "" 0 0
-      TKM 35.34883333333333 "" 0 0
-      TKM 40.465125 START 0 0
-      TKM 40.93022916666666 "Pre Chorus" 0 3.720938
-      TKM 42.32558333333333 "" 0 0
-      TKM 44.55035416666666 START 0 0
-      TKM 44.65116666666667 "Chorus 1" 0 14.883708
-      TKM 44.73310416666666 "NOTE: Hat plays 16notes with accents" 0 0
-      TKM 48.83720833333334 "" 0 0
-      TKM 51.62791666666666 "" 0 0
-      TKM 56.2790625 "" 0 0
-      TKM 59.06977083333334 START 0 0
-      TKM 59.534875 "Verse 3" 0 14.883729
-      TKM 61.86045833333333 "" 0 0
-      TKM 66.04652083333333 "" 0 0
-      TKM 68.83720833333334 "" 0 0
-      TKM 73.95347916666667 START 0 0
-      TKM 74.41860416666667 "Verse 4" 0 14.883729
-      TKM 76.7441875 "" 0 0
-      TKM 80.93022916666666 "" 0 0
-      TKM 83.7209375 "" 0 0
-      TKM 89.30233333333334 "NOTE: Breakdown" 0 0
-      TKM 89.30233333333334 "Pre Chorus" 0 3.720917
-      TKM 92.9575625 START 0 0
-      TKM 93.02325 "Chorus 1" 0 14.883729
-      TKM 97.2093125 "" 0 0
-      TKM 100 "" 0 0
-      TKM 104.65116666666667 "" 0 0
-      TKM 107.44185416666667 START 0 0
-      TKM 107.90697916666667 "Chorus 2" 0 14.883708
-      TKM 109.30233333333334 "" 0 0
-      TKM 111.16279166666666 "" 0 0
-      TKM 114.88372916666667 "" 0 0
-      TKM 122.7906875 Vamp 0 7.441875
-      TKM 129.30233333333334 START 0 0
-      TKM 130.2325625 "Bridge 1" 0 14.883708
-      TKM 131.62791666666666 "" 0 0
-      TKM 133.488375 "" 0 0
-      TKM 137.2093125 "" 0 0
-      TKM 139.06977083333334 "" 0 0
-      TKM 140.93022916666666 "" 0 0
-      TKM 144.18604166666665 START 0 0
-      TKM 145.11627083333335 "Bridge 2" 0 14.883729
-      TKM 146.511625 "" 0 0
-      TKM 148.37208333333334 "" 0 0
-      TKM 152.09302083333333 "" 0 0
-      TKM 153.95347916666665 "" 0 0
-      TKM 155.81395833333335 "" 0 0
-      TKM 159.534875 START 0 0
-      TKM 160 Interlude 0 14.883729
-      TKM 166.97675 "" 0 0
-      TKM 174.88372916666665 "Chorus 1" 0 14.883708
-      TKM 189.7674375 "Chorus 2" 0 7.441875
-      TKM 197.2093125 "Chorus 2" 0 14.883708
-      TKM 212.09302083333333 Ending 0 7.441854
-      TKM 225.12310416666668 "Praise - Seph Schlueter - A - 129 BPM" 0 3.720937
+      GUID {06192339-8221-5C22-244A-FE3FA79C5858}
       <SOURCE RPP_PROJECT
-        FILE "/home/butbkadrug/Music/REAPER/Praise - Seph Schlueter - A - 129 BPM/Praise - Seph Schlueter - A - 129 BPM.RPP"
+        FILE "/home/butbkadrug/Music/REAPER/Good In Every Way - Lifetree Kids - D - 100 BPM/Good In Every Way - Lifetree Kids - D - 100 BPM.RPP"
+      >
+    >
+    <ITEM
+      POSITION 14336
+      SNAPOFFS 0
+      LENGTH 169.75505668934241
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {654DC75D-7AD0-4CA0-17F6-0D34708AEA7F}
+      IID 7
+      NAME "Monumental Love - Kids Song - A - 118 BPM.RPP"
+      VOLPAN 0.431519 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9DBDD7F2-C0AC-AD5E-4188-C772F8AFDB1B}
+      <SOURCE RPP_PROJECT
+        FILE "/home/butbkadrug/Music/REAPER/Monumental Love - Kids Song - A - 118 BPM/Monumental Love - Kids Song - A - 118 BPM.RPP"
       >
     >
     <ITEM
@@ -349,24 +323,25 @@
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {23AB7606-10F4-6F33-2DAB-1A478DFEF7CA}
-      IID 191
+      IGUID {6D42F476-D8E8-21F3-F2D1-A3389ECB2FC2}
+      IID 3488
       NAME Afterservice.RPP
       VOLPAN 1 0 1 -1
       SOFFS 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {FFA614F5-CE29-16BC-AD1D-EC28E9BA5156}
+      GUID {FB9B330B-13C7-7479-FDE7-B9C271AC602B}
       <SOURCE RPP_PROJECT
         FILE "/home/butbkadrug/Music/Projects/Afterservice/Afterservice.RPP"
       >
     >
   >
-  <TRACK {3F937BD0-9793-BBDA-60CF-ED374C5B95F6}
-    NAME Media
+  <TRACK {F4B1AD95-DBC8-E113-249D-869CB6DD5E95}
+    NAME "Kids Songs"
     PEAKCOL 16576
     BEAT -1
     AUTOMODE 0
+    PANLAWFLAGS 3
     VOLPAN 1 0 -1 -1 1
     MUTESOLO 0 0 0
     IPHASE 0
@@ -382,103 +357,34 @@
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 4
     FX 1
-    TRACKID {3F937BD0-9793-BBDA-60CF-ED374C5B95F6}
+    TRACKID {F4B1AD95-DBC8-E113-249D-869CB6DD5E95}
     PERF 0
     AUXRECV 0 0 1 0 0 0 0 2 0 -1:U 0 -1 ''
-    AUXRECV 0 0 1 0 0 0 0 2 0 -1:U 0 -1 ''
     MIDIOUT -1
-    MAINSEND 1 0
+    MAINSEND 0 0
     HWOUT 16 0 1 0 0 0 0 -1:U -1
-    <FXCHAIN
-      WNDRECT 32 77 1180 457
-      SHOW 0
-      LASTSEL 0
-      DOCKED 0
-      BYPASS 0 0 0
-      <VST "VST: ReaLimit (Cockos)" realimit.vst.so 0 "" 1919708532<565354726C6D747265616C696D697400> ""
-        dG1scu5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAAMAAAAAEAAAAAABAA
-        AwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAD+fduMQw8Y/
-        AFByb2dyYW0gMQAQAAAA
-      >
-      FLOATPOS 0 0 0 0
-      FXID {F0DA6AF5-DB5F-75F0-33D7-092DF942F083}
-      WAK 0 0
-    >
     <ITEM
-      POSITION 14336
+      POSITION 16384
       SNAPOFFS 0
-      LENGTH 3825.301768707483
+      LENGTH 2048
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0 0 1 0 0 0
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {F23902EA-7F70-496B-76C6-5AF6C4A3B1E7}
-      IID 1
-      NAME "JESUS IS WORTHY - Soaking worship instrumental _ Prayer and Devotional [e0MRVeh0ZV4].mp3"
-      VOLPAN 0.354813 0 1 -1
+      IGUID {C56559CB-8520-F541-737E-03E1B53F61D8}
+      IID 3489
+      NAME "SERENITY - Soaking worship instrumental _ Prayer and Devotional [aEOdBNmzl-c].mp3"
+      VOLPAN 1 0 1 -1
       SOFFS 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {FADBECC6-FF0F-1895-EEB7-84896B8E54B3}
+      GUID {58ECE8D7-47C9-6905-9600-D696BAB93E50}
       <SOURCE MP3
-        FILE "/home/butbkadrug/Music/JESUS IS WORTHY - Soaking worship instrumental _ Prayer and Devotional [e0MRVeh0ZV4].mp3" 1
+        FILE "/home/butbkadrug/Music/SERENITY - Soaking worship instrumental _ Prayer and Devotional [aEOdBNmzl-c].mp3" 1
       >
     >
-  >
-  <TRACK {D952C2A5-B4CD-BD66-E15F-C7EBA04DBE59}
-    NAME "I'm trusting You - vocals"
-    PEAKCOL 16576
-    BEAT -1
-    AUTOMODE 0
-    PANLAWFLAGS 3
-    VOLPAN 1.08857590174128 0 -1 -1 1
-    MUTESOLO 0 0 0
-    IPHASE 0
-    PLAYOFFS 0 1
-    ISBUS 0 0
-    BUSCOMP 0 0 0 0 0
-    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
-    FIXEDLANES 9 0 0 0 0
-    SEL 0
-    REC 0 0 1 0 0 0 0 0
-    VU 2
-    TRACKHEIGHT 0 0 0 0 0 0 0
-    INQ 0 0 0 0.5 100 0 0 100
-    NCHAN 2
-    FX 1
-    TRACKID {D952C2A5-B4CD-BD66-E15F-C7EBA04DBE59}
-    PERF 0
-    MIDIOUT -1
-    MAINSEND 1 0
-    HWOUT 16 0 1 0 0 0 0 -1:U -1
-  >
-  <TRACK {9B5244ED-F950-A376-0CD7-2B1E8CFE108D}
-    NAME ""
-    PEAKCOL 16576
-    BEAT -1
-    AUTOMODE 0
-    PANLAWFLAGS 3
-    VOLPAN 1.00168888950485 0 -1 -1 1
-    MUTESOLO 0 0 0
-    IPHASE 0
-    PLAYOFFS 0 1
-    ISBUS 0 0
-    BUSCOMP 0 0 0 0 0
-    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
-    FIXEDLANES 9 0 0 0 0
-    SEL 0
-    REC 0 0 1 0 0 0 0 0
-    VU 2
-    TRACKHEIGHT 0 0 0 0 0 0 0
-    INQ 0 0 0 0.5 100 0 0 100
-    NCHAN 2
-    FX 1
-    TRACKID {9B5244ED-F950-A376-0CD7-2B1E8CFE108D}
-    PERF 0
-    MIDIOUT -1
-    MAINSEND 1 0
   >
   <EXTENSIONS
   >
