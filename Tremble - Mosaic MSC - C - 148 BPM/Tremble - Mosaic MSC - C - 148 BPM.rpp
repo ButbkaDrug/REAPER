@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "7.07/linux-x86_64" 1722362488
+<REAPER_PROJECT 0.1 "7.27/linux-x86_64" 1742445995
   RIPPLE 0
   GROUPOVERRIDE 0 0 0
   AUTOXFADE 129
@@ -14,9 +14,9 @@
   TIMEMODE 1 5 -1 30 0 0 -1
   VIDEO_CONFIG 0 0 256
   PANMODE 3
-  CURSOR 265.94594594594611
-  ZOOM 9.34638789871822 1827 0
-  VZOOMEX 17 0
+  CURSOR 123.24324324324324
+  ZOOM 1.69168547212221 0 0
+  VZOOMEX 8.50472546 31
   USE_REC_CFG 0
   RECMODE 1
   SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
@@ -49,18 +49,22 @@
   LOCK 1
   <METRONOME 6 2
     VOL 1 0.639486
-    FREQ 700 700 1
     BEATLEN 4
+    FREQ 700 700 1
     SAMPLES "" ""
-    PATTERN 2863311530 2863311513
+    SPLIGNORE 0 0
+    SPLDEF 2 660 "" 0
+    SPLDEF 3 440 "" 0
+    PATTERN 0 153
+    PATTERNSTR ABAB
     MULT 1
   >
   GLOBAL_AUTO -1
   TEMPO 120 4 4
   PLAYRATE 1 0 0.25 4
   GROUPS_DISABLED 1 0
-  SELECTION 0 0
-  SELECTION2 0 0
+  SELECTION 123.24324324324324 136.21621621621622
+  SELECTION2 123.24324324324324 136.21621621621622
   MASTERAUTOMODE 0
   MASTERTRACKHEIGHT 0 0
   MASTERPEAKCOL 16576
@@ -194,12 +198,16 @@
       <SOURCE CLICK
         AUTO 1
         BPM 120
-        BPI 4
+        BPI 4 4
         VOL 1 1
-        FREQ 800 1600 1
         BEATLEN 4
+        FREQ 800 1600 1
         SAMPLES "/home/butbkadrug/Music/Assets/Clicks/New Click -  Blip-accents.wav" "/home/butbkadrug/Music/Assets/Clicks/New Click -  Blip-sixteenth.wav"
-        PATTERN 2863311530 2863311529
+        SPLIGNORE 0 0
+        SPLDEF 2 660 "" 0
+        SPLDEF 3 440 "" 0
+        PATTERN 0 169
+        PATTERNSTR ABBB
         MULT 2
       >
     >
@@ -216,7 +224,7 @@
     ISBUS 0 0
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 -1 0
-    SEL 1
+    SEL 0
     REC 0 5088 1 0 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0 0 0 0 0
@@ -259,7 +267,7 @@
       FADEIN 1 0 0 1 0 0 0
       FADEOUT 1 0.01 0 1 0 0 0
       MUTE 0 0
-      SEL 1
+      SEL 0
       IGUID {3B42FF68-494E-421C-13DF-9A87D5300A72}
       IID 1448
       NAME "English Female - 1-glued.wav"
@@ -291,7 +299,7 @@
       CHANMODE 0
       GUID {6318033D-6931-46BE-8DAE-81E23232E6F4}
       <SOURCE WAVE
-        FILE "/mnt/win10/Users/butbkadrug/Music/Assets/Cues/English Female - Vamp.wav"
+        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - Vamp.wav"
       >
     >
     <ITEM
@@ -313,15 +321,111 @@
       CHANMODE 0
       GUID {8BDB3D54-D923-4153-A681-412E34C53AE0}
       <SOURCE WAVE
-        FILE "/mnt/win10/Users/butbkadrug/Music/Assets/Cues/English Female - Breakdown.wav"
+        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - Breakdown.wav"
+      >
+    >
+  >
+  <TRACK {08547226-416A-9BA7-7907-D72634D595B3}
+    NAME Play-Through)
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 1 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    SEL 1
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {08547226-416A-9BA7-7907-D72634D595B3}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 71.06498708528245
+      SNAPOFFS 0
+      LENGTH 220.82690480660943
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {54054AC9-16FC-1F6E-1750-8BF7E08EAF2F}
+      IID 1452
+      NAME Play-Through).mp4
+      VOLPAN 1 0 1 -1
+      SOFFS 25.94594594594595
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A3532BDA-F606-CDD9-44DA-B4CDDBBBEBCD}
+      <SOURCE VIDEO
+        FILE "Audio Files/Play-Through).mp4"
+      >
+    >
+  >
+  <TRACK {A9F1AE71-6392-3733-FA4A-A08E0C003B47}
+    NAME tremble-rehersal-drums
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 1 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 242 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {A9F1AE71-6392-3733-FA4A-A08E0C003B47}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 314.676822
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {A289930B-90F5-8656-C8B6-9A52E19AF1BE}
+      IID 1453
+      NAME tremble-rehersal-drums.m4a
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BBC4D6C9-B880-670B-0C5C-51FF37326AA3}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "Audio Files/tremble-rehersal-drums.m4a"
       >
     >
   >
   <EXTENSIONS
     <SWSAUTOCOLOR
-      {00000000-0000-0000-0000-000000000000} 0 "" "" ""
-      {0AC942CC-6BC8-4749-A869-929447C43ECB} 0 "" "" ""
       {E71481DE-7DB8-4428-822F-974B759958CC} 0 "" "" ""
+      {0AC942CC-6BC8-4749-A869-929447C43ECB} 0 "" "" ""
     >
   >
 >

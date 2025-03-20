@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "6.64/win64" 1659238731
+<REAPER_PROJECT 0.1 "7.27/linux-x86_64" 1742125060
   RIPPLE 0
   GROUPOVERRIDE 0 0 0
   AUTOXFADE 129
@@ -14,9 +14,9 @@
   TIMEMODE 1 5 -1 30 0 0 -1
   VIDEO_CONFIG 0 0 256
   PANMODE 3
-  CURSOR 133.33333333333334
-  ZOOM 30.5718627151141 3557 0
-  VZOOMEX 16 147
+  CURSOR 200
+  ZOOM 3.93127009435574 459 0
+  VZOOMEX 15.96219254 220
   USE_REC_CFG 0
   RECMODE 1
   SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
@@ -47,29 +47,31 @@
     bDNwbUABAAAAAAAAAgAAAP////8EAAAAQAEAAAAAAAA=
   >
   LOCK 1
-  <METRONOME 7 2
+  <METRONOME 6 2
     VOL 0.297439 0.091731
-    FREQ 700 700 1
     BEATLEN 4
+    FREQ 700 700 1
     SAMPLES "C:\Users\Butbk\Music\Click and Guide Samples\Click Tracks\New Click -  Blip-accents.wav" "C:\Users\Butbk\Music\Click and Guide Samples\Click Tracks\New Click -  Blip-sixteenth.wav"
-    PATTERN 2863311530 2863311513
+    SPLIGNORE 0 0
+    SPLDEF 2 660 "" 0
+    SPLDEF 3 440 "" 0
+    PATTERN 0 169
+    PATTERNSTR ABBB.
     MULT 1
   >
   GLOBAL_AUTO -1
   TEMPO 120 4 4
   PLAYRATE 1 0 0.25 4
-  SELECTION 250 0
-  SELECTION2 250 0
+  SELECTION 176.66666666666669 190
+  SELECTION2 176.66666666666669 190
   MASTERAUTOMODE 0
   MASTERTRACKHEIGHT 0 0
   MASTERPEAKCOL 16576
   MASTERMUTESOLO 0
-  MASTERTRACKVIEW 1 0.6667 0.5 0.5 0 -1 0 0 0 0 0 0 0
+  MASTERTRACKVIEW 1 0.6667 0.5 0.5 0 -1 0 0 0 0 0 0 0 0
   MASTERHWOUT 0 0 1 0 0 0 0 -1
-  MASTERHWOUT 0 0 1 0 0 0 4 -1
-  MASTERHWOUT 0 0 1 0 0 0 1030 -1
-  MASTERHWOUT 0 0 1 0 0 0 1031 -1
-  MASTER_NCH 10 2
+  MASTERHWOUT 0 0 1 0 0 0 2 -1
+  MASTER_NCH 4 2
   MASTER_VOLUME 1 0 -1 -1 1
   MASTER_FX 1
   MASTER_SEL 0
@@ -93,46 +95,48 @@
     LANEHEIGHT 0 0
     ARM 0
     DEFSHAPE 1 -1 -1
-    PT 0.000000000000 144.0000000000 1 0 0 8 0 "" 2863311530 2863311513
+    PT 0.000000000000 144.0000000000 1 0 0 8 0 "" 0 153 0 ABAB
   >
-  MARKER 1 6.66666666666667 Intro 1 33554176 1 R {B0C212F0-EFAC-4C41-BF67-0142ABB9AFD8}
-  MARKER 1 13.33333333333333 "" 1 33554176 1 R
-  MARKER 2 13.33333333333333 Intro 1 33554176 1 R {1A6B1D0A-662F-4835-AF13-DE1962BFB07D}
-  MARKER 2 20 "" 1 33554176 1 R
-  MARKER 3 20 "Verse 1" 1 33521792 1 R {4C4F8EBF-4846-4284-9C38-341DC72EB497}
-  MARKER 3 33.33333333333334 "" 1 33521792 1 R
-  MARKER 4 33.33333333333334 "Pre-Chorus 1" 1 18313128 1 R {7D3470A4-43C7-4312-9A23-F18179F940E2}
-  MARKER 4 48.33333333333334 "" 1 18313128 1 R
-  MARKER 5 48.33333333333334 Chorus 1 17114531 1 R {82A5F2B5-F150-4BC1-B8C1-435D75FC195F}
-  MARKER 5 75 "" 1 17114531 1 R
-  MARKER 6 75 Turnaround 1 21004288 1 R {425D85D8-70E4-4487-94D9-FEE69DF6B201}
-  MARKER 6 81.66666666666667 "" 1 21004288 1 R
-  MARKER 7 81.66666666666667 "Verse 2" 1 33521792 1 R {5F021293-73E8-4BFE-8974-003CE9187A84}
-  MARKER 7 95 "" 1 33521792 1 R
-  MARKER 8 95 "Pre-Chorus 2" 1 18313128 1 R {CFE3AEF1-8C1F-4C89-B45F-0EB6E8CEDEA0}
-  MARKER 8 110 "" 1 18313128 1 R
-  MARKER 9 110 Chorus 1 17114531 1 R {57655EE1-C64E-489D-83C6-F0E0604E757F}
-  MARKER 9 136.66666666666666 "" 1 17114531 1 R
-  MARKER 10 136.66666666666666 Interlude 1 18685293 1 R {BC7F1A93-F7B9-4D60-A0AE-8620F51206B9}
-  MARKER 10 143.33333333333334 "" 1 18685293 1 R
-  MARKER 11 143.33333333333334 Interlude 1 18685293 1 R {AD96974D-2638-4621-9E29-467303DEBD73}
-  MARKER 11 150 "" 1 18685293 1 R
-  MARKER 12 150 "Pre-Chorus 1" 1 18313128 1 R {779A193D-DB2F-463F-B35F-3D8CF78D3CE7}
-  MARKER 12 163.33333333333334 "" 1 18313128 1 R
-  MARKER 13 163.33333333333334 "Pre-Chorus 2" 1 18313128 1 R {668C71E7-01EC-4437-8966-822FA3040E7C}
-  MARKER 13 176.66666666666666 "" 1 18313128 1 R
-  MARKER 14 176.66666666666666 Chorus 1 17114531 1 R {0E16EA81-25E2-4AAF-97AD-9DC5D9658842}
-  MARKER 14 203.33333333333331 "" 1 17114531 1 R
-  MARKER 15 203.33333333333334 "Pre-Chorus 1" 1 18313128 1 R {463C8392-C4FB-42C7-B332-DAD59F48E905}
-  MARKER 15 216.66666666666666 "" 1 18313128 1 R
-  MARKER 16 216.66666666666666 "Pre-Chorus 2" 1 18313128 1 R {AC88FD1E-B94B-4848-AC4D-0E80CBDAD237}
-  MARKER 16 230 "" 1 18313128 1 R
-  MARKER 17 230 Tag 1 21036800 1 R {3E8E613B-E513-470B-85C8-FE4012F48D33}
-  MARKER 17 236.66666666666666 "" 1 21036800 1 R
-  MARKER 18 236.66666666666666 Tag 1 21036800 1 R {64611E5A-2CFD-43C2-832B-F23D0BBE060C}
-  MARKER 18 243.33333333333329 "" 1 21036800 1 R
-  MARKER 19 243.33333333333334 Ending 1 33554176 1 R {FC1DDB92-4222-4227-8618-6D82F71B83E3}
-  MARKER 19 250 "" 1 33554176 1 R
+  MARKER 1 0 "Canvas and Clay - Patt Barett - A - 72 BPM" 1 0 1 B {BE4CA55F-2E13-3599-4B0E-8CCF72D8F8B5} 0
+  MARKER 1 6.66666666666667 "" 1
+  MARKER 2 6.66666666666667 Intro 1 16842751 1 B {C185CCA4-E979-7C11-AEA3-3CAABE6FD2E3} 0
+  MARKER 2 13.33333333333333 "" 1
+  MARKER 3 13.33333333333333 Intro 1 16842751 1 B {99585C3A-2D69-4803-CDE5-0B632F632CDA} 0
+  MARKER 3 20 "" 1
+  MARKER 4 20 "Verse 1" 1 25198847 1 B {FF641A86-AAAC-4205-4EAD-145F6EEB9EF3} 0
+  MARKER 4 33.33333333333334 "" 1
+  MARKER 5 33.33333333333334 "Pre Chorus 1" 1 27815703 1 B {7E157E4A-0065-AE73-6A8B-BEBE291DD6E2} 0
+  MARKER 5 48.33333333333334 "" 1
+  MARKER 6 48.33333333333334 Chorus 1 27469061 1 B {D71B3583-7F3C-566B-CB07-F03CB243C8A0} 0
+  MARKER 6 75 "" 1
+  MARKER 7 75 Turnaround 1 16810048 1 B {761A224B-2359-C2E0-3C8F-539A6607AE39} 0
+  MARKER 7 81.66666666666667 "" 1
+  MARKER 8 81.66666666666667 "Verse 2" 1 25198847 1 B {9912673F-3E88-99A9-ADC9-A3037B4B61A0} 0
+  MARKER 8 95 "" 1
+  MARKER 9 95 "Pre Chorus 2" 1 27815703 1 B {1EC1A93D-B3C5-768C-5001-444E5AED860E} 0
+  MARKER 9 110 "" 1
+  MARKER 10 110 Chorus 1 27469061 1 B {B99970DC-4A6E-E791-675D-2521A8983C93} 0
+  MARKER 10 136.66666666666666 "" 1
+  MARKER 11 136.66666666666666 Interlude 1 23928093 1 B {3884038B-2BA2-3D79-DFB1-3FD25A6853CB} 0
+  MARKER 11 143.33333333333334 "" 1
+  MARKER 12 143.33333333333334 Interlude 1 23928093 1 B {709A80C4-7463-6525-85A0-4996BC9B6EC7} 0
+  MARKER 12 150 "" 1
+  MARKER 13 150 "Pre Chorus 1" 1 27815703 1 B {54B54BDF-FC64-1EB8-DDF2-CA388E246E78} 0
+  MARKER 13 163.33333333333334 "" 1
+  MARKER 14 163.33333333333334 "Pre Chorus 2" 1 27815703 1 B {68EAC919-EE8B-C447-113C-1B0747B3D6DF} 0
+  MARKER 14 176.66666666666666 "" 1
+  MARKER 15 176.66666666666666 Chorus 1 27469061 1 B {CB814F79-79BF-1ED7-0CEB-594EB22864DC} 0
+  MARKER 15 203.33333333333331 "" 1
+  MARKER 16 203.33333333333334 "Pre Chorus 1" 1 27815703 1 B {F5360A33-F9A6-0310-613E-30467A0BE8A4} 0
+  MARKER 16 216.66666666666663 "" 1
+  MARKER 17 216.66666666666666 "Pre Chorus 2" 1 27815703 1 B {BB4401CC-9F04-EAAD-C6F5-5D7EFC7179B1} 0
+  MARKER 17 230 "" 1
+  MARKER 18 230 Tag 1 16842560 1 B {EBE33BE0-234D-CDB5-353D-72C9DF8BC791} 0
+  MARKER 18 236.66666666666663 "" 1
+  MARKER 19 236.66666666666666 Tag 1 16842560 1 B {7E37DDB7-3D16-B6F2-250D-FEFE43220167} 0
+  MARKER 19 243.33333333333329 "" 1
+  MARKER 20 243.33333333333334 Ending 9 16842751 1 B {C3E9135B-5D47-5B73-6782-EAD76251C616} 0
+  MARKER 20 250 "" 9
   <PROJBAY
   >
   <TRACK {68135E7A-488D-4A54-ABBC-914B6A7A2D45}
@@ -140,7 +144,7 @@
     PEAKCOL 33521664
     BEAT -1
     AUTOMODE 0
-    VOLPAN 1 0 -1 -1 1
+    VOLPAN 1.04712855 0 -1 -1 1
     MUTESOLO 0 0 0
     IPHASE 0
     PLAYOFFS 0 1
@@ -150,29 +154,211 @@
     SEL 0
     REC 0 0 1 0 0 0 0 0
     VU 2
-    TRACKHEIGHT 0 0 0 0 0 0
+    TRACKHEIGHT 0 0 0 0 0 0 0
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 2
     FX 1
     TRACKID {68135E7A-488D-4A54-ABBC-914B6A7A2D45}
     PERF 0
     MIDIOUT -1
-    MAINSEND 1 7
+    MAINSEND 1 0
+    MAINSEND_NCH 2
+  >
+  <TRACK {615E1466-85D9-6683-DED7-7393AB84C4D8}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0 0.5 1 0.5 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    SEL 1
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {615E1466-85D9-6683-DED7-7393AB84C4D8}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
     MAINSEND_NCH 1
-    <VOLENV2
-      EGUID {702DE6B6-1877-4EA8-AF12-9434B575899C}
-      ACT 1 -1
-      VIS 0 1 1
-      LANEHEIGHT 0 0
-      ARM 1
-      DEFSHAPE 0 -1 -1
-      VOLTYPE 1
-      PT 0 0.28840315 0
-      PT 6.53293564 0.28840315 0
-      PT 6.66868495 1.04712855 0
-      PT 13.33333333 1.04712855 0
-      PT 13.33333333 1.0291442 0
-      PT 13.33535161 1.04712855 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 163.33333333333334
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {5E7DBC6D-3C33-1D97-6C5C-A9427D756DCB}
+      IID 2336
+      NAME "Click source"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2406D91B-5D74-95FE-B38C-C7225BD8D9CC}
+      <SOURCE CLICK
+        AUTO 1
+        BPM 120
+        BPI 4 4
+        VOL 0.501638 0.501638
+        BEATLEN 6
+        FREQ 1200 800 3
+        SAMPLES "" ""
+        SPLIGNORE 0 0
+        SPLDEF 2 660 "" 0
+        SPLDEF 3 440 "" 0
+        PATTERN 0 169
+        PATTERNSTR ABBB
+        MULT 1
+      >
+    >
+    <ITEM
+      POSITION 163.33333333333334
+      SNAPOFFS 0
+      LENGTH 13.33333333333331
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {C9913476-8863-0460-539F-E6CAA0545B84}
+      IID 2294
+      NAME "Click source"
+      VOLPAN 1 0 1 -1
+      SOFFS 176.66666666666669
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {346977EF-CA56-8E52-563C-259E279F926C}
+      <SOURCE CLICK
+        AUTO 1
+        BPM 120
+        BPI 4 4
+        VOL 0.501638 0.501638
+        BEATLEN 6
+        FREQ 1200 800 3
+        SAMPLES "" ""
+        SPLIGNORE 0 0
+        SPLDEF 2 660 "" 0
+        SPLDEF 3 440 "" 0
+        PATTERN 0 169
+        PATTERNSTR ABBB
+        MULT 1
+      >
+    >
+    <ITEM
+      POSITION 176.66666666666666
+      SNAPOFFS 0
+      LENGTH 26.66666666666666
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {C96DF214-740B-2CED-471F-1763AFBCA553}
+      IID 2294
+      NAME "Click source"
+      VOLPAN 1 0 1 -1
+      SOFFS 190
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {DB0F6226-86A9-8B46-F06C-FB8BC538722D}
+      <SOURCE CLICK
+        AUTO 1
+        BPM 120
+        BPI 4 4
+        VOL 0.501638 0.501638
+        BEATLEN 6
+        FREQ 1200 800 3
+        SAMPLES "" ""
+        SPLIGNORE 0 0
+        SPLDEF 2 660 "" 0
+        SPLDEF 3 440 "" 0
+        PATTERN 0 169
+        PATTERNSTR ABBB
+        MULT 1
+      >
+    >
+    <ITEM
+      POSITION 203.33333333333331
+      SNAPOFFS 0
+      LENGTH 13.33333333333331
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {61C2DD69-47F0-179A-304A-F28C40C75385}
+      IID 2294
+      NAME "Click source"
+      VOLPAN 1 0 1 -1
+      SOFFS 216.66666666666666
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E9951394-70FD-5E2D-8329-21CDDEDE9B12}
+      <SOURCE CLICK
+        AUTO 1
+        BPM 120
+        BPI 4 4
+        VOL 0.501638 0.501638
+        BEATLEN 6
+        FREQ 1200 800 3
+        SAMPLES "" ""
+        SPLIGNORE 0 0
+        SPLDEF 2 660 "" 0
+        SPLDEF 3 440 "" 0
+        PATTERN 0 169
+        PATTERNSTR ABBB
+        MULT 1
+      >
+    >
+    <ITEM
+      POSITION 216.66666666666666
+      SNAPOFFS 0
+      LENGTH 26.66666666666669
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {139C38DC-6EF9-B20F-A4F3-03EBA8563E63}
+      IID 2294
+      NAME "Click source"
+      VOLPAN 1 0 1 -1
+      SOFFS 230
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E13F483E-C0F1-DFCC-6EFA-7CA500E66ECF}
+      <SOURCE CLICK
+        AUTO 1
+        BPM 120
+        BPI 4 4
+        VOL 0.501638 0.501638
+        BEATLEN 6
+        FREQ 1200 800 3
+        SAMPLES "" ""
+        SPLIGNORE 0 0
+        SPLDEF 2 660 "" 0
+        SPLDEF 3 440 "" 0
+        PATTERN 0 169
+        PATTERNSTR ABBB
+        MULT 1
+      >
     >
   >
   <TRACK {0AC942CC-6BC8-4749-A869-929447C43ECB}
@@ -187,21 +373,22 @@
     ISBUS 2 -1
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 -1 0
-    SEL 1
+    SEL 0
     REC 0 0 1 0 0 0 0 0
     VU 2
-    TRACKHEIGHT 0 0 0 0 0 0
+    TRACKHEIGHT 0 0 0 0 0 0 0
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 2
     FX 1
     TRACKID {0AC942CC-6BC8-4749-A869-929447C43ECB}
     PERF 0
     MIDIOUT -1
-    MAINSEND 1 0
+    MAINSEND 1 1
+    MAINSEND_NCH 1
     <VOLENV2
       EGUID {FFF63BE1-E314-48A7-BD99-66099BD91B06}
       ACT 1 -1
-      VIS 1 1 1
+      VIS 0 1 1
       LANEHEIGHT 0 0
       ARM 0
       DEFSHAPE 0 -1 -1
@@ -232,7 +419,7 @@
       CHANMODE 0
       GUID {4ACC04E6-C1BD-41F3-9E77-F14CAA1A2EB2}
       <SOURCE WAVE
-        FILE "C:\Users\Butbk\Music\Click and Guide Samples\English Guides\Song Sections\English Female - 1.wav"
+        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 1.wav"
       >
     >
     <ITEM
@@ -255,7 +442,7 @@
       CHANMODE 0
       GUID {4B60FDD1-B4C0-4B2A-A2E6-AA73D2C523B3}
       <SOURCE WAVE
-        FILE "C:\Users\Butbk\Music\Click and Guide Samples\English Guides\Song Sections\English Female - 2.wav"
+        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 2.wav"
       >
     >
     <ITEM
@@ -278,7 +465,7 @@
       CHANMODE 0
       GUID {8BFBA278-8087-414E-9D07-8EA565D5DA97}
       <SOURCE WAVE
-        FILE "C:\Users\Butbk\Music\Click and Guide Samples\English Guides\Song Sections\English Female - 1.wav"
+        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 1.wav"
       >
     >
     <ITEM
@@ -301,7 +488,7 @@
       CHANMODE 0
       GUID {1D354F07-9C1B-4876-B718-1EE8D5E0E2DB}
       <SOURCE WAVE
-        FILE "C:\Users\Butbk\Music\Click and Guide Samples\English Guides\Song Sections\English Female - 2.wav"
+        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 2.wav"
       >
     >
     <ITEM
@@ -324,7 +511,7 @@
       CHANMODE 0
       GUID {9EBC59CF-4E9E-4B8B-A385-211EE2B4F59E}
       <SOURCE WAVE
-        FILE "C:\Users\Butbk\Music\Click and Guide Samples\English Guides\Song Sections\English Female - 3.wav"
+        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 3.wav"
       >
     >
     <ITEM
@@ -347,7 +534,7 @@
       CHANMODE 0
       GUID {F6868B35-AD04-443C-9A1B-819B59AE505E}
       <SOURCE WAVE
-        FILE "C:\Users\Butbk\Music\Click and Guide Samples\English Guides\Song Sections\English Female - 4.wav"
+        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 4.wav"
       >
     >
     <ITEM
@@ -370,7 +557,7 @@
       CHANMODE 0
       GUID {9E859D76-2667-49BE-A5A1-DD7FCE405594}
       <SOURCE WAVE
-        FILE "C:\Users\Butbk\Music\Click and Guide Samples\English Guides\Song Sections\English Female - Intro.wav"
+        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - Intro.wav"
       >
     >
     <ITEM
@@ -393,7 +580,7 @@
       CHANMODE 0
       GUID {D6A4BA2B-D916-452C-A8DF-148115F198F1}
       <SOURCE WAVE
-        FILE "C:\Users\Butbk\Music\Click and Guide Samples\English Guides\Song Sections\English Female - Verse 1.wav"
+        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - Verse 1.wav"
       >
     >
     <ITEM
@@ -416,7 +603,7 @@
       CHANMODE 0
       GUID {09B0E39E-2E5E-453F-9B7A-8F71F97AF0ED}
       <SOURCE WAVE
-        FILE "C:\Users\Butbk\Music\Click and Guide Samples\English Guides\Song Sections\English Female - Pre Chorus 1.wav"
+        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - Pre Chorus 1.wav"
       >
     >
     <ITEM
@@ -439,7 +626,7 @@
       CHANMODE 0
       GUID {CE92BBFA-DC7A-4F76-8B47-67BA0F5DA79E}
       <SOURCE WAVE
-        FILE "C:\Users\Butbk\Music\Click and Guide Samples\English Guides\Song Sections\English Female - Chorus.wav"
+        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - Chorus.wav"
       >
     >
     <ITEM
@@ -462,7 +649,7 @@
       CHANMODE 0
       GUID {604E0E23-F7AF-4000-859A-5CDF6838912E}
       <SOURCE WAVE
-        FILE "C:\Users\Butbk\Music\Click and Guide Samples\English Guides\Song Sections\English Female - Turnaround.wav"
+        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - Turnaround.wav"
       >
     >
     <ITEM
@@ -485,7 +672,7 @@
       CHANMODE 0
       GUID {8D341700-C94A-4439-972C-08B67EDE3B8A}
       <SOURCE WAVE
-        FILE "C:\Users\Butbk\Music\Click and Guide Samples\English Guides\Song Sections\English Female - Verse 2.wav"
+        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - Verse 2.wav"
       >
     >
     <ITEM
@@ -508,7 +695,7 @@
       CHANMODE 0
       GUID {C63F7C93-B0A8-42C9-98FC-FF858CC6B305}
       <SOURCE WAVE
-        FILE "C:\Users\Butbk\Music\Click and Guide Samples\English Guides\Dynamic Cues\English Female - All In.wav"
+        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - All In.wav"
       >
     >
     <ITEM
@@ -531,7 +718,7 @@
       CHANMODE 0
       GUID {8C20F84F-005C-4225-951E-E01BBEDFB593}
       <SOURCE WAVE
-        FILE "C:\Users\Butbk\Music\Click and Guide Samples\English Guides\Song Sections\English Female - Pre Chorus 2.wav"
+        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - Pre Chorus 2.wav"
       >
     >
     <ITEM
@@ -554,7 +741,7 @@
       CHANMODE 0
       GUID {4063A83C-2333-4527-8C64-C9D6AD2874BB}
       <SOURCE WAVE
-        FILE "C:\Users\Butbk\Music\Click and Guide Samples\English Guides\Song Sections\English Female - Chorus.wav"
+        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - Chorus.wav"
       >
     >
     <ITEM
@@ -567,7 +754,7 @@
       FADEOUT 1 0.01 0 1 0 0 0
       MUTE 0 0
       BEAT 1
-      SEL 1
+      SEL 0
       IGUID {2F6EAEEF-4E86-40C9-8C5D-9EDBF0D11ED1}
       IID 29
       NAME "English Female - Interlude.wav"
@@ -577,7 +764,7 @@
       CHANMODE 0
       GUID {291645E0-B2A2-41A5-A383-6EF4EA012B37}
       <SOURCE WAVE
-        FILE "C:\Users\Butbk\Music\Click and Guide Samples\English Guides\Song Sections\English Female - Interlude.wav"
+        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - Interlude.wav"
       >
     >
     <ITEM
@@ -600,7 +787,7 @@
       CHANMODE 0
       GUID {920D969D-4556-40EE-A54D-935D96FD7E95}
       <SOURCE WAVE
-        FILE "C:\Users\Butbk\Music\Click and Guide Samples\English Guides\Song Sections\English Female - Breakdown.wav"
+        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - Breakdown.wav"
       >
     >
     <ITEM
@@ -623,7 +810,7 @@
       CHANMODE 0
       GUID {C230BF6A-8B60-4EE9-8F26-8960C49AB3ED}
       <SOURCE WAVE
-        FILE "C:\Users\Butbk\Music\Click and Guide Samples\English Guides\Song Sections\English Female - 3.wav"
+        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 3.wav"
       >
     >
     <ITEM
@@ -646,7 +833,7 @@
       CHANMODE 0
       GUID {A362B844-0F75-40CC-8C33-2F4021B56B70}
       <SOURCE WAVE
-        FILE "C:\Users\Butbk\Music\Click and Guide Samples\English Guides\Song Sections\English Female - 4.wav"
+        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 4.wav"
       >
     >
     <ITEM
@@ -669,7 +856,7 @@
       CHANMODE 0
       GUID {9F7294F6-6CE9-4057-918E-AB82E9427611}
       <SOURCE WAVE
-        FILE "C:\Users\Butbk\Music\Click and Guide Samples\English Guides\Song Sections\English Female - Interlude.wav"
+        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - Interlude.wav"
       >
     >
     <ITEM
@@ -692,7 +879,7 @@
       CHANMODE 0
       GUID {93752C6B-C4BE-4F16-88AE-0A3721B9F273}
       <SOURCE WAVE
-        FILE "C:\Users\Butbk\Music\Click and Guide Samples\English Guides\Song Sections\English Female - Pre Chorus 1.wav"
+        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - Pre Chorus 1.wav"
       >
     >
     <ITEM
@@ -715,7 +902,7 @@
       CHANMODE 0
       GUID {E8CBE112-E9CD-4729-970C-555F4B3F690D}
       <SOURCE WAVE
-        FILE "C:\Users\Butbk\Music\Click and Guide Samples\English Guides\Dynamic Cues\English Female - Drums In.wav"
+        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - Drums In.wav"
       >
     >
     <ITEM
@@ -729,16 +916,16 @@
       MUTE 0 0
       BEAT 1
       SEL 0
-      IGUID {1232EB64-9BBC-4FCA-82FB-4385C79C521D}
-      IID 31
+      IGUID {5FFABC66-306F-84B0-F01C-8083727025C3}
+      IID 2338
       NAME "English Female - Pre Chorus 2.wav"
       VOLPAN 1 0 1 -1
       SOFFS 0
       PLAYRATE 0.98630406802722 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {D06A6104-25A4-4687-8AEB-8677ED9E2770}
+      GUID {D8E162D2-A927-D9E7-53E9-760E20915273}
       <SOURCE WAVE
-        FILE "C:\Users\Butbk\Music\Click and Guide Samples\English Guides\Song Sections\English Female - Pre Chorus 2.wav"
+        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - Pre Chorus 2.wav"
       >
     >
     <ITEM
@@ -761,7 +948,7 @@
       CHANMODE 0
       GUID {FDB130F1-7833-4CF1-B86F-71A4732A4844}
       <SOURCE WAVE
-        FILE "C:\Users\Butbk\Music\Click and Guide Samples\English Guides\Song Sections\English Female - Chorus.wav"
+        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - Chorus.wav"
       >
     >
     <ITEM
@@ -784,7 +971,7 @@
       CHANMODE 0
       GUID {C58A2DB5-82F0-42EC-A8B0-C6FF6B9EB8FC}
       <SOURCE WAVE
-        FILE "C:\Users\Butbk\Music\Click and Guide Samples\English Guides\Dynamic Cues\English Female - All In.wav"
+        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - All In.wav"
       >
     >
     <ITEM
@@ -797,7 +984,7 @@
       FADEOUT 1 0.01 0 1 0 0 0
       MUTE 0 0
       BEAT 1
-      SEL 0
+      SEL 1
       IGUID {09A741BA-3CBF-4D0B-B0C9-FFC064CD3A16}
       IID 33
       NAME "English Female - Pre Chorus 1.wav"
@@ -807,7 +994,7 @@
       CHANMODE 0
       GUID {FD270D51-FB42-4D79-B097-B34AE28F3406}
       <SOURCE WAVE
-        FILE "C:\Users\Butbk\Music\Click and Guide Samples\English Guides\Song Sections\English Female - Pre Chorus 1.wav"
+        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - Pre Chorus 1.wav"
       >
     >
     <ITEM
@@ -830,7 +1017,7 @@
       CHANMODE 0
       GUID {0A11C04C-9E2E-4EA4-9D4A-C70188D71819}
       <SOURCE WAVE
-        FILE "C:\Users\Butbk\Music\Click and Guide Samples\English Guides\Dynamic Cues\English Female - Drums.wav"
+        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - Drums.wav"
       >
     >
     <ITEM
@@ -853,7 +1040,7 @@
       CHANMODE 0
       GUID {E0D72163-2C2F-46E5-92C8-FA48331269C9}
       <SOURCE WAVE
-        FILE "C:\Users\Butbk\Music\Click and Guide Samples\English Guides\Song Sections\English Female - Pre Chorus 2.wav"
+        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - Pre Chorus 2.wav"
       >
     >
     <ITEM
@@ -876,7 +1063,7 @@
       CHANMODE 0
       GUID {29CB96B8-29E9-4324-99C7-3450B9E912EC}
       <SOURCE WAVE
-        FILE "C:\Users\Butbk\Music\Click and Guide Samples\English Guides\Dynamic Cues\English Female - All In.wav"
+        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - All In.wav"
       >
     >
     <ITEM
@@ -899,11 +1086,11 @@
       CHANMODE 0
       GUID {3EAED50B-9FB1-478C-9149-6AF9D2A08F6A}
       <SOURCE WAVE
-        FILE "C:\Users\Butbk\Music\Click and Guide Samples\English Guides\Song Sections\English Female - Tag.wav"
+        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - Tag.wav"
       >
     >
     <ITEM
-      POSITION 233.33333333333331
+      POSITION 233.33333333333337
       SNAPOFFS 0
       LENGTH 1.66666666666666
       LOOP 1
@@ -922,7 +1109,7 @@
       CHANMODE 0
       GUID {09A4D5C8-4563-4DBE-BF4C-8018058B7CC8}
       <SOURCE WAVE
-        FILE "C:\Users\Butbk\Music\Click and Guide Samples\English Guides\Song Sections\English Female - Tag.wav"
+        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - Tag.wav"
       >
     >
     <ITEM
@@ -945,7 +1132,7 @@
       CHANMODE 0
       GUID {1A43E0CA-ACC3-4146-B888-87473E2F3D63}
       <SOURCE WAVE
-        FILE "C:\Users\Butbk\Music\Click and Guide Samples\English Guides\Song Sections\English Female - Ending.wav"
+        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - Ending.wav"
       >
     >
   >
@@ -964,33 +1151,231 @@
     SEL 0
     REC 0 0 1 0 0 0 0 0
     VU 2
-    TRACKHEIGHT 0 0 0 0 0 0
+    TRACKHEIGHT 0 0 0 0 0 0 0
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 2
     FX 1
     TRACKID {6C46EAD3-9951-4F86-A15C-151BEEDFCE0A}
     PERF 0
     MIDIOUT -1
-    MAINSEND 1 6
-    MAINSEND_NCH 1
+    MAINSEND 1 2
+    MAINSEND_NCH 2
     <ITEM
       POSITION 0
       SNAPOFFS 0
-      LENGTH 262.7336875
+      LENGTH 163.33333333333334
       LOOP 0
       ALLTAKES 0
       FADEIN 1 0 0 1 0 0 0
-      FADEOUT 1 0 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {CBAEFE30-5C01-48A7-93E9-F1432AE215FC}
-      IID 2290
+      IGUID {A455A7B6-4235-C325-39D1-C6F4C6395003}
+      IID 2339
       NAME "Bass - stem"
       VOLPAN 1 0 1 -1
       SOFFS 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {74100F27-3E82-4201-AB57-B4C14D06649D}
+      GUID {F8AFA3B9-2141-BE0F-B08F-8C57DD2574B5}
+      <SOURCE WAVE
+        FILE "Canvas And Clay Click&Guide_stems_Bass-001.wav"
+      >
+    >
+    <ITEM
+      POSITION 163.33333333333334
+      SNAPOFFS 0
+      LENGTH 13.33333333333331
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {F04CE7DA-3D95-52B2-9DE8-95536790074F}
+      IID 2290
+      NAME "Bass - stem"
+      VOLPAN 1 0 1 -1
+      SOFFS 163.33333333333334
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8F6F6318-DD5F-FC0A-681D-6A3A274B7A81}
+      <SOURCE WAVE
+        FILE "Canvas And Clay Click&Guide_stems_Bass-001.wav"
+      >
+    >
+    <ITEM
+      POSITION 176.66666666666666
+      SNAPOFFS 0
+      LENGTH 26.66666666666666
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {8C640847-E986-C15F-844F-1A9644E4FCAA}
+      IID 2290
+      NAME "Bass - stem"
+      VOLPAN 1 0 1 -1
+      SOFFS 176.66666666666666
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {306FB64A-AD53-0651-94EC-9D4D31C40DFC}
+      <SOURCE WAVE
+        FILE "Canvas And Clay Click&Guide_stems_Bass-001.wav"
+      >
+    >
+    <ITEM
+      POSITION 203.33333333333331
+      SNAPOFFS 0
+      LENGTH 13.33333333333331
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {2832D2C6-CB55-EBCF-8520-14A6FA85DF5E}
+      IID 2290
+      NAME "Bass - stem"
+      VOLPAN 1 0 1 -1
+      SOFFS 203.33333333333331
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {195DA547-3C2E-2F30-2C61-3C976894176A}
+      <SOURCE WAVE
+        FILE "Canvas And Clay Click&Guide_stems_Bass-001.wav"
+      >
+    >
+    <ITEM
+      POSITION 216.66666666666666
+      SNAPOFFS 0
+      LENGTH 13.3333333333334
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {0CFEE070-14D2-1573-01D3-95E265AE95E3}
+      IID 2290
+      NAME "Bass - stem"
+      VOLPAN 1 0 1 -1
+      SOFFS 216.66666666666663
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {91907BAA-3342-53B4-D535-11C19B8A2A02}
+      <SOURCE WAVE
+        FILE "Canvas And Clay Click&Guide_stems_Bass-001.wav"
+      >
+    >
+    <ITEM
+      POSITION 230
+      SNAPOFFS 0
+      LENGTH 6.66666666666663
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {F7670442-475D-BA13-E8BC-ECD6193C7F63}
+      IID 2290
+      NAME "Bass - stem"
+      VOLPAN 1 0 1 -1
+      SOFFS 230
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8FC04875-0696-8890-72AD-288D8BD00D9E}
+      <SOURCE WAVE
+        FILE "Canvas And Clay Click&Guide_stems_Bass-001.wav"
+      >
+    >
+    <ITEM
+      POSITION 236.66666666666666
+      SNAPOFFS 0
+      LENGTH 6.66666666666663
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {E795211E-4178-D269-A1DB-02C560000014}
+      IID 2290
+      NAME "Bass - stem"
+      VOLPAN 1 0 1 -1
+      SOFFS 236.66666666666666
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {881C1F00-50B3-FE8A-C43F-814DCCDEC4A2}
+      <SOURCE WAVE
+        FILE "Canvas And Clay Click&Guide_stems_Bass-001.wav"
+      >
+    >
+    <ITEM
+      POSITION 243.33333333333323
+      SNAPOFFS 0
+      LENGTH 6.66666666666674
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {3F74BEF1-F9EA-FFD5-9626-46CED6A1140B}
+      IID 2290
+      NAME "Bass - stem"
+      VOLPAN 1 0 1 -1
+      SOFFS 243.33333333333329
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8EFF6618-53B5-9CAC-2472-E65006BCFE06}
+      <SOURCE WAVE
+        FILE "Canvas And Clay Click&Guide_stems_Bass-001.wav"
+      >
+    >
+    <ITEM
+      POSITION 249.99999999999986
+      SNAPOFFS 0
+      LENGTH 13.33333333333334
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {8E87A40A-CF54-1CD2-6B52-FDD6E82D2269}
+      IID 2290
+      NAME "Bass - stem"
+      VOLPAN 1 0 1 -1
+      SOFFS 150
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E5BB9A69-F6E3-C5CF-1CCF-B0327BD3C81D}
+      <SOURCE WAVE
+        FILE "Canvas And Clay Click&Guide_stems_Bass-001.wav"
+      >
+    >
+    <ITEM
+      POSITION 263.33333333333337
+      SNAPOFFS 0
+      LENGTH 12.7336875
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {62FA77B6-457B-4BBF-5FD1-37CBBA063E77}
+      IID 2290
+      NAME "Bass - stem"
+      VOLPAN 1 0 1 -1
+      SOFFS 250
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {54A9D5F8-76DE-8C84-F6E2-9F8B48D554D7}
       <SOURCE WAVE
         FILE "Canvas And Clay Click&Guide_stems_Bass-001.wav"
       >
@@ -1011,7 +1396,7 @@
     SEL 0
     REC 0 0 1 0 0 0 0 0
     VU 2
-    TRACKHEIGHT 0 0 0 0 0 0
+    TRACKHEIGHT 0 0 0 0 0 0 0
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 2
     FX 1
@@ -1035,7 +1420,7 @@
     SEL 0
     REC 0 0 1 0 0 0 0 0
     VU 2
-    TRACKHEIGHT 0 0 0 0 0 0
+    TRACKHEIGHT 0 0 0 0 0 0 0
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 2
     FX 1
@@ -1046,21 +1431,219 @@
     <ITEM
       POSITION 0
       SNAPOFFS 0
-      LENGTH 257.7336875
+      LENGTH 163.33333333333334
       LOOP 0
       ALLTAKES 0
       FADEIN 1 0 0 1 0 0 0
-      FADEOUT 1 0 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {96C51AE9-1D35-49D1-A86B-1950915E3BCC}
-      IID 2148
+      IGUID {9221B903-2F04-2A39-5967-62EF9AD64C92}
+      IID 2341
       NAME "Electric Guitar - stem"
       VOLPAN 1 0 1 -1
       SOFFS 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {9EE82C95-3926-4522-9E43-27E39E70940F}
+      GUID {54FCDAE6-1F9F-7490-0D98-492A15318A4E}
+      <SOURCE WAVE
+        FILE "Canvas And Clay Click&Guide_stems_Electric Guitar-001.wav"
+      >
+    >
+    <ITEM
+      POSITION 163.33333333333334
+      SNAPOFFS 0
+      LENGTH 13.33333333333331
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {0FF7F5DC-BB1E-B6D1-E8BA-4983E33F6C92}
+      IID 2148
+      NAME "Electric Guitar - stem"
+      VOLPAN 1 0 1 -1
+      SOFFS 163.33333333333334
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5F20D340-DD4F-C04C-BDB4-777943F64E0C}
+      <SOURCE WAVE
+        FILE "Canvas And Clay Click&Guide_stems_Electric Guitar-001.wav"
+      >
+    >
+    <ITEM
+      POSITION 176.66666666666666
+      SNAPOFFS 0
+      LENGTH 26.66666666666666
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {74425795-D8C6-C368-A0B8-8ECFB4D8ABEC}
+      IID 2148
+      NAME "Electric Guitar - stem"
+      VOLPAN 1 0 1 -1
+      SOFFS 176.66666666666666
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7A83E1D3-74A5-209E-3CB3-EDBF7B09FD2D}
+      <SOURCE WAVE
+        FILE "Canvas And Clay Click&Guide_stems_Electric Guitar-001.wav"
+      >
+    >
+    <ITEM
+      POSITION 203.33333333333331
+      SNAPOFFS 0
+      LENGTH 13.33333333333331
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {38AF564D-F8B7-BE80-2177-63BC24DC50FF}
+      IID 2148
+      NAME "Electric Guitar - stem"
+      VOLPAN 1 0 1 -1
+      SOFFS 203.33333333333331
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1DD47EFA-AE6E-A099-8A10-03E168D32671}
+      <SOURCE WAVE
+        FILE "Canvas And Clay Click&Guide_stems_Electric Guitar-001.wav"
+      >
+    >
+    <ITEM
+      POSITION 216.66666666666666
+      SNAPOFFS 0
+      LENGTH 13.3333333333334
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {7D9D2B30-E2E7-4073-C9CE-5B8A925485E6}
+      IID 2148
+      NAME "Electric Guitar - stem"
+      VOLPAN 1 0 1 -1
+      SOFFS 216.66666666666663
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8D31A404-E5D2-9613-F46A-AC9D2CA90733}
+      <SOURCE WAVE
+        FILE "Canvas And Clay Click&Guide_stems_Electric Guitar-001.wav"
+      >
+    >
+    <ITEM
+      POSITION 230
+      SNAPOFFS 0
+      LENGTH 6.66666666666663
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {081F1FFD-0A77-31B4-588C-E220AF3D8B28}
+      IID 2148
+      NAME "Electric Guitar - stem"
+      VOLPAN 1 0 1 -1
+      SOFFS 230
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {DFFC5CD3-341C-E2FB-7CDF-BA139F2B4CE5}
+      <SOURCE WAVE
+        FILE "Canvas And Clay Click&Guide_stems_Electric Guitar-001.wav"
+      >
+    >
+    <ITEM
+      POSITION 236.66666666666666
+      SNAPOFFS 0
+      LENGTH 6.66666666666663
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {6EF4B6DB-2E5C-A845-013E-CA58D4C02EBB}
+      IID 2148
+      NAME "Electric Guitar - stem"
+      VOLPAN 1 0 1 -1
+      SOFFS 236.66666666666666
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8C68F878-96C7-A4EB-E2EE-173FB2B6D8F3}
+      <SOURCE WAVE
+        FILE "Canvas And Clay Click&Guide_stems_Electric Guitar-001.wav"
+      >
+    >
+    <ITEM
+      POSITION 243.33333333333323
+      SNAPOFFS 0
+      LENGTH 6.66666666666674
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {0E10081A-F006-0B51-6004-7693F7719776}
+      IID 2148
+      NAME "Electric Guitar - stem"
+      VOLPAN 1 0 1 -1
+      SOFFS 243.33333333333329
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5AAAE66C-FF0B-9F36-E966-7C3AD9BF5068}
+      <SOURCE WAVE
+        FILE "Canvas And Clay Click&Guide_stems_Electric Guitar-001.wav"
+      >
+    >
+    <ITEM
+      POSITION 249.99999999999986
+      SNAPOFFS 0
+      LENGTH 13.33333333333334
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {311F9188-EC4E-052B-660D-8DDF68CC02A3}
+      IID 2148
+      NAME "Electric Guitar - stem"
+      VOLPAN 1 0 1 -1
+      SOFFS 150
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {816C844D-44D7-7A85-9BDD-50ACFF098A6A}
+      <SOURCE WAVE
+        FILE "Canvas And Clay Click&Guide_stems_Electric Guitar-001.wav"
+      >
+    >
+    <ITEM
+      POSITION 263.33333333333337
+      SNAPOFFS 0
+      LENGTH 7.7336875
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {EFAC8A83-EAF3-D122-0CFF-C50520AAB329}
+      IID 2148
+      NAME "Electric Guitar - stem"
+      VOLPAN 1 0 1 -1
+      SOFFS 250
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {FD816E09-635E-AF3D-B220-531E0E9FCB36}
       <SOURCE WAVE
         FILE "Canvas And Clay Click&Guide_stems_Electric Guitar-001.wav"
       >
@@ -1081,7 +1664,7 @@
     SEL 0
     REC 0 0 1 0 0 0 0 0
     VU 2
-    TRACKHEIGHT 0 0 0 0 0 0
+    TRACKHEIGHT 0 0 0 0 0 0 0
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 2
     FX 1
@@ -1092,21 +1675,219 @@
     <ITEM
       POSITION 0
       SNAPOFFS 0
-      LENGTH 258.7336875
+      LENGTH 163.33333333333334
       LOOP 0
       ALLTAKES 0
       FADEIN 1 0 0 1 0 0 0
-      FADEOUT 1 0 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {C51D0E8F-138B-4BB5-952B-32E9387CE3D1}
-      IID 2150
+      IGUID {FDD34E68-89DB-2903-BC00-B6FDC4222BED}
+      IID 2343
       NAME "Electric Guitar - stem"
       VOLPAN 1 0 1 -1
       SOFFS 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {8FD957BC-FE1F-4A55-936B-4FB9B04A4953}
+      GUID {CB2DDFC8-920D-E806-C3BC-AFEB136BF110}
+      <SOURCE WAVE
+        FILE "Canvas And Clay Click&Guide_stems_Electric Guitar-004.wav"
+      >
+    >
+    <ITEM
+      POSITION 163.33333333333334
+      SNAPOFFS 0
+      LENGTH 13.33333333333331
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {41A6F271-729B-950F-B96E-2E1A5CE0C729}
+      IID 2150
+      NAME "Electric Guitar - stem"
+      VOLPAN 1 0 1 -1
+      SOFFS 163.33333333333334
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2753F135-571D-DDE9-46DD-AFE5490A619B}
+      <SOURCE WAVE
+        FILE "Canvas And Clay Click&Guide_stems_Electric Guitar-004.wav"
+      >
+    >
+    <ITEM
+      POSITION 176.66666666666666
+      SNAPOFFS 0
+      LENGTH 26.66666666666666
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {A31ED86E-971C-2BB7-20DD-47BD7AA0EEDE}
+      IID 2150
+      NAME "Electric Guitar - stem"
+      VOLPAN 1 0 1 -1
+      SOFFS 176.66666666666666
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A927BDDF-B450-501C-6BA2-75F183031C31}
+      <SOURCE WAVE
+        FILE "Canvas And Clay Click&Guide_stems_Electric Guitar-004.wav"
+      >
+    >
+    <ITEM
+      POSITION 203.33333333333331
+      SNAPOFFS 0
+      LENGTH 13.33333333333331
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {C8749630-F258-339A-8049-230328FA4EB3}
+      IID 2150
+      NAME "Electric Guitar - stem"
+      VOLPAN 1 0 1 -1
+      SOFFS 203.33333333333331
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {05612EBC-28B3-7DDD-7FA3-CFE768256836}
+      <SOURCE WAVE
+        FILE "Canvas And Clay Click&Guide_stems_Electric Guitar-004.wav"
+      >
+    >
+    <ITEM
+      POSITION 216.66666666666666
+      SNAPOFFS 0
+      LENGTH 13.3333333333334
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {AB43022F-45C3-8E92-C17D-5FFD338DB2DE}
+      IID 2150
+      NAME "Electric Guitar - stem"
+      VOLPAN 1 0 1 -1
+      SOFFS 216.66666666666663
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A6D1AA35-CB91-8B95-3901-23A6BD886816}
+      <SOURCE WAVE
+        FILE "Canvas And Clay Click&Guide_stems_Electric Guitar-004.wav"
+      >
+    >
+    <ITEM
+      POSITION 230
+      SNAPOFFS 0
+      LENGTH 6.66666666666663
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {1B0D37E1-A284-602D-6516-993D2A49A9EF}
+      IID 2150
+      NAME "Electric Guitar - stem"
+      VOLPAN 1 0 1 -1
+      SOFFS 230
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {FEF58423-AC81-CB0F-9DA1-03EC95505EE7}
+      <SOURCE WAVE
+        FILE "Canvas And Clay Click&Guide_stems_Electric Guitar-004.wav"
+      >
+    >
+    <ITEM
+      POSITION 236.66666666666666
+      SNAPOFFS 0
+      LENGTH 6.66666666666663
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {3905E19A-9B46-5A72-AAA7-4820BB6E8078}
+      IID 2150
+      NAME "Electric Guitar - stem"
+      VOLPAN 1 0 1 -1
+      SOFFS 236.66666666666666
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1DEDEFE7-BB05-53FE-236E-35D6FBC58F62}
+      <SOURCE WAVE
+        FILE "Canvas And Clay Click&Guide_stems_Electric Guitar-004.wav"
+      >
+    >
+    <ITEM
+      POSITION 243.33333333333323
+      SNAPOFFS 0
+      LENGTH 6.66666666666674
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {7E485BF8-9B84-783A-157E-ADE3BB61AB94}
+      IID 2150
+      NAME "Electric Guitar - stem"
+      VOLPAN 1 0 1 -1
+      SOFFS 243.33333333333329
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4AC42BFC-5F1E-F53C-E0A4-71312450DB7E}
+      <SOURCE WAVE
+        FILE "Canvas And Clay Click&Guide_stems_Electric Guitar-004.wav"
+      >
+    >
+    <ITEM
+      POSITION 249.99999999999986
+      SNAPOFFS 0
+      LENGTH 13.33333333333334
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {9C1B0DD7-C277-B3BC-20EF-D4323704CC51}
+      IID 2150
+      NAME "Electric Guitar - stem"
+      VOLPAN 1 0 1 -1
+      SOFFS 150
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {336F8896-E901-B306-1B0A-DE058744BE16}
+      <SOURCE WAVE
+        FILE "Canvas And Clay Click&Guide_stems_Electric Guitar-004.wav"
+      >
+    >
+    <ITEM
+      POSITION 263.33333333333337
+      SNAPOFFS 0
+      LENGTH 8.7336875
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {8C74A519-4F89-4ED6-D247-19DC2B3C8416}
+      IID 2150
+      NAME "Electric Guitar - stem"
+      VOLPAN 1 0 1 -1
+      SOFFS 250
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9514134A-8D2E-CDFE-24D9-FF760DCE2AB6}
       <SOURCE WAVE
         FILE "Canvas And Clay Click&Guide_stems_Electric Guitar-004.wav"
       >
@@ -1127,7 +1908,7 @@
     SEL 0
     REC 0 0 1 0 0 0 0 0
     VU 2
-    TRACKHEIGHT 0 0 0 0 0 0
+    TRACKHEIGHT 0 0 0 0 0 0 0
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 2
     FX 1
@@ -1138,21 +1919,219 @@
     <ITEM
       POSITION 0
       SNAPOFFS 0
-      LENGTH 259.7336875
+      LENGTH 163.33333333333334
       LOOP 0
       ALLTAKES 0
       FADEIN 1 0 0 1 0 0 0
-      FADEOUT 1 0 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {DE3A46B0-FC5B-42D1-A3FD-1B4BE6205980}
-      IID 2156
+      IGUID {3D004699-8F1D-0221-806E-15D4ACC91BD6}
+      IID 2345
       NAME "Electric Guitar - stem"
       VOLPAN 1 0 1 -1
       SOFFS 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {6205EE21-6813-4797-BD5E-41EF2205EFB5}
+      GUID {E344630F-6CC4-A2C3-2F65-1C2A6BB3455E}
+      <SOURCE WAVE
+        FILE "Canvas And Clay Click&Guide_stems_Electric Guitar-005.wav"
+      >
+    >
+    <ITEM
+      POSITION 163.33333333333334
+      SNAPOFFS 0
+      LENGTH 13.33333333333331
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {09350452-765C-E4F1-F958-426982193766}
+      IID 2156
+      NAME "Electric Guitar - stem"
+      VOLPAN 1 0 1 -1
+      SOFFS 163.33333333333334
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9318A0C0-EB7A-06F5-EC2B-64AE92175EC3}
+      <SOURCE WAVE
+        FILE "Canvas And Clay Click&Guide_stems_Electric Guitar-005.wav"
+      >
+    >
+    <ITEM
+      POSITION 176.66666666666666
+      SNAPOFFS 0
+      LENGTH 26.66666666666666
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {6F3EDF07-41CF-1DE1-C7A1-6B6BC2B4A52E}
+      IID 2156
+      NAME "Electric Guitar - stem"
+      VOLPAN 1 0 1 -1
+      SOFFS 176.66666666666666
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C552C97D-058A-46EB-3C46-4B29A3FA4150}
+      <SOURCE WAVE
+        FILE "Canvas And Clay Click&Guide_stems_Electric Guitar-005.wav"
+      >
+    >
+    <ITEM
+      POSITION 203.33333333333331
+      SNAPOFFS 0
+      LENGTH 13.33333333333331
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {CFDC45D0-2FAA-4D39-C28D-63EC2A6D0E99}
+      IID 2156
+      NAME "Electric Guitar - stem"
+      VOLPAN 1 0 1 -1
+      SOFFS 203.33333333333331
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {FC100D37-7CAA-E95B-CCFE-512AB6E54B9C}
+      <SOURCE WAVE
+        FILE "Canvas And Clay Click&Guide_stems_Electric Guitar-005.wav"
+      >
+    >
+    <ITEM
+      POSITION 216.66666666666666
+      SNAPOFFS 0
+      LENGTH 13.3333333333334
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {EC9D0EF6-EAA7-8347-C78E-5CD3C5E448F5}
+      IID 2156
+      NAME "Electric Guitar - stem"
+      VOLPAN 1 0 1 -1
+      SOFFS 216.66666666666663
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9072F12E-E9D3-EBF0-3416-831381B1B28C}
+      <SOURCE WAVE
+        FILE "Canvas And Clay Click&Guide_stems_Electric Guitar-005.wav"
+      >
+    >
+    <ITEM
+      POSITION 230
+      SNAPOFFS 0
+      LENGTH 6.66666666666663
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {3CEDEB7E-751A-1A70-D6F2-267460D90636}
+      IID 2156
+      NAME "Electric Guitar - stem"
+      VOLPAN 1 0 1 -1
+      SOFFS 230
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {580A4A19-6423-086D-B4C2-EA8D557F5E63}
+      <SOURCE WAVE
+        FILE "Canvas And Clay Click&Guide_stems_Electric Guitar-005.wav"
+      >
+    >
+    <ITEM
+      POSITION 236.66666666666666
+      SNAPOFFS 0
+      LENGTH 6.66666666666663
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {85380310-4162-E424-77D0-FC0630DE57E4}
+      IID 2156
+      NAME "Electric Guitar - stem"
+      VOLPAN 1 0 1 -1
+      SOFFS 236.66666666666666
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F7B25D92-10F4-FB59-E03C-DBD84988FD75}
+      <SOURCE WAVE
+        FILE "Canvas And Clay Click&Guide_stems_Electric Guitar-005.wav"
+      >
+    >
+    <ITEM
+      POSITION 243.33333333333323
+      SNAPOFFS 0
+      LENGTH 6.66666666666674
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {5FAC9049-47B8-C7F8-9464-9CECFB9F3D1C}
+      IID 2156
+      NAME "Electric Guitar - stem"
+      VOLPAN 1 0 1 -1
+      SOFFS 243.33333333333329
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D106F786-CECF-A47E-1872-DB00F12F17A5}
+      <SOURCE WAVE
+        FILE "Canvas And Clay Click&Guide_stems_Electric Guitar-005.wav"
+      >
+    >
+    <ITEM
+      POSITION 249.99999999999986
+      SNAPOFFS 0
+      LENGTH 13.33333333333334
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {E6AB2D1C-49CA-7165-9EA4-9D2063ED4151}
+      IID 2156
+      NAME "Electric Guitar - stem"
+      VOLPAN 1 0 1 -1
+      SOFFS 150
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9B12DBEA-23F0-1FEB-0CC3-5D3E6983BDCB}
+      <SOURCE WAVE
+        FILE "Canvas And Clay Click&Guide_stems_Electric Guitar-005.wav"
+      >
+    >
+    <ITEM
+      POSITION 263.33333333333337
+      SNAPOFFS 0
+      LENGTH 9.7336875
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {8CFC49B5-83DC-5CEE-6BC1-BE7CADE35F82}
+      IID 2156
+      NAME "Electric Guitar - stem"
+      VOLPAN 1 0 1 -1
+      SOFFS 250
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {87E6EFE1-1BCF-F1E5-721F-6AAD94BE3D12}
       <SOURCE WAVE
         FILE "Canvas And Clay Click&Guide_stems_Electric Guitar-005.wav"
       >
@@ -1160,14 +2139,13 @@
   >
   <EXTENSIONS
     <SWSAUTOCOLOR
-      {00000000-0000-0000-0000-000000000000} 0 "" "" ""
-      {68135E7A-488D-4A54-ABBC-914B6A7A2D45} 33521664 "" "" ""
+      {68135E7A-488D-4A54-ABBC-914B6A7A2D45} 67076096 "" "" ""
       {0AC942CC-6BC8-4749-A869-929447C43ECB} 0 "" "" ""
-      {6C46EAD3-9951-4F86-A15C-151BEEDFCE0A} 16830976 "" "" ""
-      {619B55CD-9210-46BF-BB63-AD82144E052F} 20988032 "" "" ""
-      {EB5B4095-D04F-4663-BCEC-98AD4F7D2ACA} 20988032 "" "" ""
-      {FEA8111F-B676-43B1-99E4-A0AB0307235A} 20988032 "" "" ""
-      {838B39EE-143B-4F8E-821E-7F103AD79244} 20988032 "" "" ""
+      {6C46EAD3-9951-4F86-A15C-151BEEDFCE0A} 50385408 "" "" ""
+      {619B55CD-9210-46BF-BB63-AD82144E052F} 54542464 "" "" ""
+      {EB5B4095-D04F-4663-BCEC-98AD4F7D2ACA} 54542464 "" "" ""
+      {FEA8111F-B676-43B1-99E4-A0AB0307235A} 54542464 "" "" ""
+      {838B39EE-143B-4F8E-821E-7F103AD79244} 54542464 "" "" ""
     >
   >
 >

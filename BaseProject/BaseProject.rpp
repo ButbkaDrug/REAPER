@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "7.27/linux-x86_64" 1739106056
+<REAPER_PROJECT 0.1 "7.27/linux-x86_64" 1742446089
   AUTHOR PROJECT_AUTHOR
   RIPPLE 0
   GROUPOVERRIDE 0 0 0
@@ -15,9 +15,9 @@
   TIMEMODE 1 5 -1 30 0 0 -1
   VIDEO_CONFIG 0 0 256
   PANMODE 3
-  CURSOR 16384
-  ZOOM 9.46089788653149 164996 0
-  VZOOMEX 19.00165367 0
+  CURSOR 8496
+  ZOOM 1.2546120405528 10101 0
+  VZOOMEX 18.89908218 0
   USE_REC_CFG 0
   RECMODE 1
   SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
@@ -125,12 +125,12 @@
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
     FIXEDLANES 9 0 0 0 0
-    SEL 0
+    SEL 1
     REC 0 0 1 0 0 0 0 0
     VU 2
-    TRACKHEIGHT 212 0 0 0 0 0 0
+    TRACKHEIGHT 209 0 0 0 0 0 0
     INQ 0 0 0 0.5 100 0 0 100
-    NCHAN 4
+    NCHAN 10
     FX 1
     TRACKID {80118AFA-689A-BD33-1CE4-92AB51F0A721}
     PERF 0
@@ -140,177 +140,111 @@
     <ITEM
       POSITION 0
       SNAPOFFS 0
-      LENGTH 284.21052083333331
+      LENGTH 324.82759637188207
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0 0 1 0 0 0
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {DFBB72F1-2A0B-599F-24BC-939FA2119555}
-      IID 3439
-      NAME "How Great Is Our God - Chris Tomlin - C - 76 BPM.rpp"
+      IGUID {4429C185-12D2-A330-FEB3-8CD0882AADFB}
+      IID 178
+      NAME "Blessed Be Your Name - Matt Redman - G - 116 BPM(Original).RPP"
       VOLPAN 1 0 1 -1
       SOFFS 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {6F47DE70-0646-7BD4-8CF5-E16897D0EE71}
+      GUID {2E2D8786-C5EA-21B1-9FA9-6912676B2575}
       <SOURCE RPP_PROJECT
-        FILE "/home/butbkadrug/Music/REAPER/How Great Is Our God - Chris Tomlin - C - 76 BPM/How Great Is Our God - Chris Tomlin - C - 76 BPM.rpp"
+        FILE "/home/butbkadrug/Music/REAPER/Blessed Be Your Name - Matt Redman - G - 116 BPM(Original)/Blessed Be Your Name - Matt Redman - G - 116 BPM(Original).RPP"
       >
     >
     <ITEM
       POSITION 2048
       SNAPOFFS 0
-      LENGTH 340
+      LENGTH 311.5789569160998
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0 0 1 0 0 0
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {CCAE073F-50E7-4799-5388-F11A4293D2A9}
-      IID 3440
-      NAME "Build My Life - Patt Barat - G - 72 BPM.rpp"
+      IGUID {D91CC2F8-0FD4-22A9-02DF-E4EE680A1287}
+      IID 3012
+      NAME "Your Love Never Fails - Bb - 114 BPM.rpp"
       VOLPAN 1 0 1 -1
       SOFFS 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {D2446E3F-A06C-EF7B-31A9-9C7BEE430E99}
+      GUID {2ABC2674-52BA-E6C4-49EA-6DB465C0099C}
       <SOURCE RPP_PROJECT
-        FILE "/home/butbkadrug/Music/REAPER/Build My Life - Patt Barat - G - 72 BPM/Build My Life - Patt Barat - G - 72 BPM.rpp"
+        FILE "/home/butbkadrug/Music/REAPER/Your Love Never Fails - Bb - 114 BPM/Your Love Never Fails - Bb - 114 BPM.rpp"
       >
     >
     <ITEM
       POSITION 4096
       SNAPOFFS 0
-      LENGTH 147
+      LENGTH 183.63175000000047
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {D8FC9A7C-9113-DC36-EDC2-1A5DB01A774A}
+      IID 2297
+      NAME "Never Let Go Of Me - Lifetreekids - A - 100 BPM.RPP"
+      VOLPAN 0.354813 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {933814E6-0DC8-7B07-A92E-A5A7B0F70F72}
+      <SOURCE RPP_PROJECT
+        FILE "/home/butbkadrug/Music/REAPER/Never Let Go Of Me - Lifetreekids - A - 100 BPM/Never Let Go Of Me - Lifetreekids - A - 100 BPM.RPP"
+      >
+    >
+    <ITEM
+      POSITION 6144
+      SNAPOFFS 0
+      LENGTH 285.71429166666667
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {641E0D2D-A7B2-C267-1066-BDF2ECBCBAFA}
+      IID 3013
+      NAME "Our God - Chris Tomlin - B - 105 BPM.RPP"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A333977C-AD11-C9E5-BB04-970BFBE24AC6}
+      <SOURCE RPP_PROJECT
+        FILE "/home/butbkadrug/Music/REAPER/Our God - Chris Tomlin - B - 105 BPM/Our God - Chris Tomlin - B - 105 BPM.RPP"
+      >
+    >
+    <ITEM
+      POSITION 8192
+      SNAPOFFS 0
+      LENGTH 420.595873015873
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0 0 1 0 0 0
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
       SEL 1
-      IGUID {E2B1438D-9C2D-2A42-472D-EE7A725B23D9}
-      IID 3444
-      NAME "Good In Every Way - Lifetree Kids - D - 100 BPM.RPP"
+      IGUID {052C9197-FADB-D9C2-E24B-E54FD758A2C4}
+      IID 1454
+      NAME "Tremble - Mosaic MSC - C - 148 BPM.rpp"
       VOLPAN 1 0 1 -1
       SOFFS 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {E767A2B4-ABB4-9D21-F76F-518C74775680}
+      GUID {CA4EC92F-6822-D1C3-6CD5-8FF1F87A64A7}
       <SOURCE RPP_PROJECT
-        FILE "/home/butbkadrug/Music/REAPER/Good In Every Way - Lifetree Kids - D - 100 BPM/Good In Every Way - Lifetree Kids - D - 100 BPM.RPP"
-      >
-    >
-    <ITEM
-      POSITION 6144
-      SNAPOFFS 0
-      LENGTH 321.4285625
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0 0
-      FADEOUT 1 0 0 1 0 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {658372A6-D869-7398-CF78-93B1809D16B8}
-      IID 3441
-      NAME "O Come to the Altar - Elevation Worship - B - 70 BPM.RPP"
-      VOLPAN 1 0 1 -1
-      SOFFS 0
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {5607CED2-7350-9AC3-B0B5-C7D947296B0C}
-      <SOURCE RPP_PROJECT
-        FILE "/home/butbkadrug/Music/REAPER/O Come to the Altar - Elevation Worship - B - 70 BPM/O Come to the Altar - Elevation Worship - B - 70 BPM.RPP"
-      >
-    >
-    <ITEM
-      POSITION 8192
-      SNAPOFFS 0
-      LENGTH 384.79116666666664
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0 0
-      FADEOUT 1 0 0 1 0 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {FC2479E3-DEA0-7452-6A7E-CCE68650CDEC}
-      IID 3442
-      NAME "What a Beautiful Name - Hillsong Worship - D - 68 BPM.RPP"
-      VOLPAN 1 0 1 -1
-      SOFFS 0
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {09AD4055-8DBB-DB8B-71EE-C1A2B8FBA097}
-      <SOURCE RPP_PROJECT
-        FILE "/home/butbkadrug/Music/REAPER/What a Beautiful Name - Hillsong Worship - D - 68 BPM/What a Beautiful Name - Hillsong Worship - D - 68 BPM.RPP"
-      >
-    >
-    <ITEM
-      POSITION 10240
-      SNAPOFFS 0
-      LENGTH 346.28570833333333
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0 0
-      FADEOUT 1 0 0 1 0 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {4ABB3066-A9B0-6A02-A3A5-C68CE38C4335}
-      IID 3443
-      NAME "Still - Hillsong United - C - 70 BPM.rpp"
-      VOLPAN 1 0 1 -1
-      SOFFS 0
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {B4040A40-EAC9-A67E-D050-C9F42FDCB0EB}
-      <SOURCE RPP_PROJECT
-        FILE "/home/butbkadrug/Music/REAPER/Still - Hillsong United - C - 70 BPM/Still - Hillsong United - C - 70 BPM.rpp"
-      >
-    >
-    <ITEM
-      POSITION 12288
-      SNAPOFFS 0
-      LENGTH 147
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0 0
-      FADEOUT 1 0 0 1 0 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {28AF6052-74CE-3FBE-E264-4DBCEAFA1763}
-      IID 3484
-      NAME "Good In Every Way - Lifetree Kids - D - 100 BPM.RPP"
-      VOLPAN 1 0 1 -1
-      SOFFS 0
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {06192339-8221-5C22-244A-FE3FA79C5858}
-      <SOURCE RPP_PROJECT
-        FILE "/home/butbkadrug/Music/REAPER/Good In Every Way - Lifetree Kids - D - 100 BPM/Good In Every Way - Lifetree Kids - D - 100 BPM.RPP"
-      >
-    >
-    <ITEM
-      POSITION 14336
-      SNAPOFFS 0
-      LENGTH 169.75505668934241
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0 0
-      FADEOUT 1 0 0 1 0 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {654DC75D-7AD0-4CA0-17F6-0D34708AEA7F}
-      IID 7
-      NAME "Monumental Love - Kids Song - A - 118 BPM.RPP"
-      VOLPAN 0.431519 0 1 -1
-      SOFFS 0
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {9DBDD7F2-C0AC-AD5E-4188-C772F8AFDB1B}
-      <SOURCE RPP_PROJECT
-        FILE "/home/butbkadrug/Music/REAPER/Monumental Love - Kids Song - A - 118 BPM/Monumental Love - Kids Song - A - 118 BPM.RPP"
+        FILE "/home/butbkadrug/Music/REAPER/Tremble - Mosaic MSC - C - 148 BPM/Tremble - Mosaic MSC - C - 148 BPM.rpp"
       >
     >
     <ITEM
@@ -361,7 +295,7 @@
     PERF 0
     AUXRECV 0 0 1 0 0 0 0 2 0 -1:U 0 -1 ''
     MIDIOUT -1
-    MAINSEND 0 0
+    MAINSEND 1 0
     HWOUT 16 0 1 0 0 0 0 -1:U -1
     <ITEM
       POSITION 16384
@@ -376,7 +310,7 @@
       IGUID {C56559CB-8520-F541-737E-03E1B53F61D8}
       IID 3489
       NAME "SERENITY - Soaking worship instrumental _ Prayer and Devotional [aEOdBNmzl-c].mp3"
-      VOLPAN 1 0 1 -1
+      VOLPAN 0.285102 0 1 -1
       SOFFS 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
