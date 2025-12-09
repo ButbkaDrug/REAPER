@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "7.27/linux-x86_64" 1735220456
+<REAPER_PROJECT 0.1 "7.34/linux-x86_64" 1761197609
   <NOTES 0 2
   >
   RIPPLE 0
@@ -18,9 +18,9 @@
   VIDEO_CONFIG 0 0 256
   PANMODE 3
   PANLAWFLAGS 3
-  CURSOR 7.42268041237113
-  ZOOM 777.65866962454652 6312 0
-  VZOOMEX 6 201
+  CURSOR 0
+  ZOOM 140.75532579320193 4595 0
+  VZOOMEX 6 253
   USE_REC_CFG 0
   RECMODE 1
   SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
@@ -55,16 +55,16 @@
     VOL 0.25 0.125
     BEATLEN 4
     FREQ 1760 880 1
-    SAMPLES "" ""
+    SAMPLES "" "" "" ""
     SPLIGNORE 0 0
-    SPLDEF 2 660 "" 0
-    SPLDEF 3 440 "" 0
+    SPLDEF 2 660 "" 0 ""
+    SPLDEF 3 440 "" 0 ""
     PATTERN 0 169
     PATTERNSTR ABBB
     MULT 1
   >
   GLOBAL_AUTO -1
-  TEMPO 97 4 4
+  TEMPO 97 4 4 0
   PLAYRATE 1 0 0.25 4
   SELECTION 0 0
   SELECTION2 0 0
@@ -184,7 +184,7 @@
     BEAT -1
     AUTOMODE 0
     PANLAWFLAGS 3
-    VOLPAN 0.68899412821633 0 -1 -1 1
+    VOLPAN 0.47543563359423 0 -1 -1 1
     MUTESOLO 1 0 0
     IPHASE 0
     PLAYOFFS 0 1
@@ -227,8 +227,8 @@
       >
     >
   >
-  <TRACK {A17E9D58-5FAB-7C70-3296-8EF224F6FA15}
-    NAME "Forever God, Forever Love (Thailand Trek Theme Song 2015) [music]"
+  <TRACK {73BB9B79-709A-1950-6C51-40DD0E3A2602}
+    NAME "Forever God, Forever Love Instrumental"
     PEAKCOL 16576
     BEAT -1
     AUTOMODE 0
@@ -244,82 +244,34 @@
     SEL 1
     REC 0 0 1 0 0 0 0 0
     VU 2
-    TRACKHEIGHT 0 0 0 0 0 0 0
+    TRACKHEIGHT 216 0 0 0 0 0 0
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 2
     FX 1
-    TRACKID {A17E9D58-5FAB-7C70-3296-8EF224F6FA15}
+    TRACKID {73BB9B79-709A-1950-6C51-40DD0E3A2602}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
     <ITEM
-      POSITION 0.43720981103979
+      POSITION 1.3716343551229
       SNAPOFFS 0
-      LENGTH 172.33397386445992
+      LENGTH 168.26666666666682
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0 0 1 0 0 0
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
       SEL 1
-      IGUID {1258870D-E8C9-F4D3-4FE8-A654FB7AABCE}
-      IID 2
-      NAME "Forever God, Forever Love (Thailand Trek Theme Song 2015) [music].mp3"
-      VOLPAN 1 0 1 -1
-      SOFFS 3.09278350515464
+      IGUID {A20C3470-E1CC-ACE6-D3F9-8332487E27FF}
+      IID 6
+      NAME "Forever God, Forever Love Instrumental.mp3"
+      VOLPAN 0.501187 0 1 -1
+      SOFFS 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {A16DC17F-AF95-2748-0D7C-3AA0ADA1B4C8}
+      GUID {C754DCDD-5577-3710-72B9-C29656B3F123}
       <SOURCE MP3
-        FILE "/home/butbkadrug/Downloads/Forever God, Forever Love (Thailand Trek Theme Song 2015) [music].mp3" 1
-      >
-    >
-  >
-  <TRACK {04176156-04C2-B34E-03AC-95A516B0AD46}
-    NAME "Forever God, Forever Love (Thailand Trek Theme Song 2015) [vocals]"
-    PEAKCOL 16576
-    BEAT -1
-    AUTOMODE 0
-    PANLAWFLAGS 3
-    VOLPAN 0.45583759840005 0 -1 -1 1
-    MUTESOLO 0 0 0
-    IPHASE 0
-    PLAYOFFS 0 1
-    ISBUS 0 0
-    BUSCOMP 0 0 0 0 0
-    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
-    FIXEDLANES 9 0 0 0 0
-    SEL 0
-    REC 0 0 1 0 0 0 0 0
-    VU 2
-    TRACKHEIGHT 0 0 0 0 0 0 0
-    INQ 0 0 0 0.5 100 0 0 100
-    NCHAN 2
-    FX 1
-    TRACKID {04176156-04C2-B34E-03AC-95A516B0AD46}
-    PERF 0
-    MIDIOUT -1
-    MAINSEND 1 0
-    <ITEM
-      POSITION 0.43720981103979
-      SNAPOFFS 0
-      LENGTH 172.33397386445992
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0 0
-      FADEOUT 1 0 0 1 0 0 0
-      MUTE 0 0
-      SEL 1
-      IGUID {5C758D63-F3C8-EE25-0DF0-12A521B71108}
-      IID 3
-      NAME "Forever God, Forever Love (Thailand Trek Theme Song 2015) [vocals].mp3"
-      VOLPAN 1 0 1 -1
-      SOFFS 3.09278350515464
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {E86784BE-4457-0C08-5F10-91BCB1D95033}
-      <SOURCE MP3
-        FILE "/home/butbkadrug/Downloads/Forever God, Forever Love (Thailand Trek Theme Song 2015) [vocals].mp3" 1
+        FILE "Media/Forever God, Forever Love Instrumental.mp3" 1
       >
     >
   >

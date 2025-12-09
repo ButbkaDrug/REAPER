@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "7.24/linux-x86_64" 1731402856
+<REAPER_PROJECT 0.1 "7.34/linux-x86_64" 1750340900
   AUTHOR PROJECT_AUTHOR
   RIPPLE 0
   GROUPOVERRIDE 0 0 0
@@ -16,8 +16,8 @@
   VIDEO_CONFIG 0 0 256
   PANMODE 3
   CURSOR 109.47619457912624
-  ZOOM 0.83869826410554 0 0
-  VZOOMEX 25.56873894 0
+  ZOOM 6.52220976280722 0 0
+  VZOOMEX 25.56873894 273
   USE_REC_CFG 0
   RECMODE 1
   SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
@@ -53,16 +53,16 @@
     VOL 1 1
     BEATLEN 4
     FREQ 800 1600 1
-    SAMPLES "/home/butbkadrug/Music/Assets/Clicks/New Click -  Blip-accents.wav" "/home/butbkadrug/Music/Assets/Clicks/New Click -  Blip-sixteenth.wav"
+    SAMPLES "/home/butbkadrug/Music/Assets/Clicks/New Click -  Blip-accents.wav" "/home/butbkadrug/Music/Assets/Clicks/New Click -  Blip-sixteenth.wav" "" ""
     SPLIGNORE 0 0
-    SPLDEF 2 660 "" 0
-    SPLDEF 3 440 "" 0
+    SPLDEF 2 660 "" 0 ""
+    SPLDEF 3 440 "" 0 ""
     PATTERN 0 169
     PATTERNSTR ABBB
     MULT 1
   >
   GLOBAL_AUTO -1
-  TEMPO 120 4 4
+  TEMPO 120 4 4 0
   PLAYRATE 1 0 0.25 4
   SELECTION 0 0
   SELECTION2 0 0
@@ -140,7 +140,7 @@
     BEAT -1
     AUTOMODE 0
     PANLAWFLAGS 3
-    VOLPAN 0.73679674640694 0 -1 -1 1
+    VOLPAN 0.47259462407974 0 -1 -1 1
     MUTESOLO 0 0 0
     IPHASE 0
     PLAYOFFS 0 1

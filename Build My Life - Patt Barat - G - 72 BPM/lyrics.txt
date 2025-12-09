@@ -1,4 +1,5 @@
 [Intro]
+--KEY A
 #1add4
 
 [Ending]

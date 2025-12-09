@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "7.28/linux-x86_64" 1736413055
+<REAPER_PROJECT 0.1 "7.34/linux-x86_64" 1756643878
   <NOTES 0 2
   >
   RIPPLE 0
@@ -18,8 +18,8 @@
   VIDEO_CONFIG 0 0 65792
   PANMODE 3
   PANLAWFLAGS 3
-  CURSOR 0
-  ZOOM 50.47430263272137 796 0
+  CURSOR 6.6
+  ZOOM 35.85960413809095 207 0
   VZOOMEX 7.87008333 0
   USE_REC_CFG 0
   RECMODE 1
@@ -64,7 +64,7 @@
     MULT 1
   >
   GLOBAL_AUTO -1
-  TEMPO 100 4 4
+  TEMPO 100 4 4 0
   PLAYRATE 1 0 0.25 4
   SELECTION 1.8 147
   SELECTION2 1.8 147
@@ -91,7 +91,7 @@
   >
   <TEMPOENVEX
     EGUID {0247B877-7559-B462-E0CD-2196A2B2A3BC}
-    ACT 1 -1
+    ACT 0 -1
     VIS 1 0 1
     LANEHEIGHT 0 0
     ARM 0
@@ -151,7 +151,7 @@
     AUTOMODE 0
     PANLAWFLAGS 3
     VOLPAN 1 0 -1 -1 1
-    MUTESOLO 0 0 0
+    MUTESOLO 0 2 0
     IPHASE 0
     PLAYOFFS 0 1
     ISBUS 1 1
@@ -184,7 +184,7 @@
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
     FIXEDLANES 9 0 0 0 0
-    SEL 1
+    SEL 0
     REC 0 0 1 0 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0 0 0 0 0
@@ -205,7 +205,7 @@
       FADEIN 1 0 0 1 0 0 0
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
-      SEL 1
+      SEL 0
       IGUID {C5C15B72-236F-A278-D509-3828807D0207}
       IID 10
       NAME "Click source"
@@ -231,14 +231,63 @@
       >
     >
   >
+  <TRACK {52CFF79F-4A2D-2AB9-AEEB-FE54D3E2D004}
+    NAME "Good in Every Way"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 1 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    SEL 1
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {52CFF79F-4A2D-2AB9-AEEB-FE54D3E2D004}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    HWOUT 16 0 1 0 0 0 0 -1:U -1
+    <ITEM
+      POSITION 6.6
+      SNAPOFFS 0
+      LENGTH 144.75059436997313
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {9404D0B1-46D2-524C-D167-ECE613E67013}
+      IID 16
+      NAME "Good in Every Way.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 144.479292251342
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E7DCE81F-8013-0B2F-B6D4-226A8F840591}
+      <SOURCE MP3
+        FILE "/home/butbkadrug/Music/Good in Every Way.mp3" 1
+      >
+    >
+  >
   <TRACK {20E488C0-D071-A247-9C34-3B2B753A3337}
     NAME Backtrack
     PEAKCOL 16576
     BEAT -1
     AUTOMODE 0
     PANLAWFLAGS 3
-    VOLPAN 1 0 -1 -1 1
-    MUTESOLO 0 0 0
+    VOLPAN 0.73679674640694 0 -1 -1 1
+    MUTESOLO 0 2 0
     IPHASE 0
     PLAYOFFS 0 1
     ISBUS 1 1
@@ -256,6 +305,29 @@
     PERF 0
     MIDIOUT -1
     MAINSEND 1 2
+    HWOUT 16 0 1 0 0 0 0 -1:U -1
+    <ITEM
+      POSITION 6.6
+      SNAPOFFS 0
+      LENGTH 144.0452882475241
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {BD07B424-07A2-6181-ECF9-6B6298E3323B}
+      IID 15
+      NAME "Good in Every Way (Instrumental).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 143.77398612889303
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {23BC4603-6025-193A-4636-41DFA13E06F4}
+      <SOURCE MP3
+        FILE "/home/butbkadrug/Music/Good in Every Way (Instrumental).mp3" 1
+      >
+    >
   >
   <TRACK {F49AD6F4-7F53-4CB4-D680-75BC36885022}
     NAME "good-in-every-way [bass]"
@@ -264,7 +336,7 @@
     AUTOMODE 0
     PANLAWFLAGS 3
     VOLPAN 1.56432120178792 0 -1 -1 1
-    MUTESOLO 0 0 0
+    MUTESOLO 1 0 0
     IPHASE 0
     PLAYOFFS 0 1
     ISBUS 0 0
@@ -301,7 +373,7 @@
       CHANMODE 0
       GUID {25580219-D477-0884-19AA-688BC2B0B437}
       <SOURCE MP3
-        FILE "Media/good-in-every-way [bass].mp3" 1
+        FILE "/home/butbkadrug/Music/good-in-every-way [bass].mp3" 1
       >
     >
   >
@@ -312,7 +384,7 @@
     AUTOMODE 0
     PANLAWFLAGS 3
     VOLPAN 1 0 -1 -1 1
-    MUTESOLO 0 0 0
+    MUTESOLO 1 0 0
     IPHASE 0
     PLAYOFFS 0 1
     ISBUS 0 0
@@ -349,7 +421,7 @@
       CHANMODE 0
       GUID {2BC2ABF7-D33E-7FC0-6D2E-72E469344554}
       <SOURCE MP3
-        FILE "Media/good-in-every-way [drums].mp3" 1
+        FILE "/home/butbkadrug/Music/good-in-every-way [drums].mp3" 1
       >
     >
   >
@@ -360,7 +432,7 @@
     AUTOMODE 0
     PANLAWFLAGS 3
     VOLPAN 1 0 -1 -1 1
-    MUTESOLO 0 0 0
+    MUTESOLO 1 0 0
     IPHASE 0
     PLAYOFFS 0 1
     ISBUS 0 0
@@ -397,7 +469,7 @@
       CHANMODE 0
       GUID {85715865-E161-CAB7-42C3-362A282EA9C4}
       <SOURCE MP3
-        FILE "Media/good-in-every-way [music].mp3" 1
+        FILE "/home/butbkadrug/Music/good-in-every-way [music].mp3" 1
       >
     >
   >
@@ -445,7 +517,7 @@
       CHANMODE 0
       GUID {B3B557BC-4F79-1B4B-ACB1-E6E640DE5283}
       <SOURCE MP3
-        FILE "Media/good-in-every-way [vocals].mp3" 1
+        FILE "/home/butbkadrug/Music/good-in-every-way [vocals].mp3" 1
       >
     >
   >

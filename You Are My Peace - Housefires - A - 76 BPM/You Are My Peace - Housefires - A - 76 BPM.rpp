@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "7.19/linux-x86_64" 1727369339
+<REAPER_PROJECT 0.1 "7.27/linux-x86_64" 1747323441
   RIPPLE 0
   GROUPOVERRIDE 0 0 0
   AUTOXFADE 129
@@ -14,9 +14,9 @@
   TIMEMODE 1 5 -1 30 0 0 -1
   VIDEO_CONFIG 0 0 256
   PANMODE 3
-  CURSOR 0
-  ZOOM 6.83204997927464 0 0
-  VZOOMEX 6.99762201 0
+  CURSOR 88.42105263157895
+  ZOOM 53.13002897691074 3502 0
+  VZOOMEX 1.79999995 125
   USE_REC_CFG 0
   RECMODE 1
   SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
@@ -28,10 +28,10 @@
   >
   <APPLYFX_CFG
   >
-  RENDER_FILE "/home/butbkadrug/Music/RENDERS//You Are My Peace - Housefires - A - 76 BPM(Drums only).mp3"
+  RENDER_FILE "/home/butbkadrug/Music/RENDERS//You Are My Peace - Housefires - A - 76 BPM - No Drums.mp3"
   RENDER_FMT 0 2 44100
   RENDER_1X 0
-  RENDER_RANGE 1 0 0 18 1000
+  RENDER_RANGE 2 0 0 18 1000
   RENDER_RESAMPLE 3 0 1
   RENDER_ADDTOPROJ 0
   RENDER_STEMS 0
@@ -162,14 +162,14 @@
     AUTOMODE 0
     PANLAWFLAGS 3
     VOLPAN 1 0 -1 -1 1
-    MUTESOLO 0 2 0
+    MUTESOLO 0 0 0
     IPHASE 0
     PLAYOFFS 0 1
     ISBUS 1 1
-    BUSCOMP 2 0 0 0 0
+    BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.165425 0.5 1 0.5 0 0 0
     FIXEDLANES 9 0 0 0 0
-    SEL 1
+    SEL 0
     REC 0 0 1 0 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0 0 0 0 0
@@ -193,10 +193,10 @@
     ISBUS 0 0
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.165425 0.5 1 0.5 0 -1 0
-    SEL 0
+    SEL 1
     REC 0 0 1 2 0 0 0 0
     VU 2
-    TRACKHEIGHT 0 1 0 0 0 0 0
+    TRACKHEIGHT 0 0 0 0 0 0 0
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 2
     FX 1
@@ -245,7 +245,7 @@
     PEAKCOL 33521664
     BEAT -1
     AUTOMODE 0
-    VOLPAN 1 0 -1 -1 1
+    VOLPAN 0.54793648037502 0 -1 -1 1
     MUTESOLO 0 0 0
     IPHASE 0
     PLAYOFFS 0 1
@@ -255,15 +255,14 @@
     SEL 0
     REC 0 0 1 2 0 0 0 0
     VU 2
-    TRACKHEIGHT 0 1 0 0 0 0 0
+    TRACKHEIGHT 0 0 0 0 0 0 0
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 2
     FX 1
     TRACKID {261E519A-1433-4800-88F7-91924D9A714D}
     PERF 0
     MIDIOUT -1
-    MAINSEND 1 1
-    MAINSEND_NCH 1
+    MAINSEND 1 0
     <ITEM
       POSITION 0
       SNAPOFFS 0
@@ -293,7 +292,7 @@
     BEAT -1
     AUTOMODE 0
     VOLPAN 0.36431412424787 0 -1 -1 1
-    MUTESOLO 0 0 0
+    MUTESOLO 1 0 0
     IPHASE 0
     PLAYOFFS 0 1
     ISBUS 1 1
@@ -17627,7 +17626,7 @@
     BEAT -1
     AUTOMODE 0
     VOLPAN 0.17212775315622 0 -1 -1 1
-    MUTESOLO 0 0 0
+    MUTESOLO 1 0 0
     IPHASE 0
     PLAYOFFS 0 1
     ISBUS 1 1
@@ -19709,7 +19708,7 @@
     BEAT -1
     AUTOMODE 0
     VOLPAN 1 0.208 -1 -1 1
-    MUTESOLO 0 0 0
+    MUTESOLO 1 0 0
     IPHASE 0
     PLAYOFFS 0 1
     ISBUS 0 0
@@ -19922,7 +19921,7 @@
     BEAT -1
     AUTOMODE 0
     VOLPAN 1 0 -1 -1 1
-    MUTESOLO 0 0 0
+    MUTESOLO 1 0 0
     IPHASE 0
     PLAYOFFS 0 1
     ISBUS 0 0
@@ -20933,7 +20932,7 @@
       FADEIN 1 0 0 1 0 0 0
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
-      SEL 1
+      SEL 0
       IGUID {079DD4E4-2B3D-2C32-258E-1E27B8C70CAD}
       IID 3988
       NAME "15-Recorded MIDI-glued"
@@ -22646,6 +22645,230 @@
         CFGEDIT 1 1 0 1 0 9 1 1 1 1 1 0.5 0 29 1363 899 0 0 0 0 0 0 0 0 0 0.5 0 0 1 64
       >
     >
+  >
+  <TRACK {3BAEAE0B-C34A-576B-E777-4E56C80845A4}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 1 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 1 1
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.545455 0.5 1 0.5 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {3BAEAE0B-C34A-576B-E777-4E56C80845A4}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+  >
+  <TRACK {9067278E-7A1A-0FFE-A54E-375B04E12472}
+    NAME "Housefires - You Are My Peace (feat. Nate Moore) [bass]"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 0.39111383476167 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.545455 0.5 1 0.5 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {9067278E-7A1A-0FFE-A54E-375B04E12472}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 3.05901805952457
+      SNAPOFFS 0
+      LENGTH 331.67782404573859
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      GROUP 1
+      IGUID {6AE9EC2B-2EC4-5E47-D268-C8D3108813BB}
+      IID 3995
+      NAME "Housefires - You Are My Peace (feat. Nate Moore) [bass].mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A634C6C2-CB50-FA80-E88F-5F1985DF1E3D}
+      <SOURCE MP3
+        FILE "Housefires - You Are My Peace (feat. Nate Moore) [bass].mp3" 1
+      >
+    >
+  >
+  <TRACK {F58A142D-DCBB-4BB2-C956-428D837EB150}
+    NAME "Housefires - You Are My Peace (feat. Nate Moore) [drums]"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.545455 0.5 1 0.5 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 330 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {F58A142D-DCBB-4BB2-C956-428D837EB150}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 3.05901805952457
+      SNAPOFFS 0
+      LENGTH 331.67782404573859
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      GROUP 1
+      IGUID {09D67E6D-E0A8-3625-350A-8CF5207588EB}
+      IID 3996
+      NAME "Housefires - You Are My Peace (feat. Nate Moore) [drums].mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3C69BCD9-534F-6228-2541-BF0678BCDA84}
+      <SOURCE MP3
+        FILE "Housefires - You Are My Peace (feat. Nate Moore) [drums].mp3" 1
+      >
+    >
+  >
+  <TRACK {79C86695-B9EA-29BB-9726-807AE29DA7D9}
+    NAME "Housefires - You Are My Peace (feat. Nate Moore) [music]"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 0.19649079231054 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.545455 0.5 1 0.5 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {79C86695-B9EA-29BB-9726-807AE29DA7D9}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 3.05901805952457
+      SNAPOFFS 0
+      LENGTH 331.67782404573859
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      GROUP 1
+      IGUID {BCD88E39-C572-C1E4-9F67-FCFD817DF50B}
+      IID 3997
+      NAME "Housefires - You Are My Peace (feat. Nate Moore) [music].mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {984CD473-DF13-DDF2-771E-CCB8752647E1}
+      <SOURCE MP3
+        FILE "Housefires - You Are My Peace (feat. Nate Moore) [music].mp3" 1
+      >
+    >
+  >
+  <TRACK {88D496F6-7787-2AF5-1BD5-1328CF81985B}
+    NAME "Housefires - You Are My Peace (feat. Nate Moore) [vocals]"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 0.4059241760314 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 2 -1
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.545455 0.5 1 0.5 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {88D496F6-7787-2AF5-1BD5-1328CF81985B}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 3.05901805952457
+      SNAPOFFS 0
+      LENGTH 331.67782404573859
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      GROUP 1
+      IGUID {1BE03A0A-3E16-8D73-2B76-8F3C2557E4A5}
+      IID 3998
+      NAME "Housefires - You Are My Peace (feat. Nate Moore) [vocals].mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3BA01FF8-841A-F72B-96CC-0F26C166F543}
+      <SOURCE MP3
+        FILE "Housefires - You Are My Peace (feat. Nate Moore) [vocals].mp3" 1
+      >
+    >
+  >
+  <EXTENSIONS
   >
   <EXTSTATE
     <COM.PANDABOT.CHORDGUN

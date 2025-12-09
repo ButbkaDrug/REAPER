@@ -115,11 +115,11 @@ Declared the ^grave
 #5add4 6m7 1/3
 Has no ^claim on ^me .^
 
-[ Tag ]
+[ Tag 1 ]
+Jesus Yours is the victory
+
+[ Tag 2 ]
 Jesus Christ my living hope
-
-Я жив надеждой - RussiaWorship
-
 
 [ Verse 1 R ]
 Нас раздел^яла
@@ -168,7 +168,7 @@ Jesus Christ my living hope
 И сп^асение даро^вал!
 ^Я жив на^деждой ^на Христ^а
 
-[ Verse 3 R]
+[ Verse 3 R ]
 И на рассв^ете,
 Как об^ещал Ты,
 В тиши бе^змолвной
@@ -177,6 +177,10 @@ Jesus Christ my living hope
 пронзил мо^лчание -
 Лишил Ты с^мерть
 Власти ^надо мн^ой! .^
+
+[ Tag 1 R ]
+Иисус смерть Ты победил
+
 
 [ Tag R ]
 Я жив надеждой на Христа

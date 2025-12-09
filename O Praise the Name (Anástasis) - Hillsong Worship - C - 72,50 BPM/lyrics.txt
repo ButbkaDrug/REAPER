@@ -1,34 +1,48 @@
 [ Intro ]
-1 3m 4
-1 3m 4
+#1 3m 4
+#1 3m 4
 
 [ Instrumental ]
-1 4 1 6m 5sus 5
-1\3 4 6m 4 5sus 5 1
+#1 4 1 6m 5sus 5
+#1\3 4 6m 4 5sus 5 1
+
+[Ending]
+#1
 
 [ Verse 1 ]
-I cast my mind to Calvary
-Where Jesus bled and died for me
-I see His wounds His hands His feet
-My Savior on that cursed tree
+#1
+I cast my m^ind to Calvary
+#5add4 6m
+Where Jesus ^bled and died ^for me
+#4 1/3
+I see His w^ounds His hands His ^feet
+#5 1
+My Savior ^on that cursed ^tree
+
+[Vamp]
+#3m 4
 
 [ Verse 2 ]
-His body bound and drenched in tears
-They laid Him down in Joseph's tomb
-The entrance sealed by heavy stone
-Messiah still and all alone
+His body ^bound and drenched in tears
+They laid Him d^own in Joseph's ^tomb
+The entrance ^sealed by heavy s^tone
+Messiah st^ill and all al^one
 
 [ Chorus ]
-O praise the Name of the Lord our God
-O praise His Name forevermore
-For endless days we will sing Your praise
-Oh Lord oh Lord our God
+#1 4 1
+O pr^aise the Name of the L^ord our G^od
+#6m 5sus 5
+O p^raise His Name fo^reverm^ore
+#1 4 6m
+For ^endless days we will s^ing Your p^raise
+#4 5 1
+Oh L^ord oh L^ord our G^od
 
 [ Verse 3 ]
-Then on the third at break of dawn
-The Son of Heaven rose again
-O trampled death where is your sting
-The angels roar for Christ the King
+Then on the th^ird at break of dawn
+The Son of H^eaven rose ag^ain
+O trampled d^eath where is your s^ting
+The angels r^oar for Christ the K^ing
 
 [ Verse 4 ]
 He shall return in robes of white

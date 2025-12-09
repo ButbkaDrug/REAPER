@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "7.24/linux-x86_64" 1730633436
+<REAPER_PROJECT 0.1 "7.34/linux-x86_64" 1748615766
   RIPPLE 0
   GROUPOVERRIDE 0 0 0
   AUTOXFADE 129
@@ -10,12 +10,12 @@
   PANLAW 1
   PROJOFFS 0 0 0
   MAXPROJLEN 0 600
-  GRID 3455 8 1 8 1 0 0 0
+  GRID 3199 8 1 8 1 0 0 0
   TIMEMODE 1 5 -1 30 0 0 -1
   VIDEO_CONFIG 0 0 256
   PANMODE 3
-  CURSOR 169.65113778418959
-  ZOOM 2.85736487721823 0 0
+  CURSOR 0
+  ZOOM 2.85736487721824 0 0
   VZOOMEX 19 0
   USE_REC_CFG 0
   RECMODE 1
@@ -51,16 +51,16 @@
     VOL 1 0.682679
     BEATLEN 4
     FREQ 800 1600 1
-    SAMPLES "C:\Users\butbkadrug\Music\Assets\Clicks\New Click -  Blip-accents.wav" "C:\Users\butbkadrug\Music\Assets\Clicks\New Click -  Blip-sixteenth.wav"
+    SAMPLES "C:\Users\butbkadrug\Music\Assets\Clicks\New Click -  Blip-accents.wav" "C:\Users\butbkadrug\Music\Assets\Clicks\New Click -  Blip-sixteenth.wav" "" ""
     SPLIGNORE 0 0
-    SPLDEF 2 660 "" 0
-    SPLDEF 3 440 "" 0
+    SPLDEF 2 660 "" 0 ""
+    SPLDEF 3 440 "" 0 ""
     PATTERN 0 153
     PATTERNSTR ABAB
     MULT 2
   >
   GLOBAL_AUTO -1
-  TEMPO 120 4 4
+  TEMPO 120 4 4 0
   PLAYRATE 1 0 0.25 4
   SELECTION 81.64948453608247 106.39175257731959
   SELECTION2 81.64948453608247 106.39175257731959
@@ -132,7 +132,7 @@
     MUTESOLO 0 0 0
     IPHASE 0
     PLAYOFFS 0 1
-    ISBUS 0 0
+    ISBUS 1 1
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
     SEL 1
@@ -143,6 +143,33 @@
     NCHAN 2
     FX 1
     TRACKID {3B1DE532-515E-4175-8F73-464280590565}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    MAINSEND_NCH 2
+  >
+  <TRACK {F4C9C0C7-AA09-F200-E13A-F3C6B3CC557F}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {F4C9C0C7-AA09-F200-E13A-F3C6B3CC557F}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -172,10 +199,10 @@
         VOL 1 1
         BEATLEN 4
         FREQ 800 1600 1
-        SAMPLES "/home/butbkadrug/Music/Assets/Clicks/New Click -  Blip-accents.wav" "/home/butbkadrug/Music/Assets/Clicks/New Click -  Blip-sixteenth.wav"
+        SAMPLES "/home/butbkadrug/Music/Assets/Clicks/New Click -  Blip-accents.wav" "/home/butbkadrug/Music/Assets/Clicks/New Click -  Blip-sixteenth.wav" "" ""
         SPLIGNORE 0 0
-        SPLDEF 2 660 "" 0
-        SPLDEF 3 440 "" 0
+        SPLDEF 2 660 "" 0 ""
+        SPLDEF 3 440 "" 0 ""
         PATTERN 0 43433
         PATTERNSTR ABBBABBB
         MULT 2
@@ -191,7 +218,7 @@
     MUTESOLO 0 0 0
     IPHASE 0
     PLAYOFFS 0 1
-    ISBUS 0 0
+    ISBUS 2 -1
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 -1 0
     SEL 0
@@ -641,9 +668,9 @@
     MIDIOUT -1
     MAINSEND 1 0
     <ITEM
-      POSITION 27.21649484536082
+      POSITION 12.98969072164948
       SNAPOFFS 0
-      LENGTH 158.3398841338315
+      LENGTH 212.16494845360825
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0 0 1 0 0 0
@@ -652,15 +679,15 @@
       SEL 0
       IGUID {5C04B8CB-4D8B-6B32-34E0-2982EE81319D}
       IID 3374
-      NAME 25732574.m4a
+      NAME light-the-fire-rehersal-drums.m4a
       VOLPAN 1 0 1 -1
-      SOFFS 39.59826019604147
+      SOFFS 25.37145607233015
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
       GUID {47440D66-4D2E-7036-B608-B2AD9F10891B}
       <SOURCE VIDEO
         FLIP 0 1
-        FILE "/home/butbkadrug/Downloads/25732574.m4a"
+        FILE "AudioFiles/light-the-fire-rehersal-drums.m4a"
       >
     >
   >

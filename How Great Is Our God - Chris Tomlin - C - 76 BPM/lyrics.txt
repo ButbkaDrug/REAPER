@@ -1,4 +1,5 @@
 [ Intro ]
+--KEY C
 #1 6m7 4maj7 5 1
 
 [ Verse 1 ]

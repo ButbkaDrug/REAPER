@@ -1,14 +1,15 @@
-<REAPER_PROJECT 0.1 "7.19/linux-x86_64" 1725695910
+<REAPER_PROJECT 0.1 "7.52/linux-x86_64" 1764519164
   TITLE We're
   AUTHOR Jeremy
   <NOTES 0 0
     |ICTaV1CTaV2CTaTaCTaTaCE
   >
-  RIPPLE 0
-  GROUPOVERRIDE 0 0 0
+  RIPPLE 0 0
+  GROUPOVERRIDE 0 0 0 0
   AUTOXFADE 129
   ENVATTACH 3
   POOLEDENVATTACH 0
+  TCPUIFLAGS 0
   MIXERUIFLAGS 11 0
   PEAKGAIN 1
   FEEDBACK 0
@@ -41,6 +42,7 @@
   RENDER_ADDTOPROJ 0
   RENDER_STEMS 0
   RENDER_DITHER 0
+  RENDER_TRIM 0.000001 0.000001 0 0
   TIMELOCKMODE 1
   TEMPOENVLOCKMODE 1
   ITEMMIX 1
@@ -55,16 +57,16 @@
     VOL 1 1
     BEATLEN 4
     FREQ 800 1600 1
-    SAMPLES "" ""
+    SAMPLES "" "" "" ""
     SPLIGNORE 0 0
-    SPLDEF 2 660 "" 0
-    SPLDEF 3 440 "" 0
+    SPLDEF 2 660 "" 0 ""
+    SPLDEF 3 440 "" 0 ""
     PATTERN 0 169
     PATTERNSTR ABBB
     MULT 1
   >
   GLOBAL_AUTO -1
-  TEMPO 76 4 4
+  TEMPO 76 4 4 0
   PLAYRATE 1 0 0.25 4
   SELECTION 0 0
   SELECTION2 0 0
@@ -72,7 +74,7 @@
   MASTERTRACKHEIGHT 0 0
   MASTERPEAKCOL 16576
   MASTERMUTESOLO 0
-  MASTERTRACKVIEW 0 0.6667 0.5 0.5 0 -1 0 0 0 0 -1 -1 0 0
+  MASTERTRACKVIEW 0 0.6667 0.5 0.5 0 -1 0 0 0 0 -1 -1 0 0 0
   MASTERHWOUT 0 0 1 0 0 0 0 -1
   MASTER_NCH 2 2
   MASTER_VOLUME 0.72864122613113 0 -1 -1 1
@@ -97,6 +99,7 @@
   >
   MARKER 1 0 "We're Here For You - Jeremy Riddle - D -152 BPM" 1 0 1 B {EF6CF558-CB36-3C3C-AF87-934FFCCEB918} 0
   MARKER 1 12.63157894736842 "" 1
+  MARKER 11 7.10526315789474 "" 0 0 1 B {0EEB1AF4-1863-7B33-D338-075DBEF8E9D4} 0
   MARKER 2 12.63157894736842 Intro 1 0 1 B {B0E47D47-A28B-1DB2-2BD7-5CAEBF267F70} 0
   MARKER 2 25.26315789473684 "" 1
   MARKER 3 25.26315789473684 Chorus 1 0 1 B {CA1322B7-81A7-29DF-99B3-DA08BF5B89A9} 0
@@ -142,7 +145,7 @@
     PLAYOFFS 0 1
     ISBUS 0 0
     BUSCOMP 0 0 0 0 0
-    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
     SEL 0
     REC 0 0 1 0 0 0 0 0
     VU 2
@@ -174,16 +177,16 @@
       CHANMODE 0
       GUID {86781384-BEFE-BE54-63F2-72AFB6346CB7}
       <SOURCE CLICK
-        AUTO 0
+        AUTO 0 0
         BPM 152
         BPI 4 4
         VOL 1 1
         BEATLEN 4
         FREQ 800 1600 1
-        SAMPLES "/home/butbkadrug/Music/Assets/Clicks/New Click -  Blip-accents.wav" "/home/butbkadrug/Music/Assets/Clicks/New Click -  Blip-sixteenth.wav"
+        SAMPLES "/home/butbkadrug/Music/Assets/Clicks/New Click -  Blip-accents.wav" "/home/butbkadrug/Music/Assets/Clicks/New Click -  Blip-sixteenth.wav" "" ""
         SPLIGNORE 0 0
-        SPLDEF 2 660 "" 0
-        SPLDEF 3 440 "" 0
+        SPLDEF 2 660 "" 0 ""
+        SPLDEF 3 440 "" 0 ""
         PATTERN 0 169
         PATTERNSTR ABBB
         MULT 1
@@ -201,7 +204,7 @@
     PLAYOFFS 0 1
     ISBUS 0 0
     BUSCOMP 0 0 0 0 0
-    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
     SEL 0
     REC 0 0 1 0 0 0 0 0
     VU 2
@@ -1359,5 +1362,7 @@
         FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 4.wav"
       >
     >
+  >
+  <EXTENSIONS
   >
 >

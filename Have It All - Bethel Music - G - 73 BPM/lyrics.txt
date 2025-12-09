@@ -1,55 +1,82 @@
+[ Intro ]
+--KEY G
+--PAD, Acousitc
+#1
+
+[ Instrumental ]
+#4 6m 1 5
+#4 6m 1 5
+
 [ Verse 1 ]
-Oh the joy I've found
-Surrendering my crowns
-At the feet of the King
-Who surrendered everything
+#6m 4 1
+^Oh the j^oy I've fo^und
+#6m 4 1
+Sur^rendering m^y cr^owns
+#2m 1 5
+At the f^eet ^of the K^ing
+#2m 1 5
+Who sur^rendered ^everyth^ing
 
 [ Verse 2 ]
-Oh the peace that comes
-When I'm broken and undone
-By Your unfailing grace
-I can lift my voice and say
+^Oh the p^eace that c^omes
+When I'm br^oken and^ und^one
+By Your ^unf^ailing gr^ace
+I can l^ift my vo^ice and s^ay
 
 [ Chorus ]
-You can have it all Lord
-Every part of my world
-Take this life and breathe on
-This heart that is now Yours
+#1sus4 1
+You can have it ^all L^ord
+#6m
+Every part of ^my world
+#4 6m
+Take this life and br^eathe ^on
+#2m 1
+This h^eart that is now^ Yours
 
 
 [ Bridge ]
-There is no greater call
-Than giving You my all
-I lay it all down
-I lay it all down
-There is no greater love
-No higher name above
-I lay it all down
-I lay it all down
+#4
+>There is no greater call
+#6m 5/7
+>Than giving You my ^all
+#1
+^I lay it all down
+#5
+^I lay it all down
+#4
+>There is no greater love
+#6m 5/7
+>No higher name ab^ove
+#1
+^I lay it all down
+#5
+^I lay it all down
 
 
 [ Verse 1 R ]
-Радость я нашёл!
-Сложил, что приобрёл
-У Твоих ног, мой Царь,
-Кто отдал всё за меня!
+Р^адость я^ наш^ёл!
+Слож^ил, что пр^иобр^ёл
+У Тво^их ног^, мой Ц^арь,
+Кто отд^ал всё з^а мен^я!
 
 [ Verse 2 R ]
-О, какой глубокий мир
-Наполняет разум мой!
-Когда на коленях я
-Сокрушаюсь пред Тобой!
+О, как^ой глуб^окий м^ир
+Наполн^яет ра^зум м^ой!
+Когда н^а коле^нях ^я
+Сокруш^аюсь пре^д Тоб^ой!
 
-[ Chorus ]
-Все во мне Твоё, Бог
-И весь мир мой - он Твой
-Я теперь навечно
-Принадлежу Тебе!
+[ Chorus R ]
+Все во мне Тво^ё, Б^ог
+И весь мир мой - ^он Тв^ой
+Я теперь нав^ечн^о
+Прин^адлежу Теб^е!
 
 [ Bridge R ]
-Оставил Небеса! Ты умер за меня!
-Отдал Своё сердце!
-Мне Своё сердце!
-Всё оставляю я,
-Чтоб жить лишь для Тебя!
-Вот мое сердце! Вот мое сердце!
+>Оставил Небеса!
+>Ты умер за мен^я!
+Отд^ал Своё сердце!
+Мн^е Своё сердце!
+>Всё оставляю я,
+>Чтоб жить лишь для Теб^я!
+В^от мое сердце!
+В^от мое сердце!

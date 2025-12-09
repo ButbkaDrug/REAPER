@@ -1,40 +1,71 @@
+[ Intro ]
+#4 5/4 3m7 6m9
+#4maj9 5/4 3m7 4/5
+
+[ Vamp ]
+#4maj 5/4 3m7 4/5
+
+[ Instrumental ]
+#4maj9 5/4 3m7 6m7
+#4maj9 5/4 3m7 6m9
+
+[ Outro ]
+#4maj9 5/4 3m7 6m7
+#4maj9 5/4 3m7 4/5
+
+[ Ending ]
+#1
+
 [ Verse 1 ]
-This is my desire
-To honor You
-Lord with all my heart
-I worship You
+#1 6m
+^This is my de^sire
+#4/1 1 5/7 5
+To h^on - ^or ^You ^
+#6m 5/7 1
+^Lord with all ^my h^eart
+#7bmaj7 4 4/5
+I worship Y^ou
 
 [ Verse 2 ]
-All I have within me
-I give You praise
-All that I adore is in You
+#12 6m
+^All I have wit^hin me
+#4/1 1 5/7 5
+I ^give Y^ou p^raise ^
+#6m7 5/7 1
+^All that I ^ad - ^ore
+#7bmaj7 4 4/5
+Is in Y^ou
 
 [ Chorus ]
-Lord I give You my heart
-I give You my soul
-I live for You alone
-Every breath that I take
-Every moment I'm awake
-Lord have Your way in me
-
-
+#1 5
+>Lord I give You my h^eart
+#2m7
+I give You my s^oul
+#4/5
+I ^live for You alone
+#1 5/7
+>Every breath that I take^
+#2m7
+Every moment I'm a^wake
+#4/5
+Lord ^have Your way in me
 
 [ Verse 1 R ]
-Ты - моё желание
-Господь Иисус
-Гимн моей любви
-Тебе пою
+^Ты - моё жел^ание
+Гос^подь ^И - и^сус^
+Г^имн моей ^люб - ^ви
+Тебе п^ою
 
 [ Verse 2 R ]
-Ты - дыханье жизни
-Мой яркий свет
-Ты, во всей вселенной
-Другого нет
+^Ты - дыханье ^жизни
+Мой ^яр - к^ий св^ет^
+^Ты, во всей в^се - л^енной
+Другого ^нет
 
 [ Chorus R ]
-Бог мой сердце моё
-Отдаю я Тебе
-Живу я для Тебя
-Каждый вздох, что во мне
-Каждый час и в каждом дне
-Веди, Господь, меня
+>Бог мой сердце м^оё
+Отдаю я Те^бе
+Жи^ву я для Тебя
+>Каждый вздох, что во м^не
+Каждый час и в каждом д^не
+Ве^ди, Господь, меня
