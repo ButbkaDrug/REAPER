@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "7.52/linux-x86_64" 1765120268
+<REAPER_PROJECT 0.1 "7.52/linux-x86_64" 1765456489
   <NOTES 0 2
   >
   RIPPLE 0 0
@@ -19,9 +19,9 @@
   VIDEO_CONFIG 0 0 65792
   PANMODE 3
   PANLAWFLAGS 3
-  CURSOR 12288
-  ZOOM 35.85960413809064 455137 0
-  VZOOMEX 27.78496933 0
+  CURSOR 8192
+  ZOOM 0.83462673347694 6569 0
+  VZOOMEX 15.17368698 0
   USE_REC_CFG 0
   RECMODE 1
   SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
@@ -111,12 +111,12 @@
   <PROJBAY
   >
   <TRACK {6B7123E5-3A60-F3DC-B36D-46D5DD4930B8}
-    NAME "Ever Be - Bethel Music - G - 69 BPM"
+    NAME "Click & Guide"
     PEAKCOL 16576
     BEAT -1
     AUTOMODE 0
     PANLAWFLAGS 3
-    VOLPAN 1 0.968 -1 -1 1
+    VOLPAN 1 0 -1 -1 1
     MUTESOLO 0 0 0
     IPHASE 0
     PLAYOFFS 0 1
@@ -138,155 +138,111 @@
     <ITEM
       POSITION 0
       SNAPOFFS 0
-      LENGTH 284.21052083333331
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0 0
-      FADEOUT 1 0 0 1 0 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {7F7D8C87-ECC2-CEF1-72D2-3A83E920A3A1}
-      IID 66
-      NAME "How Great Is Our God - Chris Tomlin - C - 76 BPM.rpp"
-      VOLPAN 1 0 1 -1
-      SOFFS 0
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {B2D01FB2-5C05-AC9F-FB7F-213D1E50BD8F}
-      <SOURCE RPP_PROJECT
-        FILE "/home/butbkadrug/Music/REAPER/How Great Is Our God - Chris Tomlin - C - 76 BPM/How Great Is Our God - Chris Tomlin - C - 76 BPM.rpp"
-      >
-    >
-    <ITEM
-      POSITION 4096
-      SNAPOFFS 0
-      LENGTH 362.5
+      LENGTH 346.16308390022675
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0 0 1 0 0 0
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
       SEL 1
-      IGUID {F82D9C97-97BA-8070-FE66-46AFF8E85FA7}
-      IID 67
-      NAME "Worthy - Elevation Worship - Eb - 67,50 BPM.rpp"
+      IGUID {8F5A3941-9265-591D-D23C-A615E63B2FAC}
+      IID 120
+      NAME "Psalm 46 - Capital City Music - Ab - 69 BPM.RPP"
       VOLPAN 1 0 1 -1
       SOFFS 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {7D543D34-6E92-FB63-EA00-99268343B418}
+      GUID {719329EE-1E21-2C19-645D-A8FC24369D6C}
       <SOURCE RPP_PROJECT
-        FILE "/home/butbkadrug/Music/REAPER/Worthy - Elevation Worship - Eb - 67,50 BPM/Worthy - Elevation Worship - Eb - 67,50 BPM.rpp"
+        FILE "/home/butbkadrug/Music/REAPER/Psalm 46 - Capital City Music - Ab - 69 BPM/Psalm 46 - Capital City Music - Ab - 69 BPM.RPP"
+      >
+    >
+    <ITEM
+      POSITION 4096
+      SNAPOFFS 0
+      LENGTH 317.83784580498866
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {0D0C3FC8-336D-3F84-1C5E-F506DBCFDC46}
+      IID 121
+      NAME "Tremble - Mosaic MSC - C - 148 BPM.rpp"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6C20BA98-53B3-C2E5-91A9-D5CE4F59E344}
+      <SOURCE RPP_PROJECT
+        FILE "/home/butbkadrug/Music/REAPER/Tremble - Mosaic MSC - C - 148 BPM/Tremble - Mosaic MSC - C - 148 BPM.rpp"
       >
     >
     <ITEM
       POSITION 8192
       SNAPOFFS 0
-      LENGTH 296.93430839002269
+      LENGTH 190.71429166666667
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0 0 1 0 0 0
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
-      SEL 0
-      IGUID {AB5F0FAF-FA4E-9359-8C1B-FD1ECE25F81D}
-      IID 68
-      NAME "Run To The Father - Cody Carnes - C - 137 BPM.rpp"
+      SEL 1
+      IGUID {4EAFA196-8951-C5A8-343D-1E610B94CB81}
+      IID 122
+      NAME "I'm Trusting You - Kids Song - A- 112 BPM .RPP"
       VOLPAN 1 0 1 -1
       SOFFS 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {A9526342-617A-68EF-01A4-BFBB818C3900}
+      GUID {7554B1DD-65F1-B405-5C04-414A58EC089F}
       <SOURCE RPP_PROJECT
-        FILE "/home/butbkadrug/Music/REAPER/Run To The Father - Cody Carnes - C - 137 BPM/Run To The Father - Cody Carnes - C - 137 BPM.rpp"
+        FILE "/home/butbkadrug/Music/REAPER/I'm Trusting You - Kids Song - A- 112 BPM /I'm Trusting You - Kids Song - A- 112 BPM .RPP"
       >
     >
     <ITEM
       POSITION 12288
       SNAPOFFS 0
-      LENGTH 346.28570833333333
+      LENGTH 440.60816326530613
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0 0 1 0 0 0
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
-      SEL 0
-      IGUID {FA8ADBCA-ED3C-388C-30FF-9CFDA01E347C}
-      IID 69
-      NAME "Still - Hillsong United - C - 70 BPM.rpp"
+      SEL 1
+      IGUID {4286359A-9BBE-0A08-1940-B2ED51EC7BC1}
+      IID 123
+      NAME "Have It All - Bethel Music - G - 73 BPM.rpp"
       VOLPAN 1 0 1 -1
       SOFFS 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {8F10E097-1A57-C98C-E2C8-21E2DA791E8B}
+      GUID {048D6778-37F4-BF89-F742-E61F82C0976E}
       <SOURCE RPP_PROJECT
-        FILE "/home/butbkadrug/Music/REAPER/Still - Hillsong United - C - 70 BPM/Still - Hillsong United - C - 70 BPM.rpp"
+        FILE "/home/butbkadrug/Music/REAPER/Have It All - Bethel Music - G - 73 BPM/Have It All - Bethel Music - G - 73 BPM.rpp"
       >
     >
     <ITEM
       POSITION 16384
       SNAPOFFS 0
-      LENGTH 420
+      LENGTH 217
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0 0 1 0 0 0
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
-      SEL 0
-      IGUID {E50581AF-7BC4-398A-6945-CDE543EF1B9B}
-      IID 623
-      NAME "You Are My Peace - Housefires - A - 76 BPM.rpp"
+      SEL 1
+      IGUID {51DE3FB5-BB5F-6AF3-6D48-52416DD7DBC1}
+      IID 124
+      NAME "Joy To The World - BICF Music - 100 BPM.rpp"
       VOLPAN 1 0 1 -1
       SOFFS 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {07B295AE-1A3D-3E10-46B2-0FAC1DEB32DD}
+      GUID {987233B4-B47A-C5B0-074B-8E3B5F672BE1}
       <SOURCE RPP_PROJECT
-        FILE "/home/butbkadrug/Music/REAPER/You Are My Peace - Housefires - A - 76 BPM/You Are My Peace - Housefires - A - 76 BPM.rpp"
-      >
-    >
-    <ITEM
-      POSITION 32768
-      SNAPOFFS 0
-      LENGTH 229.94721088435375
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0 0
-      FADEOUT 1 0 0 1 0 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {53DDD8C1-5BB7-4CA2-A437-CCC46CB6745F}
-      IID 34
-      NAME "Glory - Matt Maher - Bb - 77 BPM.RPP"
-      VOLPAN 1 0 1 -1
-      SOFFS 0
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {EB449DF1-5C29-7313-BFBD-2DF67E14FCFD}
-      <SOURCE RPP_PROJECT
-        FILE "/home/butbkadrug/Music/REAPER/Glory - Matt Maher - Bb - 77 BPM/Glory - Matt Maher - Bb - 77 BPM.RPP"
-      >
-    >
-    <ITEM
-      POSITION 36864
-      SNAPOFFS 0
-      LENGTH 236.62149659863945
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0 0
-      FADEOUT 1 0 0 1 0 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {AA473726-77B3-300B-EB9F-E4EF03E5F6E1}
-      IID 35
-      NAME "Hope Was Born This Night - Sidewalk Prophets - G - 79 BPM.RPP"
-      VOLPAN 1 0 1 -1
-      SOFFS 0
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {128E923B-FB99-3A33-5B58-C968AB6F7BCD}
-      <SOURCE RPP_PROJECT
-        FILE "/home/butbkadrug/Music/REAPER/Hope Was Born This Night - Sidewalk Prophets - G - 79 BPM/Hope Was Born This Night - Sidewalk Prophets - G - 79 BPM.RPP"
+        FILE "/home/butbkadrug/Music/REAPER/Joy To The World - BICF Music - 100 BPM/Joy To The World - BICF Music - 100 BPM.rpp"
       >
     >
   >
