@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "7.52/linux-x86_64" 1764443572
+<REAPER_PROJECT 0.1 "7.52/linux-x86_64" 1765459318
   <NOTES 0 2
   >
   RIPPLE 0 0
@@ -19,8 +19,8 @@
   VIDEO_CONFIG 0 0 65792
   PANMODE 3
   PANLAWFLAGS 3
-  CURSOR 17.39130434782609
-  ZOOM 25.47655226259527 0 0
+  CURSOR 208.69565217391303
+  ZOOM 25.47655226259527 5179 0
   VZOOMEX 6 0
   USE_REC_CFG 0
   RECMODE 1
@@ -53,10 +53,10 @@
     bDNwbUABAAAAAAAAAgAAAP////8EAAAAQAEAAAAAAAA=
   >
   LOCK 1
-  <METRONOME 6 2
+  <METRONOME 7 2
     VOL 1 1
-    BEATLEN 4
-    FREQ 1760 880 1
+    BEATLEN 37
+    FREQ 2700 2000 3
     SAMPLES "" "" "" ""
     SPLIGNORE 0 0
     SPLDEF 2 660 "" 0 ""
@@ -92,7 +92,7 @@
   >
   <TEMPOENVEX
     EGUID {9BFF7AF3-5257-6948-D09C-1A38CC309477}
-    ACT 1 -1
+    ACT 0 -1
     VIS 1 0 1
     LANEHEIGHT 0 0
     ARM 0
@@ -207,10 +207,10 @@
         AUTO 1 0
         BPM 69
         BPI 4 4
-        VOL 1 1
-        BEATLEN 4
-        FREQ 1760 880 1
-        SAMPLES "/home/butbkadrug/Music/Assets/Clicks/New Click -  Blip-accents.wav" "/home/butbkadrug/Music/Assets/Clicks/New Click -  Blip-sixteenth.wav" "" ""
+        VOL 0.501187 0.501187
+        BEATLEN 37
+        FREQ 2700 2000 3
+        SAMPLES "" "" "" ""
         SPLIGNORE 0 0
         SPLDEF 2 660 "" 0 ""
         SPLDEF 3 440 "" 0 ""
@@ -815,55 +815,6 @@
       GUID {811A3BF8-9890-58CE-C48B-17574850E6B8}
       <SOURCE WAVE
         FILE "/home/butbkadrug/Music/Assets/Cues/English Female - Ending.wav"
-      >
-    >
-  >
-  <TRACK {FCC1D1AB-BE53-9AE1-FB1F-00A3CDBECD5A}
-    NAME 24697267-3
-    PEAKCOL 16576
-    BEAT -1
-    AUTOMODE 0
-    PANLAWFLAGS 3
-    VOLPAN 1 0 -1 -1 1
-    MUTESOLO 1 0 0
-    IPHASE 0
-    PLAYOFFS 0 1
-    ISBUS 0 0
-    BUSCOMP 0 0 0 0 0
-    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
-    FIXEDLANES 9 0 0 0 0
-    SEL 0
-    REC 0 0 1 0 0 0 0 0
-    VU 64
-    TRACKHEIGHT 648 0 0 0 0 0 0
-    INQ 0 0 0 0.5 100 0 0 100
-    NCHAN 2
-    FX 1
-    TRACKID {FCC1D1AB-BE53-9AE1-FB1F-00A3CDBECD5A}
-    PERF 0
-    MIDIOUT -1
-    MAINSEND 1 0
-    <ITEM
-      POSITION 0
-      SNAPOFFS 0
-      LENGTH 346.163078
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0 0
-      FADEOUT 1 0 0 1 0 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {156ACF02-C60A-E57F-6939-0D1ED9592E14}
-      IID 63
-      NAME 24697267-3.m4a
-      VOLPAN 1 0 1 -1
-      SOFFS 0
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {47078821-778E-9214-7116-8CDFE3C7D60C}
-      <SOURCE VIDEO
-        FLIP 0 1
-        FILE "/home/butbkadrug/Downloads/24697267-3.m4a"
       >
     >
   >
