@@ -1,6 +1,21 @@
 [ Intro ]
 #6m7 4maj7 56 4maj7
 
+[ Vamp ]
+#2m7
+
+[Interlude]
+#6m7 4maj7 1 56
+#6m7 4maj7 56
+
+[ Instrumental ]
+# 6m 4 56 2m7
+# 6m 4 1 1/3
+
+[ Ending ]
+#6m
+
+
 [ Verse 1 ]
 #6m7
 Oh c^ome behold the works of God
@@ -48,11 +63,62 @@ Oh God who makes the mountains melt
 Come wrestle us and win
 
 [ Bridge ]
+#6m7 4
 Though oceans roar
+#1
 You are the Lord of all
-The One who calms the wind and waves
+# 56
+The One who calms
+# 6m7
+The wind and waves
+#4maj7 56
 And makes my heart be still
+#6m7 4maj7
 Though the earth gives way
+#1 56
 The mountains move into the sea
+#6m7
 The nations rage
+#4maj7 56
 I know my God is in control
+
+
+[ Verse 1 R ]
+Взгляни нa дeлo Бoжьиx рук,
+Зeмля пoтряceнa,
+Oн coкрушaeт мeч и лук
+И прeкрaщaeт брaнь,
+Вeликий Бoг Изрaилeв
+В зaщиту нaшу вcтaл.
+Мы вeруeм в Toгo,
+Ктo cлoвoм мир oбрaзoвaл.
+
+[ Chorus R]
+Бог Великий Воин
+с нами в каждой брани
+И в огне и в буре
+С нами как покров 
+Сохранишь нас
+В самой страшной битве
+Мы не убоимся
+Когда с нами Ты
+
+[ Verse 2 R ]
+Мoгучий Бoг Иaкoвa, Tы гoлocoм Свoим
+Сдвигaeшь гoры в глубь мoрeй.
+Вoвeк нeпoбeдим!
+Людcкoe ceрдцe знaя Tы
+Любви нe прeкрaтил.
+У нoг Tвoиx cклoняютcя
+Нaрoды вceй Зeмли.
+
+[ Bridge R ]
+Грохочут волны
+И ветра шумят
+Но Ты Господь
+Один Над всем и нам
+Даруешь мир
+Земля стенает и кричит
+Моря шумят,
+Но знаю я
+Что держишь все в руках Своих
