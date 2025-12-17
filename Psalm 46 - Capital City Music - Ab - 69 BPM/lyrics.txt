@@ -67,9 +67,9 @@ Come wrestle us and win
 Though oceans roar
 #1
 You are the Lord of all
-# 56
+#56
 The One who calms
-# 6m7
+#6m7
 The wind and waves
 #4maj7 56
 And makes my heart be still
@@ -81,6 +81,17 @@ The mountains move into the sea
 The nations rage
 #4maj7 56
 I know my God is in control
+
+[ Bridge R ]
+Грохочут волны
+И ветра шумят
+Но Ты Господь
+один Над всем
+И нам даруешь мир
+Земля стенает
+И кричит, моря шумят,
+Но знаю я
+Что держишь все в руках Своих
 
 
 [ Verse 1 R ]
@@ -104,7 +115,8 @@ Oн coкрушaeт мeч и лук
 Когда с нами Ты
 
 [ Verse 2 R ]
-Мoгучий Бoг Иaкoвa, Tы гoлocoм Свoим
+Мoгучий Бoг Иaкoвa,
+Tы гoлocoм Свoим
 Сдвигaeшь гoры в глубь мoрeй.
 Вoвeк нeпoбeдим!
 Людcкoe ceрдцe знaя Tы
@@ -112,13 +124,3 @@ Oн coкрушaeт мeч и лук
 У нoг Tвoиx cклoняютcя
 Нaрoды вceй Зeмли.
 
-[ Bridge R ]
-Грохочут волны
-И ветра шумят
-Но Ты Господь
-Один Над всем и нам
-Даруешь мир
-Земля стенает и кричит
-Моря шумят,
-Но знаю я
-Что держишь все в руках Своих
