@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "7.52/linux-x86_64" 1765459758
+<REAPER_PROJECT 0.1 "7.52/linux-x86_64" 1765964172
   <NOTES 0 2
   >
   RIPPLE 0 0
@@ -20,8 +20,8 @@
   PANMODE 3
   PANLAWFLAGS 3
   CURSOR 0
-  ZOOM 1.1747815778626 0 0
-  VZOOMEX 15.17368698 0
+  ZOOM 4.61122669093425 0 0
+  VZOOMEX 14.05275249 0
   USE_REC_CFG 0
   RECMODE 1
   SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
@@ -127,7 +127,7 @@
     SEL 1
     REC 0 0 1 0 0 0 0 0
     VU 64
-    TRACKHEIGHT 414 0 0 0 0 0 0
+    TRACKHEIGHT 0 0 0 0 0 0 0
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 4
     FX 1
@@ -144,113 +144,139 @@
     <ITEM
       POSITION 0
       SNAPOFFS 0
-      LENGTH 346.16308390022675
+      LENGTH 344.51445833333332
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0 0 1 0 0 0
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {8F5A3941-9265-591D-D23C-A615E63B2FAC}
-      IID 120
-      NAME "Psalm 46 - Capital City Music - Ab - 69 BPM.RPP"
+      IGUID {3FEB82C4-917B-418A-6B8E-A8BD614389CD}
+      IID 480
+      NAME "Newborn King - Antioch Music - E - 108 BPM.RPP"
       VOLPAN 1 0 1 -1
       SOFFS 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {719329EE-1E21-2C19-645D-A8FC24369D6C}
+      GUID {C2BD5C64-98B1-8701-E9FD-955CBAE10EE1}
       <SOURCE RPP_PROJECT
-        FILE "/home/butbkadrug/Music/REAPER/Psalm 46 - Capital City Music - Ab - 69 BPM/Psalm 46 - Capital City Music - Ab - 69 BPM.RPP"
+        FILE "/home/butbkadrug/Music/REAPER/Newborn King - Antioch Music - E - 108 BPM/Newborn King - Antioch Music - E - 108 BPM.RPP"
       >
     >
     <ITEM
       POSITION 4096
       SNAPOFFS 0
-      LENGTH 317.83784580498866
+      LENGTH 205.93220833333334
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0 0 1 0 0 0
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {0D0C3FC8-336D-3F84-1C5E-F506DBCFDC46}
-      IID 121
-      NAME "Tremble - Mosaic MSC - C - 148 BPM.rpp"
+      IGUID {391BFC54-FC6B-4A2A-DD3D-8119419DF9CE}
+      IID 481
+      NAME "Love Come Down - North Point Worship - A - 118 BPM.rpp"
       VOLPAN 1 0 1 -1
       SOFFS 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {6C20BA98-53B3-C2E5-91A9-D5CE4F59E344}
+      GUID {7C019ED6-88E8-E8CC-41DE-86FC87ACF01C}
       <SOURCE RPP_PROJECT
-        FILE "/home/butbkadrug/Music/REAPER/Tremble - Mosaic MSC - C - 148 BPM/Tremble - Mosaic MSC - C - 148 BPM.rpp"
+        FILE "/home/butbkadrug/Music/REAPER/Love Come Down - North Point Worship - A - 118 BPM/Love Come Down - North Point Worship - A - 118 BPM.rpp"
       >
     >
     <ITEM
       POSITION 8192
       SNAPOFFS 0
-      LENGTH 190.71429166666667
+      LENGTH 189.7394375
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0 0 1 0 0 0
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {4EAFA196-8951-C5A8-343D-1E610B94CB81}
-      IID 122
-      NAME "I'm Trusting You - Kids Song - A- 112 BPM .RPP"
+      IGUID {89EE1C0D-5ADD-7B66-6753-467EFC5C9DEB}
+      IID 482
+      NAME "Zvezda Rojdestva - Kids Song - A - 73 BPM.RPP"
       VOLPAN 1 0 1 -1
       SOFFS 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {7554B1DD-65F1-B405-5C04-414A58EC089F}
+      GUID {B66DF553-1D41-914A-B552-6352C581B54E}
       <SOURCE RPP_PROJECT
-        FILE "/home/butbkadrug/Music/REAPER/I'm Trusting You - Kids Song - A- 112 BPM /I'm Trusting You - Kids Song - A- 112 BPM .RPP"
+        FILE "/home/butbkadrug/Music/REAPER/Zvezda Rojdestva - Kids Song - A - 73 BPM/Zvezda Rojdestva - Kids Song - A - 73 BPM.RPP"
       >
     >
     <ITEM
       POSITION 12288
       SNAPOFFS 0
-      LENGTH 440.60816326530613
+      LENGTH 284.21052083333331
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0 0 1 0 0 0
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {4286359A-9BBE-0A08-1940-B2ED51EC7BC1}
-      IID 123
-      NAME "Have It All - Bethel Music - G - 73 BPM.rpp"
+      IGUID {8028F362-2020-85B3-5224-5A40E0C577D5}
+      IID 483
+      NAME "How Great Is Our God - Chris Tomlin - C - 76 BPM.rpp"
       VOLPAN 1 0 1 -1
       SOFFS 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {048D6778-37F4-BF89-F742-E61F82C0976E}
+      GUID {FA0B08EC-0C90-5A96-EEE1-4865E60B9D02}
       <SOURCE RPP_PROJECT
-        FILE "/home/butbkadrug/Music/REAPER/Have It All - Bethel Music - G - 73 BPM/Have It All - Bethel Music - G - 73 BPM.rpp"
+        FILE "/home/butbkadrug/Music/REAPER/How Great Is Our God - Chris Tomlin - C - 76 BPM/How Great Is Our God - Chris Tomlin - C - 76 BPM.rpp"
       >
     >
     <ITEM
       POSITION 16384
       SNAPOFFS 0
-      LENGTH 217
+      LENGTH 329.97689342403629
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0 0 1 0 0 0
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
-      SEL 1
-      IGUID {51DE3FB5-BB5F-6AF3-6D48-52416DD7DBC1}
-      IID 124
-      NAME "Joy To The World - BICF Music - 100 BPM.rpp"
+      SEL 0
+      IGUID {B603599A-694F-6EA6-1888-4F3CC9BC8026}
+      IID 484
+      NAME "Psalm 46 - Capital City Music - Ab - 69 BPM.RPP"
       VOLPAN 1 0 1 -1
       SOFFS 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {987233B4-B47A-C5B0-074B-8E3B5F672BE1}
+      GUID {954870CF-083B-8467-7D95-C69BD04ABD68}
       <SOURCE RPP_PROJECT
-        FILE "/home/butbkadrug/Music/REAPER/Joy To The World - BICF Music - 100 BPM/Joy To The World - BICF Music - 100 BPM.rpp"
+        FILE "/home/butbkadrug/Music/REAPER/Psalm 46 - Capital City Music - Ab - 69 BPM/Psalm 46 - Capital City Music - Ab - 69 BPM.RPP"
       >
     >
+  >
+  <TRACK {200B85FE-1774-CF92-3981-DA774A363D69}
+    NAME "Media Items"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {200B85FE-1774-CF92-3981-DA774A363D69}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
   >
   <EXTENSIONS
   >
