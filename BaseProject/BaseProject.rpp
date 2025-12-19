@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "7.52/linux-x86_64" 1765965400
+<REAPER_PROJECT 0.1 "7.55/macOS-arm64" 1766081131 0
   <NOTES 0 2
   >
   RIPPLE 0 0
@@ -15,12 +15,12 @@
   PROJOFFS 0 0 0
   MAXPROJLEN 0 0
   GRID 3199 8 1 8 1 0 0 0
-  TIMEMODE 1 5 -1 30 0 0 -1
+  TIMEMODE 1 5 -1 30 0 0 -1 0
   VIDEO_CONFIG 0 0 65792
   PANMODE 3
   PANLAWFLAGS 3
-  CURSOR 16422
-  ZOOM 4.61122669093425 75442 0
+  CURSOR 16556
+  ZOOM 3.00770631402014 50052 0
   VZOOMEX 14.05275249 0
   USE_REC_CFG 0
   RECMODE 1
@@ -117,14 +117,15 @@
     AUTOMODE 0
     PANLAWFLAGS 3
     VOLPAN 1 0 -1 -1 1
-    MUTESOLO 1 0 0
+    MUTESOLO 0 0 0
     IPHASE 0
     PLAYOFFS 0 1
     ISBUS 0 0
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
     FIXEDLANES 9 0 0 0 0
-    SEL 1
+    LANEREC -1 -1 -1 0
+    SEL 0
     REC 0 0 1 0 0 0 0 0
     VU 64
     TRACKHEIGHT 0 0 0 0 0 0 0
@@ -134,7 +135,8 @@
     TRACKID {6B7123E5-3A60-F3DC-B36D-46D5DD4930B8}
     PERF 0
     MIDIOUT -1
-    MAINSEND 1 0
+    MAINSEND 0 0
+    HWOUT 1032 0 1 0 0 0 0 -1:U -1
     <FXCHAIN
       WNDRECT 32 77 912 483
       SHOW 0
@@ -160,7 +162,7 @@
       CHANMODE 0
       GUID {C2BD5C64-98B1-8701-E9FD-955CBAE10EE1}
       <SOURCE RPP_PROJECT
-        FILE "/home/butbkadrug/Music/REAPER/Newborn King - Antioch Music - E - 108 BPM/Newborn King - Antioch Music - E - 108 BPM.RPP"
+        FILE "/Users/calvarchapelbatumi/Music/REAPER/Newborn King - Antioch Music - E - 108 BPM/Newborn King - Antioch Music - E - 108 BPM.RPP"
       >
     >
     <ITEM
@@ -182,7 +184,7 @@
       CHANMODE 0
       GUID {7C019ED6-88E8-E8CC-41DE-86FC87ACF01C}
       <SOURCE RPP_PROJECT
-        FILE "/home/butbkadrug/Music/REAPER/Love Come Down - North Point Worship - A - 118 BPM/Love Come Down - North Point Worship - A - 118 BPM.rpp"
+        FILE "/Users/calvarchapelbatumi/Music/REAPER/Love Come Down - North Point Worship - A - 118 BPM/Love Come Down - North Point Worship - A - 118 BPM.rpp"
       >
     >
     <ITEM
@@ -204,7 +206,7 @@
       CHANMODE 0
       GUID {B66DF553-1D41-914A-B552-6352C581B54E}
       <SOURCE RPP_PROJECT
-        FILE "/home/butbkadrug/Music/REAPER/Zvezda Rojdestva - Kids Song - A - 73 BPM/Zvezda Rojdestva - Kids Song - A - 73 BPM.RPP"
+        FILE "/Users/calvarchapelbatumi/Music/REAPER/Zvezda Rojdestva - Kids Song - A - 73 BPM/Zvezda Rojdestva - Kids Song - A - 73 BPM.RPP"
       >
     >
     <ITEM
@@ -226,7 +228,7 @@
       CHANMODE 0
       GUID {FA0B08EC-0C90-5A96-EEE1-4865E60B9D02}
       <SOURCE RPP_PROJECT
-        FILE "/home/butbkadrug/Music/REAPER/How Great Is Our God - Chris Tomlin - C - 76 BPM/How Great Is Our God - Chris Tomlin - C - 76 BPM.rpp"
+        FILE "/Users/calvarchapelbatumi/Music/REAPER/How Great Is Our God - Chris Tomlin - C - 76 BPM/How Great Is Our God - Chris Tomlin - C - 76 BPM.rpp"
       >
     >
     <ITEM
@@ -248,7 +250,29 @@
       CHANMODE 0
       GUID {954870CF-083B-8467-7D95-C69BD04ABD68}
       <SOURCE RPP_PROJECT
-        FILE "/home/butbkadrug/Music/REAPER/Psalm 46 - Capital City Music - Ab - 69 BPM/Psalm 46 - Capital City Music - Ab - 69 BPM.RPP"
+        FILE "/Users/calvarchapelbatumi/Music/REAPER/Psalm 46 - Capital City Music - Ab - 69 BPM/Psalm 46 - Capital City Music - Ab - 69 BPM.RPP"
+      >
+    >
+    <ITEM
+      POSITION 20480
+      SNAPOFFS 0
+      LENGTH 305.26316666666668
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B5219C6E-C806-A645-945B-DE4A0740E920}
+      IID 3010
+      NAME "Your Love Never Fails - Bb - 114 BPM.rpp"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2D27FBA7-C59A-404B-899C-A3F05E5ED254}
+      <SOURCE RPP_PROJECT
+        FILE "/Users/calvarchapelbatumi/Music/REAPER/Your Love Never Fails - Bb - 114 BPM/Your Love Never Fails - Bb - 114 BPM.rpp"
       >
     >
   >
@@ -266,6 +290,7 @@
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
     FIXEDLANES 9 0 0 0 0
+    LANEREC -1 -1 -1 0
     SEL 0
     REC 0 0 1 0 0 0 0 0
     VU 64
@@ -277,7 +302,5 @@
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
-  >
-  <EXTENSIONS
   >
 >
