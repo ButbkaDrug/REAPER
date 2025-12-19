@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "7.55/macOS-arm64" 1766081131 0
+<REAPER_PROJECT 0.1 "7.52/linux-x86_64" 1766169630
   <NOTES 0 2
   >
   RIPPLE 0 0
@@ -15,12 +15,12 @@
   PROJOFFS 0 0 0
   MAXPROJLEN 0 0
   GRID 3199 8 1 8 1 0 0 0
-  TIMEMODE 1 5 -1 30 0 0 -1 0
+  TIMEMODE 1 5 -1 30 0 0 -1
   VIDEO_CONFIG 0 0 65792
   PANMODE 3
   PANLAWFLAGS 3
-  CURSOR 16556
-  ZOOM 3.00770631402014 50052 0
+  CURSOR 20480
+  ZOOM 3.00770631402014 61329 0
   VZOOMEX 14.05275249 0
   USE_REC_CFG 0
   RECMODE 1
@@ -124,8 +124,7 @@
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
     FIXEDLANES 9 0 0 0 0
-    LANEREC -1 -1 -1 0
-    SEL 0
+    SEL 1
     REC 0 0 1 0 0 0 0 0
     VU 64
     TRACKHEIGHT 0 0 0 0 0 0 0
@@ -162,7 +161,7 @@
       CHANMODE 0
       GUID {C2BD5C64-98B1-8701-E9FD-955CBAE10EE1}
       <SOURCE RPP_PROJECT
-        FILE "/Users/calvarchapelbatumi/Music/REAPER/Newborn King - Antioch Music - E - 108 BPM/Newborn King - Antioch Music - E - 108 BPM.RPP"
+        FILE "/Music/REAPER/Newborn King - Antioch Music - E - 108 BPM/Newborn King - Antioch Music - E - 108 BPM.RPP"
       >
     >
     <ITEM
@@ -184,7 +183,7 @@
       CHANMODE 0
       GUID {7C019ED6-88E8-E8CC-41DE-86FC87ACF01C}
       <SOURCE RPP_PROJECT
-        FILE "/Users/calvarchapelbatumi/Music/REAPER/Love Come Down - North Point Worship - A - 118 BPM/Love Come Down - North Point Worship - A - 118 BPM.rpp"
+        FILE "/Music/REAPER/Love Come Down - North Point Worship - A - 118 BPM/Love Come Down - North Point Worship - A - 118 BPM.rpp"
       >
     >
     <ITEM
@@ -206,7 +205,7 @@
       CHANMODE 0
       GUID {B66DF553-1D41-914A-B552-6352C581B54E}
       <SOURCE RPP_PROJECT
-        FILE "/Users/calvarchapelbatumi/Music/REAPER/Zvezda Rojdestva - Kids Song - A - 73 BPM/Zvezda Rojdestva - Kids Song - A - 73 BPM.RPP"
+        FILE "/Music/REAPER/Zvezda Rojdestva - Kids Song - A - 73 BPM/Zvezda Rojdestva - Kids Song - A - 73 BPM.RPP"
       >
     >
     <ITEM
@@ -228,7 +227,7 @@
       CHANMODE 0
       GUID {FA0B08EC-0C90-5A96-EEE1-4865E60B9D02}
       <SOURCE RPP_PROJECT
-        FILE "/Users/calvarchapelbatumi/Music/REAPER/How Great Is Our God - Chris Tomlin - C - 76 BPM/How Great Is Our God - Chris Tomlin - C - 76 BPM.rpp"
+        FILE "/Music/REAPER/How Great Is Our God - Chris Tomlin - C - 76 BPM/How Great Is Our God - Chris Tomlin - C - 76 BPM.rpp"
       >
     >
     <ITEM
@@ -240,7 +239,7 @@
       FADEIN 1 0 0 1 0 0 0
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
-      SEL 1
+      SEL 0
       IGUID {B603599A-694F-6EA6-1888-4F3CC9BC8026}
       IID 484
       NAME "Psalm 46 - Capital City Music - Ab - 69 BPM.RPP"
@@ -250,7 +249,7 @@
       CHANMODE 0
       GUID {954870CF-083B-8467-7D95-C69BD04ABD68}
       <SOURCE RPP_PROJECT
-        FILE "/Users/calvarchapelbatumi/Music/REAPER/Psalm 46 - Capital City Music - Ab - 69 BPM/Psalm 46 - Capital City Music - Ab - 69 BPM.RPP"
+        FILE "/Music/REAPER/Psalm 46 - Capital City Music - Ab - 69 BPM/Psalm 46 - Capital City Music - Ab - 69 BPM.RPP"
       >
     >
     <ITEM
@@ -262,7 +261,7 @@
       FADEIN 1 0 0 1 0 0 0
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
-      SEL 0
+      SEL 1
       IGUID {B5219C6E-C806-A645-945B-DE4A0740E920}
       IID 3010
       NAME "Your Love Never Fails - Bb - 114 BPM.rpp"
@@ -272,7 +271,7 @@
       CHANMODE 0
       GUID {2D27FBA7-C59A-404B-899C-A3F05E5ED254}
       <SOURCE RPP_PROJECT
-        FILE "/Users/calvarchapelbatumi/Music/REAPER/Your Love Never Fails - Bb - 114 BPM/Your Love Never Fails - Bb - 114 BPM.rpp"
+        FILE "/Music/REAPER/Your Love Never Fails - Bb - 114 BPM/Your Love Never Fails - Bb - 114 BPM.rpp"
       >
     >
   >
@@ -290,7 +289,6 @@
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
     FIXEDLANES 9 0 0 0 0
-    LANEREC -1 -1 -1 0
     SEL 0
     REC 0 0 1 0 0 0 0 0
     VU 64
@@ -302,5 +300,7 @@
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
+  >
+  <EXTENSIONS
   >
 >
