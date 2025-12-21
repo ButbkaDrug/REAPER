@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "7.52/linux-x86_64" 1766218863
+<REAPER_PROJECT 0.1 "7.55/macOS-arm64" 1766331168 0
   <NOTES 0 2
   >
   RIPPLE 0 0
@@ -15,12 +15,12 @@
   PROJOFFS 0 0 0
   MAXPROJLEN 0 0
   GRID 3199 8 1 8 1 0 0 0
-  TIMEMODE 1 5 -1 30 0 0 -1
+  TIMEMODE 1 5 -1 30 0 0 -1 0
   VIDEO_CONFIG 0 0 65792
   PANMODE 3
   PANLAWFLAGS 3
-  CURSOR 0
-  ZOOM 3.00770631402014 0 0
+  CURSOR 36864
+  ZOOM 6.3179039982034 247223 0
   VZOOMEX 14.05275249 0
   USE_REC_CFG 0
   RECMODE 1
@@ -124,7 +124,8 @@
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
     FIXEDLANES 9 0 0 0 0
-    SEL 1
+    LANEREC -1 -1 -1 0
+    SEL 0
     REC 0 0 1 0 0 0 0 0
     VU 64
     TRACKHEIGHT 0 0 0 0 0 0 0
@@ -136,6 +137,7 @@
     MIDIOUT -1
     MAINSEND 0 0
     HWOUT 1032 0 1 0 0 0 0 -1:U -1
+    HWOUT 16 0 1 0 0 0 2 -1:U -1
     <FXCHAIN
       WNDRECT 32 77 912 483
       SHOW 0
@@ -145,13 +147,13 @@
     <ITEM
       POSITION 0
       SNAPOFFS 0
-      LENGTH 344.51445833333332
-      LOOP 1
+      LENGTH 306.66666666666669
+      LOOP 0
       ALLTAKES 0
       FADEIN 1 0 0 1 0 0 0
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
-      SEL 1
+      SEL 0
       IGUID {3FEB82C4-917B-418A-6B8E-A8BD614389CD}
       IID 480
       NAME "Newborn King - Antioch Music - E - 108 BPM.RPP"
@@ -167,45 +169,45 @@
     <ITEM
       POSITION 4096
       SNAPOFFS 0
-      LENGTH 205.93220833333334
+      LENGTH 305.26316666666753
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0 0 1 0 0 0
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {391BFC54-FC6B-4A2A-DD3D-8119419DF9CE}
-      IID 481
-      NAME "Love Come Down - North Point Worship - A - 118 BPM.rpp"
+      IGUID {4B6CF88B-C706-D342-8D87-468030D87E12}
+      IID 3010
+      NAME "Your Love Never Fails - Bb - 114 BPM.rpp"
       VOLPAN 1 0 1 -1
       SOFFS 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {7C019ED6-88E8-E8CC-41DE-86FC87ACF01C}
+      GUID {4A5E4657-7219-CB4F-91FA-F60A1B9BB381}
       <SOURCE RPP_PROJECT
-        FILE "/Music/REAPER/Love Come Down - North Point Worship - A - 118 BPM/Love Come Down - North Point Worship - A - 118 BPM.rpp"
+        FILE "/Music/REAPER/Your Love Never Fails - Bb - 114 BPM/Your Love Never Fails - Bb - 114 BPM.rpp"
       >
     >
     <ITEM
       POSITION 8192
       SNAPOFFS 0
-      LENGTH 189.7394375
-      LOOP 1
+      LENGTH 137.72799999999916
+      LOOP 0
       ALLTAKES 0
       FADEIN 1 0 0 1 0 0 0
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {89EE1C0D-5ADD-7B66-6753-467EFC5C9DEB}
-      IID 482
-      NAME "Zvezda Rojdestva - Kids Song - A - 73 BPM.RPP"
+      IGUID {FE75FBBA-38CD-2249-A5E8-BC546A912CF5}
+      IID 4
+      NAME "What Child Is This - Kids Song - A - 100 BPM.RPP"
       VOLPAN 1 0 1 -1
       SOFFS 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {B66DF553-1D41-914A-B552-6352C581B54E}
+      GUID {BC0F094A-8281-D44A-9105-FA8D1468B647}
       <SOURCE RPP_PROJECT
-        FILE "/Music/REAPER/Zvezda Rojdestva - Kids Song - A - 73 BPM/Zvezda Rojdestva - Kids Song - A - 73 BPM.RPP"
+        FILE "/Users/calvarchapelbatumi/Music/REAPER/What Child Is This - Kids Song - A - 100 BPM/What Child Is This - Kids Song - A - 100 BPM.RPP"
       >
     >
     <ITEM
@@ -252,28 +254,6 @@
         FILE "/Music/REAPER/Psalm 46 - Capital City Music - Ab - 69 BPM/Psalm 46 - Capital City Music - Ab - 69 BPM.RPP"
       >
     >
-    <ITEM
-      POSITION 20480
-      SNAPOFFS 0
-      LENGTH 305.26316666666668
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0 0
-      FADEOUT 1 0 0 1 0 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {B5219C6E-C806-A645-945B-DE4A0740E920}
-      IID 3010
-      NAME "Your Love Never Fails - Bb - 114 BPM.rpp"
-      VOLPAN 1 0 1 -1
-      SOFFS 0
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {2D27FBA7-C59A-404B-899C-A3F05E5ED254}
-      <SOURCE RPP_PROJECT
-        FILE "/Music/REAPER/Your Love Never Fails - Bb - 114 BPM/Your Love Never Fails - Bb - 114 BPM.rpp"
-      >
-    >
   >
   <TRACK {200B85FE-1774-CF92-3981-DA774A363D69}
     NAME "Media Items"
@@ -289,7 +269,8 @@
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
     FIXEDLANES 9 0 0 0 0
-    SEL 0
+    LANEREC -1 -1 -1 0
+    SEL 1
     REC 0 0 1 0 0 0 0 0
     VU 64
     TRACKHEIGHT 0 0 0 0 0 0 0
@@ -299,8 +280,51 @@
     TRACKID {200B85FE-1774-CF92-3981-DA774A363D69}
     PERF 0
     MIDIOUT -1
-    MAINSEND 1 0
-  >
-  <EXTENSIONS
+    MAINSEND 0 0
+    HWOUT 16 0 1 0 0 0 0 -1:U -1
+    <ITEM
+      POSITION 24574.5
+      SNAPOFFS 0
+      LENGTH 188
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 2 13.47722240012808 0 2 0 -1 -1
+      MUTE 0 0
+      SEL 0
+      IGUID {A49975D0-5178-0148-8B67-381FB82B0D4E}
+      IID 3
+      NAME "New Beginnings Worship - Рождение Любви (HOLYCHORDS).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {CC91B6D4-DF10-1C47-838C-997BB567CCBA}
+      <SOURCE MP3
+        FILE "/Users/calvarchapelbatumi/Downloads/New Beginnings Worship - Рождение Любви (HOLYCHORDS).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 36864
+      SNAPOFFS 0
+      LENGTH 5863.0385487528347
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {408B8B2E-1B23-9A49-A8AF-D722046EF1B3}
+      IID 6
+      NAME "Instrumental Worship and Hymns _ Acoustic Fingerstyle Guitar Collection _ Titus Major [zTRmJvGnDAY].mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1D746355-FBEA-6040-B086-2A2CA1D2D497}
+      <SOURCE MP3
+        FILE "/Users/calvarchapelbatumi/Downloads/Instrumental Worship and Hymns _ Acoustic Fingerstyle Guitar Collection _ Titus Major [zTRmJvGnDAY].mp3" 1
+      >
+    >
   >
 >
