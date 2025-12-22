@@ -223,7 +223,7 @@
       CHANMODE 0
       GUID {BA0A90B5-87B4-4E80-A8BB-F6FA10F6A696}
       <SOURCE WAVE
-        FILE "C:\Users\butbkadrug\Music\Assets\Cues\English Female - 1.wav"
+        FILE "/Music/Assets/Cues/English Female - 1.wav"
       >
     >
     <ITEM
@@ -246,7 +246,7 @@
       CHANMODE 0
       GUID {19311CE4-158F-477D-B871-2ABD68EAD2DF}
       <SOURCE WAVE
-        FILE "C:\Users\butbkadrug\Music\Assets\Cues\English Female - 2.wav"
+        FILE "/Music/Assets/Cues/English Female - 2.wav"
       >
     >
     <ITEM
@@ -269,7 +269,7 @@
       CHANMODE 0
       GUID {181BEF56-9624-4981-953C-3A32DC824C6B}
       <SOURCE WAVE
-        FILE "C:\Users\butbkadrug\Music\Assets\Cues\English Female - 3.wav"
+        FILE "/Music/Assets/Cues/English Female - 3.wav"
       >
     >
     <ITEM
@@ -292,7 +292,7 @@
       CHANMODE 0
       GUID {4E243DAF-C6D3-4D99-A4EC-633C95EF3CE0}
       <SOURCE WAVE
-        FILE "C:\Users\butbkadrug\Music\Assets\Cues\English Female - 4.wav"
+        FILE "/Music/Assets/Cues/English Female - 4.wav"
       >
     >
     <ITEM
@@ -315,7 +315,7 @@
       CHANMODE 0
       GUID {6FFCB5F1-2055-4612-9448-9252835A54BC}
       <SOURCE WAVE
-        FILE "C:\Users\butbkadrug\Music\Assets\Cues\English Female - Verse.wav"
+        FILE "/Music/Assets/Cues/English Female - Verse.wav"
       >
     >
     <ITEM
@@ -338,7 +338,7 @@
       CHANMODE 0
       GUID {059C9BED-9FEF-415A-BCA3-79EE8BC99EA7}
       <SOURCE WAVE
-        FILE "C:\Users\butbkadrug\Music\Assets\Cues\English Female - Verse.wav"
+        FILE "/Music/Assets/Cues/English Female - Verse.wav"
       >
     >
     <ITEM
@@ -361,7 +361,7 @@
       CHANMODE 0
       GUID {AC6E82FD-6955-456A-AB5B-59DEC478015C}
       <SOURCE WAVE
-        FILE "C:\Users\butbkadrug\Music\Assets\Cues\English Female - Chorus.wav"
+        FILE "/Music/Assets/Cues/English Female - Chorus.wav"
       >
     >
     <ITEM
@@ -384,7 +384,7 @@
       CHANMODE 0
       GUID {4C07068B-1B25-4046-911E-4D0F7B135ACB}
       <SOURCE WAVE
-        FILE "C:\Users\butbkadrug\Music\Assets\Cues\English Female - Interlude.wav"
+        FILE "/Music/Assets/Cues/English Female - Interlude.wav"
       >
     >
     <ITEM
@@ -407,7 +407,7 @@
       CHANMODE 0
       GUID {6AEA3A1E-E3F0-4BF6-9A0F-C20DC1727FB5}
       <SOURCE WAVE
-        FILE "C:\Users\butbkadrug\Music\Assets\Cues\English Female - Verse.wav"
+        FILE "/Music/Assets/Cues/English Female - Verse.wav"
       >
     >
     <ITEM
@@ -430,7 +430,7 @@
       CHANMODE 0
       GUID {4D6C613B-B130-43A8-96DF-1F9E3B59E5CC}
       <SOURCE WAVE
-        FILE "C:\Users\butbkadrug\Music\Assets\Cues\English Female - Chorus.wav"
+        FILE "/Music/Assets/Cues/English Female - Chorus.wav"
       >
     >
     <ITEM
@@ -453,7 +453,7 @@
       CHANMODE 0
       GUID {1DCE4436-26A6-4EB9-963B-363253255343}
       <SOURCE WAVE
-        FILE "C:\Users\butbkadrug\Music\Assets\Cues\English Female - Chorus.wav"
+        FILE "/Music/Assets/Cues/English Female - Chorus.wav"
       >
     >
     <ITEM
@@ -475,7 +475,7 @@
       CHANMODE 0
       GUID {F0971F43-C867-4962-98AB-99924266D3F9}
       <SOURCE WAVE
-        FILE "C:\Users\butbkadrug\Music\Assets\Cues\English Female - Interlude.wav"
+        FILE "/Music/Assets/Cues/English Female - Interlude.wav"
       >
     >
     <ITEM
@@ -498,7 +498,7 @@
       CHANMODE 0
       GUID {66491FCC-D532-49D0-B9E9-D432EBC006EE}
       <SOURCE WAVE
-        FILE "C:\Users\butbkadrug\Music\Assets\Cues\English Female - Verse.wav"
+        FILE "/Music/Assets/Cues/English Female - Verse.wav"
       >
     >
     <ITEM
@@ -521,7 +521,7 @@
       CHANMODE 0
       GUID {0A3BA234-1F64-4100-812A-4BDDC2BB617C}
       <SOURCE WAVE
-        FILE "C:\Users\butbkadrug\Music\Assets\Cues\English Female - Chorus.wav"
+        FILE "/Music/Assets/Cues/English Female - Chorus.wav"
       >
     >
     <ITEM
@@ -544,7 +544,7 @@
       CHANMODE 0
       GUID {6F19F0CE-E7A6-430E-81A9-3C972314C6DB}
       <SOURCE WAVE
-        FILE "C:\Users\butbkadrug\Music\Assets\Cues\English Female - Chorus.wav"
+        FILE "/Music/Assets/Cues/English Female - Chorus.wav"
       >
     >
   >

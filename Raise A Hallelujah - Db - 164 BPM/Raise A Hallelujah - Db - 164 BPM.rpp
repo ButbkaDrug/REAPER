@@ -263,7 +263,7 @@
       CHANMODE 0
       GUID {4191007E-6F44-4002-9212-723AC00FCB29}
       <SOURCE WAVE
-        FILE "C:\Users\butbkadrug\Music\Assets\Cues\English Female - 3.wav"
+        FILE "/Music/Assets/Cues/English Female - 3.wav"
       >
     >
     <ITEM
@@ -286,7 +286,7 @@
       CHANMODE 0
       GUID {B81C9704-5290-42DD-AFA8-ECDCD56C5EA5}
       <SOURCE WAVE
-        FILE "C:\Users\butbkadrug\Music\Assets\Cues\English Female - 4.wav"
+        FILE "/Music/Assets/Cues/English Female - 4.wav"
       >
     >
   >

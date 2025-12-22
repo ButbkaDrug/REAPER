@@ -218,7 +218,7 @@
       CHANMODE 0
       GUID {E9DBB808-A351-4F53-828B-CF7D42121CDE}
       <SOURCE WAVE
-        FILE "C:\Users\butbkadrug\Music\Assets\Cues\English Female - 1.wav"
+        FILE "/Music/Assets/Cues/English Female - 1.wav"
       >
     >
     <ITEM
@@ -241,7 +241,7 @@
       CHANMODE 0
       GUID {4733C1D5-61D2-493E-9ABC-EDAFC21C5158}
       <SOURCE WAVE
-        FILE "C:\Users\butbkadrug\Music\Assets\Cues\English Female - 2.wav"
+        FILE "/Music/Assets/Cues/English Female - 2.wav"
       >
     >
     <ITEM
@@ -264,7 +264,7 @@
       CHANMODE 0
       GUID {4E94F4AE-F19F-4F81-8013-7A4FEA5CDFAC}
       <SOURCE WAVE
-        FILE "C:\Users\butbkadrug\Music\Assets\Cues\English Female - 1.wav"
+        FILE "/Music/Assets/Cues/English Female - 1.wav"
       >
     >
     <ITEM
@@ -287,7 +287,7 @@
       CHANMODE 0
       GUID {AE1ABA61-5C9A-40D7-8797-97B8B3E8F9DA}
       <SOURCE WAVE
-        FILE "C:\Users\butbkadrug\Music\Assets\Cues\English Female - 2.wav"
+        FILE "/Music/Assets/Cues/English Female - 2.wav"
       >
     >
     <ITEM
@@ -310,7 +310,7 @@
       CHANMODE 0
       GUID {27F61947-08DF-47C2-B3C5-292488ABA2B6}
       <SOURCE WAVE
-        FILE "C:\Users\butbkadrug\Music\Assets\Cues\English Female - 3.wav"
+        FILE "/Music/Assets/Cues/English Female - 3.wav"
       >
     >
     <ITEM
@@ -333,7 +333,7 @@
       CHANMODE 0
       GUID {FBE4DC7E-FEA9-4156-A9D1-2E3795B22440}
       <SOURCE WAVE
-        FILE "C:\Users\butbkadrug\Music\Assets\Cues\English Female - 4.wav"
+        FILE "/Music/Assets/Cues/English Female - 4.wav"
       >
     >
     <ITEM
@@ -356,7 +356,7 @@
       CHANMODE 0
       GUID {EEAF50E7-925D-45B3-AD0F-CEAE8B1DE9A8}
       <SOURCE WAVE
-        FILE "C:\Users\butbkadrug\Music\Assets\Cues\English Female - Verse.wav"
+        FILE "/Music/Assets/Cues/English Female - Verse.wav"
       >
     >
     <ITEM
@@ -379,7 +379,7 @@
       CHANMODE 0
       GUID {8F1BB847-369E-44A1-B9B9-22DFAFCEC6FA}
       <SOURCE WAVE
-        FILE "C:\Users\butbkadrug\Music\Assets\Cues\English Female - Pre Chorus.wav"
+        FILE "/Music/Assets/Cues/English Female - Pre Chorus.wav"
       >
     >
     <ITEM
@@ -402,7 +402,7 @@
       CHANMODE 0
       GUID {EB671AC6-6291-4970-9F62-9CF84520D6ED}
       <SOURCE WAVE
-        FILE "C:\Users\butbkadrug\Music\Assets\Cues\English Female - Chorus.wav"
+        FILE "/Music/Assets/Cues/English Female - Chorus.wav"
       >
     >
     <ITEM
@@ -425,7 +425,7 @@
       CHANMODE 0
       GUID {7109A6AC-577F-42EA-BDB6-A41C3A24407C}
       <SOURCE WAVE
-        FILE "C:\Users\butbkadrug\Music\Assets\Cues\English Female - Verse.wav"
+        FILE "/Music/Assets/Cues/English Female - Verse.wav"
       >
     >
     <ITEM
@@ -448,7 +448,7 @@
       CHANMODE 0
       GUID {B7D87A94-BE68-474E-A3A7-D484404075F8}
       <SOURCE WAVE
-        FILE "C:\Users\butbkadrug\Music\Assets\Cues\English Female - Pre Chorus.wav"
+        FILE "/Music/Assets/Cues/English Female - Pre Chorus.wav"
       >
     >
     <ITEM
@@ -471,7 +471,7 @@
       CHANMODE 0
       GUID {74569421-E87A-4A27-865E-61B472409505}
       <SOURCE WAVE
-        FILE "C:\Users\butbkadrug\Music\Assets\Cues\English Female - Chorus.wav"
+        FILE "/Music/Assets/Cues/English Female - Chorus.wav"
       >
     >
     <ITEM
@@ -494,7 +494,7 @@
       CHANMODE 0
       GUID {588C227E-7D6E-4467-88DB-2396A0C49314}
       <SOURCE WAVE
-        FILE "C:\Users\butbkadrug\Music\Assets\Cues\English Female - Bridge.wav"
+        FILE "/Music/Assets/Cues/English Female - Bridge.wav"
       >
     >
     <ITEM
@@ -517,7 +517,7 @@
       CHANMODE 0
       GUID {7285B6BF-753C-43CD-894F-CA0FFFC13909}
       <SOURCE WAVE
-        FILE "C:\Users\butbkadrug\Music\Assets\Cues\English Female - Bridge.wav"
+        FILE "/Music/Assets/Cues/English Female - Bridge.wav"
       >
     >
     <ITEM
@@ -540,7 +540,7 @@
       CHANMODE 0
       GUID {EEDAF427-4FF0-4415-B228-366716EA9E91}
       <SOURCE WAVE
-        FILE "C:\Users\butbkadrug\Music\Assets\Cues\English Female - Breakdown.wav"
+        FILE "/Music/Assets/Cues/English Female - Breakdown.wav"
       >
     >
     <ITEM
@@ -563,7 +563,7 @@
       CHANMODE 0
       GUID {37225439-4E6F-4DF2-A8F0-6F5EEEBE7DBC}
       <SOURCE WAVE
-        FILE "C:\Users\butbkadrug\Music\Assets\Cues\English Female - Chorus.wav"
+        FILE "/Music/Assets/Cues/English Female - Chorus.wav"
       >
     >
     <ITEM
@@ -586,7 +586,7 @@
       CHANMODE 0
       GUID {ADC7BCAA-2E35-4DF8-A293-296B6B7B70FC}
       <SOURCE WAVE
-        FILE "C:\Users\butbkadrug\Music\Assets\Cues\English Female - Slowly Build.wav"
+        FILE "/Music/Assets/Cues/English Female - Slowly Build.wav"
       >
     >
     <ITEM
@@ -609,7 +609,7 @@
       CHANMODE 0
       GUID {721F6F99-A7DC-4ED2-BB9A-35C452BE7F30}
       <SOURCE WAVE
-        FILE "C:\Users\butbkadrug\Music\Assets\Cues\English Female - Drums In.wav"
+        FILE "/Music/Assets/Cues/English Female - Drums In.wav"
       >
     >
     <ITEM
@@ -632,7 +632,7 @@
       CHANMODE 0
       GUID {B78CC745-A5BE-4C3F-B800-9728B11E6210}
       <SOURCE WAVE
-        FILE "C:\Users\butbkadrug\Music\Assets\Cues\English Female - All In.wav"
+        FILE "/Music/Assets/Cues/English Female - All In.wav"
       >
     >
     <ITEM
@@ -655,7 +655,7 @@
       CHANMODE 0
       GUID {114EEEBB-4EAA-44DF-9094-14F69D37440E}
       <SOURCE WAVE
-        FILE "C:\Users\butbkadrug\Music\Assets\Cues\English Female - Chorus.wav"
+        FILE "/Music/Assets/Cues/English Female - Chorus.wav"
       >
     >
     <ITEM
@@ -678,7 +678,7 @@
       CHANMODE 0
       GUID {7DE75C60-EAF6-486B-8EDE-4187141B731F}
       <SOURCE WAVE
-        FILE "C:\Users\butbkadrug\Music\Assets\Cues\English Female - Outro.wav"
+        FILE "/Music/Assets/Cues/English Female - Outro.wav"
       >
     >
     <ITEM
@@ -701,7 +701,7 @@
       CHANMODE 0
       GUID {5F74986D-E7D2-42EF-B981-7626F4BE9D7C}
       <SOURCE WAVE
-        FILE "C:\Users\butbkadrug\Music\Assets\Cues\English Female - Ending.wav"
+        FILE "/Music/Assets/Cues/English Female - Ending.wav"
       >
     >
   >
