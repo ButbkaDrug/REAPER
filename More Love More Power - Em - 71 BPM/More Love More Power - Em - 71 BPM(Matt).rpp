@@ -521,7 +521,7 @@
       CHANMODE 0
       GUID {BA0A90B5-87B4-4E80-A8BB-F6FA10F6A696}
       <SOURCE WAVE
-        FILE "/Music\Click and Guide Samples\English Guides\Song Sections\English Female - 1.wav"
+        FILE "/Music/Assets/Cues/English Female - 1.wav"
       >
     >
     <ITEM
@@ -544,7 +544,7 @@
       CHANMODE 0
       GUID {19311CE4-158F-477D-B871-2ABD68EAD2DF}
       <SOURCE WAVE
-        FILE "/Music\Click and Guide Samples\English Guides\Song Sections\English Female - 2.wav"
+        FILE "/Music/Assets/Cues/English Female - 2.wav"
       >
     >
     <ITEM
@@ -567,7 +567,7 @@
       CHANMODE 0
       GUID {181BEF56-9624-4981-953C-3A32DC824C6B}
       <SOURCE WAVE
-        FILE "/Music\Click and Guide Samples\English Guides\Song Sections\English Female - 3.wav"
+        FILE "/Music/Assets/Cues/English Female - 3.wav"
       >
     >
     <ITEM
@@ -590,7 +590,7 @@
       CHANMODE 0
       GUID {4E243DAF-C6D3-4D99-A4EC-633C95EF3CE0}
       <SOURCE WAVE
-        FILE "/Music\Click and Guide Samples\English Guides\Song Sections\English Female - 4.wav"
+        FILE "/Music/Assets/Cues/English Female - 4.wav"
       >
     >
     <ITEM
@@ -613,7 +613,7 @@
       CHANMODE 0
       GUID {6FFCB5F1-2055-4612-9448-9252835A54BC}
       <SOURCE WAVE
-        FILE "/Music\Click and Guide Samples\English Guides\Song Sections\English Female - Verse.wav"
+        FILE "/Music/Assets/Cues/English Female - Verse.wav"
       >
     >
     <ITEM
@@ -636,7 +636,7 @@
       CHANMODE 0
       GUID {059C9BED-9FEF-415A-BCA3-79EE8BC99EA7}
       <SOURCE WAVE
-        FILE "/Music\Click and Guide Samples\English Guides\Song Sections\English Female - Verse.wav"
+        FILE "/Music/Assets/Cues/English Female - Verse.wav"
       >
     >
     <ITEM
@@ -659,7 +659,7 @@
       CHANMODE 0
       GUID {AC6E82FD-6955-456A-AB5B-59DEC478015C}
       <SOURCE WAVE
-        FILE "/Music\Click and Guide Samples\English Guides\Song Sections\English Female - Chorus.wav"
+        FILE "/Music/Assets/Cues/English Female - Chorus.wav"
       >
     >
     <ITEM
@@ -682,7 +682,7 @@
       CHANMODE 0
       GUID {4C07068B-1B25-4046-911E-4D0F7B135ACB}
       <SOURCE WAVE
-        FILE "/Music\Click and Guide Samples\English Guides\Song Sections\English Female - Interlude.wav"
+        FILE "/Music/Assets/Cues/English Female - Interlude.wav"
       >
     >
     <ITEM
@@ -705,7 +705,7 @@
       CHANMODE 0
       GUID {6AEA3A1E-E3F0-4BF6-9A0F-C20DC1727FB5}
       <SOURCE WAVE
-        FILE "/Music\Click and Guide Samples\English Guides\Song Sections\English Female - Verse.wav"
+        FILE "/Music/Assets/Cues/English Female - Verse.wav"
       >
     >
     <ITEM
@@ -728,7 +728,7 @@
       CHANMODE 0
       GUID {4D6C613B-B130-43A8-96DF-1F9E3B59E5CC}
       <SOURCE WAVE
-        FILE "/Music\Click and Guide Samples\English Guides\Song Sections\English Female - Chorus.wav"
+        FILE "/Music/Assets/Cues/English Female - Chorus.wav"
       >
     >
     <ITEM
@@ -750,7 +750,7 @@
       CHANMODE 0
       GUID {25629654-8E69-46E7-90CC-1A385FC84CB5}
       <SOURCE WAVE
-        FILE "/Music\Click and Guide Samples\English Guides\Song Sections\English Female - Interlude.wav"
+        FILE "/Music/Assets/Cues/English Female - Interlude.wav"
       >
     >
     <ITEM
@@ -773,7 +773,7 @@
       CHANMODE 0
       GUID {66491FCC-D532-49D0-B9E9-D432EBC006EE}
       <SOURCE WAVE
-        FILE "/Music\Click and Guide Samples\English Guides\Song Sections\English Female - Verse.wav"
+        FILE "/Music/Assets/Cues/English Female - Verse.wav"
       >
     >
     <ITEM
@@ -796,7 +796,7 @@
       CHANMODE 0
       GUID {0A3BA234-1F64-4100-812A-4BDDC2BB617C}
       <SOURCE WAVE
-        FILE "/Music\Click and Guide Samples\English Guides\Song Sections\English Female - Chorus.wav"
+        FILE "/Music/Assets/Cues/English Female - Chorus.wav"
       >
     >
     <ITEM
@@ -818,7 +818,7 @@
       CHANMODE 0
       GUID {446F04B8-9AA4-474D-A175-F672163C81D7}
       <SOURCE WAVE
-        FILE "/Music\Click and Guide Samples\English Guides\Song Sections\English Female - Interlude.wav"
+        FILE "/Music/Assets/Cues/English Female - Interlude.wav"
       >
     >
     <ITEM
@@ -840,7 +840,7 @@
       CHANMODE 0
       GUID {DE9FD7BD-3935-4465-8C9B-E4C56E304434}
       <SOURCE WAVE
-        FILE "/Music\Click and Guide Samples\English Guides\Song Sections\English Female - Verse.wav"
+        FILE "/Music/Assets/Cues/English Female - Verse.wav"
       >
     >
     <ITEM
@@ -862,7 +862,7 @@
       CHANMODE 0
       GUID {202370FF-FBDD-460C-AF5B-2628DAB543D1}
       <SOURCE WAVE
-        FILE "/Music\Click and Guide Samples\English Guides\Song Sections\English Female - Chorus.wav"
+        FILE "/Music/Assets/Cues/English Female - Chorus.wav"
       >
     >
     <ITEM
@@ -884,7 +884,7 @@
       CHANMODE 0
       GUID {563B7015-521F-4EB2-82A7-8885B8DC151B}
       <SOURCE WAVE
-        FILE "/Music\Click and Guide Samples\English Guides\Song Sections\English Female - Chorus.wav"
+        FILE "/Music/Assets/Cues/English Female - Chorus.wav"
       >
     >
     <ITEM
@@ -906,7 +906,7 @@
       CHANMODE 0
       GUID {6DFA9225-8976-485C-B82E-4658DA5C129B}
       <SOURCE WAVE
-        FILE "/Music\Click and Guide Samples\English Guides\Song Sections\English Female - Interlude.wav"
+        FILE "/Music/Assets/Cues/English Female - Interlude.wav"
       >
     >
     <ITEM
@@ -928,7 +928,7 @@
       CHANMODE 0
       GUID {3871803C-FDBE-4DA5-859C-CBCECA322326}
       <SOURCE WAVE
-        FILE "/Music\Click and Guide Samples\English Guides\Song Sections\English Female - Ending.wav"
+        FILE "/Music/Assets/Cues/English Female - Ending.wav"
       >
     >
   >

@@ -1485,7 +1485,7 @@
       CHANMODE 0
       GUID {29F6F1B9-E524-475F-9C22-3445D140EEAE}
       <SOURCE WAVE
-        FILE "/Music\Click and Guide Samples\English Guides\Song Sections\English Female - Chorus.wav"
+        FILE "/Music/Assets/Cues/English Female - Chorus.wav"
       >
     >
     <ITEM
@@ -1552,7 +1552,7 @@
       CHANMODE 0
       GUID {CD8A81D0-0E5A-435F-8F2B-24579FF22FEE}
       <SOURCE WAVE
-        FILE "/Music\Click and Guide Samples\English Guides\Song Sections\English Female - Turnaround.wav"
+        FILE "/Music/Assets/Cues/English Female - Turnaround.wav"
       >
     >
   >
