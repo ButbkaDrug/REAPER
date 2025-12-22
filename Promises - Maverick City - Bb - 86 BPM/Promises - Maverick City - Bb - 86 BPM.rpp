@@ -857,7 +857,7 @@
       CHANMODE 0
       GUID {B99EC4FD-DF9A-401F-826D-99154F4086AE}
       <SOURCE WAVE
-        FILE "/Music\Click and Guide Samples\English Guides\Dynamic Cues\English Female - Drums In.wav"
+        FILE "/Music/Assets/Cues/English Female - Drums In.wav"
       >
     >
     <ITEM
@@ -880,7 +880,7 @@
       CHANMODE 0
       GUID {00F7939C-9EFF-427F-888C-D6DB515D60F1}
       <SOURCE WAVE
-        FILE "/Music\Click and Guide Samples\English Guides\Dynamic Cues\English Female - Slowly Build.wav"
+        FILE "/Music/Assets/Cues/English Female - Slowly Build.wav"
       >
     >
     <ITEM
@@ -926,7 +926,7 @@
       CHANMODE 0
       GUID {255651D1-32DE-4328-9871-0E3A1B809279}
       <SOURCE WAVE
-        FILE "/Music\Click and Guide Samples\English Guides\Dynamic Cues\English Female - Drums In.wav"
+        FILE "/Music/Assets/Cues/English Female - Drums In.wav"
       >
     >
     <ITEM
@@ -1156,7 +1156,7 @@
       CHANMODE 0
       GUID {18C69394-2489-4375-8D12-5E77DC31E124}
       <SOURCE WAVE
-        FILE "/Music\Click and Guide Samples\English Guides\Dynamic Cues\English Female - Drums In.wav"
+        FILE "/Music/Assets/Cues/English Female - Drums In.wav"
       >
     >
     <ITEM
@@ -1179,7 +1179,7 @@
       CHANMODE 0
       GUID {924BEE10-094C-47BE-9C12-19D239364ADF}
       <SOURCE WAVE
-        FILE "/Music\Click and Guide Samples\English Guides\Dynamic Cues\English Female - Slowly Build.wav"
+        FILE "/Music/Assets/Cues/English Female - Slowly Build.wav"
       >
     >
     <ITEM
@@ -1225,7 +1225,7 @@
       CHANMODE 0
       GUID {17CEA6E4-0648-4920-8DEF-8AAAFF563E61}
       <SOURCE WAVE
-        FILE "/Music\Click and Guide Samples\English Guides\Dynamic Cues\English Female - Build.wav"
+        FILE "/Music/Assets/Cues/English Female - Build.wav"
       >
     >
     <ITEM
@@ -1317,7 +1317,7 @@
       CHANMODE 0
       GUID {B0F4B510-4D59-4837-9E47-E0869744D326}
       <SOURCE WAVE
-        FILE "/Music\Click and Guide Samples\English Guides\Dynamic Cues\English Female - Drums In.wav"
+        FILE "/Music/Assets/Cues/English Female - Drums In.wav"
       >
     >
     <ITEM
@@ -1363,7 +1363,7 @@
       CHANMODE 0
       GUID {B92521F2-FBA8-402E-A9AE-AEB8DDBF5924}
       <SOURCE WAVE
-        FILE "/Music\Click and Guide Samples\English Guides\Dynamic Cues\English Female - Build.wav"
+        FILE "/Music/Assets/Cues/English Female - Build.wav"
       >
     >
     <ITEM
@@ -1570,7 +1570,7 @@
       CHANMODE 0
       GUID {382FC713-F2A8-44CA-B5FF-5C0DAE8E1B00}
       <SOURCE WAVE
-        FILE "/Music\Click and Guide Samples\English Guides\Dynamic Cues\English Female - Drums In.wav"
+        FILE "/Music/Assets/Cues/English Female - Drums In.wav"
       >
     >
     <ITEM
@@ -1616,7 +1616,7 @@
       CHANMODE 0
       GUID {7509FA5B-9695-4AD7-B151-FB089E6134A9}
       <SOURCE WAVE
-        FILE "/Music\Click and Guide Samples\English Guides\Dynamic Cues\English Female - Slowly Build.wav"
+        FILE "/Music/Assets/Cues/English Female - Slowly Build.wav"
       >
     >
     <ITEM
@@ -1639,7 +1639,7 @@
       CHANMODE 0
       GUID {CADEB381-EC99-47D4-9B79-14D5DDF7A03F}
       <SOURCE WAVE
-        FILE "/Music\Click and Guide Samples\English Guides\Dynamic Cues\English Female - Build.wav"
+        FILE "/Music/Assets/Cues/English Female - Build.wav"
       >
     >
     <ITEM
@@ -1685,7 +1685,7 @@
       CHANMODE 0
       GUID {E28CB8BF-BF5C-4C66-8533-B4BEEF489727}
       <SOURCE WAVE
-        FILE "/Music\Click and Guide Samples\English Guides\Dynamic Cues\English Female - All In.wav"
+        FILE "/Music/Assets/Cues/English Female - All In.wav"
       >
     >
     <ITEM

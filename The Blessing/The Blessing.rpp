@@ -724,7 +724,7 @@
       CHANMODE 0
       GUID {006B40A7-3923-4681-9AA0-80D949D8224A}
       <SOURCE WAVE
-        FILE "/Music\Click and Guide Samples\English Guides\Dynamic Cues\English Female - Slowly Build.wav"
+        FILE "/Music/Assets/Cues/English Female - Slowly Build.wav"
       >
     >
     <ITEM
@@ -908,7 +908,7 @@
       CHANMODE 0
       GUID {7BB4B631-B1D7-4C42-B00A-CF7972093AAD}
       <SOURCE WAVE
-        FILE "/Music\Click and Guide Samples\English Guides\Dynamic Cues\English Female - Slowly Build.wav"
+        FILE "/Music/Assets/Cues/English Female - Slowly Build.wav"
       >
     >
     <ITEM
@@ -977,7 +977,7 @@
       CHANMODE 0
       GUID {6EF04B14-2C64-4380-BFD0-70C8A5419253}
       <SOURCE WAVE
-        FILE "/Music\Click and Guide Samples\English Guides\Dynamic Cues\English Female - Build.wav"
+        FILE "/Music/Assets/Cues/English Female - Build.wav"
       >
     >
     <ITEM
