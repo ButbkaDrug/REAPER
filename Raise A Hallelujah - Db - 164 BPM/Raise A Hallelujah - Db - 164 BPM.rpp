@@ -28,7 +28,7 @@
   >
   <APPLYFX_CFG
   >
-  RENDER_FILE "C:\Users\Butbk\Music\Click Tracks\Raise A Hallelujah - Bethel Music - Db - 82 BPM.mp3"
+  RENDER_FILE "/Music\Click Tracks\Raise A Hallelujah - Bethel Music - Db - 82 BPM.mp3"
   RENDER_FMT 0 2 44100
   RENDER_1X 0
   RENDER_RANGE 1 0 0 18 1000
@@ -50,7 +50,7 @@
     VOL 1 1
     FREQ 800 1600 1
     BEATLEN 4
-    SAMPLES "C:\Users\Butbk\Music\Click and Guide Samples\Click Tracks\New Click -  Blip-accents.wav" "C:\Users\Butbk\Music\Click and Guide Samples\Click Tracks\New Click -  Blip-sixteenth.wav"
+    SAMPLES "/Music\Click and Guide Samples\Click Tracks\New Click -  Blip-accents.wav" "/Music\Click and Guide Samples\Click Tracks\New Click -  Blip-sixteenth.wav"
     PATTERN 2863311530 2863311513
     MULT 2
   >
@@ -21977,7 +21977,7 @@
       CHANMODE 0
       GUID {B94C4AF6-184A-4F51-A86D-7412CF4CA962}
       <SOURCE WAVE
-        FILE "C:\Users\Butbk\Music\BICF Worship\Samples\TS-GRATIS-JAN-2018\TS GRATIS JAN 2018\TS ORGANIC PERC FREE\SHAKER TAMBO BRUSH LOOPS\80 DOWNBEAT ACCENT 16s SMOOTH SHAKER.wav"
+        FILE "/Music\BICF Worship\Samples\TS-GRATIS-JAN-2018\TS GRATIS JAN 2018\TS ORGANIC PERC FREE\SHAKER TAMBO BRUSH LOOPS\80 DOWNBEAT ACCENT 16s SMOOTH SHAKER.wav"
       >
     >
     <ITEM
@@ -22000,7 +22000,7 @@
       CHANMODE 0
       GUID {29A6CA54-BE9B-4F24-BF7B-B5DCBC831B20}
       <SOURCE WAVE
-        FILE "C:\Users\Butbk\Music\BICF Worship\Samples\TS-GRATIS-JAN-2018\TS GRATIS JAN 2018\TS ORGANIC PERC FREE\SHAKER TAMBO BRUSH LOOPS\80 DOWNBEAT ACCENT 16s SMOOTH SHAKER.wav"
+        FILE "/Music\BICF Worship\Samples\TS-GRATIS-JAN-2018\TS GRATIS JAN 2018\TS ORGANIC PERC FREE\SHAKER TAMBO BRUSH LOOPS\80 DOWNBEAT ACCENT 16s SMOOTH SHAKER.wav"
       >
     >
     <ITEM
@@ -22023,7 +22023,7 @@
       CHANMODE 0
       GUID {0E8CB637-3AC8-44A2-890C-175520D20B28}
       <SOURCE WAVE
-        FILE "C:\Users\Butbk\Music\BICF Worship\Samples\TS-GRATIS-JAN-2018\TS GRATIS JAN 2018\TS ORGANIC PERC FREE\SHAKER TAMBO BRUSH LOOPS\80 DOWNBEAT ACCENT 16s SMOOTH SHAKER.wav"
+        FILE "/Music\BICF Worship\Samples\TS-GRATIS-JAN-2018\TS GRATIS JAN 2018\TS ORGANIC PERC FREE\SHAKER TAMBO BRUSH LOOPS\80 DOWNBEAT ACCENT 16s SMOOTH SHAKER.wav"
       >
     >
   >
@@ -22162,7 +22162,7 @@
       CHANMODE 0
       GUID {870D1304-23CC-4769-812D-D8E2E69DA99C}
       <SOURCE WAVE
-        FILE "C:\Users\Butbk\Music\BICF Worship\Samples\SHAKE\Loops\Tambourine 100bpm No Accents.wav"
+        FILE "/Music\BICF Worship\Samples\SHAKE\Loops\Tambourine 100bpm No Accents.wav"
       >
     >
     <ITEM
@@ -22185,7 +22185,7 @@
       CHANMODE 0
       GUID {5B855F4D-D0AC-4DE9-90B2-ADB631428820}
       <SOURCE WAVE
-        FILE "C:\Users\Butbk\Music\BICF Worship\Samples\SHAKE\Loops\Tambourine 100bpm No Accents.wav"
+        FILE "/Music\BICF Worship\Samples\SHAKE\Loops\Tambourine 100bpm No Accents.wav"
       >
     >
     <ITEM
@@ -22208,7 +22208,7 @@
       CHANMODE 0
       GUID {3C765902-C6DC-47FE-9CFF-561AAD4225AA}
       <SOURCE WAVE
-        FILE "C:\Users\Butbk\Music\BICF Worship\Samples\SHAKE\Loops\Tambourine 100bpm No Accents.wav"
+        FILE "/Music\BICF Worship\Samples\SHAKE\Loops\Tambourine 100bpm No Accents.wav"
       >
     >
   >

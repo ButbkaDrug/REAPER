@@ -28,7 +28,7 @@
   >
   <APPLYFX_CFG
   >
-  RENDER_FILE "C:\Users\Butbk\Music\Click Tracks\Promises - Maverick City - Bb - 86 BPM.mp3"
+  RENDER_FILE "/Music\Click Tracks\Promises - Maverick City - Bb - 86 BPM.mp3"
   RENDER_FMT 0 2 44100
   RENDER_1X 0
   RENDER_RANGE 1 0 0 18 1000
@@ -225,7 +225,7 @@
         VOL 1 1
         FREQ 800 1600 1
         BEATLEN 4
-        SAMPLES "C:\Users\Butbk\Music\Click and Guide Samples\Click Tracks\New Click -  Blip-accents.wav" "C:\Users\Butbk\Music\Click and Guide Samples\Click Tracks\New Click -  Blip-sixteenth.wav"
+        SAMPLES "/Music\Click and Guide Samples\Click Tracks\New Click -  Blip-accents.wav" "/Music\Click and Guide Samples\Click Tracks\New Click -  Blip-sixteenth.wav"
         PATTERN 2863311530 2863311529
         MULT 2
       >
@@ -255,7 +255,7 @@
         VOL 1 1
         FREQ 800 1600 1
         BEATLEN 4
-        SAMPLES "C:\Users\Butbk\Music\Click and Guide Samples\Click Tracks\New Click -  Blip-accents.wav" "C:\Users\Butbk\Music\Click and Guide Samples\Click Tracks\New Click -  Blip-sixteenth.wav"
+        SAMPLES "/Music\Click and Guide Samples\Click Tracks\New Click -  Blip-accents.wav" "/Music\Click and Guide Samples\Click Tracks\New Click -  Blip-sixteenth.wav"
         PATTERN 2863311530 2863311529
         MULT 2
       >
@@ -285,7 +285,7 @@
         VOL 1 1
         FREQ 800 1600 1
         BEATLEN 4
-        SAMPLES "C:\Users\Butbk\Music\Click and Guide Samples\Click Tracks\New Click -  Blip-accents.wav" "C:\Users\Butbk\Music\Click and Guide Samples\Click Tracks\New Click -  Blip-sixteenth.wav"
+        SAMPLES "/Music\Click and Guide Samples\Click Tracks\New Click -  Blip-accents.wav" "/Music\Click and Guide Samples\Click Tracks\New Click -  Blip-sixteenth.wav"
         PATTERN 2863311530 2863311529
         MULT 2
       >
@@ -315,7 +315,7 @@
         VOL 1 1
         FREQ 800 1600 1
         BEATLEN 4
-        SAMPLES "C:\Users\Butbk\Music\Click and Guide Samples\Click Tracks\New Click -  Blip-accents.wav" "C:\Users\Butbk\Music\Click and Guide Samples\Click Tracks\New Click -  Blip-sixteenth.wav"
+        SAMPLES "/Music\Click and Guide Samples\Click Tracks\New Click -  Blip-accents.wav" "/Music\Click and Guide Samples\Click Tracks\New Click -  Blip-sixteenth.wav"
         PATTERN 2863311530 2863311529
         MULT 2
       >
@@ -345,7 +345,7 @@
         VOL 1 1
         FREQ 800 1600 1
         BEATLEN 4
-        SAMPLES "C:\Users\Butbk\Music\Click and Guide Samples\Click Tracks\New Click -  Blip-accents.wav" "C:\Users\Butbk\Music\Click and Guide Samples\Click Tracks\New Click -  Blip-sixteenth.wav"
+        SAMPLES "/Music\Click and Guide Samples\Click Tracks\New Click -  Blip-accents.wav" "/Music\Click and Guide Samples\Click Tracks\New Click -  Blip-sixteenth.wav"
         PATTERN 2863311530 2863311529
         MULT 2
       >
@@ -692,7 +692,7 @@
       CHANMODE 0
       GUID {CD8A81D0-0E5A-435F-8F2B-24579FF22FEE}
       <SOURCE WAVE
-        FILE "C:\Users\Butbk\Music\Click and Guide Samples\English Guides\Song Sections\English Female - Turnaround.wav"
+        FILE "/Music\Click and Guide Samples\English Guides\Song Sections\English Female - Turnaround.wav"
       >
     >
     <ITEM

@@ -52,7 +52,7 @@
     VOL 1 1
     FREQ 800 1600 1
     BEATLEN 4
-    SAMPLES "/mnt/win10/Users/butbkadrug/Music/Assets/Clicks/New Click -  Blip-accents.wav" "/mnt/win10/Users/butbkadrug/Music/Assets/Clicks/New Click -  Blip-sixteenth.wav"
+    SAMPLES "/Music/Assets/Clicks/New Click -  Blip-accents.wav" "/Music/Assets/Clicks/New Click -  Blip-sixteenth.wav"
     PATTERN 2863311530 2863311513
     MULT 2
   >
@@ -174,7 +174,7 @@
         VOL 1 1
         FREQ 800 1600 1
         BEATLEN 4
-        SAMPLES "/mnt/win10/Users/butbkadrug/Music/Assets/Clicks/New Click -  Blip-accents.wav" "/mnt/win10/Users/butbkadrug/Music/Assets/Clicks/New Click -  Blip-sixteenth.wav"
+        SAMPLES "/Music/Assets/Clicks/New Click -  Blip-accents.wav" "/Music/Assets/Clicks/New Click -  Blip-sixteenth.wav"
         PATTERN 2863311530 2863311529
         MULT 1
       >
@@ -225,7 +225,7 @@
       CHANMODE 0
       GUID {9F60188D-A3E5-D15C-8961-A3C9B57D25BB}
       <SOURCE WAVE
-        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 1.wav"
+        FILE "/Music/Assets/Cues/English Female - 1.wav"
       >
     >
     <ITEM
@@ -248,7 +248,7 @@
       CHANMODE 0
       GUID {4A120895-DE5B-A7D0-67A8-032E56484E74}
       <SOURCE WAVE
-        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 2.wav"
+        FILE "/Music/Assets/Cues/English Female - 2.wav"
       >
     >
     <ITEM
@@ -293,7 +293,7 @@
       CHANMODE 0
       GUID {540617BC-3442-6645-75A8-00F86C257D9D}
       <SOURCE WAVE
-        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 3.wav"
+        FILE "/Music/Assets/Cues/English Female - 3.wav"
       >
     >
     <ITEM
@@ -316,7 +316,7 @@
       CHANMODE 0
       GUID {D36DAC1A-5858-9F21-DADC-C8505DE465D0}
       <SOURCE WAVE
-        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 4.wav"
+        FILE "/Music/Assets/Cues/English Female - 4.wav"
       >
     >
     <ITEM

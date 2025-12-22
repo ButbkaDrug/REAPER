@@ -28,7 +28,7 @@
   >
   <APPLYFX_CFG
   >
-  RENDER_FILE "/home/butbkadrug/Music/RENDERS//You Are My Peace - Housefires - A - 76 BPM - No Drums.mp3"
+  RENDER_FILE "/Music/RENDERS//You Are My Peace - Housefires - A - 76 BPM - No Drums.mp3"
   RENDER_FMT 0 2 44100
   RENDER_1X 0
   RENDER_RANGE 2 0 0 18 1000
@@ -230,7 +230,7 @@
         VOL 1 1
         BEATLEN 4
         FREQ 800 1600 1
-        SAMPLES "/home/butbkadrug/Music/Assets/Clicks/New Click -  Blip-accents.wav" "/home/butbkadrug/Music/Assets/Clicks/New Click -  Blip-sixteenth.wav"
+        SAMPLES "/Music/Assets/Clicks/New Click -  Blip-accents.wav" "/Music/Assets/Clicks/New Click -  Blip-sixteenth.wav"
         SPLIGNORE 0 0
         SPLDEF 2 660 "" 0
         SPLDEF 3 440 "" 0
@@ -19750,7 +19750,7 @@
       CHANMODE 0
       GUID {44BAE8F2-E640-093A-4C12-B1520FA1EAB8}
       <SOURCE MP3
-        FILE "/home/butbkadrug/Music/You-Are-My-Peace/bass.mp3" 1
+        FILE "/Music/You-Are-My-Peace/bass.mp3" 1
       >
     >
     <ITEM

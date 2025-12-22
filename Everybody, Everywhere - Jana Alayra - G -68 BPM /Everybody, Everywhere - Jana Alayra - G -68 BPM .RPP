@@ -53,7 +53,7 @@
     VOL 1 1
     BEATLEN 4
     FREQ 800 1600 1
-    SAMPLES "/home/butbkadrug/Music/Assets/Clicks/New Click -  Blip-accents.wav" "/home/butbkadrug/Music/Assets/Clicks/New Click -  Blip-sixteenth.wav"
+    SAMPLES "/Music/Assets/Clicks/New Click -  Blip-accents.wav" "/Music/Assets/Clicks/New Click -  Blip-sixteenth.wav"
     SPLIGNORE 0 0
     SPLDEF 2 660 "" 0
     SPLDEF 3 440 "" 0
@@ -204,7 +204,7 @@
         VOL 1 1
         BEATLEN 4
         FREQ 1760 880 1
-        SAMPLES "/home/butbkadrug/Music/Assets/Clicks/New Click -  Blip-accents.wav" "/home/butbkadrug/Music/Assets/Clicks/New Click -  Blip-sixteenth.wav"
+        SAMPLES "/Music/Assets/Clicks/New Click -  Blip-accents.wav" "/Music/Assets/Clicks/New Click -  Blip-sixteenth.wav"
         SPLIGNORE 0 0
         SPLDEF 2 660 "" 0
         SPLDEF 3 440 "" 0
@@ -259,7 +259,7 @@
       CHANMODE 0
       GUID {39B66CB5-A3A7-B105-2958-9F65C8B82D74}
       <SOURCE WAVE
-        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 1.wav"
+        FILE "/Music/Assets/Cues/English Female - 1.wav"
       >
     >
     <ITEM
@@ -281,7 +281,7 @@
       CHANMODE 0
       GUID {4F3CE59A-AE9F-DDD4-879C-ACD829E934DD}
       <SOURCE WAVE
-        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 2.wav"
+        FILE "/Music/Assets/Cues/English Female - 2.wav"
       >
     >
     <ITEM
@@ -303,7 +303,7 @@
       CHANMODE 0
       GUID {95AAB891-D5D5-1550-01F8-61168BA773F0}
       <SOURCE WAVE
-        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 3.wav"
+        FILE "/Music/Assets/Cues/English Female - 3.wav"
       >
     >
     <ITEM
@@ -325,7 +325,7 @@
       CHANMODE 0
       GUID {E453B694-A38E-6186-45ED-90F461DFCEE2}
       <SOURCE WAVE
-        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 4.wav"
+        FILE "/Music/Assets/Cues/English Female - 4.wav"
       >
     >
     <ITEM
@@ -347,7 +347,7 @@
       CHANMODE 0
       GUID {DDB18322-B464-6F02-A7D9-6F233A391284}
       <SOURCE WAVE
-        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - Verse.wav"
+        FILE "/Music/Assets/Cues/English Female - Verse.wav"
       >
     >
     <ITEM
@@ -369,7 +369,7 @@
       CHANMODE 0
       GUID {CB370C9E-16EF-5B35-AADC-7ABD560F95BC}
       <SOURCE WAVE
-        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - Verse.wav"
+        FILE "/Music/Assets/Cues/English Female - Verse.wav"
       >
     >
     <ITEM
@@ -391,7 +391,7 @@
       CHANMODE 0
       GUID {49212AF2-86E4-0586-3F6A-64065703296D}
       <SOURCE WAVE
-        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - Chorus.wav"
+        FILE "/Music/Assets/Cues/English Female - Chorus.wav"
       >
     >
     <ITEM
@@ -413,7 +413,7 @@
       CHANMODE 0
       GUID {E14EC66D-B494-8818-A6CF-FA7F833BB8CA}
       <SOURCE WAVE
-        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - Chorus.wav"
+        FILE "/Music/Assets/Cues/English Female - Chorus.wav"
       >
     >
     <ITEM
@@ -435,7 +435,7 @@
       CHANMODE 0
       GUID {3C6D6CC5-6AF5-9ECD-143B-DFEC67D3D7FC}
       <SOURCE WAVE
-        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - Verse.wav"
+        FILE "/Music/Assets/Cues/English Female - Verse.wav"
       >
     >
     <ITEM
@@ -457,7 +457,7 @@
       CHANMODE 0
       GUID {E3ABAD93-49E6-1AB0-1577-66B56CC915E1}
       <SOURCE WAVE
-        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - Verse.wav"
+        FILE "/Music/Assets/Cues/English Female - Verse.wav"
       >
     >
     <ITEM
@@ -479,7 +479,7 @@
       CHANMODE 0
       GUID {77B0185D-467D-142F-19E7-FB38731A0F38}
       <SOURCE WAVE
-        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - Chorus.wav"
+        FILE "/Music/Assets/Cues/English Female - Chorus.wav"
       >
     >
   >
@@ -528,7 +528,7 @@
       CHANMODE 0
       GUID {E622519E-6A8F-1F16-6168-26D4AD29A0B0}
       <SOURCE MP3
-        FILE "/home/butbkadrug/Downloads/Everybody, Everywhere.mp3" 1
+        FILE "/Downloads/Everybody, Everywhere.mp3" 1
       >
     >
   >

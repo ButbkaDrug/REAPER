@@ -28,7 +28,7 @@
   >
   <APPLYFX_CFG
   >
-  RENDER_FILE "/home/butbkadrug/Music/RENDERS//Promises - Maverick City - Bb - 86 BPM.mp3"
+  RENDER_FILE "/Music/RENDERS//Promises - Maverick City - Bb - 86 BPM.mp3"
   RENDER_FMT 0 1 44100
   RENDER_1X 0
   RENDER_RANGE 1 0 0 18 1000
@@ -50,7 +50,7 @@
     VOL 0.311165 0.096823
     BEATLEN 4
     FREQ 800 1600 1
-    SAMPLES "C:\Users\Butbk\Music\Click and Guide Samples\Click Tracks\New Click -  Blip-accents.wav" "C:\Users\Butbk\Music\Click and Guide Samples\Click Tracks\New Click -  Blip-sixteenth.wav"
+    SAMPLES "/Music\Click and Guide Samples\Click Tracks\New Click -  Blip-accents.wav" "/Music\Click and Guide Samples\Click Tracks\New Click -  Blip-sixteenth.wav"
     SPLIGNORE 0 0
     SPLDEF 2 660 "" 0
     SPLDEF 3 440 "" 0
@@ -193,7 +193,7 @@
         VOL 1 1
         BEATLEN 4
         FREQ 800 1600 1
-        SAMPLES "/home/butbkadrug/Music/Assets/Clicks/New Click -  Blip-accents.wav" "/home/butbkadrug/Music/Assets/Clicks/New Click -  Blip-sixteenth.wav"
+        SAMPLES "/Music/Assets/Clicks/New Click -  Blip-accents.wav" "/Music/Assets/Clicks/New Click -  Blip-sixteenth.wav"
         SPLIGNORE 0 0
         SPLDEF 2 660 "" 0
         SPLDEF 3 440 "" 0

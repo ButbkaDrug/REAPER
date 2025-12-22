@@ -207,7 +207,7 @@
       CHANMODE 0
       GUID {BC0F094A-8281-D44A-9105-FA8D1468B647}
       <SOURCE RPP_PROJECT
-        FILE "/Users/calvarchapelbatumi/Music/REAPER/What Child Is This - Kids Song - A - 100 BPM/What Child Is This - Kids Song - A - 100 BPM.RPP"
+        FILE "/Music/REAPER/What Child Is This - Kids Song - A - 100 BPM/What Child Is This - Kids Song - A - 100 BPM.RPP"
       >
     >
     <ITEM
@@ -301,7 +301,7 @@
       CHANMODE 0
       GUID {CC91B6D4-DF10-1C47-838C-997BB567CCBA}
       <SOURCE MP3
-        FILE "/Users/calvarchapelbatumi/Downloads/New Beginnings Worship - Рождение Любви (HOLYCHORDS).mp3" 1
+        FILE "/Downloads/New Beginnings Worship - Рождение Любви (HOLYCHORDS).mp3" 1
       >
     >
     <ITEM
@@ -323,7 +323,7 @@
       CHANMODE 0
       GUID {1D746355-FBEA-6040-B086-2A2CA1D2D497}
       <SOURCE MP3
-        FILE "/Users/calvarchapelbatumi/Downloads/Instrumental Worship and Hymns _ Acoustic Fingerstyle Guitar Collection _ Titus Major [zTRmJvGnDAY].mp3" 1
+        FILE "/Downloads/Instrumental Worship and Hymns _ Acoustic Fingerstyle Guitar Collection _ Titus Major [zTRmJvGnDAY].mp3" 1
       >
     >
   >

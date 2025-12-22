@@ -28,7 +28,7 @@
   >
   <APPLYFX_CFG
   >
-  RENDER_FILE "C:\Users\Butbk\Music\Click Tracks/This Is Amazing Grace - Phil Wickham - Bb - 98 BPM.mp3"
+  RENDER_FILE "/Music\Click Tracks/This Is Amazing Grace - Phil Wickham - Bb - 98 BPM.mp3"
   RENDER_FMT 0 2 44100
   RENDER_1X 0
   RENDER_RANGE 1 0 0 18 1000

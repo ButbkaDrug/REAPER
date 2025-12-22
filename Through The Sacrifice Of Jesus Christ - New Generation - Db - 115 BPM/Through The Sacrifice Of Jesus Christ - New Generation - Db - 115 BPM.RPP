@@ -29,7 +29,7 @@
   >
   <APPLYFX_CFG
   >
-  RENDER_FILE "/home/butbkadrug/Music/RENDERS//Through The Sacrifice Of Jesus Christ - New Generation - Db - 115 BPM.mp3"
+  RENDER_FILE "/Music/RENDERS//Through The Sacrifice Of Jesus Christ - New Generation - Db - 115 BPM.mp3"
   RENDER_FMT 0 2 44100
   RENDER_1X 0
   RENDER_RANGE 1 0 0 18 1000
@@ -51,7 +51,7 @@
     VOL 0.396002 0.152965
     FREQ 800 1600 1
     BEATLEN 4
-    SAMPLES "/mnt/win10/Users/butbkadrug/Music/Assets/Clicks/New Click -  Blip-accents.wav" "/mnt/win10/Users/butbkadrug/Music/Assets/Clicks/New Click -  Blip-sixteenth.wav"
+    SAMPLES "/Music/Assets/Clicks/New Click -  Blip-accents.wav" "/Music/Assets/Clicks/New Click -  Blip-sixteenth.wav"
     PATTERN 2863311530 2863311513
     MULT 2
   >
@@ -171,7 +171,7 @@
         VOL 1 1
         FREQ 800 1600 1
         BEATLEN 4
-        SAMPLES "/home/butbkadrug/Music/Assets/Clicks/New Click -  Blip-accents.wav" "/home/butbkadrug/Music/Assets/Clicks/New Click -  Blip-sixteenth.wav"
+        SAMPLES "/Music/Assets/Clicks/New Click -  Blip-accents.wav" "/Music/Assets/Clicks/New Click -  Blip-sixteenth.wav"
         PATTERN 2863311530 2863311529
         MULT 1
       >
@@ -222,7 +222,7 @@
       CHANMODE 0
       GUID {66ED9342-793D-1087-E478-17EC41B33A96}
       <SOURCE WAVE
-        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 1.wav"
+        FILE "/Music/Assets/Cues/English Female - 1.wav"
       >
     >
     <ITEM
@@ -245,7 +245,7 @@
       CHANMODE 0
       GUID {B548F6CB-EF50-3B7B-7D17-3B953812697B}
       <SOURCE WAVE
-        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 2.wav"
+        FILE "/Music/Assets/Cues/English Female - 2.wav"
       >
     >
     <ITEM
@@ -290,7 +290,7 @@
       CHANMODE 0
       GUID {62CAAEA5-312D-D204-47BD-8CAF1321AB81}
       <SOURCE WAVE
-        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 3.wav"
+        FILE "/Music/Assets/Cues/English Female - 3.wav"
       >
     >
     <ITEM
@@ -313,7 +313,7 @@
       CHANMODE 0
       GUID {20E177C2-28F4-BE9B-3047-7B86E7CE0EB8}
       <SOURCE WAVE
-        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 4.wav"
+        FILE "/Music/Assets/Cues/English Female - 4.wav"
       >
     >
     <ITEM

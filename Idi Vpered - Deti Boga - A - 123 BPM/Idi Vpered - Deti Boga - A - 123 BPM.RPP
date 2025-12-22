@@ -52,7 +52,7 @@
     VOL 1 1
     FREQ 800 1600 1
     BEATLEN 4
-    SAMPLES "/home/butbkadrug/Music/Assets/Clicks/New Click -  Blip-accents.wav" "/home/butbkadrug/Music/Assets/Clicks/New Click -  Blip-sixteenth.wav"
+    SAMPLES "/Music/Assets/Clicks/New Click -  Blip-accents.wav" "/Music/Assets/Clicks/New Click -  Blip-sixteenth.wav"
     PATTERN 2863311530 2863311529
     MULT 1
   >
@@ -169,7 +169,7 @@
         VOL 1 1
         FREQ 800 1600 1
         BEATLEN 4
-        SAMPLES "/home/butbkadrug/Music/Assets/Clicks/New Click -  Blip-accents.wav" "/home/butbkadrug/Music/Assets/Clicks/New Click -  Blip-sixteenth.wav"
+        SAMPLES "/Music/Assets/Clicks/New Click -  Blip-accents.wav" "/Music/Assets/Clicks/New Click -  Blip-sixteenth.wav"
         PATTERN 2863311530 2863311529
         MULT 1
       >
@@ -484,7 +484,7 @@
       CHANMODE 0
       GUID {B29D1BF9-98FF-D8B3-301F-A33533A872EA}
       <SOURCE WAVE
-        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - Interlude.wav"
+        FILE "/Music/Assets/Cues/English Female - Interlude.wav"
       >
     >
     <ITEM
@@ -771,7 +771,7 @@
       CHANMODE 0
       GUID {70E7B580-447B-F6CE-AE1A-8CBE0F7BA0E4}
       <SOURCE WAVE
-        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - Breakdown.wav"
+        FILE "/Music/Assets/Cues/English Female - Breakdown.wav"
       >
     >
     <ITEM
@@ -816,7 +816,7 @@
       CHANMODE 0
       GUID {836F2DE6-AAEC-1D21-E098-C96200E1DE45}
       <SOURCE WAVE
-        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - All In.wav"
+        FILE "/Music/Assets/Cues/English Female - All In.wav"
       >
     >
     <ITEM
@@ -951,7 +951,7 @@
       CHANMODE 0
       GUID {49544250-68F8-00DB-910E-4DB0C4044C44}
       <SOURCE MP3
-        FILE "/home/butbkadrug/Downloads/Deti-Boga-Idi-vpered.mp3" 1
+        FILE "/Downloads/Deti-Boga-Idi-vpered.mp3" 1
       >
     >
   >

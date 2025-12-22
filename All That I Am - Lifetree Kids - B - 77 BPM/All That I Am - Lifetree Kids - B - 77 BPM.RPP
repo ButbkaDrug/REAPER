@@ -52,7 +52,7 @@
     VOL 1 1
     BEATLEN 4
     FREQ 800 1600 1
-    SAMPLES "/mnt/win10/Users/butbkadrug/Music/Assets/Clicks/New Click -  Blip-accents.wav" "/mnt/win10/Users/butbkadrug/Music/Assets/Clicks/New Click -  Blip-sixteenth.wav"
+    SAMPLES "/Music/Assets/Clicks/New Click -  Blip-accents.wav" "/Music/Assets/Clicks/New Click -  Blip-sixteenth.wav"
     SPLIGNORE 0 0
     SPLDEF 2 660 "" 0
     SPLDEF 3 440 "" 0
@@ -169,7 +169,7 @@
         VOL 1 1
         BEATLEN 4
         FREQ 800 1600 1
-        SAMPLES "/home/butbkadrug/Music/Assets/Clicks/New Click -  Blip-accents.wav" "/home/butbkadrug/Music/Assets/Clicks/New Click -  Blip-sixteenth.wav"
+        SAMPLES "/Music/Assets/Clicks/New Click -  Blip-accents.wav" "/Music/Assets/Clicks/New Click -  Blip-sixteenth.wav"
         SPLIGNORE 0 0
         SPLDEF 2 660 "" 0
         SPLDEF 3 440 "" 0
@@ -224,7 +224,7 @@
       CHANMODE 0
       GUID {D3ED0E2E-7830-B485-709B-0DA2DBE23ED2}
       <SOURCE WAVE
-        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 1.wav"
+        FILE "/Music/Assets/Cues/English Female - 1.wav"
       >
     >
     <ITEM
@@ -247,7 +247,7 @@
       CHANMODE 0
       GUID {D9DB122F-9D69-5FE8-8DA7-C731E0236E18}
       <SOURCE WAVE
-        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 2.wav"
+        FILE "/Music/Assets/Cues/English Female - 2.wav"
       >
     >
     <ITEM
@@ -270,7 +270,7 @@
       CHANMODE 0
       GUID {6413E935-BC3C-AAD8-8344-3B5559837F93}
       <SOURCE WAVE
-        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - Intro.wav"
+        FILE "/Music/Assets/Cues/English Female - Intro.wav"
       >
     >
     <ITEM
@@ -293,7 +293,7 @@
       CHANMODE 0
       GUID {F05D7FCD-02C3-6475-C49D-258F9E17DF92}
       <SOURCE WAVE
-        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 2.wav"
+        FILE "/Music/Assets/Cues/English Female - 2.wav"
       >
     >
     <ITEM
@@ -316,7 +316,7 @@
       CHANMODE 0
       GUID {49A3D2AD-A1A2-3A37-C353-56919578DF35}
       <SOURCE WAVE
-        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 3.wav"
+        FILE "/Music/Assets/Cues/English Female - 3.wav"
       >
     >
     <ITEM
@@ -339,7 +339,7 @@
       CHANMODE 0
       GUID {8E4A3B9F-EECF-0C8E-BA45-B47D0CC48F8B}
       <SOURCE WAVE
-        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 4.wav"
+        FILE "/Music/Assets/Cues/English Female - 4.wav"
       >
     >
     <ITEM
@@ -607,7 +607,7 @@
       CHANMODE 0
       GUID {DAC0D1E1-C2E9-4F32-B40A-97BB55EE5C22}
       <SOURCE MP3
-        FILE "/home/butbkadrug/Downloads/All That I Am _ Treasured VBS _ Group Publishing [music].mp3" 1
+        FILE "/Downloads/All That I Am _ Treasured VBS _ Group Publishing [music].mp3" 1
       >
     >
   >
@@ -655,7 +655,7 @@
       CHANMODE 0
       GUID {D0C283E1-7A1A-5C87-2352-55CAB3A3ECD0}
       <SOURCE MP3
-        FILE "/home/butbkadrug/Downloads/All That I Am _ Treasured VBS _ Group Publishing [vocals].mp3" 1
+        FILE "/Downloads/All That I Am _ Treasured VBS _ Group Publishing [vocals].mp3" 1
       >
     >
   >

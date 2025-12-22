@@ -51,7 +51,7 @@
     VOL 0.523549 0.261775
     FREQ 800 1600 1
     BEATLEN 4
-    SAMPLES "C:\Users\Butbk\Music\Click and Guide Samples\Click Tracks\New Click -  Blip-accents.wav" "C:\Users\Butbk\Music\Click and Guide Samples\Click Tracks\New Click -  Blip-sixteenth.wav"
+    SAMPLES "/Music\Click and Guide Samples\Click Tracks\New Click -  Blip-accents.wav" "/Music\Click and Guide Samples\Click Tracks\New Click -  Blip-sixteenth.wav"
     PATTERN 2863311530 2863311513
     MULT 2
   >
@@ -189,7 +189,7 @@
       CHANMODE 0
       GUID {A58B0073-6E7C-4974-9BD2-4C9CD2C4457E}
       <SOURCE WAVE
-        FILE "C:\Users\Butbk\Music\Click and Guide Samples\English Guides\Song Sections\English Female - 1.wav"
+        FILE "/Music\Click and Guide Samples\English Guides\Song Sections\English Female - 1.wav"
       >
     >
     <ITEM
@@ -212,7 +212,7 @@
       CHANMODE 0
       GUID {B4A7A262-A216-46F1-8EFB-7DF196334563}
       <SOURCE WAVE
-        FILE "C:\Users\Butbk\Music\Click and Guide Samples\English Guides\Song Sections\English Female - 2.wav"
+        FILE "/Music\Click and Guide Samples\English Guides\Song Sections\English Female - 2.wav"
       >
     >
     <ITEM
@@ -235,7 +235,7 @@
       CHANMODE 0
       GUID {46879533-5510-40AB-92F0-F2F5DD2BB5F7}
       <SOURCE WAVE
-        FILE "C:\Users\Butbk\Music\Click and Guide Samples\English Guides\Song Sections\English Female - 1.wav"
+        FILE "/Music\Click and Guide Samples\English Guides\Song Sections\English Female - 1.wav"
       >
     >
     <ITEM
@@ -258,7 +258,7 @@
       CHANMODE 0
       GUID {00C0FC5F-311F-43F8-B262-A1528DECD51D}
       <SOURCE WAVE
-        FILE "C:\Users\Butbk\Music\Click and Guide Samples\English Guides\Song Sections\English Female - 2.wav"
+        FILE "/Music\Click and Guide Samples\English Guides\Song Sections\English Female - 2.wav"
       >
     >
     <ITEM
@@ -281,7 +281,7 @@
       CHANMODE 0
       GUID {0D62648A-B25D-4AC0-8E8D-12D5D048ABA5}
       <SOURCE WAVE
-        FILE "C:\Users\Butbk\Music\Click and Guide Samples\English Guides\Song Sections\English Female - 3.wav"
+        FILE "/Music\Click and Guide Samples\English Guides\Song Sections\English Female - 3.wav"
       >
     >
     <ITEM
@@ -304,7 +304,7 @@
       CHANMODE 0
       GUID {A24E3F23-C636-44FD-A4C7-17A8DD0D5A09}
       <SOURCE WAVE
-        FILE "C:\Users\Butbk\Music\Click and Guide Samples\English Guides\Song Sections\English Female - 4.wav"
+        FILE "/Music\Click and Guide Samples\English Guides\Song Sections\English Female - 4.wav"
       >
     >
     <ITEM
@@ -326,7 +326,7 @@
       CHANMODE 0
       GUID {49E77365-CF98-4055-AB1A-469A30BE7A8A}
       <SOURCE WAVE
-        FILE "C:\Users\Butbk\Music\Click and Guide Samples\English Guides\Song Sections\English Female - Intro.wav"
+        FILE "/Music\Click and Guide Samples\English Guides\Song Sections\English Female - Intro.wav"
       >
     >
     <ITEM
@@ -349,7 +349,7 @@
       CHANMODE 0
       GUID {ABD22F86-E558-431D-AB37-B0BFDF6F116F}
       <SOURCE WAVE
-        FILE "C:\Users\Butbk\Music\Click and Guide Samples\English Guides\Song Sections\English Female - Verse.wav"
+        FILE "/Music\Click and Guide Samples\English Guides\Song Sections\English Female - Verse.wav"
       >
     >
     <ITEM
@@ -372,7 +372,7 @@
       CHANMODE 0
       GUID {50DDFD71-8DA7-4BBD-AB6D-8A6F965DDE95}
       <SOURCE WAVE
-        FILE "C:\Users\Butbk\Music\Click and Guide Samples\English Guides\Song Sections\English Female - Chorus.wav"
+        FILE "/Music\Click and Guide Samples\English Guides\Song Sections\English Female - Chorus.wav"
       >
     >
     <ITEM
@@ -395,7 +395,7 @@
       CHANMODE 0
       GUID {2D1E85B5-73FC-40C6-BDC8-3687B9B6373F}
       <SOURCE WAVE
-        FILE "C:\Users\Butbk\Music\Click and Guide Samples\English Guides\Song Sections\English Female - Verse.wav"
+        FILE "/Music\Click and Guide Samples\English Guides\Song Sections\English Female - Verse.wav"
       >
     >
     <ITEM
@@ -418,7 +418,7 @@
       CHANMODE 0
       GUID {ED98BA02-0B26-4383-A16F-A289ED785F86}
       <SOURCE WAVE
-        FILE "C:\Users\Butbk\Music\Click and Guide Samples\English Guides\Song Sections\English Female - Chorus.wav"
+        FILE "/Music\Click and Guide Samples\English Guides\Song Sections\English Female - Chorus.wav"
       >
     >
     <ITEM
@@ -441,7 +441,7 @@
       CHANMODE 0
       GUID {1BC01330-10CB-4764-9384-22FDB2D44CAB}
       <SOURCE WAVE
-        FILE "C:\Users\Butbk\Music\Click and Guide Samples\English Guides\Song Sections\English Female - Bridge.wav"
+        FILE "/Music\Click and Guide Samples\English Guides\Song Sections\English Female - Bridge.wav"
       >
     >
     <ITEM
@@ -464,7 +464,7 @@
       CHANMODE 0
       GUID {EDCF24FC-EC67-4797-8BFE-9E1AD93390D5}
       <SOURCE WAVE
-        FILE "C:\Users\Butbk\Music\Click and Guide Samples\English Guides\Song Sections\English Female - Bridge.wav"
+        FILE "/Music\Click and Guide Samples\English Guides\Song Sections\English Female - Bridge.wav"
       >
     >
     <ITEM
@@ -487,7 +487,7 @@
       CHANMODE 0
       GUID {667A142A-0C21-4C6A-AEC6-00E398D6E038}
       <SOURCE WAVE
-        FILE "C:\Users\Butbk\Music\Click and Guide Samples\English Guides\Song Sections\English Female - Chorus.wav"
+        FILE "/Music\Click and Guide Samples\English Guides\Song Sections\English Female - Chorus.wav"
       >
     >
     <ITEM
@@ -510,7 +510,7 @@
       CHANMODE 0
       GUID {6D93B938-2C10-482D-BD10-58CE079F795F}
       <SOURCE WAVE
-        FILE "C:\Users\Butbk\Music\Click and Guide Samples\English Guides\Song Sections\English Female - Chorus.wav"
+        FILE "/Music\Click and Guide Samples\English Guides\Song Sections\English Female - Chorus.wav"
       >
     >
     <ITEM
@@ -533,7 +533,7 @@
       CHANMODE 0
       GUID {70B4F054-2DA9-4BA8-B06E-431110E7D07F}
       <SOURCE WAVE
-        FILE "C:\Users\Butbk\Music\Click and Guide Samples\English Guides\Song Sections\English Female - Chorus.wav"
+        FILE "/Music\Click and Guide Samples\English Guides\Song Sections\English Female - Chorus.wav"
       >
     >
     <ITEM
@@ -556,7 +556,7 @@
       CHANMODE 0
       GUID {AAF1FC95-872B-4482-B7B4-A382E80004DF}
       <SOURCE WAVE
-        FILE "C:\Users\Butbk\Music\Click and Guide Samples\English Guides\Song Sections\English Female - Acapella.wav"
+        FILE "/Music\Click and Guide Samples\English Guides\Song Sections\English Female - Acapella.wav"
       >
     >
   >
@@ -2616,7 +2616,7 @@
         GUID {8C959BFA-EF8C-453A-8C30-EA17038C6229}
         RECPASS 12
         <SOURCE WAVE
-          FILE "C:\Users\Butbk\Music\REAPER\How Great Is Our God - Chris Tomlin - G - 76 BPM\Audio Files\04 - How Great Is Our God - Chris Tomlin - G - 76 BPM - EG - 012.wav"
+          FILE "/Music\REAPER\How Great Is Our God - Chris Tomlin - G - 76 BPM\Audio Files\04 - How Great Is Our God - Chris Tomlin - G - 76 BPM - EG - 012.wav"
         >
       >
       <ITEM {F2A7B21B-30FE-4688-9F07-06AAC6F14E74}
@@ -2639,7 +2639,7 @@
         GUID {D57973F9-63AD-4EC2-9459-BA4D0C601521}
         RECPASS 13
         <SOURCE WAVE
-          FILE "C:\Users\Butbk\Music\REAPER\How Great Is Our God - Chris Tomlin - G - 76 BPM\Audio Files\04 - How Great Is Our God - Chris Tomlin - G - 76 BPM - EG - 013.wav"
+          FILE "/Music\REAPER\How Great Is Our God - Chris Tomlin - G - 76 BPM\Audio Files\04 - How Great Is Our God - Chris Tomlin - G - 76 BPM - EG - 013.wav"
         >
       >
     >
@@ -4603,7 +4603,7 @@
         GUID {547EA884-0DEC-4D5F-B183-82B2928C9177}
         RECPASS 14
         <SOURCE WAVE
-          FILE "C:\Users\Butbk\Music\REAPER\How Great Is Our God - Chris Tomlin - G - 76 BPM\Audio Files\05 - How Great Is Our God - Chris Tomlin - G - 76 BPM - EG - 014.wav"
+          FILE "/Music\REAPER\How Great Is Our God - Chris Tomlin - G - 76 BPM\Audio Files\05 - How Great Is Our God - Chris Tomlin - G - 76 BPM - EG - 014.wav"
         >
       >
     >
@@ -6567,7 +6567,7 @@
         GUID {E701BC0F-2344-4034-A531-8C60A3374904}
         RECPASS 15
         <SOURCE WAVE
-          FILE "C:\Users\Butbk\Music\REAPER\How Great Is Our God - Chris Tomlin - G - 76 BPM\Audio Files\06 - How Great Is Our God - Chris Tomlin - G - 76 BPM - EG - 015.wav"
+          FILE "/Music\REAPER\How Great Is Our God - Chris Tomlin - G - 76 BPM\Audio Files\06 - How Great Is Our God - Chris Tomlin - G - 76 BPM - EG - 015.wav"
         >
       >
     >
@@ -8531,7 +8531,7 @@
         GUID {875F13AF-4525-43D9-A0C5-9CF171690598}
         RECPASS 16
         <SOURCE WAVE
-          FILE "C:\Users\Butbk\Music\REAPER\How Great Is Our God - Chris Tomlin - G - 76 BPM\Audio Files\07 - How Great Is Our God - Chris Tomlin - G - 76 BPM - EG - 016.wav"
+          FILE "/Music\REAPER\How Great Is Our God - Chris Tomlin - G - 76 BPM\Audio Files\07 - How Great Is Our God - Chris Tomlin - G - 76 BPM - EG - 016.wav"
         >
       >
     >
@@ -10495,7 +10495,7 @@
         GUID {6DBC12CB-BAE0-47F8-A8D4-EE2E83A13A11}
         RECPASS 17
         <SOURCE WAVE
-          FILE "C:\Users\Butbk\Music\REAPER\How Great Is Our God - Chris Tomlin - G - 76 BPM\Audio Files\08 - How Great Is Our God - Chris Tomlin - G - 76 BPM - EG - 017.wav"
+          FILE "/Music\REAPER\How Great Is Our God - Chris Tomlin - G - 76 BPM\Audio Files\08 - How Great Is Our God - Chris Tomlin - G - 76 BPM - EG - 017.wav"
         >
       >
       <ITEM {E3CB3DBC-2439-462C-819C-16998C7991CC}
@@ -10519,7 +10519,7 @@
         GUID {4C2B71D6-8B90-49DF-9F34-D42C5CB82BD8}
         RECPASS 18
         <SOURCE WAVE
-          FILE "C:\Users\Butbk\Music\REAPER\How Great Is Our God - Chris Tomlin - G - 76 BPM\Audio Files\08 - How Great Is Our God - Chris Tomlin - G - 76 BPM - EG - 018.wav"
+          FILE "/Music\REAPER\How Great Is Our God - Chris Tomlin - G - 76 BPM\Audio Files\08 - How Great Is Our God - Chris Tomlin - G - 76 BPM - EG - 018.wav"
         >
       >
     >
@@ -12484,7 +12484,7 @@
         GUID {AF033B4C-30BF-4999-B35E-6C3E2A3CEC7E}
         RECPASS 18
         <SOURCE WAVE
-          FILE "C:\Users\Butbk\Music\REAPER\How Great Is Our God - Chris Tomlin - G - 76 BPM\Audio Files\08 - How Great Is Our God - Chris Tomlin - G - 76 BPM - EG - 018.wav"
+          FILE "/Music\REAPER\How Great Is Our God - Chris Tomlin - G - 76 BPM\Audio Files\08 - How Great Is Our God - Chris Tomlin - G - 76 BPM - EG - 018.wav"
         >
       >
       <ITEM {64D0EAE3-FD09-4430-8415-5C84FEAC77BF}
@@ -12508,7 +12508,7 @@
         GUID {7280E830-BA9D-46A9-A972-E19A41080C52}
         RECPASS 18
         <SOURCE WAVE
-          FILE "C:\Users\Butbk\Music\REAPER\How Great Is Our God - Chris Tomlin - G - 76 BPM\Audio Files\08 - How Great Is Our God - Chris Tomlin - G - 76 BPM - EG - 018.wav"
+          FILE "/Music\REAPER\How Great Is Our God - Chris Tomlin - G - 76 BPM\Audio Files\08 - How Great Is Our God - Chris Tomlin - G - 76 BPM - EG - 018.wav"
         >
       >
     >
@@ -12918,7 +12918,7 @@
       CHANMODE 0
       GUID {83FCE5D2-10F7-43BF-B04C-29F703357AF6}
       <SOURCE WAVE
-        FILE "C:\Users\Butbk\Music\BICF Worship\Samples\TS-GRATIS-JAN-2018\TS GRATIS JAN 2018\TS ORGANIC PERC FREE\SHAKER TAMBO BRUSH LOOPS\80 DOWNBEAT ACCENT 16s SMOOTH SHAKER.wav"
+        FILE "/Music\BICF Worship\Samples\TS-GRATIS-JAN-2018\TS GRATIS JAN 2018\TS ORGANIC PERC FREE\SHAKER TAMBO BRUSH LOOPS\80 DOWNBEAT ACCENT 16s SMOOTH SHAKER.wav"
       >
     >
     <ITEM
@@ -12941,7 +12941,7 @@
       CHANMODE 0
       GUID {792E06B0-2211-432D-8662-6A6F05F718EA}
       <SOURCE WAVE
-        FILE "C:\Users\Butbk\Music\BICF Worship\Samples\TS-GRATIS-JAN-2018\TS GRATIS JAN 2018\TS ORGANIC PERC FREE\SHAKER TAMBO BRUSH LOOPS\80 DOWNBEAT ACCENT 16s SMOOTH SHAKER.wav"
+        FILE "/Music\BICF Worship\Samples\TS-GRATIS-JAN-2018\TS GRATIS JAN 2018\TS ORGANIC PERC FREE\SHAKER TAMBO BRUSH LOOPS\80 DOWNBEAT ACCENT 16s SMOOTH SHAKER.wav"
       >
     >
     <ITEM
@@ -12964,7 +12964,7 @@
       CHANMODE 0
       GUID {73AB4C44-B365-4444-ABCE-44CF17E142D1}
       <SOURCE WAVE
-        FILE "C:\Users\Butbk\Music\BICF Worship\Samples\TS-GRATIS-JAN-2018\TS GRATIS JAN 2018\TS ORGANIC PERC FREE\SHAKER TAMBO BRUSH LOOPS\80 DOWNBEAT ACCENT 16s SMOOTH SHAKER.wav"
+        FILE "/Music\BICF Worship\Samples\TS-GRATIS-JAN-2018\TS GRATIS JAN 2018\TS ORGANIC PERC FREE\SHAKER TAMBO BRUSH LOOPS\80 DOWNBEAT ACCENT 16s SMOOTH SHAKER.wav"
       >
     >
   >
@@ -13011,7 +13011,7 @@
       CHANMODE 0
       GUID {9F844F9F-F36B-4440-B9C8-0E4A2B6B06CF}
       <SOURCE WAVE
-        FILE "C:\Users\Butbk\Music\BICF Worship\Samples\SHAKE\Loops\Tambourine 100bpm On Accents.wav"
+        FILE "/Music\BICF Worship\Samples\SHAKE\Loops\Tambourine 100bpm On Accents.wav"
       >
     >
   >

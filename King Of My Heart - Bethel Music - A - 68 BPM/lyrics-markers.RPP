@@ -28,7 +28,7 @@
   >
   <APPLYFX_CFG
   >
-  RENDER_FILE /home/butbkadrug/Music/RENDERS/
+  RENDER_FILE /Music/RENDERS/
   RENDER_PATTERN $project
   RENDER_FMT 0 2 44100
   RENDER_1X 0
@@ -215,7 +215,7 @@
         VOL 1 1
         BEATLEN 4
         FREQ 1500 1300 3
-        SAMPLES "/home/butbkadrug/Music/Assets/Clicks/New Click -  Blip-accents.wav" "/home/butbkadrug/Music/Assets/Clicks/New Click -  Blip-sixteenth.wav"
+        SAMPLES "/Music/Assets/Clicks/New Click -  Blip-accents.wav" "/Music/Assets/Clicks/New Click -  Blip-sixteenth.wav"
         SPLIGNORE 0 0
         SPLDEF 2 660 "" 0
         SPLDEF 3 440 "" 0

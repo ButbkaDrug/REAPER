@@ -233,7 +233,7 @@
         VOL 1 1
         FREQ 800 1600 1
         BEATLEN 4
-        SAMPLES "/mnt/win10/Users/butbkadrug/Music/Assets/Clicks/New Click -  Blip-accents.wav" "/mnt/win10/Users/butbkadrug/Music/Assets/Clicks/New Click -  Blip-sixteenth.wav"
+        SAMPLES "/Music/Assets/Clicks/New Click -  Blip-accents.wav" "/Music/Assets/Clicks/New Click -  Blip-sixteenth.wav"
         PATTERN 2863311530 2863311529
         MULT 1
       >
@@ -328,7 +328,7 @@
       CHANMODE 0
       GUID {14921D93-17B5-B338-78DF-F1E8395E8C99}
       <SOURCE WAVE
-        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - Intro.wav"
+        FILE "/Music/Assets/Cues/English Female - Intro.wav"
       >
     >
     <ITEM
@@ -549,7 +549,7 @@
       CHANMODE 0
       GUID {93855E5B-FBBF-6E24-22C5-A46C2961D682}
       <SOURCE WAVE
-        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - Softly.wav"
+        FILE "/Music/Assets/Cues/English Female - Softly.wav"
       >
     >
     <ITEM
@@ -792,7 +792,7 @@
       CHANMODE 0
       GUID {66E7D89D-861E-718C-0BCE-C1BDE4231DDC}
       <SOURCE WAVE
-        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - All In.wav"
+        FILE "/Music/Assets/Cues/English Female - All In.wav"
       >
     >
     <ITEM
@@ -1299,7 +1299,7 @@
       CHANMODE 0
       GUID {D01C6DFC-9E18-D5B3-3C0F-3CE99942CA99}
       <SOURCE WAVE
-        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - Breakdown.wav"
+        FILE "/Music/Assets/Cues/English Female - Breakdown.wav"
       >
     >
     <ITEM
@@ -1435,7 +1435,7 @@
       GUID {393CDD87-B385-8956-D941-69072F9D7E8A}
       <SOURCE VIDEO
         FLIP 0 1
-        FILE "/home/butbkadrug/Downloads/25931895.m4a"
+        FILE "/Downloads/25931895.m4a"
       >
     >
   >
@@ -1482,7 +1482,7 @@
       CHANMODE 0
       GUID {79603552-3D8B-6810-6CB6-ECA2CC759D6B}
       <SOURCE MP3
-        FILE "/home/butbkadrug/Downloads/25931895 [vocals].mp3" 1
+        FILE "/Downloads/25931895 [vocals].mp3" 1
       >
     >
   >

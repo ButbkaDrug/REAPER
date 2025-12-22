@@ -28,7 +28,7 @@
   >
   <APPLYFX_CFG
   >
-  RENDER_FILE "/home/butbkadrug/Music/RENDERS//You Are My Peace - Housefires - A - 76 BPM(Drums only).mp3"
+  RENDER_FILE "/Music/RENDERS//You Are My Peace - Housefires - A - 76 BPM(Drums only).mp3"
   RENDER_FMT 0 2 44100
   RENDER_1X 0
   RENDER_RANGE 1 0 0 18 1000
@@ -235,7 +235,7 @@
         VOL 1 1
         FREQ 800 1600 1
         BEATLEN 4
-        SAMPLES "/home/butbkadrug/Music/Assets/Clicks/New Click -  Blip-accents.wav" "/home/butbkadrug/Music/Assets/Clicks/New Click -  Blip-sixteenth.wav"
+        SAMPLES "/Music/Assets/Clicks/New Click -  Blip-accents.wav" "/Music/Assets/Clicks/New Click -  Blip-sixteenth.wav"
         PATTERN 2863311530 2863311529
         MULT 2
       >
@@ -331,7 +331,7 @@
       CHANMODE 0
       GUID {A67439B3-3671-D210-BCA2-2F5EF78DE21A}
       <SOURCE MP3
-        FILE "/home/butbkadrug/Downloads/Housefires - You Are My Peace  (feat. Nate Moore).mp3" 1
+        FILE "/Downloads/Housefires - You Are My Peace  (feat. Nate Moore).mp3" 1
       >
     >
   >
@@ -20462,7 +20462,7 @@
       CHANMODE 0
       GUID {44BAE8F2-E640-093A-4C12-B1520FA1EAB8}
       <SOURCE MP3
-        FILE "/home/butbkadrug/Music/You-Are-My-Peace/bass.mp3" 1
+        FILE "/Music/You-Are-My-Peace/bass.mp3" 1
       >
     >
     <ITEM
@@ -24241,7 +24241,7 @@
       CHANMODE 0
       GUID {447B3978-6184-0B90-08CA-F637D1DF5947}
       <SOURCE MP3
-        FILE "/home/butbkadrug/Music/You-Are-My-Peace/drums.mp3" 1
+        FILE "/Music/You-Are-My-Peace/drums.mp3" 1
       >
     >
     <ITEM
@@ -24263,7 +24263,7 @@
       CHANMODE 0
       GUID {981406A9-79F4-01EC-2B63-996BA712F0D4}
       <SOURCE MP3
-        FILE "/home/butbkadrug/Music/You-Are-My-Peace/drums.mp3" 1
+        FILE "/Music/You-Are-My-Peace/drums.mp3" 1
       >
     >
     <ITEM
@@ -24285,7 +24285,7 @@
       CHANMODE 0
       GUID {981E08D2-DF3D-8385-F359-5242E6F8E21C}
       <SOURCE MP3
-        FILE "/home/butbkadrug/Music/You-Are-My-Peace/drums.mp3" 1
+        FILE "/Music/You-Are-My-Peace/drums.mp3" 1
       >
     >
   >
@@ -24331,7 +24331,7 @@
       CHANMODE 0
       GUID {14C10382-8F6C-376F-7FC7-F026B99E1BB8}
       <SOURCE MP3
-        FILE "/home/butbkadrug/Music/You-Are-My-Peace/other.mp3" 1
+        FILE "/Music/You-Are-My-Peace/other.mp3" 1
       >
     >
     <ITEM
@@ -24353,7 +24353,7 @@
       CHANMODE 0
       GUID {4070F280-0FE0-7379-EF81-AF996A589F94}
       <SOURCE MP3
-        FILE "/home/butbkadrug/Music/You-Are-My-Peace/other.mp3" 1
+        FILE "/Music/You-Are-My-Peace/other.mp3" 1
       >
     >
     <ITEM
@@ -24375,7 +24375,7 @@
       CHANMODE 0
       GUID {9E8677F1-4941-CE71-976E-CE10A6EA1B8F}
       <SOURCE MP3
-        FILE "/home/butbkadrug/Music/You-Are-My-Peace/other.mp3" 1
+        FILE "/Music/You-Are-My-Peace/other.mp3" 1
       >
     >
   >
@@ -24421,7 +24421,7 @@
       CHANMODE 0
       GUID {2EB017E0-5441-6269-88ED-EDA1F1FCE1EE}
       <SOURCE MP3
-        FILE "/home/butbkadrug/Music/You-Are-My-Peace/vocals.mp3" 1
+        FILE "/Music/You-Are-My-Peace/vocals.mp3" 1
       >
     >
     <ITEM
@@ -24443,7 +24443,7 @@
       CHANMODE 0
       GUID {04E816F3-711E-9625-70C0-175E4DFAE77F}
       <SOURCE MP3
-        FILE "/home/butbkadrug/Music/You-Are-My-Peace/vocals.mp3" 1
+        FILE "/Music/You-Are-My-Peace/vocals.mp3" 1
       >
     >
     <ITEM
@@ -24465,7 +24465,7 @@
       CHANMODE 0
       GUID {727F1294-5860-FB3C-1A15-C496FA68C7A1}
       <SOURCE MP3
-        FILE "/home/butbkadrug/Music/You-Are-My-Peace/vocals.mp3" 1
+        FILE "/Music/You-Are-My-Peace/vocals.mp3" 1
       >
     >
   >

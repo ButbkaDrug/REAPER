@@ -202,7 +202,7 @@
         VOL 1 1
         FREQ 800 1600 1
         BEATLEN 4
-        SAMPLES "C:\Users\Butbk\Music\Click and Guide Samples\Click Tracks\New Click -  Blip-accents.wav" "C:\Users\Butbk\Music\Click and Guide Samples\Click Tracks\New Click -  Blip-sixteenth.wav"
+        SAMPLES "/Music\Click and Guide Samples\Click Tracks\New Click -  Blip-accents.wav" "/Music\Click and Guide Samples\Click Tracks\New Click -  Blip-sixteenth.wav"
         PATTERN 2863311530 2863311529
         MULT 2
       >
@@ -232,7 +232,7 @@
         VOL 1 1
         FREQ 800 1600 1
         BEATLEN 4
-        SAMPLES "C:\Users\Butbk\Music\Click and Guide Samples\Click Tracks\New Click -  Blip-accents.wav" "C:\Users\Butbk\Music\Click and Guide Samples\Click Tracks\New Click -  Blip-sixteenth.wav"
+        SAMPLES "/Music\Click and Guide Samples\Click Tracks\New Click -  Blip-accents.wav" "/Music\Click and Guide Samples\Click Tracks\New Click -  Blip-sixteenth.wav"
         PATTERN 2863311530 2863311529
         MULT 2
       >
@@ -262,7 +262,7 @@
         VOL 1 1
         FREQ 800 1600 1
         BEATLEN 4
-        SAMPLES "C:\Users\Butbk\Music\Click and Guide Samples\Click Tracks\New Click -  Blip-accents.wav" "C:\Users\Butbk\Music\Click and Guide Samples\Click Tracks\New Click -  Blip-sixteenth.wav"
+        SAMPLES "/Music\Click and Guide Samples\Click Tracks\New Click -  Blip-accents.wav" "/Music\Click and Guide Samples\Click Tracks\New Click -  Blip-sixteenth.wav"
         PATTERN 2863311530 2863311529
         MULT 2
       >
@@ -292,7 +292,7 @@
         VOL 1 1
         FREQ 800 1600 1
         BEATLEN 4
-        SAMPLES "C:\Users\Butbk\Music\Click and Guide Samples\Click Tracks\New Click -  Blip-accents.wav" "C:\Users\Butbk\Music\Click and Guide Samples\Click Tracks\New Click -  Blip-sixteenth.wav"
+        SAMPLES "/Music\Click and Guide Samples\Click Tracks\New Click -  Blip-accents.wav" "/Music\Click and Guide Samples\Click Tracks\New Click -  Blip-sixteenth.wav"
         PATTERN 2863311530 2863311529
         MULT 2
       >
@@ -322,7 +322,7 @@
         VOL 1 1
         FREQ 800 1600 1
         BEATLEN 4
-        SAMPLES "C:\Users\Butbk\Music\Click and Guide Samples\Click Tracks\New Click -  Blip-accents.wav" "C:\Users\Butbk\Music\Click and Guide Samples\Click Tracks\New Click -  Blip-sixteenth.wav"
+        SAMPLES "/Music\Click and Guide Samples\Click Tracks\New Click -  Blip-accents.wav" "/Music\Click and Guide Samples\Click Tracks\New Click -  Blip-sixteenth.wav"
         PATTERN 2863311530 2863311529
         MULT 2
       >
@@ -352,7 +352,7 @@
         VOL 1 1
         FREQ 800 1600 1
         BEATLEN 4
-        SAMPLES "C:\Users\Butbk\Music\Click and Guide Samples\Click Tracks\New Click -  Blip-accents.wav" "C:\Users\Butbk\Music\Click and Guide Samples\Click Tracks\New Click -  Blip-sixteenth.wav"
+        SAMPLES "/Music\Click and Guide Samples\Click Tracks\New Click -  Blip-accents.wav" "/Music\Click and Guide Samples\Click Tracks\New Click -  Blip-sixteenth.wav"
         PATTERN 2863311530 2863311529
         MULT 2
       >
@@ -382,7 +382,7 @@
         VOL 1 1
         FREQ 800 1600 1
         BEATLEN 4
-        SAMPLES "C:\Users\Butbk\Music\Click and Guide Samples\Click Tracks\New Click -  Blip-accents.wav" "C:\Users\Butbk\Music\Click and Guide Samples\Click Tracks\New Click -  Blip-sixteenth.wav"
+        SAMPLES "/Music\Click and Guide Samples\Click Tracks\New Click -  Blip-accents.wav" "/Music\Click and Guide Samples\Click Tracks\New Click -  Blip-sixteenth.wav"
         PATTERN 2863311530 2863311529
         MULT 2
       >
@@ -412,7 +412,7 @@
         VOL 1 1
         FREQ 800 1600 1
         BEATLEN 4
-        SAMPLES "C:\Users\Butbk\Music\Click and Guide Samples\Click Tracks\New Click -  Blip-accents.wav" "C:\Users\Butbk\Music\Click and Guide Samples\Click Tracks\New Click -  Blip-sixteenth.wav"
+        SAMPLES "/Music\Click and Guide Samples\Click Tracks\New Click -  Blip-accents.wav" "/Music\Click and Guide Samples\Click Tracks\New Click -  Blip-sixteenth.wav"
         PATTERN 2863311530 2863311529
         MULT 2
       >
@@ -442,7 +442,7 @@
         VOL 1 1
         FREQ 800 1600 1
         BEATLEN 4
-        SAMPLES "C:\Users\Butbk\Music\Click and Guide Samples\Click Tracks\New Click -  Blip-accents.wav" "C:\Users\Butbk\Music\Click and Guide Samples\Click Tracks\New Click -  Blip-sixteenth.wav"
+        SAMPLES "/Music\Click and Guide Samples\Click Tracks\New Click -  Blip-accents.wav" "/Music\Click and Guide Samples\Click Tracks\New Click -  Blip-sixteenth.wav"
         PATTERN 2863311530 2863311529
         MULT 2
       >
@@ -472,7 +472,7 @@
         VOL 1 1
         FREQ 800 1600 1
         BEATLEN 4
-        SAMPLES "C:\Users\Butbk\Music\Click and Guide Samples\Click Tracks\New Click -  Blip-accents.wav" "C:\Users\Butbk\Music\Click and Guide Samples\Click Tracks\New Click -  Blip-sixteenth.wav"
+        SAMPLES "/Music\Click and Guide Samples\Click Tracks\New Click -  Blip-accents.wav" "/Music\Click and Guide Samples\Click Tracks\New Click -  Blip-sixteenth.wav"
         PATTERN 2863311530 2863311529
         MULT 2
       >
@@ -521,7 +521,7 @@
       CHANMODE 0
       GUID {BA0A90B5-87B4-4E80-A8BB-F6FA10F6A696}
       <SOURCE WAVE
-        FILE "C:\Users\Butbk\Music\Click and Guide Samples\English Guides\Song Sections\English Female - 1.wav"
+        FILE "/Music\Click and Guide Samples\English Guides\Song Sections\English Female - 1.wav"
       >
     >
     <ITEM
@@ -544,7 +544,7 @@
       CHANMODE 0
       GUID {19311CE4-158F-477D-B871-2ABD68EAD2DF}
       <SOURCE WAVE
-        FILE "C:\Users\Butbk\Music\Click and Guide Samples\English Guides\Song Sections\English Female - 2.wav"
+        FILE "/Music\Click and Guide Samples\English Guides\Song Sections\English Female - 2.wav"
       >
     >
     <ITEM
@@ -567,7 +567,7 @@
       CHANMODE 0
       GUID {181BEF56-9624-4981-953C-3A32DC824C6B}
       <SOURCE WAVE
-        FILE "C:\Users\Butbk\Music\Click and Guide Samples\English Guides\Song Sections\English Female - 3.wav"
+        FILE "/Music\Click and Guide Samples\English Guides\Song Sections\English Female - 3.wav"
       >
     >
     <ITEM
@@ -590,7 +590,7 @@
       CHANMODE 0
       GUID {4E243DAF-C6D3-4D99-A4EC-633C95EF3CE0}
       <SOURCE WAVE
-        FILE "C:\Users\Butbk\Music\Click and Guide Samples\English Guides\Song Sections\English Female - 4.wav"
+        FILE "/Music\Click and Guide Samples\English Guides\Song Sections\English Female - 4.wav"
       >
     >
     <ITEM
@@ -613,7 +613,7 @@
       CHANMODE 0
       GUID {6FFCB5F1-2055-4612-9448-9252835A54BC}
       <SOURCE WAVE
-        FILE "C:\Users\Butbk\Music\Click and Guide Samples\English Guides\Song Sections\English Female - Verse.wav"
+        FILE "/Music\Click and Guide Samples\English Guides\Song Sections\English Female - Verse.wav"
       >
     >
     <ITEM
@@ -636,7 +636,7 @@
       CHANMODE 0
       GUID {059C9BED-9FEF-415A-BCA3-79EE8BC99EA7}
       <SOURCE WAVE
-        FILE "C:\Users\Butbk\Music\Click and Guide Samples\English Guides\Song Sections\English Female - Verse.wav"
+        FILE "/Music\Click and Guide Samples\English Guides\Song Sections\English Female - Verse.wav"
       >
     >
     <ITEM
@@ -659,7 +659,7 @@
       CHANMODE 0
       GUID {AC6E82FD-6955-456A-AB5B-59DEC478015C}
       <SOURCE WAVE
-        FILE "C:\Users\Butbk\Music\Click and Guide Samples\English Guides\Song Sections\English Female - Chorus.wav"
+        FILE "/Music\Click and Guide Samples\English Guides\Song Sections\English Female - Chorus.wav"
       >
     >
     <ITEM
@@ -682,7 +682,7 @@
       CHANMODE 0
       GUID {4C07068B-1B25-4046-911E-4D0F7B135ACB}
       <SOURCE WAVE
-        FILE "C:\Users\Butbk\Music\Click and Guide Samples\English Guides\Song Sections\English Female - Interlude.wav"
+        FILE "/Music\Click and Guide Samples\English Guides\Song Sections\English Female - Interlude.wav"
       >
     >
     <ITEM
@@ -705,7 +705,7 @@
       CHANMODE 0
       GUID {6AEA3A1E-E3F0-4BF6-9A0F-C20DC1727FB5}
       <SOURCE WAVE
-        FILE "C:\Users\Butbk\Music\Click and Guide Samples\English Guides\Song Sections\English Female - Verse.wav"
+        FILE "/Music\Click and Guide Samples\English Guides\Song Sections\English Female - Verse.wav"
       >
     >
     <ITEM
@@ -728,7 +728,7 @@
       CHANMODE 0
       GUID {4D6C613B-B130-43A8-96DF-1F9E3B59E5CC}
       <SOURCE WAVE
-        FILE "C:\Users\Butbk\Music\Click and Guide Samples\English Guides\Song Sections\English Female - Chorus.wav"
+        FILE "/Music\Click and Guide Samples\English Guides\Song Sections\English Female - Chorus.wav"
       >
     >
     <ITEM
@@ -750,7 +750,7 @@
       CHANMODE 0
       GUID {25629654-8E69-46E7-90CC-1A385FC84CB5}
       <SOURCE WAVE
-        FILE "C:\Users\Butbk\Music\Click and Guide Samples\English Guides\Song Sections\English Female - Interlude.wav"
+        FILE "/Music\Click and Guide Samples\English Guides\Song Sections\English Female - Interlude.wav"
       >
     >
     <ITEM
@@ -773,7 +773,7 @@
       CHANMODE 0
       GUID {66491FCC-D532-49D0-B9E9-D432EBC006EE}
       <SOURCE WAVE
-        FILE "C:\Users\Butbk\Music\Click and Guide Samples\English Guides\Song Sections\English Female - Verse.wav"
+        FILE "/Music\Click and Guide Samples\English Guides\Song Sections\English Female - Verse.wav"
       >
     >
     <ITEM
@@ -796,7 +796,7 @@
       CHANMODE 0
       GUID {0A3BA234-1F64-4100-812A-4BDDC2BB617C}
       <SOURCE WAVE
-        FILE "C:\Users\Butbk\Music\Click and Guide Samples\English Guides\Song Sections\English Female - Chorus.wav"
+        FILE "/Music\Click and Guide Samples\English Guides\Song Sections\English Female - Chorus.wav"
       >
     >
     <ITEM
@@ -818,7 +818,7 @@
       CHANMODE 0
       GUID {446F04B8-9AA4-474D-A175-F672163C81D7}
       <SOURCE WAVE
-        FILE "C:\Users\Butbk\Music\Click and Guide Samples\English Guides\Song Sections\English Female - Interlude.wav"
+        FILE "/Music\Click and Guide Samples\English Guides\Song Sections\English Female - Interlude.wav"
       >
     >
     <ITEM
@@ -840,7 +840,7 @@
       CHANMODE 0
       GUID {DE9FD7BD-3935-4465-8C9B-E4C56E304434}
       <SOURCE WAVE
-        FILE "C:\Users\Butbk\Music\Click and Guide Samples\English Guides\Song Sections\English Female - Verse.wav"
+        FILE "/Music\Click and Guide Samples\English Guides\Song Sections\English Female - Verse.wav"
       >
     >
     <ITEM
@@ -862,7 +862,7 @@
       CHANMODE 0
       GUID {202370FF-FBDD-460C-AF5B-2628DAB543D1}
       <SOURCE WAVE
-        FILE "C:\Users\Butbk\Music\Click and Guide Samples\English Guides\Song Sections\English Female - Chorus.wav"
+        FILE "/Music\Click and Guide Samples\English Guides\Song Sections\English Female - Chorus.wav"
       >
     >
     <ITEM
@@ -884,7 +884,7 @@
       CHANMODE 0
       GUID {563B7015-521F-4EB2-82A7-8885B8DC151B}
       <SOURCE WAVE
-        FILE "C:\Users\Butbk\Music\Click and Guide Samples\English Guides\Song Sections\English Female - Chorus.wav"
+        FILE "/Music\Click and Guide Samples\English Guides\Song Sections\English Female - Chorus.wav"
       >
     >
     <ITEM
@@ -906,7 +906,7 @@
       CHANMODE 0
       GUID {6DFA9225-8976-485C-B82E-4658DA5C129B}
       <SOURCE WAVE
-        FILE "C:\Users\Butbk\Music\Click and Guide Samples\English Guides\Song Sections\English Female - Interlude.wav"
+        FILE "/Music\Click and Guide Samples\English Guides\Song Sections\English Female - Interlude.wav"
       >
     >
     <ITEM
@@ -928,7 +928,7 @@
       CHANMODE 0
       GUID {3871803C-FDBE-4DA5-859C-CBCECA322326}
       <SOURCE WAVE
-        FILE "C:\Users\Butbk\Music\Click and Guide Samples\English Guides\Song Sections\English Female - Ending.wav"
+        FILE "/Music\Click and Guide Samples\English Guides\Song Sections\English Female - Ending.wav"
       >
     >
   >
@@ -4415,7 +4415,7 @@
         GUID {F7580315-6C34-414E-A128-B796A779D85B}
         RECPASS 7
         <SOURCE WAVE
-          FILE "C:\Users\Butbk\Music\REAPER\More Love More Power - Em - 71 BPM\Audio Files\06 - More Love More Power - Em - 71 BPM(Matt) - L - 007.wav"
+          FILE "/Music\REAPER\More Love More Power - Em - 71 BPM\Audio Files\06 - More Love More Power - Em - 71 BPM(Matt) - L - 007.wav"
         >
       >
       <ITEM {927C3A06-CB59-4947-8F45-3E425E20DDB4}
@@ -4438,7 +4438,7 @@
         GUID {D712325A-A7B6-434D-9523-FFEB35CE042D}
         RECPASS 8
         <SOURCE WAVE
-          FILE "C:\Users\Butbk\Music\REAPER\More Love More Power - Em - 71 BPM\Audio Files\06 - More Love More Power - Em - 71 BPM(Matt) - L - 008.wav"
+          FILE "/Music\REAPER\More Love More Power - Em - 71 BPM\Audio Files\06 - More Love More Power - Em - 71 BPM(Matt) - L - 008.wav"
         >
       >
       <ITEM {C31B504F-E922-4E33-8E26-A04C7E9B882A}
@@ -4461,7 +4461,7 @@
         GUID {D16BC53A-32E3-491B-964C-976C8B34F945}
         RECPASS 11
         <SOURCE WAVE
-          FILE "C:\Users\Butbk\Music\REAPER\More Love More Power - Em - 71 BPM\Audio Files\06 - More Love More Power - Em - 71 BPM(Matt) - L - 011.wav"
+          FILE "/Music\REAPER\More Love More Power - Em - 71 BPM\Audio Files\06 - More Love More Power - Em - 71 BPM(Matt) - L - 011.wav"
         >
       >
       <ITEM {C371EC3F-D46C-48B8-84D3-59D591A25256}
@@ -4484,7 +4484,7 @@
         GUID {8FFA25B0-4BCB-4F95-832E-D7ED89DABC0F}
         RECPASS 12
         <SOURCE WAVE
-          FILE "C:\Users\Butbk\Music\REAPER\More Love More Power - Em - 71 BPM\Audio Files\06 - More Love More Power - Em - 71 BPM(Matt) - L - 012.wav"
+          FILE "/Music\REAPER\More Love More Power - Em - 71 BPM\Audio Files\06 - More Love More Power - Em - 71 BPM(Matt) - L - 012.wav"
         >
       >
       <ITEM {784B91FC-4E31-48E5-B046-3077FF50AA54}
@@ -4507,7 +4507,7 @@
         GUID {CAC4F12F-DE0A-43DA-85B3-F88DDE68F448}
         RECPASS 18
         <SOURCE WAVE
-          FILE "C:\Users\Butbk\Music\REAPER\More Love More Power - Em - 71 BPM\Audio Files\06 - More Love More Power - Em - 71 BPM(Matt) - L - 018.wav"
+          FILE "/Music\REAPER\More Love More Power - Em - 71 BPM\Audio Files\06 - More Love More Power - Em - 71 BPM(Matt) - L - 018.wav"
         >
       >
     >
@@ -6556,7 +6556,7 @@
         GUID {73E9AB7B-15AA-465E-8D87-7C3073F0DE01}
         RECPASS 9
         <SOURCE WAVE
-          FILE "C:\Users\Butbk\Music\REAPER\More Love More Power - Em - 71 BPM\Audio Files\07 - More Love More Power - Em - 71 BPM(Matt) - R - 009.wav"
+          FILE "/Music\REAPER\More Love More Power - Em - 71 BPM\Audio Files\07 - More Love More Power - Em - 71 BPM(Matt) - R - 009.wav"
         >
       >
       <ITEM {95D5B7E4-14CC-4104-9C96-DB9825C35A44}
@@ -6579,7 +6579,7 @@
         GUID {B6D31BD8-8FD9-4C35-9175-15BF9C2B7496}
         RECPASS 10
         <SOURCE WAVE
-          FILE "C:\Users\Butbk\Music\REAPER\More Love More Power - Em - 71 BPM\Audio Files\07 - More Love More Power - Em - 71 BPM(Matt) - R - 010.wav"
+          FILE "/Music\REAPER\More Love More Power - Em - 71 BPM\Audio Files\07 - More Love More Power - Em - 71 BPM(Matt) - R - 010.wav"
         >
       >
       <ITEM {734A4377-B412-4B93-A8E4-C56DF020950D}
@@ -6602,7 +6602,7 @@
         GUID {4C005548-D710-4BCA-9104-71E3AEFF7AC3}
         RECPASS 15
         <SOURCE WAVE
-          FILE "C:\Users\Butbk\Music\REAPER\More Love More Power - Em - 71 BPM\Audio Files\07 - More Love More Power - Em - 71 BPM(Matt) - R - 015.wav"
+          FILE "/Music\REAPER\More Love More Power - Em - 71 BPM\Audio Files\07 - More Love More Power - Em - 71 BPM(Matt) - R - 015.wav"
         >
       >
       <ITEM {1DD69B95-41FE-4552-B4DA-85DE7EDBE873}
@@ -6625,7 +6625,7 @@
         GUID {60822108-19AA-477A-BA48-A811414D49BD}
         RECPASS 17
         <SOURCE WAVE
-          FILE "C:\Users\Butbk\Music\REAPER\More Love More Power - Em - 71 BPM\Audio Files\07 - More Love More Power - Em - 71 BPM(Matt) - R - 017.wav"
+          FILE "/Music\REAPER\More Love More Power - Em - 71 BPM\Audio Files\07 - More Love More Power - Em - 71 BPM(Matt) - R - 017.wav"
         >
       >
     >

@@ -33,7 +33,7 @@
   >
   <APPLYFX_CFG
   >
-  RENDER_FILE "/home/butbkadrug/Music/RENDERS/\Gloria (Angels We Have Heard On High) - Hillsong Worship - F - 93.mp3"
+  RENDER_FILE "/Music/RENDERS/\Gloria (Angels We Have Heard On High) - Hillsong Worship - F - 93.mp3"
   RENDER_FMT 0 2 44100
   RENDER_1X 0
   RENDER_RANGE 1 0 0 18 1000
@@ -55,7 +55,7 @@
     VOL 0.31308 0.098019
     FREQ 6000 5000 3
     BEATLEN 10
-    SAMPLES "/home/butbkadrug/Music/Assets/Clicks/New Click -  Blip-accents.wav" "/home/butbkadrug/Music/Assets/Clicks/New Click -  Blip-sixteenth.wav"
+    SAMPLES "/Music/Assets/Clicks/New Click -  Blip-accents.wav" "/Music/Assets/Clicks/New Click -  Blip-sixteenth.wav"
     PATTERN 2863311530 2863311529
     MULT 2
   >

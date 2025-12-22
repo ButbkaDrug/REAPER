@@ -229,7 +229,7 @@
         VOL 1 1
         BEATLEN 4
         FREQ 800 1600 1
-        SAMPLES "/home/butbkadrug/Music/Assets/Clicks/New Click -  Blip-accents.wav" "/home/butbkadrug/Music/Assets/Clicks/New Click -  Blip-sixteenth.wav"
+        SAMPLES "/Music/Assets/Clicks/New Click -  Blip-accents.wav" "/Music/Assets/Clicks/New Click -  Blip-sixteenth.wav"
         SPLIGNORE 0 0
         SPLDEF 2 660 "" 0
         SPLDEF 3 440 "" 0
@@ -288,7 +288,7 @@
       CHANMODE 0
       GUID {F9809FB2-0BBB-4A18-8AC8-911EE0F4DBD1}
       <SOURCE WAVE
-        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 1.wav"
+        FILE "/Music/Assets/Cues/English Female - 1.wav"
       >
     >
     <ITEM
@@ -310,7 +310,7 @@
       CHANMODE 0
       GUID {D53C4B20-7E63-4763-A0B1-697E57D0F519}
       <SOURCE WAVE
-        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 2.wav"
+        FILE "/Music/Assets/Cues/English Female - 2.wav"
       >
     >
     <ITEM
@@ -332,7 +332,7 @@
       CHANMODE 0
       GUID {6AE44A3F-66C3-4374-A57C-5581EF81245E}
       <SOURCE WAVE
-        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - Drums.wav"
+        FILE "/Music/Assets/Cues/English Female - Drums.wav"
       >
     >
     <ITEM
@@ -354,7 +354,7 @@
       CHANMODE 0
       GUID {477CD251-50D3-42D1-AB5E-9E266C939349}
       <SOURCE WAVE
-        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 2.wav"
+        FILE "/Music/Assets/Cues/English Female - 2.wav"
       >
     >
     <ITEM
@@ -376,7 +376,7 @@
       CHANMODE 0
       GUID {366B710E-D0E6-4354-959E-A07B8DA1ED94}
       <SOURCE WAVE
-        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 3.wav"
+        FILE "/Music/Assets/Cues/English Female - 3.wav"
       >
     >
     <ITEM
@@ -398,7 +398,7 @@
       CHANMODE 0
       GUID {FF1B4207-AD0F-47DA-8A0A-8B5FED8B8327}
       <SOURCE WAVE
-        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 4.wav"
+        FILE "/Music/Assets/Cues/English Female - 4.wav"
       >
     >
     <ITEM
@@ -420,7 +420,7 @@
       CHANMODE 0
       GUID {0E23B310-9B97-43B7-8AC9-DB91B1BA020E}
       <SOURCE WAVE
-        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - Intro.wav"
+        FILE "/Music/Assets/Cues/English Female - Intro.wav"
       >
     >
     <ITEM
@@ -442,7 +442,7 @@
       CHANMODE 0
       GUID {BFA1C5F2-6B75-4D5D-8138-C568201DD3D9}
       <SOURCE WAVE
-        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 2.wav"
+        FILE "/Music/Assets/Cues/English Female - 2.wav"
       >
     >
     <ITEM
@@ -464,7 +464,7 @@
       CHANMODE 0
       GUID {382F5DAC-E14E-44AA-8764-593DF3432BA1}
       <SOURCE WAVE
-        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 3.wav"
+        FILE "/Music/Assets/Cues/English Female - 3.wav"
       >
     >
     <ITEM
@@ -486,7 +486,7 @@
       CHANMODE 0
       GUID {A2041B01-2A3D-40FD-B7E9-36AD3D1EB8D8}
       <SOURCE WAVE
-        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 4.wav"
+        FILE "/Music/Assets/Cues/English Female - 4.wav"
       >
     >
     <ITEM
@@ -508,7 +508,7 @@
       CHANMODE 0
       GUID {A729EDCB-85BD-498E-85EF-7A12CB6CF28D}
       <SOURCE WAVE
-        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - Verse 1.wav"
+        FILE "/Music/Assets/Cues/English Female - Verse 1.wav"
       >
     >
     <ITEM
@@ -530,7 +530,7 @@
       CHANMODE 0
       GUID {CB3D2BAE-D171-4D49-928F-F6AA5D6F0523}
       <SOURCE WAVE
-        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 2.wav"
+        FILE "/Music/Assets/Cues/English Female - 2.wav"
       >
     >
     <ITEM
@@ -552,7 +552,7 @@
       CHANMODE 0
       GUID {2886528D-4789-4E8E-B298-E3B766B3E021}
       <SOURCE WAVE
-        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 3.wav"
+        FILE "/Music/Assets/Cues/English Female - 3.wav"
       >
     >
     <ITEM
@@ -574,7 +574,7 @@
       CHANMODE 0
       GUID {EC0828A4-3A48-4557-9433-7007B416217C}
       <SOURCE WAVE
-        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 4.wav"
+        FILE "/Music/Assets/Cues/English Female - 4.wav"
       >
     >
     <ITEM
@@ -596,7 +596,7 @@
       CHANMODE 0
       GUID {C1A19827-DE57-49EE-B00E-1D0F73457167}
       <SOURCE WAVE
-        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - Interlude.wav"
+        FILE "/Music/Assets/Cues/English Female - Interlude.wav"
       >
     >
     <ITEM
@@ -618,7 +618,7 @@
       CHANMODE 0
       GUID {55BE00C6-557A-4D02-9223-289DB3EDF91D}
       <SOURCE WAVE
-        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 2.wav"
+        FILE "/Music/Assets/Cues/English Female - 2.wav"
       >
     >
     <ITEM
@@ -640,7 +640,7 @@
       CHANMODE 0
       GUID {5FBE5EFF-F874-4D90-9BEE-E1BE3EC97991}
       <SOURCE WAVE
-        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 3.wav"
+        FILE "/Music/Assets/Cues/English Female - 3.wav"
       >
     >
     <ITEM
@@ -662,7 +662,7 @@
       CHANMODE 0
       GUID {BF78D005-821F-4BDA-B5E6-6796AABB977B}
       <SOURCE WAVE
-        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 4.wav"
+        FILE "/Music/Assets/Cues/English Female - 4.wav"
       >
     >
     <ITEM
@@ -684,7 +684,7 @@
       CHANMODE 0
       GUID {8E1A16F3-70AE-4862-9D83-022FC6C5B997}
       <SOURCE WAVE
-        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - Verse 1.wav"
+        FILE "/Music/Assets/Cues/English Female - Verse 1.wav"
       >
     >
     <ITEM
@@ -706,7 +706,7 @@
       CHANMODE 0
       GUID {FF12CCC2-A99F-45A4-B86F-0CC3DE296D36}
       <SOURCE WAVE
-        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 2.wav"
+        FILE "/Music/Assets/Cues/English Female - 2.wav"
       >
     >
     <ITEM
@@ -728,7 +728,7 @@
       CHANMODE 0
       GUID {43AD9027-6AE4-440F-8EA0-1D7A29B8F96C}
       <SOURCE WAVE
-        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 3.wav"
+        FILE "/Music/Assets/Cues/English Female - 3.wav"
       >
     >
     <ITEM
@@ -750,7 +750,7 @@
       CHANMODE 0
       GUID {3D6BFB8C-B5ED-4671-85C5-E46810030DDF}
       <SOURCE WAVE
-        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 4.wav"
+        FILE "/Music/Assets/Cues/English Female - 4.wav"
       >
     >
     <ITEM
@@ -772,7 +772,7 @@
       CHANMODE 0
       GUID {F6BB9DF1-19B5-4077-AA1B-4F55964704B3}
       <SOURCE WAVE
-        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - Verse 2.wav"
+        FILE "/Music/Assets/Cues/English Female - Verse 2.wav"
       >
     >
     <ITEM
@@ -794,7 +794,7 @@
       CHANMODE 0
       GUID {5409FCF7-E087-4CDE-8466-DEDA01166858}
       <SOURCE WAVE
-        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 2.wav"
+        FILE "/Music/Assets/Cues/English Female - 2.wav"
       >
     >
     <ITEM
@@ -816,7 +816,7 @@
       CHANMODE 0
       GUID {9D543D1F-9C06-4273-BE69-54D7CF336913}
       <SOURCE WAVE
-        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 3.wav"
+        FILE "/Music/Assets/Cues/English Female - 3.wav"
       >
     >
     <ITEM
@@ -838,7 +838,7 @@
       CHANMODE 0
       GUID {221BB826-8C1A-416F-8DF9-B5F6564479F8}
       <SOURCE WAVE
-        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 4.wav"
+        FILE "/Music/Assets/Cues/English Female - 4.wav"
       >
     >
     <ITEM
@@ -860,7 +860,7 @@
       CHANMODE 0
       GUID {EEAAAECA-9435-4315-B8E1-6899BB0431B3}
       <SOURCE WAVE
-        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - Chorus.wav"
+        FILE "/Music/Assets/Cues/English Female - Chorus.wav"
       >
     >
     <ITEM
@@ -882,7 +882,7 @@
       CHANMODE 0
       GUID {279E0AF8-9E9E-4DD7-92A4-A07BB54552A3}
       <SOURCE WAVE
-        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 2.wav"
+        FILE "/Music/Assets/Cues/English Female - 2.wav"
       >
     >
     <ITEM
@@ -904,7 +904,7 @@
       CHANMODE 0
       GUID {4F19E841-87A4-499F-82F0-A6C50D915862}
       <SOURCE WAVE
-        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 3.wav"
+        FILE "/Music/Assets/Cues/English Female - 3.wav"
       >
     >
     <ITEM
@@ -926,7 +926,7 @@
       CHANMODE 0
       GUID {DA2768F7-6018-4748-87E8-7C3A28336BBF}
       <SOURCE WAVE
-        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 4.wav"
+        FILE "/Music/Assets/Cues/English Female - 4.wav"
       >
     >
     <ITEM
@@ -948,7 +948,7 @@
       CHANMODE 0
       GUID {63272FC7-0130-44B9-BFDF-F561B3FF63F6}
       <SOURCE WAVE
-        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - Verse 2.wav"
+        FILE "/Music/Assets/Cues/English Female - Verse 2.wav"
       >
     >
     <ITEM
@@ -970,7 +970,7 @@
       CHANMODE 0
       GUID {2D655D33-9F20-4BB9-BB9A-1870CB17E558}
       <SOURCE WAVE
-        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 2.wav"
+        FILE "/Music/Assets/Cues/English Female - 2.wav"
       >
     >
     <ITEM
@@ -992,7 +992,7 @@
       CHANMODE 0
       GUID {8FCE6DEA-8108-4694-9C40-6BB5191048BD}
       <SOURCE WAVE
-        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 3.wav"
+        FILE "/Music/Assets/Cues/English Female - 3.wav"
       >
     >
     <ITEM
@@ -1014,7 +1014,7 @@
       CHANMODE 0
       GUID {D2593134-14A7-4726-A04B-F8FBA3C0871D}
       <SOURCE WAVE
-        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 4.wav"
+        FILE "/Music/Assets/Cues/English Female - 4.wav"
       >
     >
     <ITEM
@@ -1036,7 +1036,7 @@
       CHANMODE 0
       GUID {38A1FA52-1C23-47E3-BB26-1FB0640C4450}
       <SOURCE WAVE
-        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - Chorus.wav"
+        FILE "/Music/Assets/Cues/English Female - Chorus.wav"
       >
     >
     <ITEM
@@ -1058,7 +1058,7 @@
       CHANMODE 0
       GUID {4382EC12-14DA-4817-92BF-4B207F0E7F57}
       <SOURCE WAVE
-        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 2.wav"
+        FILE "/Music/Assets/Cues/English Female - 2.wav"
       >
     >
     <ITEM
@@ -1080,7 +1080,7 @@
       CHANMODE 0
       GUID {77198B2F-4677-405D-A217-2354BB9C3D2E}
       <SOURCE WAVE
-        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 3.wav"
+        FILE "/Music/Assets/Cues/English Female - 3.wav"
       >
     >
     <ITEM
@@ -1102,7 +1102,7 @@
       CHANMODE 0
       GUID {D94D46E6-741D-4E3E-922B-ACDCDE7026BC}
       <SOURCE WAVE
-        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 4.wav"
+        FILE "/Music/Assets/Cues/English Female - 4.wav"
       >
     >
     <ITEM
@@ -1124,7 +1124,7 @@
       CHANMODE 0
       GUID {66F7B2F9-073E-462A-9CD8-EDC531B38B86}
       <SOURCE WAVE
-        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - Chorus.wav"
+        FILE "/Music/Assets/Cues/English Female - Chorus.wav"
       >
     >
     <ITEM
@@ -1146,7 +1146,7 @@
       CHANMODE 0
       GUID {6233DAA3-5B28-462A-A629-FEC01A207663}
       <SOURCE WAVE
-        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 2.wav"
+        FILE "/Music/Assets/Cues/English Female - 2.wav"
       >
     >
     <ITEM
@@ -1168,7 +1168,7 @@
       CHANMODE 0
       GUID {0674AC70-3E4C-49DD-B2F7-9B0BBB856D41}
       <SOURCE WAVE
-        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 3.wav"
+        FILE "/Music/Assets/Cues/English Female - 3.wav"
       >
     >
     <ITEM
@@ -1190,7 +1190,7 @@
       CHANMODE 0
       GUID {D43CF8EE-093A-45AC-8245-8867CA6B4FDE}
       <SOURCE WAVE
-        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 4.wav"
+        FILE "/Music/Assets/Cues/English Female - 4.wav"
       >
     >
     <ITEM
@@ -1212,7 +1212,7 @@
       CHANMODE 0
       GUID {C6572F08-F1F9-4A42-909C-892FD471FCBE}
       <SOURCE WAVE
-        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - Instrumental.wav"
+        FILE "/Music/Assets/Cues/English Female - Instrumental.wav"
       >
     >
     <ITEM
@@ -1234,7 +1234,7 @@
       CHANMODE 0
       GUID {DCF68126-F9A2-4C71-A1D9-1A88879AE868}
       <SOURCE WAVE
-        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - Breakdown.wav"
+        FILE "/Music/Assets/Cues/English Female - Breakdown.wav"
       >
     >
     <ITEM
@@ -1256,7 +1256,7 @@
       CHANMODE 0
       GUID {B49FEE50-5459-4C93-A52D-4B7076940FAB}
       <SOURCE WAVE
-        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - Build.wav"
+        FILE "/Music/Assets/Cues/English Female - Build.wav"
       >
     >
     <ITEM
@@ -1278,7 +1278,7 @@
       CHANMODE 0
       GUID {1484C819-7A81-42D8-9135-6DF0B139DF0C}
       <SOURCE WAVE
-        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - Bridge.wav"
+        FILE "/Music/Assets/Cues/English Female - Bridge.wav"
       >
     >
     <ITEM
@@ -1300,7 +1300,7 @@
       CHANMODE 0
       GUID {674E5AF0-7C93-4698-BEB7-E7D0D9390E18}
       <SOURCE WAVE
-        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 2.wav"
+        FILE "/Music/Assets/Cues/English Female - 2.wav"
       >
     >
     <ITEM
@@ -1322,7 +1322,7 @@
       CHANMODE 0
       GUID {F9EC016B-1C0C-46E5-9AA2-C75378B0DA0A}
       <SOURCE WAVE
-        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 3.wav"
+        FILE "/Music/Assets/Cues/English Female - 3.wav"
       >
     >
     <ITEM
@@ -1344,7 +1344,7 @@
       CHANMODE 0
       GUID {96DA7700-F7FE-4A4D-8B5A-CDC68F17BEE9}
       <SOURCE WAVE
-        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 4.wav"
+        FILE "/Music/Assets/Cues/English Female - 4.wav"
       >
     >
     <ITEM
@@ -1366,7 +1366,7 @@
       CHANMODE 0
       GUID {AF10FD01-D184-49D6-9372-0ABDF496C576}
       <SOURCE WAVE
-        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - Bridge.wav"
+        FILE "/Music/Assets/Cues/English Female - Bridge.wav"
       >
     >
     <ITEM
@@ -1388,7 +1388,7 @@
       CHANMODE 0
       GUID {C02ED35A-581E-4AF4-90F6-3599F742991F}
       <SOURCE WAVE
-        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 2.wav"
+        FILE "/Music/Assets/Cues/English Female - 2.wav"
       >
     >
     <ITEM
@@ -1410,7 +1410,7 @@
       CHANMODE 0
       GUID {B24D21D6-BD8F-4ABC-8D8F-DA7D0658317E}
       <SOURCE WAVE
-        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 3.wav"
+        FILE "/Music/Assets/Cues/English Female - 3.wav"
       >
     >
     <ITEM
@@ -1432,7 +1432,7 @@
       CHANMODE 0
       GUID {57238E0A-34BB-40AA-9285-D357B08ED6AD}
       <SOURCE WAVE
-        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 4.wav"
+        FILE "/Music/Assets/Cues/English Female - 4.wav"
       >
     >
     <ITEM
@@ -1454,7 +1454,7 @@
       CHANMODE 0
       GUID {8286622B-578F-4435-B981-E68AA8AB7999}
       <SOURCE WAVE
-        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - Bridge.wav"
+        FILE "/Music/Assets/Cues/English Female - Bridge.wav"
       >
     >
     <ITEM
@@ -1476,7 +1476,7 @@
       CHANMODE 0
       GUID {860233E2-1D80-4885-B3B1-3A835306355E}
       <SOURCE WAVE
-        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 2.wav"
+        FILE "/Music/Assets/Cues/English Female - 2.wav"
       >
     >
     <ITEM
@@ -1498,7 +1498,7 @@
       CHANMODE 0
       GUID {0CD0FC4D-C23C-405D-9085-FD06BF47CB7D}
       <SOURCE WAVE
-        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 3.wav"
+        FILE "/Music/Assets/Cues/English Female - 3.wav"
       >
     >
     <ITEM
@@ -1520,7 +1520,7 @@
       CHANMODE 0
       GUID {880F54F4-7B43-416D-997E-71D9D581D547}
       <SOURCE WAVE
-        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 4.wav"
+        FILE "/Music/Assets/Cues/English Female - 4.wav"
       >
     >
     <ITEM
@@ -1542,7 +1542,7 @@
       CHANMODE 0
       GUID {2BBDE127-3B00-4791-9F40-5C383DC77154}
       <SOURCE WAVE
-        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - Bridge.wav"
+        FILE "/Music/Assets/Cues/English Female - Bridge.wav"
       >
     >
     <ITEM
@@ -1564,7 +1564,7 @@
       CHANMODE 0
       GUID {308444CC-5F39-4424-868C-B4BA2D623588}
       <SOURCE WAVE
-        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 2.wav"
+        FILE "/Music/Assets/Cues/English Female - 2.wav"
       >
     >
     <ITEM
@@ -1586,7 +1586,7 @@
       CHANMODE 0
       GUID {6A5A2DE3-FEA2-4F1F-AB23-128FF11A5A9D}
       <SOURCE WAVE
-        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 3.wav"
+        FILE "/Music/Assets/Cues/English Female - 3.wav"
       >
     >
     <ITEM
@@ -1608,7 +1608,7 @@
       CHANMODE 0
       GUID {5A353B07-C599-46AD-90B9-87E9BF2D1F36}
       <SOURCE WAVE
-        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 4.wav"
+        FILE "/Music/Assets/Cues/English Female - 4.wav"
       >
     >
     <ITEM
@@ -1630,7 +1630,7 @@
       CHANMODE 0
       GUID {D9DA4BC7-D813-41BF-83E1-FE282CE80E8C}
       <SOURCE WAVE
-        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - Chorus.wav"
+        FILE "/Music/Assets/Cues/English Female - Chorus.wav"
       >
     >
     <ITEM
@@ -1652,7 +1652,7 @@
       CHANMODE 0
       GUID {0F81472D-316B-434D-AF7D-89C1C6C9C8B7}
       <SOURCE WAVE
-        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - Breakdown.wav"
+        FILE "/Music/Assets/Cues/English Female - Breakdown.wav"
       >
     >
     <ITEM
@@ -1674,7 +1674,7 @@
       CHANMODE 0
       GUID {FA232661-638E-464A-8B80-0405C8060E6F}
       <SOURCE WAVE
-        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - All In.wav"
+        FILE "/Music/Assets/Cues/English Female - All In.wav"
       >
     >
     <ITEM
@@ -1696,7 +1696,7 @@
       CHANMODE 0
       GUID {AD3057EA-165A-4644-BF10-298A7A01B244}
       <SOURCE WAVE
-        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - Chorus.wav"
+        FILE "/Music/Assets/Cues/English Female - Chorus.wav"
       >
     >
     <ITEM
@@ -1718,7 +1718,7 @@
       CHANMODE 0
       GUID {92A014C7-A512-48F9-9B59-AB84D6123280}
       <SOURCE WAVE
-        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 2.wav"
+        FILE "/Music/Assets/Cues/English Female - 2.wav"
       >
     >
     <ITEM
@@ -1740,7 +1740,7 @@
       CHANMODE 0
       GUID {0F83C8D6-4F28-45B3-A522-965C054E2211}
       <SOURCE WAVE
-        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 3.wav"
+        FILE "/Music/Assets/Cues/English Female - 3.wav"
       >
     >
     <ITEM
@@ -1762,7 +1762,7 @@
       CHANMODE 0
       GUID {84E0D61F-3A15-4B93-93EA-50DA4A3FD6D8}
       <SOURCE WAVE
-        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 4.wav"
+        FILE "/Music/Assets/Cues/English Female - 4.wav"
       >
     >
     <ITEM
@@ -1784,7 +1784,7 @@
       CHANMODE 0
       GUID {08A2D00A-7751-4CB3-9653-1EDFD9DF4383}
       <SOURCE WAVE
-        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - Outro.wav"
+        FILE "/Music/Assets/Cues/English Female - Outro.wav"
       >
     >
     <ITEM
@@ -1806,7 +1806,7 @@
       CHANMODE 0
       GUID {F5B7DF81-E897-4DC2-A8E5-6C4F333F6FED}
       <SOURCE WAVE
-        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 2.wav"
+        FILE "/Music/Assets/Cues/English Female - 2.wav"
       >
     >
     <ITEM
@@ -1828,7 +1828,7 @@
       CHANMODE 0
       GUID {A767BE84-F2C5-4DDB-870B-064EEEA6B09A}
       <SOURCE WAVE
-        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 3.wav"
+        FILE "/Music/Assets/Cues/English Female - 3.wav"
       >
     >
     <ITEM
@@ -1850,7 +1850,7 @@
       CHANMODE 0
       GUID {5DFD5856-59C2-425F-BD24-AAEDB94AA90C}
       <SOURCE WAVE
-        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 4.wav"
+        FILE "/Music/Assets/Cues/English Female - 4.wav"
       >
     >
     <ITEM
@@ -1872,7 +1872,7 @@
       CHANMODE 0
       GUID {7E8C6206-BE8F-493A-99AD-3755B5346E5D}
       <SOURCE WAVE
-        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - Ending.wav"
+        FILE "/Music/Assets/Cues/English Female - Ending.wav"
       >
     >
     <ITEM
@@ -1894,7 +1894,7 @@
       CHANMODE 0
       GUID {B70323F3-7ABA-4900-BF8D-A625E00080CA}
       <SOURCE WAVE
-        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 2.wav"
+        FILE "/Music/Assets/Cues/English Female - 2.wav"
       >
     >
     <ITEM
@@ -1916,7 +1916,7 @@
       CHANMODE 0
       GUID {D85F3EB8-C80B-4649-9E26-F150F033EB2E}
       <SOURCE WAVE
-        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 3.wav"
+        FILE "/Music/Assets/Cues/English Female - 3.wav"
       >
     >
     <ITEM
@@ -1938,7 +1938,7 @@
       CHANMODE 0
       GUID {DBFAFEDF-5379-4C80-85EA-C05AE1E57F68}
       <SOURCE WAVE
-        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 4.wav"
+        FILE "/Music/Assets/Cues/English Female - 4.wav"
       >
     >
   >
@@ -1986,7 +1986,7 @@
       CHANMODE 0
       GUID {6D9B78C7-CB09-5FA5-9138-9DB3241DBBD7}
       <SOURCE MP3
-        FILE "/home/butbkadrug/Downloads/Darlene Zschech - In Jesus' Name Official Live Video [vocals].mp3" 1
+        FILE "/Downloads/Darlene Zschech - In Jesus' Name Official Live Video [vocals].mp3" 1
       >
     >
   >
@@ -24291,7 +24291,7 @@
         GUID {52B8DC31-D714-4C88-BA63-B47E70063A66}
         RECPASS 21
         <SOURCE WAVE
-          FILE "C:\Users\Butbk\Music\REAPER\In Jesus Name - Darlene Zschech - D - 105 BPM\Audio Files\05 - In Jesus Name - Darlene Zschech - D - 105 BPM - Bass - 021.wav"
+          FILE "/Music\REAPER\In Jesus Name - Darlene Zschech - D - 105 BPM\Audio Files\05 - In Jesus Name - Darlene Zschech - D - 105 BPM - Bass - 021.wav"
         >
       >
       <ITEM {09ACBFB4-2864-47B4-B940-1163DE54767D}
@@ -24314,7 +24314,7 @@
         GUID {EF9C95EF-AE1A-4B0E-8319-BF1F68BE6389}
         RECPASS 22
         <SOURCE WAVE
-          FILE "C:\Users\Butbk\Music\REAPER\In Jesus Name - Darlene Zschech - D - 105 BPM\Audio Files\05 - In Jesus Name - Darlene Zschech - D - 105 BPM - Bass - 022.wav"
+          FILE "/Music\REAPER\In Jesus Name - Darlene Zschech - D - 105 BPM\Audio Files\05 - In Jesus Name - Darlene Zschech - D - 105 BPM - Bass - 022.wav"
         >
       >
       <ITEM {06B89480-0436-4FDE-B1E8-801BE324815D}
@@ -24337,7 +24337,7 @@
         GUID {19A08318-6BEC-4E06-85C5-4A473ECB0D27}
         RECPASS 25
         <SOURCE WAVE
-          FILE "C:\Users\Butbk\Music\REAPER\In Jesus Name - Darlene Zschech - D - 105 BPM\Audio Files\05 - In Jesus Name - Darlene Zschech - D - 105 BPM - Bass - 025.wav"
+          FILE "/Music\REAPER\In Jesus Name - Darlene Zschech - D - 105 BPM\Audio Files\05 - In Jesus Name - Darlene Zschech - D - 105 BPM - Bass - 025.wav"
         >
       >
       <ITEM {1EA31CB0-EB6E-47C5-BFFF-FB4656E1E0C0}
@@ -24360,7 +24360,7 @@
         GUID {8A1B9D94-7A32-4B69-BE42-759E25BC17CA}
         RECPASS 27
         <SOURCE WAVE
-          FILE "C:\Users\Butbk\Music\REAPER\In Jesus Name - Darlene Zschech - D - 105 BPM\Audio Files\05 - In Jesus Name - Darlene Zschech - D - 105 BPM - Bass - 027.wav"
+          FILE "/Music\REAPER\In Jesus Name - Darlene Zschech - D - 105 BPM\Audio Files\05 - In Jesus Name - Darlene Zschech - D - 105 BPM - Bass - 027.wav"
         >
       >
       <ITEM {36F00A31-09C4-4C75-AAEF-6914D2868E82}
@@ -24383,7 +24383,7 @@
         GUID {7F792123-A441-433C-AD9D-A44CB91E71BF}
         RECPASS 28
         <SOURCE WAVE
-          FILE "C:\Users\Butbk\Music\REAPER\In Jesus Name - Darlene Zschech - D - 105 BPM\Audio Files\05 - In Jesus Name - Darlene Zschech - D - 105 BPM - Bass - 028.wav"
+          FILE "/Music\REAPER\In Jesus Name - Darlene Zschech - D - 105 BPM\Audio Files\05 - In Jesus Name - Darlene Zschech - D - 105 BPM - Bass - 028.wav"
         >
       >
       <ITEM {BB47D99A-3AC4-488C-B82F-CE53140FACD2}
@@ -24406,7 +24406,7 @@
         GUID {76BCF7F0-74CF-4625-90D7-94CA4838CA9B}
         RECPASS 29
         <SOURCE WAVE
-          FILE "C:\Users\Butbk\Music\REAPER\In Jesus Name - Darlene Zschech - D - 105 BPM\Audio Files\05 - In Jesus Name - Darlene Zschech - D - 105 BPM - Bass - 029.wav"
+          FILE "/Music\REAPER\In Jesus Name - Darlene Zschech - D - 105 BPM\Audio Files\05 - In Jesus Name - Darlene Zschech - D - 105 BPM - Bass - 029.wav"
         >
       >
       <ITEM {46098EB8-B470-4FB7-AEB8-8EDB8DB13B0F}
@@ -24429,7 +24429,7 @@
         GUID {735E5B3E-DC7F-4AE2-A639-F50F5F4931E5}
         RECPASS 31
         <SOURCE WAVE
-          FILE "C:\Users\Butbk\Music\REAPER\In Jesus Name - Darlene Zschech - D - 105 BPM\Audio Files\05 - In Jesus Name - Darlene Zschech - D - 105 BPM - Bass - 031.wav"
+          FILE "/Music\REAPER\In Jesus Name - Darlene Zschech - D - 105 BPM\Audio Files\05 - In Jesus Name - Darlene Zschech - D - 105 BPM - Bass - 031.wav"
         >
       >
     >
@@ -24532,7 +24532,7 @@
         GUID {EEDA7928-C67E-4E39-95D2-83AF36638663}
         RECPASS 21
         <SOURCE WAVE
-          FILE "C:\Users\Butbk\Music\REAPER\In Jesus Name - Darlene Zschech - D - 105 BPM\Audio Files\05 - In Jesus Name - Darlene Zschech - D - 105 BPM - Bass - 021.wav"
+          FILE "/Music\REAPER\In Jesus Name - Darlene Zschech - D - 105 BPM\Audio Files\05 - In Jesus Name - Darlene Zschech - D - 105 BPM - Bass - 021.wav"
         >
       >
       <ITEM {19A7D00B-7474-4674-A561-8B560A578EB1}
@@ -24555,7 +24555,7 @@
         GUID {BF286CC3-6D94-4451-B279-BCAEA72AFFE0}
         RECPASS 22
         <SOURCE WAVE
-          FILE "C:\Users\Butbk\Music\REAPER\In Jesus Name - Darlene Zschech - D - 105 BPM\Audio Files\05 - In Jesus Name - Darlene Zschech - D - 105 BPM - Bass - 022.wav"
+          FILE "/Music\REAPER\In Jesus Name - Darlene Zschech - D - 105 BPM\Audio Files\05 - In Jesus Name - Darlene Zschech - D - 105 BPM - Bass - 022.wav"
         >
       >
       <ITEM {DA5DDE81-F3EF-494D-89A2-F17545CCA7B0}
@@ -24578,7 +24578,7 @@
         GUID {60F0281F-246B-49CB-8280-DDCB6FD5B55A}
         RECPASS 25
         <SOURCE WAVE
-          FILE "C:\Users\Butbk\Music\REAPER\In Jesus Name - Darlene Zschech - D - 105 BPM\Audio Files\05 - In Jesus Name - Darlene Zschech - D - 105 BPM - Bass - 025.wav"
+          FILE "/Music\REAPER\In Jesus Name - Darlene Zschech - D - 105 BPM\Audio Files\05 - In Jesus Name - Darlene Zschech - D - 105 BPM - Bass - 025.wav"
         >
       >
       <ITEM {98BE0388-24E5-4F37-B5C5-2EC36ED72B98}
@@ -24601,7 +24601,7 @@
         GUID {F45FBF65-6DBF-437B-BF21-F4E54BBBCAED}
         RECPASS 27
         <SOURCE WAVE
-          FILE "C:\Users\Butbk\Music\REAPER\In Jesus Name - Darlene Zschech - D - 105 BPM\Audio Files\05 - In Jesus Name - Darlene Zschech - D - 105 BPM - Bass - 027.wav"
+          FILE "/Music\REAPER\In Jesus Name - Darlene Zschech - D - 105 BPM\Audio Files\05 - In Jesus Name - Darlene Zschech - D - 105 BPM - Bass - 027.wav"
         >
       >
       <ITEM {5837D042-8E63-4EF8-999E-8361EBC83737}
@@ -24624,7 +24624,7 @@
         GUID {F1EFAAD8-03DB-41B9-B05A-062EB3B64AC1}
         RECPASS 28
         <SOURCE WAVE
-          FILE "C:\Users\Butbk\Music\REAPER\In Jesus Name - Darlene Zschech - D - 105 BPM\Audio Files\05 - In Jesus Name - Darlene Zschech - D - 105 BPM - Bass - 028.wav"
+          FILE "/Music\REAPER\In Jesus Name - Darlene Zschech - D - 105 BPM\Audio Files\05 - In Jesus Name - Darlene Zschech - D - 105 BPM - Bass - 028.wav"
         >
       >
       <ITEM {AED18D5D-F1B1-4B85-B7FB-84F150E50F2E}
@@ -24647,7 +24647,7 @@
         GUID {0501235C-5570-4B85-98D0-4A865B22B85B}
         RECPASS 29
         <SOURCE WAVE
-          FILE "C:\Users\Butbk\Music\REAPER\In Jesus Name - Darlene Zschech - D - 105 BPM\Audio Files\05 - In Jesus Name - Darlene Zschech - D - 105 BPM - Bass - 029.wav"
+          FILE "/Music\REAPER\In Jesus Name - Darlene Zschech - D - 105 BPM\Audio Files\05 - In Jesus Name - Darlene Zschech - D - 105 BPM - Bass - 029.wav"
         >
       >
       <ITEM {B0D8ACC8-A878-4D18-BF8B-6F086EE4F8F3}
@@ -24670,7 +24670,7 @@
         GUID {65ECFB83-712F-4496-8273-717E7969E1F2}
         RECPASS 31
         <SOURCE WAVE
-          FILE "C:\Users\Butbk\Music\REAPER\In Jesus Name - Darlene Zschech - D - 105 BPM\Audio Files\05 - In Jesus Name - Darlene Zschech - D - 105 BPM - Bass - 031.wav"
+          FILE "/Music\REAPER\In Jesus Name - Darlene Zschech - D - 105 BPM\Audio Files\05 - In Jesus Name - Darlene Zschech - D - 105 BPM - Bass - 031.wav"
         >
       >
     >
@@ -27217,7 +27217,7 @@
         GUID {B9872DF3-80F6-4132-B5D7-B5B786BD96BE}
         RECPASS 18
         <SOURCE WAVE
-          FILE "C:\Users\Butbk\Music\REAPER\In Jesus Name - Darlene Zschech - D - 105 BPM\Audio Files\05 - In Jesus Name - Darlene Zschech - D - 105 BPM - - 018.wav"
+          FILE "/Music\REAPER\In Jesus Name - Darlene Zschech - D - 105 BPM\Audio Files\05 - In Jesus Name - Darlene Zschech - D - 105 BPM - - 018.wav"
         >
       >
       <ITEM {EE5F6F91-3035-4446-A682-061451502455}
@@ -27240,7 +27240,7 @@
         GUID {CCC40862-5553-490E-9CA2-B292B94F3622}
         RECPASS 2
         <SOURCE WAVE
-          FILE "C:\Users\Butbk\Music\REAPER\In Jesus Name - Darlene Zschech - D - 105 BPM\Audio Files\04 - In Jesus Name - Darlene Zschech - D - 105 BPM - - 002.wav"
+          FILE "/Music\REAPER\In Jesus Name - Darlene Zschech - D - 105 BPM\Audio Files\04 - In Jesus Name - Darlene Zschech - D - 105 BPM - - 002.wav"
         >
       >
       <ITEM {4A24FBB6-08CF-4CAF-A85A-57784426D85D}
@@ -27263,7 +27263,7 @@
         GUID {592836FB-210A-4981-993D-097EED99712C}
         RECPASS 7
         <SOURCE WAVE
-          FILE "C:\Users\Butbk\Music\REAPER\In Jesus Name - Darlene Zschech - D - 105 BPM\Audio Files\04 - In Jesus Name - Darlene Zschech - D - 105 BPM - - 007.wav"
+          FILE "/Music\REAPER\In Jesus Name - Darlene Zschech - D - 105 BPM\Audio Files\04 - In Jesus Name - Darlene Zschech - D - 105 BPM - - 007.wav"
         >
       >
       <ITEM {AA441A58-FF07-4895-AD66-5EAA6148859F}
@@ -27286,7 +27286,7 @@
         GUID {610DB41D-19B5-4C53-BFB0-4505E501B46F}
         RECPASS 8
         <SOURCE WAVE
-          FILE "C:\Users\Butbk\Music\REAPER\In Jesus Name - Darlene Zschech - D - 105 BPM\Audio Files\04 - In Jesus Name - Darlene Zschech - D - 105 BPM - - 008.wav"
+          FILE "/Music\REAPER\In Jesus Name - Darlene Zschech - D - 105 BPM\Audio Files\04 - In Jesus Name - Darlene Zschech - D - 105 BPM - - 008.wav"
         >
       >
       <ITEM {5AE8C868-7098-4D69-8F2A-28883A11E8FB}
@@ -27309,7 +27309,7 @@
         GUID {A773A841-25B3-4608-9B5C-7C60476B812C}
         RECPASS 15
         <SOURCE WAVE
-          FILE "C:\Users\Butbk\Music\REAPER\In Jesus Name - Darlene Zschech - D - 105 BPM\Audio Files\05 - In Jesus Name - Darlene Zschech - D - 105 BPM - - 015.wav"
+          FILE "/Music\REAPER\In Jesus Name - Darlene Zschech - D - 105 BPM\Audio Files\05 - In Jesus Name - Darlene Zschech - D - 105 BPM - - 015.wav"
         >
       >
       <ITEM {829919BC-7FC2-499D-9736-5E4F6B09BEFB}
@@ -27332,7 +27332,7 @@
         GUID {08222608-7D88-43DA-9F17-2B7D8235D991}
         RECPASS 18
         <SOURCE WAVE
-          FILE "C:\Users\Butbk\Music\REAPER\In Jesus Name - Darlene Zschech - D - 105 BPM\Audio Files\05 - In Jesus Name - Darlene Zschech - D - 105 BPM - - 018.wav"
+          FILE "/Music\REAPER\In Jesus Name - Darlene Zschech - D - 105 BPM\Audio Files\05 - In Jesus Name - Darlene Zschech - D - 105 BPM - - 018.wav"
         >
       >
       <ITEM {E030FD5E-CF17-4931-81FB-ED0674574833}
@@ -27355,7 +27355,7 @@
         GUID {2C67EE8C-2C72-488E-9D34-53556B54839A}
         RECPASS 18
         <SOURCE WAVE
-          FILE "C:\Users\Butbk\Music\REAPER\In Jesus Name - Darlene Zschech - D - 105 BPM\Audio Files\05 - In Jesus Name - Darlene Zschech - D - 105 BPM - - 018.wav"
+          FILE "/Music\REAPER\In Jesus Name - Darlene Zschech - D - 105 BPM\Audio Files\05 - In Jesus Name - Darlene Zschech - D - 105 BPM - - 018.wav"
         >
       >
       <ITEM {CF73DDEC-0735-45DD-808A-FC78FFE202BB}
@@ -27378,7 +27378,7 @@
         GUID {EDB9613C-2D32-4F51-9235-3C49BCCACF46}
         RECPASS 18
         <SOURCE WAVE
-          FILE "C:\Users\Butbk\Music\REAPER\In Jesus Name - Darlene Zschech - D - 105 BPM\Audio Files\05 - In Jesus Name - Darlene Zschech - D - 105 BPM - - 018.wav"
+          FILE "/Music\REAPER\In Jesus Name - Darlene Zschech - D - 105 BPM\Audio Files\05 - In Jesus Name - Darlene Zschech - D - 105 BPM - - 018.wav"
         >
       >
     >
@@ -29842,7 +29842,7 @@
         GUID {0AAD6578-C1FE-40F3-848E-96D73ED0AA1A}
         RECPASS 19
         <SOURCE WAVE
-          FILE "C:\Users\Butbk\Music\REAPER\In Jesus Name - Darlene Zschech - D - 105 BPM\Audio Files\06 - In Jesus Name - Darlene Zschech - D - 105 BPM - - 019.wav"
+          FILE "/Music\REAPER\In Jesus Name - Darlene Zschech - D - 105 BPM\Audio Files\06 - In Jesus Name - Darlene Zschech - D - 105 BPM - - 019.wav"
         >
       >
       <ITEM {795FD483-7295-411A-938A-AACADB091BE3}
@@ -29865,7 +29865,7 @@
         GUID {EC2B1787-E35A-4AC2-8869-64049B65180A}
         RECPASS 5
         <SOURCE WAVE
-          FILE "C:\Users\Butbk\Music\REAPER\In Jesus Name - Darlene Zschech - D - 105 BPM\Audio Files\05 - In Jesus Name - Darlene Zschech - D - 105 BPM - - 005.wav"
+          FILE "/Music\REAPER\In Jesus Name - Darlene Zschech - D - 105 BPM\Audio Files\05 - In Jesus Name - Darlene Zschech - D - 105 BPM - - 005.wav"
         >
       >
       <ITEM {4B9BF11A-4564-427D-A2B3-312048BEBE4D}
@@ -29888,7 +29888,7 @@
         GUID {8B863CC3-43CA-4551-A0E9-C8328701CE03}
         RECPASS 5
         <SOURCE WAVE
-          FILE "C:\Users\Butbk\Music\REAPER\In Jesus Name - Darlene Zschech - D - 105 BPM\Audio Files\05 - In Jesus Name - Darlene Zschech - D - 105 BPM - - 005.wav"
+          FILE "/Music\REAPER\In Jesus Name - Darlene Zschech - D - 105 BPM\Audio Files\05 - In Jesus Name - Darlene Zschech - D - 105 BPM - - 005.wav"
         >
         TAKE SEL
         NAME "05 - In Jesus Name - Darlene Zschech - D - 105 BPM - - 006.wav"
@@ -29900,7 +29900,7 @@
         GUID {8EE679B5-3A53-4AE8-AC8D-1D84F6B372D9}
         RECPASS 6
         <SOURCE WAVE
-          FILE "C:\Users\Butbk\Music\REAPER\In Jesus Name - Darlene Zschech - D - 105 BPM\Audio Files\05 - In Jesus Name - Darlene Zschech - D - 105 BPM - - 006.wav"
+          FILE "/Music\REAPER\In Jesus Name - Darlene Zschech - D - 105 BPM\Audio Files\05 - In Jesus Name - Darlene Zschech - D - 105 BPM - - 006.wav"
         >
       >
       <ITEM {2E96B46E-46C9-4AD0-ABDD-E926978DB4B2}
@@ -29924,7 +29924,7 @@
         GUID {4AA42B3F-3D3B-456F-8A34-16C5213591CE}
         RECPASS 6
         <SOURCE WAVE
-          FILE "C:\Users\Butbk\Music\REAPER\In Jesus Name - Darlene Zschech - D - 105 BPM\Audio Files\05 - In Jesus Name - Darlene Zschech - D - 105 BPM - - 006.wav"
+          FILE "/Music\REAPER\In Jesus Name - Darlene Zschech - D - 105 BPM\Audio Files\05 - In Jesus Name - Darlene Zschech - D - 105 BPM - - 006.wav"
         >
       >
       <ITEM {3402BAE6-3C6D-40ED-B70D-928FB63DFBD4}
@@ -29947,7 +29947,7 @@
         GUID {DEB66A5C-7CBB-49E3-A332-050CCA32ED05}
         RECPASS 10
         <SOURCE WAVE
-          FILE "C:\Users\Butbk\Music\REAPER\In Jesus Name - Darlene Zschech - D - 105 BPM\Audio Files\05 - In Jesus Name - Darlene Zschech - D - 105 BPM - - 010.wav"
+          FILE "/Music\REAPER\In Jesus Name - Darlene Zschech - D - 105 BPM\Audio Files\05 - In Jesus Name - Darlene Zschech - D - 105 BPM - - 010.wav"
         >
       >
       <ITEM {37DC0AC6-C4E8-42EC-9EDA-1259075CA666}
@@ -29970,7 +29970,7 @@
         GUID {BD956A32-12EB-4F88-B601-FD7DBF4A5876}
         RECPASS 11
         <SOURCE WAVE
-          FILE "C:\Users\Butbk\Music\REAPER\In Jesus Name - Darlene Zschech - D - 105 BPM\Audio Files\05 - In Jesus Name - Darlene Zschech - D - 105 BPM - - 011.wav"
+          FILE "/Music\REAPER\In Jesus Name - Darlene Zschech - D - 105 BPM\Audio Files\05 - In Jesus Name - Darlene Zschech - D - 105 BPM - - 011.wav"
         >
       >
       <ITEM {A2D693F3-315A-44D8-B882-98CC05A3B7FC}
@@ -29993,7 +29993,7 @@
         GUID {4AEBC132-69BD-4FFA-9ED3-37C74B444145}
         RECPASS 19
         <SOURCE WAVE
-          FILE "C:\Users\Butbk\Music\REAPER\In Jesus Name - Darlene Zschech - D - 105 BPM\Audio Files\06 - In Jesus Name - Darlene Zschech - D - 105 BPM - - 019.wav"
+          FILE "/Music\REAPER\In Jesus Name - Darlene Zschech - D - 105 BPM\Audio Files\06 - In Jesus Name - Darlene Zschech - D - 105 BPM - - 019.wav"
         >
       >
       <ITEM {C83928DE-D053-47B5-BFFE-6D5B3052D235}
@@ -30016,7 +30016,7 @@
         GUID {7B517303-8212-4FD9-9946-8366A29537B5}
         RECPASS 19
         <SOURCE WAVE
-          FILE "C:\Users\Butbk\Music\REAPER\In Jesus Name - Darlene Zschech - D - 105 BPM\Audio Files\06 - In Jesus Name - Darlene Zschech - D - 105 BPM - - 019.wav"
+          FILE "/Music\REAPER\In Jesus Name - Darlene Zschech - D - 105 BPM\Audio Files\06 - In Jesus Name - Darlene Zschech - D - 105 BPM - - 019.wav"
         >
       >
       <ITEM {E7558EF2-DF9A-4743-8552-D22E1F8FC85A}
@@ -30039,7 +30039,7 @@
         GUID {723B4974-933A-404A-82D3-1E2CDCB82D61}
         RECPASS 19
         <SOURCE WAVE
-          FILE "C:\Users\Butbk\Music\REAPER\In Jesus Name - Darlene Zschech - D - 105 BPM\Audio Files\06 - In Jesus Name - Darlene Zschech - D - 105 BPM - - 019.wav"
+          FILE "/Music\REAPER\In Jesus Name - Darlene Zschech - D - 105 BPM\Audio Files\06 - In Jesus Name - Darlene Zschech - D - 105 BPM - - 019.wav"
         >
       >
     >

@@ -51,7 +51,7 @@
     VOL 0.481472 0.240736
     FREQ 800 1600 1
     BEATLEN 4
-    SAMPLES "C:\Users\Butbk\Music\Click and Guide Samples\Click Tracks\New Click -  Blip-accents.wav" "C:\Users\Butbk\Music\Click and Guide Samples\Click Tracks\New Click -  Blip-sixteenth.wav"
+    SAMPLES "/Music\Click and Guide Samples\Click Tracks\New Click -  Blip-accents.wav" "/Music\Click and Guide Samples\Click Tracks\New Click -  Blip-sixteenth.wav"
     PATTERN 2863311530 2863311513
     MULT 2
   >
@@ -318,7 +318,7 @@
         VOL 0.800276 0.397364
         FREQ 800 1600 1
         BEATLEN 4
-        SAMPLES "C:\Users\Butbk\Music\Metronome\hi_click.wav" "C:\Users\Butbk\Music\Metronome\low_click.wav"
+        SAMPLES "/Music\Metronome\hi_click.wav" "/Music\Metronome\low_click.wav"
         PATTERN 2863311530 2863311529
         MULT 1
       >

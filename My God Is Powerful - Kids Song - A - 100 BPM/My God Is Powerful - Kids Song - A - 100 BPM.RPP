@@ -53,7 +53,7 @@
     VOL 1 1
     BEATLEN 4
     FREQ 800 1600 1
-    SAMPLES "/home/butbkadrug/Music/Assets/Clicks/New Click -  Blip-accents.wav" "/home/butbkadrug/Music/Assets/Clicks/New Click -  Blip-sixteenth.wav" "" ""
+    SAMPLES "/Music/Assets/Clicks/New Click -  Blip-accents.wav" "/Music/Assets/Clicks/New Click -  Blip-sixteenth.wav" "" ""
     SPLIGNORE 0 0
     SPLDEF 2 660 "" 0 ""
     SPLDEF 3 440 "" 0 ""
@@ -226,7 +226,7 @@
       CHANMODE 0
       GUID {1109D503-9791-E170-CEC3-659A5D99D804}
       <SOURCE MP3
-        FILE "/home/butbkadrug/Downloads/My God Is Powerful dance.mp3" 1
+        FILE "/Downloads/My God Is Powerful dance.mp3" 1
       >
     >
   >

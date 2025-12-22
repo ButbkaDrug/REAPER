@@ -28,7 +28,7 @@
   >
   <APPLYFX_CFG
   >
-  RENDER_FILE "C:\Users\Butbk\Music\Click Tracks/Run To The Father Click.mp3"
+  RENDER_FILE "/Music\Click Tracks/Run To The Father Click.mp3"
   RENDER_FMT 0 2 44100
   RENDER_1X 0
   RENDER_RANGE 1 0 0 18 1000
@@ -217,7 +217,7 @@
       CHANMODE 0
       GUID {6A7782DC-B035-4430-A972-A924619E3A49}
       <SOURCE WAVE
-        FILE "/mnt/win10/Users/butbkadrug/Music/Assets/Cues/English Female - 1.wav"
+        FILE "/Music/Assets/Cues/English Female - 1.wav"
       >
     >
     <ITEM
@@ -240,7 +240,7 @@
       CHANMODE 0
       GUID {3DFC15B2-5376-4220-AE7E-A04C61D29E6C}
       <SOURCE WAVE
-        FILE "/mnt/win10/Users/butbkadrug/Music/Assets/Cues/English Female - 2.wav"
+        FILE "/Music/Assets/Cues/English Female - 2.wav"
       >
     >
     <ITEM
@@ -263,7 +263,7 @@
       CHANMODE 0
       GUID {768A9AA5-C4BC-43CC-B6DB-15C5E42AD6C3}
       <SOURCE WAVE
-        FILE "/mnt/win10/Users/butbkadrug/Music/Assets/Cues/English Female - 3.wav"
+        FILE "/Music/Assets/Cues/English Female - 3.wav"
       >
     >
     <ITEM
@@ -286,7 +286,7 @@
       CHANMODE 0
       GUID {34180836-5E9E-470F-B592-0734E75B7482}
       <SOURCE WAVE
-        FILE "/mnt/win10/Users/butbkadrug/Music/Assets/Cues/English Female - 4.wav"
+        FILE "/Music/Assets/Cues/English Female - 4.wav"
       >
     >
     <ITEM
@@ -309,7 +309,7 @@
       CHANMODE 0
       GUID {A680F1AC-B159-4D01-BFC9-1428EF16E9D4}
       <SOURCE WAVE
-        FILE "/mnt/win10/Users/butbkadrug/Music/Assets/Cues/English Female - 5.wav"
+        FILE "/Music/Assets/Cues/English Female - 5.wav"
       >
     >
     <ITEM
@@ -332,7 +332,7 @@
       CHANMODE 0
       GUID {538037F1-2250-4639-8DE9-EBCF985B45C7}
       <SOURCE WAVE
-        FILE "/mnt/win10/Users/butbkadrug/Music/Assets/Cues/English Female - 6.wav"
+        FILE "/Music/Assets/Cues/English Female - 6.wav"
       >
     >
     <ITEM
@@ -355,7 +355,7 @@
       CHANMODE 0
       GUID {BA8F364A-EC4F-47B2-87C7-22406257A5DF}
       <SOURCE WAVE
-        FILE "/mnt/win10/Users/butbkadrug/Music/Assets/Cues/English Female - Verse.wav"
+        FILE "/Music/Assets/Cues/English Female - Verse.wav"
       >
     >
     <ITEM
@@ -400,7 +400,7 @@
       CHANMODE 0
       GUID {A0E2ED70-0D21-4328-B082-33F22874CF05}
       <SOURCE WAVE
-        FILE "/mnt/win10/Users/butbkadrug/Music/Assets/Cues/English Female - Verse.wav"
+        FILE "/Music/Assets/Cues/English Female - Verse.wav"
       >
     >
     <ITEM
@@ -445,7 +445,7 @@
       CHANMODE 0
       GUID {9C0D1270-B4F8-4BC8-A25B-CE6E5F1E2570}
       <SOURCE WAVE
-        FILE "/mnt/win10/Users/butbkadrug/Music/Assets/Cues/English Female - Chorus.wav"
+        FILE "/Music/Assets/Cues/English Female - Chorus.wav"
       >
     >
     <ITEM
@@ -490,7 +490,7 @@
       CHANMODE 0
       GUID {0CFF12A2-8FA2-444D-8C92-CCC5937B3571}
       <SOURCE WAVE
-        FILE "/mnt/win10/Users/butbkadrug/Music/Assets/Cues/English Female - Refrain.wav"
+        FILE "/Music/Assets/Cues/English Female - Refrain.wav"
       >
     >
     <ITEM
@@ -535,7 +535,7 @@
       CHANMODE 0
       GUID {54CC39EA-9701-4A48-9B99-4F7E81241E45}
       <SOURCE WAVE
-        FILE "/mnt/win10/Users/butbkadrug/Music/Assets/Cues/English Female - Verse.wav"
+        FILE "/Music/Assets/Cues/English Female - Verse.wav"
       >
     >
     <ITEM
@@ -580,7 +580,7 @@
       CHANMODE 0
       GUID {4EBD650E-B23E-433C-866D-5B0DE592AC42}
       <SOURCE WAVE
-        FILE "/mnt/win10/Users/butbkadrug/Music/Assets/Cues/English Female - Verse.wav"
+        FILE "/Music/Assets/Cues/English Female - Verse.wav"
       >
     >
     <ITEM
@@ -625,7 +625,7 @@
       CHANMODE 0
       GUID {F54022F2-0668-4658-9C40-29B6AFE923BA}
       <SOURCE WAVE
-        FILE "/mnt/win10/Users/butbkadrug/Music/Assets/Cues/English Female - Chorus.wav"
+        FILE "/Music/Assets/Cues/English Female - Chorus.wav"
       >
     >
     <ITEM
@@ -670,7 +670,7 @@
       CHANMODE 0
       GUID {D9F3FBDE-2677-4F04-8184-282304C6ADAE}
       <SOURCE WAVE
-        FILE "/mnt/win10/Users/butbkadrug/Music/Assets/Cues/English Female - Refrain.wav"
+        FILE "/Music/Assets/Cues/English Female - Refrain.wav"
       >
     >
     <ITEM
@@ -715,7 +715,7 @@
       CHANMODE 0
       GUID {6C801B28-350B-48C7-95FC-9E970A6AD011}
       <SOURCE WAVE
-        FILE "/mnt/win10/Users/butbkadrug/Music/Assets/Cues/English Female - Refrain.wav"
+        FILE "/Music/Assets/Cues/English Female - Refrain.wav"
       >
     >
     <ITEM
@@ -760,7 +760,7 @@
       CHANMODE 0
       GUID {52C005F5-21BA-4A4E-B4B2-CB05ACD920EE}
       <SOURCE WAVE
-        FILE "/mnt/win10/Users/butbkadrug/Music/Assets/Cues/English Female - Bridge.wav"
+        FILE "/Music/Assets/Cues/English Female - Bridge.wav"
       >
     >
     <ITEM
@@ -805,7 +805,7 @@
       CHANMODE 0
       GUID {1CD7B4A0-1AE7-4C1E-9941-D3FF72820C24}
       <SOURCE WAVE
-        FILE "/mnt/win10/Users/butbkadrug/Music/Assets/Cues/English Female - Bridge.wav"
+        FILE "/Music/Assets/Cues/English Female - Bridge.wav"
       >
     >
     <ITEM
@@ -850,7 +850,7 @@
       CHANMODE 0
       GUID {60259A8D-825C-4480-845A-1F8FC0896863}
       <SOURCE WAVE
-        FILE "/mnt/win10/Users/butbkadrug/Music/Assets/Cues/English Female - Chorus.wav"
+        FILE "/Music/Assets/Cues/English Female - Chorus.wav"
       >
     >
     <ITEM
@@ -895,7 +895,7 @@
       CHANMODE 0
       GUID {F28EB74F-BEC5-42E0-98A5-B50C5675A84C}
       <SOURCE WAVE
-        FILE "/mnt/win10/Users/butbkadrug/Music/Assets/Cues/English Female - Chorus.wav"
+        FILE "/Music/Assets/Cues/English Female - Chorus.wav"
       >
     >
     <ITEM
@@ -940,7 +940,7 @@
       CHANMODE 0
       GUID {8B140507-42AF-4077-BB69-E26A89CCA44E}
       <SOURCE WAVE
-        FILE "/mnt/win10/Users/butbkadrug/Music/Assets/Cues/English Female - Refrain.wav"
+        FILE "/Music/Assets/Cues/English Female - Refrain.wav"
       >
     >
     <ITEM
@@ -985,7 +985,7 @@
       CHANMODE 0
       GUID {788A398B-C10F-47A0-8431-0B0FB55F6D31}
       <SOURCE WAVE
-        FILE "/mnt/win10/Users/butbkadrug/Music/Assets/Cues/English Female - Refrain.wav"
+        FILE "/Music/Assets/Cues/English Female - Refrain.wav"
       >
     >
     <ITEM
@@ -1030,7 +1030,7 @@
       CHANMODE 0
       GUID {5C3CFA05-9BA8-410B-A9B1-D368C7E73645}
       <SOURCE WAVE
-        FILE "/mnt/win10/Users/butbkadrug/Music/Assets/Cues/English Female - Bridge.wav"
+        FILE "/Music/Assets/Cues/English Female - Bridge.wav"
       >
     >
     <ITEM
@@ -1105,7 +1105,7 @@
         VOL 1 1
         FREQ 800 1600 1
         BEATLEN 4
-        SAMPLES "/mnt/win10/Users/butbkadrug/Music/Assets/Clicks/New Click -  Blip-accents.wav" "/mnt/win10/Users/butbkadrug/Music/Assets/Clicks/New Click -  Blip-sixteenth.wav"
+        SAMPLES "/Music/Assets/Clicks/New Click -  Blip-accents.wav" "/Music/Assets/Clicks/New Click -  Blip-sixteenth.wav"
         PATTERN 2863311530 2863311529
         MULT 1
       >
@@ -1155,7 +1155,7 @@
       GUID {DCE4EA52-A1FD-8454-789C-4DA8BFDE55F9}
       <SOURCE VIDEO
         FLIP 0 1
-        FILE "/home/butbkadrug/Downloads/24077961.m4a"
+        FILE "/Downloads/24077961.m4a"
       >
     >
   >
@@ -1202,7 +1202,7 @@
       CHANMODE 0
       GUID {032F0C75-B843-927C-D342-F87BC8D39141}
       <SOURCE MP3
-        FILE "/home/butbkadrug/Downloads/24077961 [vocals].mp3" 1
+        FILE "/Downloads/24077961 [vocals].mp3" 1
       >
     >
   >

@@ -285,7 +285,7 @@
       CHANMODE 0
       GUID {D27406D9-BBD7-A80B-0337-5D9A2D84BCC7}
       <SOURCE MP3
-        FILE "/home/butbkadrug/Downloads/inp_2ffce2b8a267782b_basss.mp3" 1
+        FILE "/Downloads/inp_2ffce2b8a267782b_basss.mp3" 1
       >
     >
   >
@@ -333,7 +333,7 @@
       CHANMODE 0
       GUID {EFBCFC19-F80E-6A81-F176-C4607FF29412}
       <SOURCE MP3
-        FILE "/home/butbkadrug/Downloads/inp_2ffce2b8a267782b_drums.mp3" 1
+        FILE "/Downloads/inp_2ffce2b8a267782b_drums.mp3" 1
       >
     >
   >
@@ -381,7 +381,7 @@
       CHANMODE 0
       GUID {3D014E92-5254-0137-A074-1F7852ADA03F}
       <SOURCE MP3
-        FILE "/home/butbkadrug/Downloads/inp_2ffce2b8a267782b_music.mp3" 1
+        FILE "/Downloads/inp_2ffce2b8a267782b_music.mp3" 1
       >
     >
   >
@@ -429,7 +429,7 @@
       CHANMODE 0
       GUID {179AF74F-E73A-0AD2-B72E-95359636E1C7}
       <SOURCE MP3
-        FILE "/home/butbkadrug/Downloads/inp_2ffce2b8a267782b_vocal.mp3" 1
+        FILE "/Downloads/inp_2ffce2b8a267782b_vocal.mp3" 1
       >
     >
   >

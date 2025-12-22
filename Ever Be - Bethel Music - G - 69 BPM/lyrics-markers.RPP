@@ -51,7 +51,7 @@
     VOL 0.50255 0.252557
     BEATLEN 4
     FREQ 800 1600 1
-    SAMPLES "C:\Users\Butbk\Music\Click and Guide Samples\Click Tracks\New Click -  Blip-accents.wav" "C:\Users\Butbk\Music\Click and Guide Samples\Click Tracks\New Click -  Blip-sixteenth.wav"
+    SAMPLES "/Music\Click and Guide Samples\Click Tracks\New Click -  Blip-accents.wav" "/Music\Click and Guide Samples\Click Tracks\New Click -  Blip-sixteenth.wav"
     SPLIGNORE 0 0
     SPLDEF 2 660 "" 0
     SPLDEF 3 440 "" 0
@@ -211,7 +211,7 @@
         VOL 1 1
         BEATLEN 4
         FREQ 800 1600 1
-        SAMPLES "/home/butbkadrug/Music/Assets/Clicks/New Click -  Blip-accents.wav" "/home/butbkadrug/Music/Assets/Clicks/New Click -  Blip-sixteenth.wav"
+        SAMPLES "/Music/Assets/Clicks/New Click -  Blip-accents.wav" "/Music/Assets/Clicks/New Click -  Blip-sixteenth.wav"
         SPLIGNORE 0 0
         SPLDEF 2 660 "" 0
         SPLDEF 3 440 "" 0
@@ -359,7 +359,7 @@
       CHANMODE 0
       GUID {032868BB-997D-456A-870B-616BCD4307A3}
       <SOURCE WAVE
-        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 1.wav"
+        FILE "/Music/Assets/Cues/English Female - 1.wav"
       >
     >
     <ITEM
@@ -382,7 +382,7 @@
       CHANMODE 0
       GUID {E2AAE66A-0CD2-4349-90B2-B1FC3EED0F1B}
       <SOURCE WAVE
-        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 2.wav"
+        FILE "/Music/Assets/Cues/English Female - 2.wav"
       >
     >
     <ITEM
@@ -405,7 +405,7 @@
       CHANMODE 0
       GUID {11E13D36-D355-4881-B233-40B4FEA394D4}
       <SOURCE WAVE
-        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 1.wav"
+        FILE "/Music/Assets/Cues/English Female - 1.wav"
       >
     >
     <ITEM
@@ -428,7 +428,7 @@
       CHANMODE 0
       GUID {CB1AEF0B-462F-4D2B-8C87-FA1D0079322B}
       <SOURCE WAVE
-        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 2.wav"
+        FILE "/Music/Assets/Cues/English Female - 2.wav"
       >
     >
     <ITEM
@@ -451,7 +451,7 @@
       CHANMODE 0
       GUID {83A25A82-9AB8-40C0-84D8-A513A55CC109}
       <SOURCE WAVE
-        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 3.wav"
+        FILE "/Music/Assets/Cues/English Female - 3.wav"
       >
     >
     <ITEM
@@ -474,7 +474,7 @@
       CHANMODE 0
       GUID {306FB218-2574-4A5D-A0BD-85F5CA2E41E8}
       <SOURCE WAVE
-        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 4.wav"
+        FILE "/Music/Assets/Cues/English Female - 4.wav"
       >
     >
     <ITEM
@@ -497,7 +497,7 @@
       CHANMODE 0
       GUID {FBF72AB3-2F9D-4627-86C2-F5209B7869A8}
       <SOURCE WAVE
-        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - Verse.wav"
+        FILE "/Music/Assets/Cues/English Female - Verse.wav"
       >
     >
     <ITEM
@@ -520,7 +520,7 @@
       CHANMODE 0
       GUID {966EF46B-0C32-44C1-94DC-7A605775793F}
       <SOURCE WAVE
-        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 2.wav"
+        FILE "/Music/Assets/Cues/English Female - 2.wav"
       >
     >
     <ITEM
@@ -543,7 +543,7 @@
       CHANMODE 0
       GUID {1C92F9D1-0B1B-4046-B525-B664AB8259CA}
       <SOURCE WAVE
-        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 3.wav"
+        FILE "/Music/Assets/Cues/English Female - 3.wav"
       >
     >
     <ITEM
@@ -566,7 +566,7 @@
       CHANMODE 0
       GUID {61514663-51D9-4131-94F2-1B8F0F9B39AA}
       <SOURCE WAVE
-        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 4.wav"
+        FILE "/Music/Assets/Cues/English Female - 4.wav"
       >
     >
     <ITEM
@@ -589,7 +589,7 @@
       CHANMODE 0
       GUID {37A62916-50D1-4B24-A9AB-ED6AFFDF5D0F}
       <SOURCE WAVE
-        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - Pre Chorus.wav"
+        FILE "/Music/Assets/Cues/English Female - Pre Chorus.wav"
       >
     >
     <ITEM
@@ -612,7 +612,7 @@
       CHANMODE 0
       GUID {1686A102-C97B-453D-8050-A5DB4D8FC709}
       <SOURCE WAVE
-        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 2.wav"
+        FILE "/Music/Assets/Cues/English Female - 2.wav"
       >
     >
     <ITEM
@@ -635,7 +635,7 @@
       CHANMODE 0
       GUID {CCDAA28D-9F0C-4A4E-85BD-E1AF82F770E0}
       <SOURCE WAVE
-        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 3.wav"
+        FILE "/Music/Assets/Cues/English Female - 3.wav"
       >
     >
     <ITEM
@@ -658,7 +658,7 @@
       CHANMODE 0
       GUID {A58F85F0-A1BC-4299-87B4-12ADD0CD9E29}
       <SOURCE WAVE
-        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 4.wav"
+        FILE "/Music/Assets/Cues/English Female - 4.wav"
       >
     >
     <ITEM
@@ -681,7 +681,7 @@
       CHANMODE 0
       GUID {72B2D0F9-9F9C-4F64-98A0-09904189743D}
       <SOURCE WAVE
-        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - Chorus.wav"
+        FILE "/Music/Assets/Cues/English Female - Chorus.wav"
       >
     >
     <ITEM
@@ -704,7 +704,7 @@
       CHANMODE 0
       GUID {9FE8391A-69D8-446B-9A6D-DA164D7CA602}
       <SOURCE WAVE
-        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 2.wav"
+        FILE "/Music/Assets/Cues/English Female - 2.wav"
       >
     >
     <ITEM
@@ -727,7 +727,7 @@
       CHANMODE 0
       GUID {91F44001-4C55-44C8-8645-41970D0270D0}
       <SOURCE WAVE
-        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 3.wav"
+        FILE "/Music/Assets/Cues/English Female - 3.wav"
       >
     >
     <ITEM
@@ -750,7 +750,7 @@
       CHANMODE 0
       GUID {55B6A1E2-D4AB-43EC-A184-9E017CA7CAA7}
       <SOURCE WAVE
-        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 4.wav"
+        FILE "/Music/Assets/Cues/English Female - 4.wav"
       >
     >
     <ITEM
@@ -773,7 +773,7 @@
       CHANMODE 0
       GUID {29A4007B-CDA9-4F4C-8D42-F592921A04EB}
       <SOURCE WAVE
-        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - Interlude.wav"
+        FILE "/Music/Assets/Cues/English Female - Interlude.wav"
       >
     >
     <ITEM
@@ -796,7 +796,7 @@
       CHANMODE 0
       GUID {6CFDF580-D326-4B57-8946-9AC9C174CFDC}
       <SOURCE WAVE
-        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 2.wav"
+        FILE "/Music/Assets/Cues/English Female - 2.wav"
       >
     >
     <ITEM
@@ -819,7 +819,7 @@
       CHANMODE 0
       GUID {E8DDDB88-7189-4FF2-9BA4-C0C9BE09CFDA}
       <SOURCE WAVE
-        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 3.wav"
+        FILE "/Music/Assets/Cues/English Female - 3.wav"
       >
     >
     <ITEM
@@ -842,7 +842,7 @@
       CHANMODE 0
       GUID {AA26AC5E-88BB-4C57-88C6-5E6692AC40E2}
       <SOURCE WAVE
-        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 4.wav"
+        FILE "/Music/Assets/Cues/English Female - 4.wav"
       >
     >
     <ITEM
@@ -865,7 +865,7 @@
       CHANMODE 0
       GUID {C41EFC8A-DFC1-4F77-8B31-9C162D031145}
       <SOURCE WAVE
-        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - Verse.wav"
+        FILE "/Music/Assets/Cues/English Female - Verse.wav"
       >
     >
     <ITEM
@@ -888,7 +888,7 @@
       CHANMODE 0
       GUID {D86E2592-277A-4695-B3D8-8BC29173D733}
       <SOURCE WAVE
-        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 2.wav"
+        FILE "/Music/Assets/Cues/English Female - 2.wav"
       >
     >
     <ITEM
@@ -911,7 +911,7 @@
       CHANMODE 0
       GUID {C03B01CE-D0B3-4343-B357-A5D5D24D0E8D}
       <SOURCE WAVE
-        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 3.wav"
+        FILE "/Music/Assets/Cues/English Female - 3.wav"
       >
     >
     <ITEM
@@ -934,7 +934,7 @@
       CHANMODE 0
       GUID {2CF55FD3-79CE-418F-A831-530CC51C8833}
       <SOURCE WAVE
-        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 4.wav"
+        FILE "/Music/Assets/Cues/English Female - 4.wav"
       >
     >
     <ITEM
@@ -957,7 +957,7 @@
       CHANMODE 0
       GUID {DC933290-EAD3-46F2-816B-FAE0FCD9EEBE}
       <SOURCE WAVE
-        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - Pre Chorus.wav"
+        FILE "/Music/Assets/Cues/English Female - Pre Chorus.wav"
       >
     >
     <ITEM
@@ -980,7 +980,7 @@
       CHANMODE 0
       GUID {FCF9088D-398F-4E63-B600-685D4B19C96C}
       <SOURCE WAVE
-        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 2.wav"
+        FILE "/Music/Assets/Cues/English Female - 2.wav"
       >
     >
     <ITEM
@@ -1003,7 +1003,7 @@
       CHANMODE 0
       GUID {9B4B8E1A-A3EC-4A9C-BCF8-A6FF9B7A25F3}
       <SOURCE WAVE
-        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 3.wav"
+        FILE "/Music/Assets/Cues/English Female - 3.wav"
       >
     >
     <ITEM
@@ -1026,7 +1026,7 @@
       CHANMODE 0
       GUID {0DA64553-CD44-4833-8578-E6E4099DEE0F}
       <SOURCE WAVE
-        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 4.wav"
+        FILE "/Music/Assets/Cues/English Female - 4.wav"
       >
     >
     <ITEM
@@ -1049,7 +1049,7 @@
       CHANMODE 0
       GUID {10C7B76D-171D-4E3C-92EB-3575D2F0C7D1}
       <SOURCE WAVE
-        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - Chorus.wav"
+        FILE "/Music/Assets/Cues/English Female - Chorus.wav"
       >
     >
     <ITEM
@@ -1072,7 +1072,7 @@
       CHANMODE 0
       GUID {DE7D86BF-782B-418C-8FDD-35DCD2E7FD4E}
       <SOURCE WAVE
-        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 2.wav"
+        FILE "/Music/Assets/Cues/English Female - 2.wav"
       >
     >
     <ITEM
@@ -1095,7 +1095,7 @@
       CHANMODE 0
       GUID {58B74B8B-C2DF-48C8-90B2-0E7C41EE1291}
       <SOURCE WAVE
-        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 3.wav"
+        FILE "/Music/Assets/Cues/English Female - 3.wav"
       >
     >
     <ITEM
@@ -1118,7 +1118,7 @@
       CHANMODE 0
       GUID {85B8543E-D6A7-4527-978A-46BABBF1A3CC}
       <SOURCE WAVE
-        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 4.wav"
+        FILE "/Music/Assets/Cues/English Female - 4.wav"
       >
     >
     <ITEM
@@ -1141,7 +1141,7 @@
       CHANMODE 0
       GUID {B3C852D5-E81B-4000-BDDD-53488351F635}
       <SOURCE WAVE
-        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - Bridge.wav"
+        FILE "/Music/Assets/Cues/English Female - Bridge.wav"
       >
     >
     <ITEM
@@ -1164,7 +1164,7 @@
       CHANMODE 0
       GUID {66999E2B-F7EA-4B27-8064-07DF968F5AB5}
       <SOURCE WAVE
-        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 2.wav"
+        FILE "/Music/Assets/Cues/English Female - 2.wav"
       >
     >
     <ITEM
@@ -1187,7 +1187,7 @@
       CHANMODE 0
       GUID {CCD12702-8F51-4847-99F0-5D6CB6135008}
       <SOURCE WAVE
-        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 3.wav"
+        FILE "/Music/Assets/Cues/English Female - 3.wav"
       >
     >
     <ITEM
@@ -1210,7 +1210,7 @@
       CHANMODE 0
       GUID {7A8C2986-BD0B-4758-AC57-A3CC770AF7C1}
       <SOURCE WAVE
-        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 4.wav"
+        FILE "/Music/Assets/Cues/English Female - 4.wav"
       >
     >
     <ITEM
@@ -1233,7 +1233,7 @@
       CHANMODE 0
       GUID {F4F2F4F4-C8EF-492C-985C-34B732872770}
       <SOURCE WAVE
-        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - Bridge.wav"
+        FILE "/Music/Assets/Cues/English Female - Bridge.wav"
       >
     >
     <ITEM
@@ -1256,7 +1256,7 @@
       CHANMODE 0
       GUID {6764A43B-CA0C-4A0C-9D1F-BD6F721C1F6F}
       <SOURCE WAVE
-        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - Breakdown.wav"
+        FILE "/Music/Assets/Cues/English Female - Breakdown.wav"
       >
     >
     <ITEM
@@ -1279,7 +1279,7 @@
       CHANMODE 0
       GUID {E67A4A44-85E8-445E-A4FC-5949EB9A39A5}
       <SOURCE WAVE
-        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 2.wav"
+        FILE "/Music/Assets/Cues/English Female - 2.wav"
       >
     >
     <ITEM
@@ -1302,7 +1302,7 @@
       CHANMODE 0
       GUID {A926B43E-D39C-4DF0-A4D9-F4DFE845AD65}
       <SOURCE WAVE
-        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 3.wav"
+        FILE "/Music/Assets/Cues/English Female - 3.wav"
       >
     >
     <ITEM
@@ -1325,7 +1325,7 @@
       CHANMODE 0
       GUID {53FCC861-1310-4573-8C9D-2C093B3BF3D5}
       <SOURCE WAVE
-        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 4.wav"
+        FILE "/Music/Assets/Cues/English Female - 4.wav"
       >
     >
     <ITEM
@@ -1348,7 +1348,7 @@
       CHANMODE 0
       GUID {26DA720D-CC15-4E91-89DA-AAD0E5DC3C6A}
       <SOURCE WAVE
-        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - Chorus.wav"
+        FILE "/Music/Assets/Cues/English Female - Chorus.wav"
       >
     >
     <ITEM
@@ -1371,7 +1371,7 @@
       CHANMODE 0
       GUID {9DBE3B0A-0A38-42CE-A964-71F2909A8F21}
       <SOURCE WAVE
-        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 2.wav"
+        FILE "/Music/Assets/Cues/English Female - 2.wav"
       >
     >
     <ITEM
@@ -1394,7 +1394,7 @@
       CHANMODE 0
       GUID {2C5EC46E-A9D1-4545-B2B5-D6E13F8C0AF4}
       <SOURCE WAVE
-        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 3.wav"
+        FILE "/Music/Assets/Cues/English Female - 3.wav"
       >
     >
     <ITEM
@@ -1417,7 +1417,7 @@
       CHANMODE 0
       GUID {135E39E9-81FB-4DDA-9A05-7BA8B6EEB4AD}
       <SOURCE WAVE
-        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 4.wav"
+        FILE "/Music/Assets/Cues/English Female - 4.wav"
       >
     >
     <ITEM
@@ -1440,7 +1440,7 @@
       CHANMODE 0
       GUID {D99F189D-9162-4A9C-95F5-B7B43EFEF1E8}
       <SOURCE WAVE
-        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - Outro.wav"
+        FILE "/Music/Assets/Cues/English Female - Outro.wav"
       >
     >
     <ITEM
@@ -1463,7 +1463,7 @@
       CHANMODE 0
       GUID {E9B60543-53CE-4958-869B-1C820E7BE077}
       <SOURCE WAVE
-        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 2.wav"
+        FILE "/Music/Assets/Cues/English Female - 2.wav"
       >
     >
     <ITEM
@@ -1486,7 +1486,7 @@
       CHANMODE 0
       GUID {7C1EEC6C-D44B-49AB-BB1A-460E03476624}
       <SOURCE WAVE
-        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 3.wav"
+        FILE "/Music/Assets/Cues/English Female - 3.wav"
       >
     >
     <ITEM
@@ -1509,7 +1509,7 @@
       CHANMODE 0
       GUID {F76449EA-CFDA-464D-807C-0C5A8C304D9C}
       <SOURCE WAVE
-        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 4.wav"
+        FILE "/Music/Assets/Cues/English Female - 4.wav"
       >
     >
     <ITEM
@@ -1532,7 +1532,7 @@
       CHANMODE 0
       GUID {2D6E8EC7-F631-441D-8D37-4C942753D5D5}
       <SOURCE WAVE
-        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - Ending.wav"
+        FILE "/Music/Assets/Cues/English Female - Ending.wav"
       >
     >
   >
@@ -1580,7 +1580,7 @@
       CHANMODE 0
       GUID {DC95170E-2F8E-FB3F-CA86-7F6D3A910268}
       <SOURCE MP3
-        FILE "/home/butbkadrug/Downloads/Ever Be (Official Lyric Video) - kalley We Will Not Be Shaken [vocals].mp3" 1
+        FILE "/Downloads/Ever Be (Official Lyric Video) - kalley We Will Not Be Shaken [vocals].mp3" 1
       >
     >
   >
@@ -12689,7 +12689,7 @@
         CHANMODE 0
         GUID {DEAE82E6-4BD7-4432-8457-CD2E53E74679}
         <SOURCE WAVE
-          FILE "C:\Users\Butbk\Music\BICF Worship\Samples\TS-GRATIS-JAN-2018\TS GRATIS JAN 2018\TS ORGANIC PERC FREE\SHAKER TAMBO BRUSH LOOPS\100 ACCENT 8s PAPER SHAKER.wav"
+          FILE "/Music\BICF Worship\Samples\TS-GRATIS-JAN-2018\TS GRATIS JAN 2018\TS ORGANIC PERC FREE\SHAKER TAMBO BRUSH LOOPS\100 ACCENT 8s PAPER SHAKER.wav"
         >
       >
       <ITEM {DB61AF69-87E9-4218-AF36-32ECB205F022}
@@ -12712,7 +12712,7 @@
         CHANMODE 0
         GUID {E26C2407-66AA-482A-A032-CA5FCB6EDF5D}
         <SOURCE WAVE
-          FILE "C:\Users\Butbk\Music\BICF Worship\Samples\TS-GRATIS-JAN-2018\TS GRATIS JAN 2018\TS ORGANIC PERC FREE\SHAKER TAMBO BRUSH LOOPS\100 ACCENT 8s PAPER SHAKER.wav"
+          FILE "/Music\BICF Worship\Samples\TS-GRATIS-JAN-2018\TS GRATIS JAN 2018\TS ORGANIC PERC FREE\SHAKER TAMBO BRUSH LOOPS\100 ACCENT 8s PAPER SHAKER.wav"
         >
       >
       <ITEM {21D2683B-395A-486F-A02C-BA8A2B27160A}
@@ -12735,7 +12735,7 @@
         CHANMODE 0
         GUID {AC86CFC1-AACE-4183-B8B9-436A01897D9B}
         <SOURCE WAVE
-          FILE "C:\Users\Butbk\Music\BICF Worship\Samples\TS-GRATIS-JAN-2018\TS GRATIS JAN 2018\TS ORGANIC PERC FREE\SHAKER TAMBO BRUSH LOOPS\100 ACCENT 8s PAPER SHAKER.wav"
+          FILE "/Music\BICF Worship\Samples\TS-GRATIS-JAN-2018\TS GRATIS JAN 2018\TS ORGANIC PERC FREE\SHAKER TAMBO BRUSH LOOPS\100 ACCENT 8s PAPER SHAKER.wav"
         >
       >
       <ITEM {E6E3F40D-B04A-41DF-8A93-7E060D8ECA2F}
@@ -12758,7 +12758,7 @@
         CHANMODE 0
         GUID {8CD2084B-153B-4986-B38F-E910DC1A720D}
         <SOURCE WAVE
-          FILE "C:\Users\Butbk\Music\BICF Worship\Samples\TS-GRATIS-JAN-2018\TS GRATIS JAN 2018\TS ORGANIC PERC FREE\SHAKER TAMBO BRUSH LOOPS\100 ACCENT 8s PAPER SHAKER.wav"
+          FILE "/Music\BICF Worship\Samples\TS-GRATIS-JAN-2018\TS GRATIS JAN 2018\TS ORGANIC PERC FREE\SHAKER TAMBO BRUSH LOOPS\100 ACCENT 8s PAPER SHAKER.wav"
         >
       >
       <ITEM {CC872065-D29C-4496-A21D-84D089257D4E}
@@ -12781,7 +12781,7 @@
         CHANMODE 0
         GUID {B23AE978-5693-409B-8611-A8506BF3D9E7}
         <SOURCE WAVE
-          FILE "C:\Users\Butbk\Music\BICF Worship\Samples\TS-GRATIS-JAN-2018\TS GRATIS JAN 2018\TS ORGANIC PERC FREE\SHAKER TAMBO BRUSH LOOPS\90 ACCENT 16s DOUBLE SHAKER.wav"
+          FILE "/Music\BICF Worship\Samples\TS-GRATIS-JAN-2018\TS GRATIS JAN 2018\TS ORGANIC PERC FREE\SHAKER TAMBO BRUSH LOOPS\90 ACCENT 16s DOUBLE SHAKER.wav"
         >
       >
       <ITEM {7B8193FC-0673-4F89-821F-2751743607A0}
@@ -12804,7 +12804,7 @@
         CHANMODE 0
         GUID {6F4FE986-7497-4D6A-B89F-A74AB293757A}
         <SOURCE WAVE
-          FILE "C:\Users\Butbk\Music\BICF Worship\Samples\TS-GRATIS-JAN-2018\TS GRATIS JAN 2018\TS ORGANIC PERC FREE\SHAKER TAMBO BRUSH LOOPS\90 ACCENT 16s DOUBLE SHAKER.wav"
+          FILE "/Music\BICF Worship\Samples\TS-GRATIS-JAN-2018\TS GRATIS JAN 2018\TS ORGANIC PERC FREE\SHAKER TAMBO BRUSH LOOPS\90 ACCENT 16s DOUBLE SHAKER.wav"
         >
       >
     >
@@ -18796,7 +18796,7 @@
         GUID {766A09B0-1336-4C13-A748-DF1962A2125D}
         RECPASS 20
         <SOURCE WAVE
-          FILE "C:\Users\Butbk\Music\REAPER\Ever Be Click & Guide\15 - Ever Be Click & Guide - EG 1 - 020.wav"
+          FILE "/Music\REAPER\Ever Be Click & Guide\15 - Ever Be Click & Guide - EG 1 - 020.wav"
         >
         TAKE
         NAME "15 - Ever Be Click & Guide - EG 1 - 020.wav"
@@ -18808,7 +18808,7 @@
         GUID {C4502064-2029-4FE9-8233-D1A45602FC22}
         RECPASS 21
         <SOURCE WAVE
-          FILE "C:\Users\Butbk\Music\REAPER\Ever Be Click & Guide\15 - Ever Be Click & Guide - EG 1 - 020.wav"
+          FILE "/Music\REAPER\Ever Be Click & Guide\15 - Ever Be Click & Guide - EG 1 - 020.wav"
         >
         TAKE
         NAME "15 - Ever Be Click & Guide - EG 1 - 020.wav"
@@ -18820,7 +18820,7 @@
         GUID {1F2FDF77-8579-46C5-AC19-B304CC278938}
         RECPASS 22
         <SOURCE WAVE
-          FILE "C:\Users\Butbk\Music\REAPER\Ever Be Click & Guide\15 - Ever Be Click & Guide - EG 1 - 020.wav"
+          FILE "/Music\REAPER\Ever Be Click & Guide\15 - Ever Be Click & Guide - EG 1 - 020.wav"
         >
         TAKE
         NAME "15 - Ever Be Click & Guide - EG 1 - 020.wav"
@@ -18832,7 +18832,7 @@
         GUID {21B9F39A-8B7E-4A11-8AB3-74C6578F9FD4}
         RECPASS 23
         <SOURCE WAVE
-          FILE "C:\Users\Butbk\Music\REAPER\Ever Be Click & Guide\15 - Ever Be Click & Guide - EG 1 - 020.wav"
+          FILE "/Music\REAPER\Ever Be Click & Guide\15 - Ever Be Click & Guide - EG 1 - 020.wav"
         >
         TAKE
         NAME "15 - Ever Be Click & Guide - EG 1 - 020.wav"
@@ -18844,7 +18844,7 @@
         GUID {4F7E7D58-0916-44E3-AC4A-CE444F30A317}
         RECPASS 24
         <SOURCE WAVE
-          FILE "C:\Users\Butbk\Music\REAPER\Ever Be Click & Guide\15 - Ever Be Click & Guide - EG 1 - 020.wav"
+          FILE "/Music\REAPER\Ever Be Click & Guide\15 - Ever Be Click & Guide - EG 1 - 020.wav"
         >
       >
       <ITEM {62808838-D955-4653-9AAB-CA7144A56361}
@@ -18868,7 +18868,7 @@
         GUID {409F6A10-A560-4B2F-B10B-457C195582F6}
         RECPASS 21
         <SOURCE WAVE
-          FILE "C:\Users\Butbk\Music\REAPER\Ever Be Click & Guide\15 - Ever Be Click & Guide - EG 1 - 020.wav"
+          FILE "/Music\REAPER\Ever Be Click & Guide\15 - Ever Be Click & Guide - EG 1 - 020.wav"
         >
       >
       <ITEM {803B366F-1DE0-409E-ABB4-3294E13C9D07}
@@ -18892,7 +18892,7 @@
         GUID {11D3BB1F-01AA-42A7-87C8-9D81F5422D7F}
         RECPASS 23
         <SOURCE WAVE
-          FILE "C:\Users\Butbk\Music\REAPER\Ever Be Click & Guide\15 - Ever Be Click & Guide - EG 1 - 020.wav"
+          FILE "/Music\REAPER\Ever Be Click & Guide\15 - Ever Be Click & Guide - EG 1 - 020.wav"
         >
       >
       <ITEM {75FB2B44-0D0C-446F-91E0-82EA32FB35FC}
@@ -18916,7 +18916,7 @@
         GUID {DF0A0965-A4B4-4587-85FB-95034BE7B6FB}
         RECPASS 22
         <SOURCE WAVE
-          FILE "C:\Users\Butbk\Music\REAPER\Ever Be Click & Guide\15 - Ever Be Click & Guide - EG 1 - 020.wav"
+          FILE "/Music\REAPER\Ever Be Click & Guide\15 - Ever Be Click & Guide - EG 1 - 020.wav"
         >
       >
       <ITEM {73D4DD19-5737-4C45-8EC9-E83802EE4F94}
@@ -18940,7 +18940,7 @@
         GUID {B61F945C-4F5F-4D66-B02B-7EA09D5FC7F9}
         RECPASS 22
         <SOURCE WAVE
-          FILE "C:\Users\Butbk\Music\REAPER\Ever Be Click & Guide\15 - Ever Be Click & Guide - EG 1 - 020.wav"
+          FILE "/Music\REAPER\Ever Be Click & Guide\15 - Ever Be Click & Guide - EG 1 - 020.wav"
         >
       >
       <ITEM {6C73B11D-DB51-45E5-B567-D3312EFB8E92}
@@ -18963,7 +18963,7 @@
         GUID {75E94705-B989-43C0-A640-AABD3DF34556}
         RECPASS 25
         <SOURCE WAVE
-          FILE "C:\Users\Butbk\Music\REAPER\Ever Be Click & Guide\15 - Ever Be Click & Guide - EG 1 - 025.wav"
+          FILE "/Music\REAPER\Ever Be Click & Guide\15 - Ever Be Click & Guide - EG 1 - 025.wav"
         >
       >
       <ITEM {414D0D9F-98E3-4268-80A5-A392503521BB}
@@ -18986,7 +18986,7 @@
         GUID {B66745EE-000A-4DCA-BEE1-D7652807E4B8}
         RECPASS 28
         <SOURCE WAVE
-          FILE "C:\Users\Butbk\Music\REAPER\Ever Be Click & Guide\15 - Ever Be Click & Guide - EG 1 - 028.wav"
+          FILE "/Music\REAPER\Ever Be Click & Guide\15 - Ever Be Click & Guide - EG 1 - 028.wav"
         >
         SM 0 3.053225543 + 0.434782609 3.399332337 + 3.913043478 6.820345105 + 7.391304348 10.25275357 + 10.434782609 13.488008152
       >
@@ -19010,7 +19010,7 @@
         GUID {C510AE04-E93C-4705-876B-3E157F11BBA3}
         RECPASS 29
         <SOURCE WAVE
-          FILE "C:\Users\Butbk\Music\REAPER\Ever Be Click & Guide\15 - Ever Be Click & Guide - EG 1 - 029.wav"
+          FILE "/Music\REAPER\Ever Be Click & Guide\15 - Ever Be Click & Guide - EG 1 - 029.wav"
         >
         SM 0 2.968869804 + 0.519129291 3.428650848 + 3.99739016 6.966259964
       >
@@ -19034,7 +19034,7 @@
         GUID {9F2FB77F-3276-4922-869E-2F59113A253B}
         RECPASS 31
         <SOURCE WAVE
-          FILE "C:\Users\Butbk\Music\REAPER\Ever Be Click & Guide\15 - Ever Be Click & Guide - EG 1 - 031.wav"
+          FILE "/Music\REAPER\Ever Be Click & Guide\15 - Ever Be Click & Guide - EG 1 - 031.wav"
         >
         SM 0 3.488 + 3.478291667 6.888799431 + 6.956552536 10.342838125 + 10.434813406 13.843205785 + 13.913074275 17.332638061 + 17.391335145 20.805193467 + 20.869596014 24.234071631 + 24.347856884 27.776280726 + 27.826125 31.314125
       >
@@ -19059,7 +19059,7 @@
         GUID {8A653749-4766-495F-AC2F-F515E05A54C4}
         RECPASS 50
         <SOURCE WAVE
-          FILE "C:\Users\Butbk\Music\REAPER\Ever Be Click & Guide\15 - Ever Be Click & Guide - EG 1 - 049.wav"
+          FILE "/Music\REAPER\Ever Be Click & Guide\15 - Ever Be Click & Guide - EG 1 - 049.wav"
         >
       >
       <ITEM {9C0E7E1A-8C7B-4722-9790-009C33CC63E4}
@@ -19083,7 +19083,7 @@
         GUID {522F812D-C6FC-401E-A048-A61873E0376B}
         RECPASS 50
         <SOURCE WAVE
-          FILE "C:\Users\Butbk\Music\REAPER\Ever Be Click & Guide\15 - Ever Be Click & Guide - EG 1 - 049.wav"
+          FILE "/Music\REAPER\Ever Be Click & Guide\15 - Ever Be Click & Guide - EG 1 - 049.wav"
         >
       >
       <ITEM {68448C52-81B5-42A2-9F5B-B43F34C3D830}
@@ -19107,7 +19107,7 @@
         GUID {C1675B99-AF0F-4371-AEF4-54F468C0AB93}
         RECPASS 51
         <SOURCE WAVE
-          FILE "C:\Users\Butbk\Music\REAPER\Ever Be Click & Guide\15 - Ever Be Click & Guide - EG 1 - 049.wav"
+          FILE "/Music\REAPER\Ever Be Click & Guide\15 - Ever Be Click & Guide - EG 1 - 049.wav"
         >
       >
       <ITEM {B88C73B8-ED04-4B7F-87F2-68B502160227}
@@ -19131,7 +19131,7 @@
         GUID {2A90D2E0-5DA2-47D3-A9F3-62EFE3A8E224}
         RECPASS 50
         <SOURCE WAVE
-          FILE "C:\Users\Butbk\Music\REAPER\Ever Be Click & Guide\15 - Ever Be Click & Guide - EG 1 - 049.wav"
+          FILE "/Music\REAPER\Ever Be Click & Guide\15 - Ever Be Click & Guide - EG 1 - 049.wav"
         >
       >
       <ITEM {98E6DFD6-B9E8-4AD6-9BE1-39143B6EB645}
@@ -19154,7 +19154,7 @@
         GUID {9A2DD65B-28A7-4360-AF8F-34DE2499D675}
         RECPASS 25
         <SOURCE WAVE
-          FILE "C:\Users\Butbk\Music\REAPER\Ever Be Click & Guide\15 - Ever Be Click & Guide - EG 1 - 025.wav"
+          FILE "/Music\REAPER\Ever Be Click & Guide\15 - Ever Be Click & Guide - EG 1 - 025.wav"
         >
       >
       <ITEM {AB110ECE-9355-4904-95CC-7AC592F9567D}
@@ -19177,7 +19177,7 @@
         GUID {8A7775BF-4879-487F-97E0-60E4DA344397}
         RECPASS 36
         <SOURCE WAVE
-          FILE "C:\Users\Butbk\Music\REAPER\Ever Be Click & Guide\15 - Ever Be Click & Guide - EG 1 - 036.wav"
+          FILE "/Music\REAPER\Ever Be Click & Guide\15 - Ever Be Click & Guide - EG 1 - 036.wav"
         >
         SM 0 3.488 + 3.47826087 6.871561879 + 6.956521739 10.34460699 + 10.434782609 13.858402425 + 13.913043478 17.401043478
       >
@@ -19201,7 +19201,7 @@
         GUID {38AAB252-F361-424B-89B1-B0C2F89BFC7F}
         RECPASS 39
         <SOURCE WAVE
-          FILE "C:\Users\Butbk\Music\REAPER\Ever Be Click & Guide\15 - Ever Be Click & Guide - EG 1 - 039.wav"
+          FILE "/Music\REAPER\Ever Be Click & Guide\15 - Ever Be Click & Guide - EG 1 - 039.wav"
         >
         SM 0 3.488 + 0.869567029 4.338328573 + 1.738141852 5.20752471 + 2.608697464 6.159576588 + 3.478262681 6.970288613 + 4.347827899 7.793953144 + 5.217393116 8.68510094 + 6.086958333 9.598683189 + 6.956523551 10.455765603 + 7.826088768 11.290644884 + 8.69482147 12.160399067 + 9.565219203 13.062917855 + 10.43478442 13.894718398 + 11.304349638 14.761840884 + 12.173914855 15.666226381 + 13.043480072 16.550390215 + 13.91304529 17.405089516 + 14.782610507 18.254978575 + 15.652175725 19.138829755 + 16.521740942 20.024318366 + 17.390157077 20.891608483 + 18.260871377 21.740699396 + 19.130436594 22.628776658 + 20.000001812 23.50188403 + 20.869567029 24.359505678 + 21.739132246 25.209860526 + 22.608697464 26.073765096 + 23.478262681 26.940468846 + 24.346489798 27.813921109 + 25.217393116 28.685798124 + 26.086958333 29.516288418 + 26.956523551 30.413927076 + 27.764249177 31.252249177
       >
@@ -19226,7 +19226,7 @@
         GUID {3D5CDF8F-5D37-43F1-8A59-2DED01F756B4}
         RECPASS 46
         <SOURCE WAVE
-          FILE "C:\Users\Butbk\Music\REAPER\Ever Be Click & Guide\15 - Ever Be Click & Guide - EG 1 - 042.wav"
+          FILE "/Music\REAPER\Ever Be Click & Guide\15 - Ever Be Click & Guide - EG 1 - 042.wav"
         >
       >
       <ITEM {3771A178-AEB1-463B-B93D-BE18E630301C}
@@ -19249,7 +19249,7 @@
         GUID {235B3396-8690-49F5-A9C9-BFF6E7AE724F}
         RECPASS 39
         <SOURCE WAVE
-          FILE "C:\Users\Butbk\Music\REAPER\Ever Be Click & Guide\15 - Ever Be Click & Guide - EG 1 - 039.wav"
+          FILE "/Music\REAPER\Ever Be Click & Guide\15 - Ever Be Click & Guide - EG 1 - 039.wav"
         >
       >
       <ITEM {E15B051B-CB22-43B4-9FAC-619EFC74D97C}
@@ -19273,7 +19273,7 @@
         GUID {CF62F0C2-BEEC-45AE-9E85-E21FC70A48F3}
         RECPASS 42
         <SOURCE WAVE
-          FILE "C:\Users\Butbk\Music\REAPER\Ever Be Click & Guide\15 - Ever Be Click & Guide - EG 1 - 042.wav"
+          FILE "/Music\REAPER\Ever Be Click & Guide\15 - Ever Be Click & Guide - EG 1 - 042.wav"
         >
       >
       <ITEM {1E21AFD0-207F-4DAD-817B-9041FFE1FAE6}
@@ -19297,7 +19297,7 @@
         GUID {8EB3C37F-26B0-4348-AEA5-7287160C3077}
         RECPASS 46
         <SOURCE WAVE
-          FILE "C:\Users\Butbk\Music\REAPER\Ever Be Click & Guide\15 - Ever Be Click & Guide - EG 1 - 042.wav"
+          FILE "/Music\REAPER\Ever Be Click & Guide\15 - Ever Be Click & Guide - EG 1 - 042.wav"
         >
       >
       <ITEM {538A1354-404B-4DE3-946B-DBB60D925944}
@@ -19321,7 +19321,7 @@
         GUID {1AEAD04E-EDD6-4869-91D1-7DF024C6816B}
         RECPASS 47
         <SOURCE WAVE
-          FILE "C:\Users\Butbk\Music\REAPER\Ever Be Click & Guide\15 - Ever Be Click & Guide - EG 1 - 042.wav"
+          FILE "/Music\REAPER\Ever Be Click & Guide\15 - Ever Be Click & Guide - EG 1 - 042.wav"
         >
       >
       <ITEM {EE6E3829-D514-4CD1-A606-B76FF5D18E60}
@@ -19345,7 +19345,7 @@
         GUID {5C0F6E6E-4D5E-4117-BEC4-AD6E3CD5322A}
         RECPASS 45
         <SOURCE WAVE
-          FILE "C:\Users\Butbk\Music\REAPER\Ever Be Click & Guide\15 - Ever Be Click & Guide - EG 1 - 042.wav"
+          FILE "/Music\REAPER\Ever Be Click & Guide\15 - Ever Be Click & Guide - EG 1 - 042.wav"
         >
       >
       <ITEM {80BDB91C-D3E4-4820-A045-0C1CB3B2C690}
@@ -19369,7 +19369,7 @@
         GUID {906BD23C-E2AE-4F01-A573-D9ECF65BF5CC}
         RECPASS 45
         <SOURCE WAVE
-          FILE "C:\Users\Butbk\Music\REAPER\Ever Be Click & Guide\15 - Ever Be Click & Guide - EG 1 - 042.wav"
+          FILE "/Music\REAPER\Ever Be Click & Guide\15 - Ever Be Click & Guide - EG 1 - 042.wav"
         >
       >
       <ITEM {4AF45542-FD0A-4C50-BBD0-EFC3311501FE}
@@ -19393,7 +19393,7 @@
         GUID {21ED6CB9-0374-46A8-893C-3863B6C2A8CB}
         RECPASS 46
         <SOURCE WAVE
-          FILE "C:\Users\Butbk\Music\REAPER\Ever Be Click & Guide\15 - Ever Be Click & Guide - EG 1 - 042.wav"
+          FILE "/Music\REAPER\Ever Be Click & Guide\15 - Ever Be Click & Guide - EG 1 - 042.wav"
         >
       >
       <ITEM {46F1B67D-53B5-466C-B37F-42B7E738E677}
@@ -19417,7 +19417,7 @@
         GUID {B8C4FCFA-047F-4BD7-B5CB-C23E9065B30F}
         RECPASS 42
         <SOURCE WAVE
-          FILE "C:\Users\Butbk\Music\REAPER\Ever Be Click & Guide\15 - Ever Be Click & Guide - EG 1 - 042.wav"
+          FILE "/Music\REAPER\Ever Be Click & Guide\15 - Ever Be Click & Guide - EG 1 - 042.wav"
         >
       >
       <ITEM {C7E9B820-CFD8-4043-A5C3-C50B7BB81AA5}
@@ -19441,7 +19441,7 @@
         GUID {B325FDEE-3C75-45C0-B3EA-EA9117CA0361}
         RECPASS 46
         <SOURCE WAVE
-          FILE "C:\Users\Butbk\Music\REAPER\Ever Be Click & Guide\15 - Ever Be Click & Guide - EG 1 - 042.wav"
+          FILE "/Music\REAPER\Ever Be Click & Guide\15 - Ever Be Click & Guide - EG 1 - 042.wav"
         >
       >
       <ITEM {67E3142C-5745-44C6-8282-C77DC9246C54}
@@ -19465,7 +19465,7 @@
         GUID {24846703-28A8-4621-9ED0-FB39744BF5E9}
         RECPASS 47
         <SOURCE WAVE
-          FILE "C:\Users\Butbk\Music\REAPER\Ever Be Click & Guide\15 - Ever Be Click & Guide - EG 1 - 042.wav"
+          FILE "/Music\REAPER\Ever Be Click & Guide\15 - Ever Be Click & Guide - EG 1 - 042.wav"
         >
       >
       <ITEM {88916EE4-4C91-4E64-B080-8E1DB9504AC9}
@@ -19489,7 +19489,7 @@
         GUID {97C7B738-592D-4214-9116-9FAC4BB54495}
         RECPASS 45
         <SOURCE WAVE
-          FILE "C:\Users\Butbk\Music\REAPER\Ever Be Click & Guide\15 - Ever Be Click & Guide - EG 1 - 042.wav"
+          FILE "/Music\REAPER\Ever Be Click & Guide\15 - Ever Be Click & Guide - EG 1 - 042.wav"
         >
       >
       <ITEM {C89A4187-53FF-4574-8869-65C01AA2D8EF}
@@ -19513,7 +19513,7 @@
         GUID {EF59CC0F-3518-4D25-A94E-3A8670D97D90}
         RECPASS 45
         <SOURCE WAVE
-          FILE "C:\Users\Butbk\Music\REAPER\Ever Be Click & Guide\15 - Ever Be Click & Guide - EG 1 - 042.wav"
+          FILE "/Music\REAPER\Ever Be Click & Guide\15 - Ever Be Click & Guide - EG 1 - 042.wav"
         >
       >
       <ITEM {49119416-A1A8-4A4F-AD13-8CC8DC29437E}
@@ -19536,7 +19536,7 @@
         GUID {01F51346-733A-484C-B249-F87332E6144C}
         RECPASS 39
         <SOURCE WAVE
-          FILE "C:\Users\Butbk\Music\REAPER\Ever Be Click & Guide\15 - Ever Be Click & Guide - EG 1 - 039.wav"
+          FILE "/Music\REAPER\Ever Be Click & Guide\15 - Ever Be Click & Guide - EG 1 - 039.wav"
         >
         SM 0 31.234189264 + 0.079899504 31.280655831 + 0.950149012 32.184338276 + 1.808151474 33.042340738 + 2.688595157 33.905412788 + 3.558160374 34.786145413 + 4.427725591 35.666728536 + 5.297290809 36.546940899 + 6.166856026 37.394652466 + 7.036421243 38.258041183 + 7.905986461 39.123691899 + 8.775551678 39.982434049 + 9.645116896 40.847784364 + 10.514682113 41.775754561 + 11.38424733 42.593427897 + 12.253812548 43.491719047 + 13.123377765 44.356993794 + 13.992942983 45.215362705 + 14.8625082 46.078480353 + 15.732073417 46.943229098 + 16.601638635 47.789445178 + 17.471203852 48.692842926 + 18.34076907 49.585075805 + 19.210334287 50.421853723 + 20.079899504 51.306741006 + 20.949464722 52.163989099 + 21.819029939 53.06251775 + 22.688595157 53.917388121 + 23.558160374 54.729813754 + 24.427725591 55.616158072 + 25.297290809 56.522975331 + 26.166856026 57.398487022 + 27.038949273 58.276966361 + 27.873391993 59.107581257
       >
@@ -19561,7 +19561,7 @@
         GUID {767A2AF5-04A0-4B26-93F4-E9709AC04F35}
         RECPASS 58
         <SOURCE WAVE
-          FILE "C:\Users\Butbk\Music\REAPER\Ever Be Click & Guide\15 - Ever Be Click & Guide - EG 1 - 054.wav"
+          FILE "/Music\REAPER\Ever Be Click & Guide\15 - Ever Be Click & Guide - EG 1 - 054.wav"
         >
         SM 0 114.759991226 + 0.032327615 114.767463121 + 0.901892832 115.631023616 + 2.641023267 117.413710268 + 3.510588484 118.241097541 + 4.380153702 119.124518088 + 5.249718919 120.015311474 + 6.119284136 120.872320155 + 6.988849354 121.705715492 + 7.858414571 122.577932559 + 8.727979789 123.477261697 + 9.597545006 124.363171175 + 10.467110223 125.21868327 + 11.336675441 126.077124684 + 12.206240658 126.962045987 + 13.075805876 127.894737848 + 13.945371093 128.696691936 + 14.81493631 129.53264486 + 15.682222561 130.402742571 + 16.554066745 131.314810154 + 17.423886971 132.184572503 + 18.29319718 133.080279027 + 19.162762397 133.922571771 + 20.032327615 134.784793737 + 20.901892832 135.622562449 + 21.771458049 136.528066906 + 22.641023267 137.360436021 + 23.510588484 138.247299179 + 24.380153702 139.138529172 + 25.249718919 140.013311452 + 26.119284136 140.92435034 + 26.988849354 141.830538974
         SM 27.858414571 142.618395833

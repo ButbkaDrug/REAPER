@@ -276,7 +276,7 @@
       CHANMODE 0
       GUID {E7DCE81F-8013-0B2F-B6D4-226A8F840591}
       <SOURCE MP3
-        FILE "/home/butbkadrug/Music/Good in Every Way.mp3" 1
+        FILE "/Music/Good in Every Way.mp3" 1
       >
     >
   >
@@ -325,7 +325,7 @@
       CHANMODE 0
       GUID {23BC4603-6025-193A-4636-41DFA13E06F4}
       <SOURCE MP3
-        FILE "/home/butbkadrug/Music/Good in Every Way (Instrumental).mp3" 1
+        FILE "/Music/Good in Every Way (Instrumental).mp3" 1
       >
     >
   >
@@ -373,7 +373,7 @@
       CHANMODE 0
       GUID {25580219-D477-0884-19AA-688BC2B0B437}
       <SOURCE MP3
-        FILE "/home/butbkadrug/Music/good-in-every-way [bass].mp3" 1
+        FILE "/Music/good-in-every-way [bass].mp3" 1
       >
     >
   >
@@ -421,7 +421,7 @@
       CHANMODE 0
       GUID {2BC2ABF7-D33E-7FC0-6D2E-72E469344554}
       <SOURCE MP3
-        FILE "/home/butbkadrug/Music/good-in-every-way [drums].mp3" 1
+        FILE "/Music/good-in-every-way [drums].mp3" 1
       >
     >
   >
@@ -469,7 +469,7 @@
       CHANMODE 0
       GUID {85715865-E161-CAB7-42C3-362A282EA9C4}
       <SOURCE MP3
-        FILE "/home/butbkadrug/Music/good-in-every-way [music].mp3" 1
+        FILE "/Music/good-in-every-way [music].mp3" 1
       >
     >
   >
@@ -517,7 +517,7 @@
       CHANMODE 0
       GUID {B3B557BC-4F79-1B4B-ACB1-E6E640DE5283}
       <SOURCE MP3
-        FILE "/home/butbkadrug/Music/good-in-every-way [vocals].mp3" 1
+        FILE "/Music/good-in-every-way [vocals].mp3" 1
       >
     >
   >

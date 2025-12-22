@@ -28,7 +28,7 @@
   >
   <APPLYFX_CFG
   >
-  RENDER_FILE "C:\Users\Butbk\Music\Click Tracks\Call And I Will Listen.mp3"
+  RENDER_FILE "/Music\Click Tracks\Call And I Will Listen.mp3"
   RENDER_FMT 0 2 44100
   RENDER_1X 0
   RENDER_RANGE 1 0 0 18 1000
@@ -183,7 +183,7 @@
         VOL 0.313937 0.098556
         FREQ 800 1600 1
         BEATLEN 4
-        SAMPLES "C:\Users\Butbk\Music\Click and Guide Samples\Click Tracks\New Click -  Blip-accents.wav" "C:\Users\Butbk\Music\Click and Guide Samples\Click Tracks\New Click -  Blip-sixteenth.wav"
+        SAMPLES "/Music\Click and Guide Samples\Click Tracks\New Click -  Blip-accents.wav" "/Music\Click and Guide Samples\Click Tracks\New Click -  Blip-sixteenth.wav"
         PATTERN 2863311530 2863311513
       >
     >
@@ -232,7 +232,7 @@
       CHANMODE 0
       GUID {F1F8CF09-06C4-4AB1-BFE0-4B008AFE5566}
       <SOURCE WAVE
-        FILE "C:\Users\Butbk\Music\Click and Guide Samples\English Guides\Song Sections\English Female - 1.wav"
+        FILE "/Music\Click and Guide Samples\English Guides\Song Sections\English Female - 1.wav"
       >
     >
     <ITEM
@@ -255,7 +255,7 @@
       CHANMODE 0
       GUID {8CD08E04-BE1F-4256-BC75-F0F46207FE80}
       <SOURCE WAVE
-        FILE "C:\Users\Butbk\Music\Click and Guide Samples\English Guides\Song Sections\English Female - 2.wav"
+        FILE "/Music\Click and Guide Samples\English Guides\Song Sections\English Female - 2.wav"
       >
     >
     <ITEM
@@ -278,7 +278,7 @@
       CHANMODE 0
       GUID {EB7BD237-DE89-49F8-BB47-144B72ECBD7A}
       <SOURCE WAVE
-        FILE "C:\Users\Butbk\Music\Click and Guide Samples\English Guides\Song Sections\English Female - 1.wav"
+        FILE "/Music\Click and Guide Samples\English Guides\Song Sections\English Female - 1.wav"
       >
     >
     <ITEM
@@ -301,7 +301,7 @@
       CHANMODE 0
       GUID {0E230EBC-3363-42BC-8E3E-9702145B8FA7}
       <SOURCE WAVE
-        FILE "C:\Users\Butbk\Music\Click and Guide Samples\English Guides\Song Sections\English Female - 2.wav"
+        FILE "/Music\Click and Guide Samples\English Guides\Song Sections\English Female - 2.wav"
       >
     >
     <ITEM
@@ -324,7 +324,7 @@
       CHANMODE 0
       GUID {58CAD0A4-C90F-40B9-9734-E887B054C80E}
       <SOURCE WAVE
-        FILE "C:\Users\Butbk\Music\Click and Guide Samples\English Guides\Song Sections\English Female - 3.wav"
+        FILE "/Music\Click and Guide Samples\English Guides\Song Sections\English Female - 3.wav"
       >
     >
     <ITEM
@@ -347,7 +347,7 @@
       CHANMODE 0
       GUID {E09A3F53-5604-42E9-B747-F26EB0F17DF6}
       <SOURCE WAVE
-        FILE "C:\Users\Butbk\Music\Click and Guide Samples\English Guides\Song Sections\English Female - 4.wav"
+        FILE "/Music\Click and Guide Samples\English Guides\Song Sections\English Female - 4.wav"
       >
     >
     <ITEM
@@ -370,7 +370,7 @@
       CHANMODE 0
       GUID {7DABBC5A-38CE-4923-9F73-10664995EFB5}
       <SOURCE WAVE
-        FILE "C:\Users\Butbk\Music\Click and Guide Samples\English Guides\Song Sections\English Female - Verse 1.wav"
+        FILE "/Music\Click and Guide Samples\English Guides\Song Sections\English Female - Verse 1.wav"
       >
     >
     <ITEM
@@ -393,7 +393,7 @@
       CHANMODE 0
       GUID {BD45C11C-7945-438B-AB52-64FE874C7CB9}
       <SOURCE WAVE
-        FILE "C:\Users\Butbk\Music\Click and Guide Samples\English Guides\Song Sections\English Female - 2.wav"
+        FILE "/Music\Click and Guide Samples\English Guides\Song Sections\English Female - 2.wav"
       >
     >
     <ITEM
@@ -416,7 +416,7 @@
       CHANMODE 0
       GUID {E463A0E0-8182-48A3-91A6-0D8B09C5CF70}
       <SOURCE WAVE
-        FILE "C:\Users\Butbk\Music\Click and Guide Samples\English Guides\Song Sections\English Female - 3.wav"
+        FILE "/Music\Click and Guide Samples\English Guides\Song Sections\English Female - 3.wav"
       >
     >
     <ITEM
@@ -439,7 +439,7 @@
       CHANMODE 0
       GUID {5CD4DE0D-7818-4926-B0A0-8BDDBDA17BE3}
       <SOURCE WAVE
-        FILE "C:\Users\Butbk\Music\Click and Guide Samples\English Guides\Song Sections\English Female - 4.wav"
+        FILE "/Music\Click and Guide Samples\English Guides\Song Sections\English Female - 4.wav"
       >
     >
     <ITEM
@@ -462,7 +462,7 @@
       CHANMODE 0
       GUID {B0BC958D-88E8-4021-909C-F126D554254A}
       <SOURCE WAVE
-        FILE "C:\Users\Butbk\Music\Click and Guide Samples\English Guides\Song Sections\English Female - Verse 2.wav"
+        FILE "/Music\Click and Guide Samples\English Guides\Song Sections\English Female - Verse 2.wav"
       >
     >
     <ITEM
@@ -485,7 +485,7 @@
       CHANMODE 0
       GUID {7C54F7CC-1908-4CCF-84BF-0DD05EC90F80}
       <SOURCE WAVE
-        FILE "C:\Users\Butbk\Music\Click and Guide Samples\English Guides\Song Sections\English Female - Chorus.wav"
+        FILE "/Music\Click and Guide Samples\English Guides\Song Sections\English Female - Chorus.wav"
       >
     >
     <ITEM
@@ -508,7 +508,7 @@
       CHANMODE 0
       GUID {DF1F0847-97DA-492D-A86F-6ECA2332CFFE}
       <SOURCE WAVE
-        FILE "C:\Users\Butbk\Music\Click and Guide Samples\English Guides\Song Sections\English Female - Verse 1.wav"
+        FILE "/Music\Click and Guide Samples\English Guides\Song Sections\English Female - Verse 1.wav"
       >
     >
     <ITEM
@@ -531,7 +531,7 @@
       CHANMODE 0
       GUID {830BC6D0-EA05-469B-B50F-2A6EA6954F27}
       <SOURCE WAVE
-        FILE "C:\Users\Butbk\Music\Click and Guide Samples\English Guides\Song Sections\English Female - Verse 2.wav"
+        FILE "/Music\Click and Guide Samples\English Guides\Song Sections\English Female - Verse 2.wav"
       >
     >
     <ITEM
@@ -554,7 +554,7 @@
       CHANMODE 0
       GUID {6616F0C9-9BB2-442B-878F-E206AB78B253}
       <SOURCE WAVE
-        FILE "C:\Users\Butbk\Music\Click and Guide Samples\English Guides\Song Sections\English Female - Chorus.wav"
+        FILE "/Music\Click and Guide Samples\English Guides\Song Sections\English Female - Chorus.wav"
       >
     >
     <ITEM
@@ -577,7 +577,7 @@
       CHANMODE 0
       GUID {0A2A8EE9-8B48-42C3-B2F2-8ECEB8A5483C}
       <SOURCE WAVE
-        FILE "C:\Users\Butbk\Music\Click and Guide Samples\English Guides\Song Sections\English Female - Chorus.wav"
+        FILE "/Music\Click and Guide Samples\English Guides\Song Sections\English Female - Chorus.wav"
       >
     >
     <ITEM
@@ -600,7 +600,7 @@
       CHANMODE 0
       GUID {DC928D59-7082-4002-94A4-615AC6FE6CF1}
       <SOURCE WAVE
-        FILE "C:\Users\Butbk\Music\Click and Guide Samples\English Guides\Song Sections\English Female - Verse.wav"
+        FILE "/Music\Click and Guide Samples\English Guides\Song Sections\English Female - Verse.wav"
       >
     >
     <ITEM
@@ -623,7 +623,7 @@
       CHANMODE 0
       GUID {3C470DEC-7218-4CA5-87DE-8A53774DEFAA}
       <SOURCE WAVE
-        FILE "C:\Users\Butbk\Music\Click and Guide Samples\English Guides\Song Sections\English Female - Breakdown.wav"
+        FILE "/Music\Click and Guide Samples\English Guides\Song Sections\English Female - Breakdown.wav"
       >
     >
     <ITEM
@@ -646,7 +646,7 @@
       CHANMODE 0
       GUID {7E3595C0-EDB2-40DF-915A-3B4D69FDB5E0}
       <SOURCE WAVE
-        FILE "C:\Users\Butbk\Music\Click and Guide Samples\English Guides\Song Sections\English Female - Ending.wav"
+        FILE "/Music\Click and Guide Samples\English Guides\Song Sections\English Female - Ending.wav"
       >
     >
   >

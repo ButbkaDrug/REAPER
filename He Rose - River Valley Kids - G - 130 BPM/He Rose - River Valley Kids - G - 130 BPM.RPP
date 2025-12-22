@@ -181,7 +181,7 @@
         VOL 1 1
         FREQ 800 1600 1
         BEATLEN 4
-        SAMPLES "/mnt/win10/Users/butbkadrug/Music/Assets/Clicks/New Click -  Blip-accents.wav" "/mnt/win10/Users/butbkadrug/Music/Assets/Clicks/New Click -  Blip-sixteenth.wav"
+        SAMPLES "/Music/Assets/Clicks/New Click -  Blip-accents.wav" "/Music/Assets/Clicks/New Click -  Blip-sixteenth.wav"
         PATTERN 2863311530 2863311529
         MULT 1
       >
@@ -1444,7 +1444,7 @@
       CHANMODE 0
       GUID {7E2FBB01-D741-BEA4-1A7C-04802F1716B4}
       <SOURCE MP3
-        FILE "/home/butbkadrug/Downloads/He Rose with Actions.mp3" 1
+        FILE "/Downloads/He Rose with Actions.mp3" 1
       >
     >
   >
