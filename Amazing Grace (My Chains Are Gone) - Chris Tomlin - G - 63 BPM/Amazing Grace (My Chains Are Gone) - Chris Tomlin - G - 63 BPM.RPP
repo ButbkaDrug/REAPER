@@ -171,7 +171,7 @@
         VOL 1 1
         FREQ 800 1600 1
         BEATLEN 4
-        SAMPLES "/mnt/win10/Users/butbkadrug/Music/Assets/Clicks/New Click -  Blip-accents.wav" "/mnt/win10/Users/butbkadrug/Music/Assets/Clicks/New Click -  Blip-sixteenth.wav"
+        SAMPLES "/Music/Assets/Clicks/New Click -  Blip-accents.wav" "/Music/Assets/Clicks/New Click -  Blip-sixteenth.wav"
         PATTERN 2863311530 2863311529
         MULT 1
       >
@@ -266,7 +266,7 @@
       CHANMODE 0
       GUID {90CB27DE-6D3F-FDEF-6188-8AB6A5C779B8}
       <SOURCE WAVE
-        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - Intro.wav"
+        FILE "/Music/Assets/Cues/English Female - Intro.wav"
       >
     >
     <ITEM
