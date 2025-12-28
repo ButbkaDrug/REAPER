@@ -1,11 +1,12 @@
-<REAPER_PROJECT 0.1 "6.77/win64" 1702815828
+<REAPER_PROJECT 0.1 "7.55/macOS-arm64" 1766495786 0
   <NOTES 0 2
   >
-  RIPPLE 0
-  GROUPOVERRIDE 0 0 0
-  AUTOXFADE 1
+  RIPPLE 0 0
+  GROUPOVERRIDE 0 0 0 0
+  AUTOXFADE 129
   ENVATTACH 3
   POOLEDENVATTACH 0
+  TCPUIFLAGS 0
   MIXERUIFLAGS 11 48
   PEAKGAIN 1
   FEEDBACK 0
@@ -13,11 +14,11 @@
   PROJOFFS 0 0 0
   MAXPROJLEN 0 0
   GRID 3199 8 1 8 1 0 0 0
-  TIMEMODE 1 5 -1 30 0 0 -1
+  TIMEMODE 1 5 -1 30 0 0 -1 0
   VIDEO_CONFIG 0 0 256
   PANMODE 3
-  CURSOR 238.46153846153845
-  ZOOM 11.47420759958545 2665 0
+  CURSOR 0
+  ZOOM 11.47420759958545 0 0
   VZOOMEX 6 0
   USE_REC_CFG 0
   RECMODE 1
@@ -39,6 +40,7 @@
   RENDER_ADDTOPROJ 0
   RENDER_STEMS 0
   RENDER_DITHER 0
+  RENDER_TRIM 0.000001 0.000001 0 0
   TIMELOCKMODE 1
   TEMPOENVLOCKMODE 1
   ITEMMIX 1
@@ -49,17 +51,21 @@
     ZXZhdxgAAQ==
   >
   LOCK 1
-  <METRONOME 7 2
+  <METRONOME 6 2
     VOL 1 1
-    FREQ 800 1600 1
     BEATLEN 4
-    SAMPLES "C:\Users\butbkadrug\Music\Assets\Clicks\New Click -  Blip-accents.wav" "C:\Users\butbkadrug\Music\Assets\Clicks\New Click -  Blip-sixteenth.wav"
-    PATTERN 2863311530 2863311465
+    FREQ 800 1600 1
+    SAMPLES "C:\Users\butbkadrug\Music\Assets\Clicks\New Click -  Blip-accents.wav" "C:\Users\butbkadrug\Music\Assets\Clicks\New Click -  Blip-sixteenth.wav" "" ""
+    SPLIGNORE 0 0
+    SPLDEF 2 660 "" 0 ""
+    SPLDEF 3 440 "" 0 ""
+    PATTERN 0 105
+    PATTERNSTR ABBA
     MULT 1
   >
   METRONOMEOUT 1032
   GLOBAL_AUTO -1
-  TEMPO 78 6 8
+  TEMPO 78 6 8 0
   PLAYRATE 1 0 0.25 4
   SELECTION 0 332.30769230769232
   SELECTION2 0 332.30769230769232
@@ -67,7 +73,7 @@
   MASTERTRACKHEIGHT 0 0
   MASTERPEAKCOL 16576
   MASTERMUTESOLO 0
-  MASTERTRACKVIEW 0 0.6667 0.5 0.5 0 0 0 0 0 0 0 0 0
+  MASTERTRACKVIEW 0 0.6667 0.5 0.5 0 0 0 0 0 0 0 0 0 0 0
   MASTERHWOUT 0 0 1 0 0 0 0 -1
   MASTER_NCH 2 2
   MASTER_VOLUME 1 0 -1 -1 1
@@ -84,7 +90,7 @@
   >
   <TEMPOENVEX
     EGUID {55667E8E-160A-43BE-AF6F-C85C7DE41FD8}
-    ACT 1 -1
+    ACT 0 -1
     VIS 1 0 1
     LANEHEIGHT 0 0
     ARM 0
@@ -103,11 +109,12 @@
     PLAYOFFS 0 1
     ISBUS 0 0
     BUSCOMP 0 0 0 0 0
-    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    LANEREC -1 -1 -1 0
     SEL 1
     REC 0 0 1 0 0 0 0 0
     VU 2
-    TRACKHEIGHT 0 0 0 0 0 0
+    TRACKHEIGHT 0 0 0 0 0 0 0
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 2
     FX 1
@@ -124,7 +131,7 @@
       FADEIN 1 0 0 1 0 0 0
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
-      SEL 1
+      SEL 0
       IGUID {228FD5C3-E59F-4656-BDBB-3FFBE061EEB1}
       IID 1
       NAME "Click source"
@@ -134,18 +141,20 @@
       CHANMODE 0
       GUID {7236BAF5-EFB6-4781-BBC2-8E009E997D7A}
       <SOURCE CLICK
-        AUTO 1
+        AUTO 1 0
         BPM 156
-        BPI 6
-        VOL 1 1
-        FREQ 800 1600 1
-        BEATLEN 4
-        SAMPLES "C:\Users\butbkadrug\Music\Assets\Clicks\New Click -  Blip-accents.wav" "C:\Users\butbkadrug\Music\Assets\Clicks\New Click -  Blip-sixteenth.wav"
-        PATTERN 2863311530 2863311529
+        BPI 6 4
+        VOL 0.501187 0.501187
+        BEATLEN 37
+        FREQ 2700 2000 3
+        SAMPLES "" "" "" ""
+        SPLIGNORE 0 0
+        SPLDEF 2 660 "" 0 ""
+        SPLDEF 3 440 "" 0 ""
+        PATTERN 0 2729
+        PATTERNSTR ABBBBB
         MULT 1
       >
     >
-  >
-  <EXTENSIONS
   >
 >

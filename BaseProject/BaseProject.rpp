@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "7.55/macOS-arm64" 1766331168 0
+<REAPER_PROJECT 0.1 "7.55/macOS-arm64" 1766587943 0
   <NOTES 0 2
   >
   RIPPLE 0 0
@@ -19,8 +19,8 @@
   VIDEO_CONFIG 0 0 65792
   PANMODE 3
   PANLAWFLAGS 3
-  CURSOR 36864
-  ZOOM 6.3179039982034 247223 0
+  CURSOR 40960
+  ZOOM 24.79889717055403 1016536 0
   VZOOMEX 14.05275249 0
   USE_REC_CFG 0
   RECMODE 1
@@ -99,15 +99,30 @@
     DEFSHAPE 1 -1 -1
   >
   MARKER 1 0 "" 0 0 1 B {C5702DA5-DE60-AFF3-4687-84C8443FAEFA} 0
+  MARKER 1 0 "Star Of The Morning" 9 0 1 B {E0C0F366-EBFD-E24E-8535-FBC8CB3418AB} 0
+  MARKER 1 196.8819791666665 "" 9
   MARKER 2 4096 "" 0 0 1 B {3D29DE3D-03D8-C6BE-037F-C7BDE3F6F195} 0
+  MARKER 2 4096 "Newborn King" 9 0 1 B {61BA1982-3A54-F041-B269-78629B42BA81} 0
+  MARKER 2 4402.6666666666661 "" 9
   MARKER 3 8192 "" 0 0 1 B {83FDBE1A-7367-E01A-BD4D-D0D440276049} 0
+  MARKER 3 8192 "Silent Night" 9 0 1 B {15C63054-1D26-624A-B112-DA0918ED375A} 0
+  MARKER 3 8524.3076875 "" 9
+  MARKER 4 12280.5 Indians 9 0 1 B {C71DF6E2-CC56-0A47-A90F-104E59295F6A} 0
+  MARKER 4 12666.554965986394 "" 9
   MARKER 4 12288 "" 0 0 1 B {1C770C9C-607D-B873-078A-E57E449A590C} 0
   MARKER 5 16384 "" 0 0 1 B {F53B7A07-4EDE-DF45-47BA-0C317FC684C5} 0
+  MARKER 5 16384 "O Holy Night" 9 0 1 B {DED8BF29-DDDD-6A42-B5AE-F89340D21881} 0
+  MARKER 5 16679.450702947845 "" 9
   MARKER 6 20480 "" 0 0 1 B {934B2170-5A36-CF29-3923-DAF9F533ED52} 0
+  MARKER 6 20480 "Song at the end of skit" 9 0 1 B {331B2924-3B03-0348-81B7-54C37A2B3DA5} 0
+  MARKER 6 20668 "" 9
   MARKER 7 24576 "" 0 0 1 B {435AF200-6E87-F527-28FD-899F2A7620C4} 0
+  MARKER 7 24576 "Teenagers - Glory" 9 0 1 B {FB6B5D61-B433-BA4C-AB75-EB6BC0EF604D} 0
+  MARKER 7 24805.947208333331 "" 9
   MARKER 8 28672 "" 0 0 1 B {061DF777-9EEF-F0B0-9760-C8018B7D6B47} 0
   MARKER 9 32768 "" 0 0 1 B {B8189CD5-D7A1-24C3-C2C6-5951703BB186} 0
   MARKER 10 36864 "" 0 0 1 B {6EB2CC58-CDEB-8C60-1393-F7E8252C0CEB} 0
+  MARKER 11 40960 "" 0 0 1 B {C7DAB527-D867-8C4F-B2F3-D327B5FF4479} 0
   <PROJBAY
   >
   <TRACK {6B7123E5-3A60-F3DC-B36D-46D5DD4930B8}
@@ -138,6 +153,7 @@
     MAINSEND 0 0
     HWOUT 1032 0 1 0 0 0 0 -1:U -1
     HWOUT 16 0 1 0 0 0 2 -1:U -1
+    HWOUT 516 0 1 0 0 0 2 -1:U -1
     <FXCHAIN
       WNDRECT 32 77 912 483
       SHOW 0
@@ -147,111 +163,111 @@
     <ITEM
       POSITION 0
       SNAPOFFS 0
-      LENGTH 306.66666666666669
+      LENGTH 196.8819791666665
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {F0267FCF-C629-3B4A-B8B4-10F4B470D315}
+      IID 6
+      NAME "Star Of The Morning - Kids Song - Db - 100 BPM.RPP"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {CBFD7372-CFCC-AC42-A9D9-7D90AAC29957}
+      <SOURCE RPP_PROJECT
+        FILE "/Users/calvarchapelbatumi/Music/REAPER/Star Of The Morning - Kids Song - Db - 100 BPM/Star Of The Morning - Kids Song - Db - 100 BPM.RPP"
+      >
+    >
+    <ITEM
+      POSITION 4096
+      SNAPOFFS 0
+      LENGTH 306.66666666666606
       LOOP 0
       ALLTAKES 0
       FADEIN 1 0 0 1 0 0 0
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {3FEB82C4-917B-418A-6B8E-A8BD614389CD}
+      IGUID {5B0CFA9C-B025-394A-A19C-3FE26307DF94}
       IID 480
       NAME "Newborn King - Antioch Music - E - 108 BPM.RPP"
       VOLPAN 1 0 1 -1
       SOFFS 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {C2BD5C64-98B1-8701-E9FD-955CBAE10EE1}
+      GUID {457A7792-E849-024D-82C2-ABB7C8F77BC9}
       <SOURCE RPP_PROJECT
         FILE "/Music/REAPER/Newborn King - Antioch Music - E - 108 BPM/Newborn King - Antioch Music - E - 108 BPM.RPP"
       >
     >
     <ITEM
-      POSITION 4096
-      SNAPOFFS 0
-      LENGTH 305.26316666666753
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0 0
-      FADEOUT 1 0 0 1 0 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {4B6CF88B-C706-D342-8D87-468030D87E12}
-      IID 3010
-      NAME "Your Love Never Fails - Bb - 114 BPM.rpp"
-      VOLPAN 1 0 1 -1
-      SOFFS 0
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {4A5E4657-7219-CB4F-91FA-F60A1B9BB381}
-      <SOURCE RPP_PROJECT
-        FILE "/Music/REAPER/Your Love Never Fails - Bb - 114 BPM/Your Love Never Fails - Bb - 114 BPM.rpp"
-      >
-    >
-    <ITEM
       POSITION 8192
       SNAPOFFS 0
-      LENGTH 137.72799999999916
-      LOOP 0
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0 0
-      FADEOUT 1 0 0 1 0 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {FE75FBBA-38CD-2249-A5E8-BC546A912CF5}
-      IID 4
-      NAME "What Child Is This - Kids Song - A - 100 BPM.RPP"
-      VOLPAN 1 0 1 -1
-      SOFFS 0
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {BC0F094A-8281-D44A-9105-FA8D1468B647}
-      <SOURCE RPP_PROJECT
-        FILE "/Music/REAPER/What Child Is This - Kids Song - A - 100 BPM/What Child Is This - Kids Song - A - 100 BPM.RPP"
-      >
-    >
-    <ITEM
-      POSITION 12288
-      SNAPOFFS 0
-      LENGTH 284.21052083333331
+      LENGTH 332.30768750000061
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0 0 1 0 0 0
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {8028F362-2020-85B3-5224-5A40E0C577D5}
-      IID 483
-      NAME "How Great Is Our God - Chris Tomlin - C - 76 BPM.rpp"
+      IGUID {C3B9DFC6-2B10-DE42-B1C0-63FA4EC95A1E}
+      IID 2
+      NAME "Silent Night - Click Track.rpp"
       VOLPAN 1 0 1 -1
       SOFFS 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {FA0B08EC-0C90-5A96-EEE1-4865E60B9D02}
+      GUID {5E6E2291-E70F-9840-B95A-33ACAFB44E20}
       <SOURCE RPP_PROJECT
-        FILE "/Music/REAPER/How Great Is Our God - Chris Tomlin - C - 76 BPM/How Great Is Our God - Chris Tomlin - C - 76 BPM.rpp"
+        FILE "/Users/calvarchapelbatumi/Music/REAPER/Silent Night - Click Track/Silent Night - Click Track.rpp"
       >
     >
     <ITEM
-      POSITION 16384
+      POSITION 24576
       SNAPOFFS 0
-      LENGTH 329.97689342403629
+      LENGTH 229.94720833333122
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0 0 1 0 0 0
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {B603599A-694F-6EA6-1888-4F3CC9BC8026}
-      IID 484
-      NAME "Psalm 46 - Capital City Music - Ab - 69 BPM.RPP"
+      IGUID {183DD4C5-8B29-F540-B827-F5D1849EAA3A}
+      IID 39
+      NAME "Glory - Matt Maher - Bb - 77 BPM.RPP"
       VOLPAN 1 0 1 -1
       SOFFS 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {954870CF-083B-8467-7D95-C69BD04ABD68}
+      GUID {4F7FF3C2-4F28-BA47-9EE2-7133DA1450E5}
       <SOURCE RPP_PROJECT
-        FILE "/Music/REAPER/Psalm 46 - Capital City Music - Ab - 69 BPM/Psalm 46 - Capital City Music - Ab - 69 BPM.RPP"
+        FILE "/Users/calvarchapelbatumi/Music/REAPER/Glory - Matt Maher - Bb - 77 BPM/Glory - Matt Maher - Bb - 77 BPM.RPP"
+      >
+    >
+    <ITEM
+      POSITION 32768
+      SNAPOFFS 0
+      LENGTH 236.62150000000111
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {0CE66287-E0E4-364A-AF2B-0223388BB0EB}
+      IID 48
+      NAME "Hope Was Born This Night - Sidewalk Prophets - G - 79 BPM.RPP"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8E3B350B-C4F0-4341-8F94-44530FFF1127}
+      <SOURCE RPP_PROJECT
+        FILE "/Users/calvarchapelbatumi/Music/REAPER/Hope Was Born This Night - Sidewalk Prophets - G - 79 BPM/Hope Was Born This Night - Sidewalk Prophets - G - 79 BPM.RPP"
       >
     >
   >
@@ -282,46 +298,135 @@
     MIDIOUT -1
     MAINSEND 0 0
     HWOUT 16 0 1 0 0 0 0 -1:U -1
+    HWOUT 516 0 1 0 0 0 0 -1:U -1
     <ITEM
-      POSITION 24574.5
+      POSITION 12280.5
       SNAPOFFS 0
-      LENGTH 188
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0 0
-      FADEOUT 2 13.47722240012808 0 2 0 -1 -1
-      MUTE 0 0
-      SEL 0
-      IGUID {A49975D0-5178-0148-8B67-381FB82B0D4E}
-      IID 3
-      NAME "New Beginnings Worship - Рождение Любви (HOLYCHORDS).mp3"
-      VOLPAN 1 0 1 -1
-      SOFFS 0
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {CC91B6D4-DF10-1C47-838C-997BB567CCBA}
-      <SOURCE MP3
-        FILE "/Downloads/New Beginnings Worship - Рождение Любви (HOLYCHORDS).mp3" 1
-      >
-    >
-    <ITEM
-      POSITION 36864
-      SNAPOFFS 0
-      LENGTH 5863.0385487528347
+      LENGTH 386.05496598639365
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0 0 1 0 0 0
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {408B8B2E-1B23-9A49-A8AF-D722046EF1B3}
+      IGUID {F036937C-C22F-7344-A652-33EC77AD57E2}
+      IID 491
+      NAME "Israyelin Nadhanai  Vazhumeka Daivam Karaoke with Lyrics.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {30C13330-FAB4-B74B-9663-6E4DF14AF487}
+      <SOURCE MP3
+        FILE "/Users/calvarchapelbatumi/Downloads/Israyelin Nadhanai  Vazhumeka Daivam Karaoke with Lyrics.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 16384
+      SNAPOFFS 0
+      LENGTH 295.4507029478458
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {CC8B20D8-5718-0C4E-8339-56DBEA07D0C4}
+      IID 492
+      NAME O_Holy_Night_Low_Key_Performance_Track_Without_Background_Vocals.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {18CED5A3-E5F1-354A-BB3E-7AA25139A05F}
+      <SOURCE MP3
+        FILE "/Users/calvarchapelbatumi/Downloads/O_Holy_Night_Low_Key_Performance_Track_Without_Background_Vocals.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 20480
+      SNAPOFFS 0
+      LENGTH 186.14704570418689
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 2 13.47722240012808 0 2 0 -1 -1
+      MUTE 0 0
+      SEL 0
+      IGUID {58F8259C-84CE-F145-9491-DA7C29E84C82}
+      IID 3
+      NAME "New Beginnings Worship - Рождение Любви (HOLYCHORDS).mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 1.85295429581311
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {52C8BBFF-1693-1A4E-A143-D2396C400ECB}
+      <SOURCE MP3
+        FILE "/Downloads/New Beginnings Worship - Рождение Любви (HOLYCHORDS).mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 28672
+      SNAPOFFS 0
+      LENGTH 4095
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.92017088052307 0 1 0 0 0
+      FADEOUT 1 183.61120922036207 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {49237862-AC5C-474D-9B8A-D51687642A25}
+      IID 498
+      NAME "Christian Mood Booster _ Powerful Worship Songs to Turn Your Day Around.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 1
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4E4BAD33-4B65-934F-AB4C-112F95629A77}
+      <SOURCE MP3
+        FILE "/Users/calvarchapelbatumi/Downloads/Christian Mood Booster _ Powerful Worship Songs to Turn Your Day Around.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 36864
+      SNAPOFFS 0
+      LENGTH 248.39130494943674
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {3134E342-E562-434E-BD05-7AC89D6A73C0}
+      IID 496
+      NAME "Very Merry Christmas  SING & DANCE-A-LONG VIDEO  With Motions Actions and Lyrics.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 1.68760661517445
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B4826EFB-C877-FC4F-9850-F5B17B490C5C}
+      <SOURCE MP3
+        FILE "/Users/calvarchapelbatumi/Downloads/Very Merry Christmas  SING & DANCE-A-LONG VIDEO  With Motions Actions and Lyrics.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 40960
+      SNAPOFFS 0
+      LENGTH 5863.0385487528329
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {5906E5E9-04CA-034B-9865-0D5E66E67E1B}
       IID 6
       NAME "Instrumental Worship and Hymns _ Acoustic Fingerstyle Guitar Collection _ Titus Major [zTRmJvGnDAY].mp3"
       VOLPAN 1 0 1 -1
       SOFFS 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {1D746355-FBEA-6040-B086-2A2CA1D2D497}
+      GUID {822715F1-3D00-B44D-8E85-DD578D37033B}
       <SOURCE MP3
         FILE "/Downloads/Instrumental Worship and Hymns _ Acoustic Fingerstyle Guitar Collection _ Titus Major [zTRmJvGnDAY].mp3" 1
       >
