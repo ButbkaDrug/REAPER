@@ -1,9 +1,10 @@
-<REAPER_PROJECT 0.1 "7.27/linux-x86_64" 1734623196
-  RIPPLE 0
-  GROUPOVERRIDE 0 0 0
+<REAPER_PROJECT 0.1 "7.55/macOS-arm64" 1766918028 0
+  RIPPLE 0 0
+  GROUPOVERRIDE 0 0 0 0
   AUTOXFADE 128
   ENVATTACH 1
   POOLEDENVATTACH 0
+  TCPUIFLAGS 0
   MIXERUIFLAGS 11 48
   PEAKGAIN 1
   FEEDBACK 0
@@ -11,10 +12,10 @@
   PROJOFFS 0 0 0
   MAXPROJLEN 0 600
   GRID 3199 8 1 8 1 0 0 0
-  TIMEMODE 1 5 -1 30 0 0 -1
+  TIMEMODE 1 5 -1 30 0 0 -1 0
   VIDEO_CONFIG 0 0 256
   PANMODE 3
-  CURSOR 117
+  CURSOR 94.5
   ZOOM 3.83175753242149 256 0
   VZOOMEX 6 79
   USE_REC_CFG 2
@@ -36,6 +37,7 @@
   RENDER_ADDTOPROJ 0
   RENDER_STEMS 0
   RENDER_DITHER 0
+  RENDER_TRIM 0.000001 0.000001 0 0
   TIMELOCKMODE 1
   TEMPOENVLOCKMODE 1
   ITEMMIX 0
@@ -50,16 +52,16 @@
     VOL 0.25 0.125
     BEATLEN 4
     FREQ 800 1600 1
-    SAMPLES "" ""
+    SAMPLES "" "" "" ""
     SPLIGNORE 0 0
-    SPLDEF 2 660 "" 0
-    SPLDEF 3 440 "" 0
+    SPLDEF 2 660 "" 0 ""
+    SPLDEF 3 440 "" 0 ""
     PATTERN 0 169
     PATTERNSTR ABBB
     MULT 1
   >
   GLOBAL_AUTO -1
-  TEMPO 80 6 8
+  TEMPO 80 6 8 0
   PLAYRATE 1 0 0.25 4
   SELECTION 121.5 193.5
   SELECTION2 121.5 193.5
@@ -67,7 +69,7 @@
   MASTERTRACKHEIGHT 0 0
   MASTERPEAKCOL 16576
   MASTERMUTESOLO 0
-  MASTERTRACKVIEW 1 0.6667 0.5 0.5 0 -1 0 0 0 0 0 0 0 0
+  MASTERTRACKVIEW 1 0.6667 0.5 0.5 0 -1 0 0 0 0 0 0 0 0 0
   MASTERHWOUT 0 0 1 0 0 0 0 -1
   MASTERHWOUT 0 0 1 0 0 0 1031 -1
   MASTER_NCH 2 2
@@ -152,8 +154,9 @@
     PLAYOFFS 0 1
     ISBUS 0 0
     BUSCOMP 0 0 0 0 0
-    SHOWINMIX 1 0.6667 0.5 1 0.5 0 -1 0
-    SEL 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 -1 0 0
+    LANEREC -1 -1 -1 0
+    SEL 1
     REC 0 0 1 0 0 0 0 0
     VU 2
     TRACKHEIGHT 98 0 0 0 0 0 0
@@ -164,7 +167,6 @@
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
-    MAINSEND_NCH 1
     <ITEM
       POSITION 0
       SNAPOFFS 0
@@ -174,7 +176,7 @@
       FADEIN 1 0 0 1 0 0 0
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
-      SEL 0
+      SEL 1
       IGUID {A5BADA9E-8859-48B7-91E3-21EC1C09912C}
       IID 2695
       NAME "Click source"
@@ -184,16 +186,16 @@
       CHANMODE 0
       GUID {2BA07F7C-95FB-4C1D-A4C5-8E20FA28DF03}
       <SOURCE CLICK
-        AUTO 0
+        AUTO 0 0
         BPM 80
         BPI 6 4
-        VOL 1 1
-        BEATLEN 4
-        FREQ 800 1600 1
-        SAMPLES "/Music/Assets/Clicks/New Click -  Blip-accents.wav" "/Music/Assets/Clicks/New Click -  Blip-sixteenth.wav"
+        VOL 0.501187 0.501187
+        BEATLEN 37
+        FREQ 2700 2000 3
+        SAMPLES "" "" "" ""
         SPLIGNORE 0 0
-        SPLDEF 2 660 "" 0
-        SPLDEF 3 440 "" 0
+        SPLDEF 2 660 "" 0 ""
+        SPLDEF 3 440 "" 0 ""
         PATTERN 0 10918505
         PATTERNSTR ABBABBABBABB
         MULT 2
@@ -211,8 +213,9 @@
     PLAYOFFS 0 1
     ISBUS 2 -1
     BUSCOMP 0 0 0 0 0
-    SHOWINMIX 1 0.6667 0.5 1 0.5 0 -1 0
-    SEL 1
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 -1 0 0
+    LANEREC -1 -1 -1 0
+    SEL 0
     REC 0 0 1 0 0 0 0 0
     VU 2
     TRACKHEIGHT 346 0 0 0 0 0 0
@@ -222,8 +225,7 @@
     TRACKID {20C7D09C-5DCF-4AC1-BB34-3A58682F0E85}
     PERF 0
     MIDIOUT -1
-    MAINSEND 1 1
-    MAINSEND_NCH 1
+    MAINSEND 1 0
     <ITEM
       POSITION 2.25
       SNAPOFFS 0
@@ -243,7 +245,7 @@
       CHANMODE 0
       GUID {9C8BB5DA-0F02-48C0-A2D2-5810DD6BBAC1}
       <SOURCE WAVE
-        FILE "Audio Files/English Female - 1.wav"
+        FILE "/Users/calvarchapelbatumi/Music/Assets/Cues/English Female - 1.wav"
       >
     >
     <ITEM
@@ -265,7 +267,7 @@
       CHANMODE 0
       GUID {1B56AF63-E2E1-4CEF-8D0B-C9562D909BDC}
       <SOURCE WAVE
-        FILE "Audio Files/English Female - 2.wav"
+        FILE "/Users/calvarchapelbatumi/Music/Assets/Cues/English Female - 2.wav"
       >
     >
     <ITEM
@@ -287,7 +289,7 @@
       CHANMODE 0
       GUID {548706C9-52DF-4985-8CF9-831A96B3BB1C}
       <SOURCE WAVE
-        FILE "Audio Files/English Female - 3.wav"
+        FILE "/Users/calvarchapelbatumi/Music/Assets/Cues/English Female - 3.wav"
       >
     >
     <ITEM
@@ -309,7 +311,7 @@
       CHANMODE 0
       GUID {48710082-707A-4D36-AEF7-7BC2E4426AA0}
       <SOURCE WAVE
-        FILE "Audio Files/English Female - 4.wav"
+        FILE "/Users/calvarchapelbatumi/Music/Assets/Cues/English Female - 4.wav"
       >
     >
     <ITEM
@@ -331,7 +333,7 @@
       CHANMODE 0
       GUID {F2C2C0C2-21AB-421C-8502-334F369A6D8E}
       <SOURCE WAVE
-        FILE "Audio Files/English Female - 5.wav"
+        FILE "/Users/calvarchapelbatumi/Music/Assets/Cues/English Female - 5.wav"
       >
     >
     <ITEM
@@ -353,7 +355,7 @@
       CHANMODE 0
       GUID {7E40B12E-1673-44C6-95C0-C8660717CE9B}
       <SOURCE WAVE
-        FILE "Audio Files/English Female - 6.wav"
+        FILE "/Users/calvarchapelbatumi/Music/Assets/Cues/English Female - 6.wav"
       >
     >
     <ITEM
@@ -375,7 +377,7 @@
       CHANMODE 0
       GUID {43FB5A30-8670-4F68-8B63-F435058442EB}
       <SOURCE WAVE
-        FILE "Audio Files/English Female - Verse 1.wav"
+        FILE "/Users/calvarchapelbatumi/Music/Assets/Cues/English Female - Verse 1.wav"
       >
     >
     <ITEM
@@ -397,7 +399,7 @@
       CHANMODE 0
       GUID {173FA1A9-8D0D-43C2-B639-335CCAA2CBBC}
       <SOURCE WAVE
-        FILE "Audio Files/English Female - Verse 2.wav"
+        FILE "/Users/calvarchapelbatumi/Music/Assets/Cues/English Female - Verse 2.wav"
       >
     >
     <ITEM
@@ -419,7 +421,7 @@
       CHANMODE 0
       GUID {96741141-7E0C-4DBC-99E2-843EA0AEA55B}
       <SOURCE WAVE
-        FILE "Audio Files/English Female - Pre Chorus.wav"
+        FILE "/Users/calvarchapelbatumi/Music/Assets/Cues/English Female - Pre Chorus.wav"
       >
     >
     <ITEM
@@ -441,7 +443,7 @@
       CHANMODE 0
       GUID {EA08B54A-44E8-4EB6-A4E8-A6F963817F35}
       <SOURCE WAVE
-        FILE "Audio Files/English Female - Chorus.wav"
+        FILE "/Users/calvarchapelbatumi/Music/Assets/Cues/English Female - Chorus.wav"
       >
     >
     <ITEM
@@ -463,7 +465,7 @@
       CHANMODE 0
       GUID {9E439E9A-B39A-4909-86C2-80E9A1EB59C8}
       <SOURCE WAVE
-        FILE "Audio Files/English Female - Refrain.wav"
+        FILE "/Users/calvarchapelbatumi/Music/Assets/Cues/English Female - Refrain.wav"
       >
     >
     <ITEM
@@ -485,7 +487,7 @@
       CHANMODE 0
       GUID {5327AE75-BE73-405F-B53B-5FFA2AD50435}
       <SOURCE WAVE
-        FILE "Audio Files/English Female - Interlude.wav"
+        FILE "/Users/calvarchapelbatumi/Music/Assets/Cues/English Female - Interlude.wav"
       >
     >
     <ITEM
@@ -507,7 +509,7 @@
       CHANMODE 0
       GUID {1385621F-5781-4113-9A84-514CDDA9E597}
       <SOURCE WAVE
-        FILE "Audio Files/English Female - Verse 2.wav"
+        FILE "/Users/calvarchapelbatumi/Music/Assets/Cues/English Female - Verse 2.wav"
       >
     >
     <ITEM
@@ -519,7 +521,7 @@
       FADEIN 1 0.01 0 1 0 0 0
       FADEOUT 1 0.01 0 1 0 0 0
       MUTE 0 0
-      SEL 1
+      SEL 0
       IGUID {A0496617-2F38-4A74-B5C6-64A99C13250B}
       IID 2580
       NAME "English Female - Pre Chorus.wav"
@@ -529,7 +531,7 @@
       CHANMODE 0
       GUID {E4D9B6F9-4E26-45EA-80DF-CEBB369D96AE}
       <SOURCE WAVE
-        FILE "Audio Files/English Female - Pre Chorus.wav"
+        FILE "/Users/calvarchapelbatumi/Music/Assets/Cues/English Female - Pre Chorus.wav"
       >
     >
     <ITEM
@@ -541,7 +543,7 @@
       FADEIN 1 0.01 0 1 0 0 0
       FADEOUT 1 0.01 0 1 0 0 0
       MUTE 0 0
-      SEL 1
+      SEL 0
       IGUID {3E66313F-BC52-404A-B9B5-D57A1EA9DABC}
       IID 2581
       NAME "English Female - Chorus.wav"
@@ -551,7 +553,7 @@
       CHANMODE 0
       GUID {EE45CACC-259F-4D58-A12E-9B9144D69211}
       <SOURCE WAVE
-        FILE "Audio Files/English Female - Chorus.wav"
+        FILE "/Users/calvarchapelbatumi/Music/Assets/Cues/English Female - Chorus.wav"
       >
     >
     <ITEM
@@ -573,7 +575,7 @@
       CHANMODE 0
       GUID {F6C517DD-76FD-4531-95BF-BA1EA43DCB88}
       <SOURCE WAVE
-        FILE "Audio Files/English Female - Refrain.wav"
+        FILE "/Users/calvarchapelbatumi/Music/Assets/Cues/English Female - Refrain.wav"
       >
     >
     <ITEM
@@ -595,7 +597,7 @@
       CHANMODE 0
       GUID {16F7F4C4-C5DE-4713-8A83-214D79DB8CDD}
       <SOURCE WAVE
-        FILE "Audio Files/English Female - Refrain.wav"
+        FILE "/Users/calvarchapelbatumi/Music/Assets/Cues/English Female - Refrain.wav"
       >
     >
     <ITEM
@@ -617,7 +619,7 @@
       CHANMODE 0
       GUID {5F46EFC3-9389-489C-A601-D99EEC750611}
       <SOURCE WAVE
-        FILE "Audio Files/English Female - Interlude.wav"
+        FILE "/Users/calvarchapelbatumi/Music/Assets/Cues/English Female - Interlude.wav"
       >
     >
     <ITEM
@@ -639,7 +641,7 @@
       CHANMODE 0
       GUID {916FBE88-C6B3-48FF-93E7-AD4DCD592527}
       <SOURCE WAVE
-        FILE "Audio Files/English Female - Verse 3.wav"
+        FILE "/Users/calvarchapelbatumi/Music/Assets/Cues/English Female - Verse 3.wav"
       >
     >
     <ITEM
@@ -661,7 +663,7 @@
       CHANMODE 0
       GUID {4932CECE-A300-46BF-89F7-E61C90947958}
       <SOURCE WAVE
-        FILE "Audio Files/English Female - Verse 4.wav"
+        FILE "/Users/calvarchapelbatumi/Music/Assets/Cues/English Female - Verse 4.wav"
       >
     >
     <ITEM
@@ -683,7 +685,7 @@
       CHANMODE 0
       GUID {3BE6D326-A542-4427-B24F-71473DC668E0}
       <SOURCE WAVE
-        FILE "Audio Files/English Female - Pre Chorus.wav"
+        FILE "/Users/calvarchapelbatumi/Music/Assets/Cues/English Female - Pre Chorus.wav"
       >
     >
     <ITEM
@@ -705,7 +707,7 @@
       CHANMODE 0
       GUID {728E4E20-9D5A-4B13-B14C-77A538CAEC60}
       <SOURCE WAVE
-        FILE "Audio Files/English Female - Chorus.wav"
+        FILE "/Users/calvarchapelbatumi/Music/Assets/Cues/English Female - Chorus.wav"
       >
     >
     <ITEM
@@ -727,7 +729,7 @@
       CHANMODE 0
       GUID {E92E8F73-C147-4AD0-AA5A-B28029C0DDD7}
       <SOURCE WAVE
-        FILE "Audio Files/English Female - Refrain.wav"
+        FILE "/Users/calvarchapelbatumi/Music/Assets/Cues/English Female - Refrain.wav"
       >
     >
     <ITEM
@@ -749,7 +751,7 @@
       CHANMODE 0
       GUID {AE9FD1BF-5229-4487-81C7-648E3AA3FD9B}
       <SOURCE WAVE
-        FILE "Audio Files/English Female - Refrain.wav"
+        FILE "/Users/calvarchapelbatumi/Music/Assets/Cues/English Female - Refrain.wav"
       >
     >
     <ITEM
@@ -771,7 +773,7 @@
       CHANMODE 0
       GUID {ECE2CD4C-D745-4B40-A281-D5DD427810E8}
       <SOURCE WAVE
-        FILE "Audio Files/English Female - Chorus.wav"
+        FILE "/Users/calvarchapelbatumi/Music/Assets/Cues/English Female - Chorus.wav"
       >
     >
     <ITEM
@@ -793,7 +795,7 @@
       CHANMODE 0
       GUID {4C4C5EC6-313C-4934-A825-E0CB081DA9F5}
       <SOURCE WAVE
-        FILE "Audio Files/English Female - Refrain.wav"
+        FILE "/Users/calvarchapelbatumi/Music/Assets/Cues/English Female - Refrain.wav"
       >
     >
     <ITEM
@@ -815,7 +817,7 @@
       CHANMODE 0
       GUID {70D9A00D-83D5-4679-95C7-92CCEC41D410}
       <SOURCE WAVE
-        FILE "Audio Files/English Female - Refrain.wav"
+        FILE "/Users/calvarchapelbatumi/Music/Assets/Cues/English Female - Refrain.wav"
       >
     >
     <ITEM
@@ -837,39 +839,8 @@
       CHANMODE 0
       GUID {D32C3A7F-3CA3-428E-BD8D-9CBAFD46B9B5}
       <SOURCE WAVE
-        FILE "Audio Files/English Female - Ending.wav"
+        FILE "/Users/calvarchapelbatumi/Music/Assets/Cues/English Female - Ending.wav"
       >
-    >
-  >
-  <TRACK {47F10885-42B7-4339-8C9D-EE22D9D935E1}
-    NAME Render
-    PEAKCOL 16576
-    BEAT -1
-    AUTOMODE 0
-    VOLPAN 1 0 -1 -1 1
-    MUTESOLO 1 0 0
-    IPHASE 0
-    PLAYOFFS 0 1
-    ISBUS 0 0
-    BUSCOMP 0 0 0 0 0
-    SHOWINMIX 1 0.6667 0.5 1 0.5 0 -1 0
-    SEL 0
-    REC 0 0 1 0 0 0 0 0
-    VU 2
-    TRACKHEIGHT 0 0 0 0 0 0 0
-    INQ 0 0 0 0.5 100 0 0 100
-    NCHAN 2
-    FX 1
-    TRACKID {47F10885-42B7-4339-8C9D-EE22D9D935E1}
-    PERF 0
-    MIDIOUT -1
-    MAINSEND 1 0
-  >
-  <EXTENSIONS
-    <SWSAUTOCOLOR
-      {E0D23605-1895-4001-87F2-91F10A006853} 0 "" "" ""
-      {20C7D09C-5DCF-4AC1-BB34-3A58682F0E85} 0 "" "" ""
-      {47F10885-42B7-4339-8C9D-EE22D9D935E1} 0 "" "" ""
     >
   >
 >
