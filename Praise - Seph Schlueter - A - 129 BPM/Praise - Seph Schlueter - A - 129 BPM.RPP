@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "7.52/linux-x86_64" 1767265206
+<REAPER_PROJECT 0.1 "7.52/linux-x86_64" 1767266151
   <NOTES 0 2
   >
   RIPPLE 0 0
@@ -358,7 +358,7 @@
       CHANMODE 0
       GUID {02AF2CBC-F776-3E29-CF6B-1EC88D599558}
       <SOURCE WAVE
-        FILE "Media/English Female - 3.wav"
+        FILE "/Music/Assets/Cues/English Female - 3.wav"
       >
     >
     <ITEM
@@ -380,7 +380,7 @@
       CHANMODE 0
       GUID {F39830F6-1FBB-B05B-F1EB-9B648AEB1891}
       <SOURCE WAVE
-        FILE "Media/English Female - 4.wav"
+        FILE "/Music/Assets/Cues/English Female - 4.wav"
       >
     >
     <ITEM
