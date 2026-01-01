@@ -1,10 +1,11 @@
-<REAPER_PROJECT 0.1 "7.24/linux-x86_64" 1731228240
+<REAPER_PROJECT 0.1 "7.52/linux-x86_64" 1766416643
   AUTHOR PROJECT_AUTHOR
-  RIPPLE 0
-  GROUPOVERRIDE 0 0 0
+  RIPPLE 0 0
+  GROUPOVERRIDE 0 0 0 0
   AUTOXFADE 128
   ENVATTACH 3
   POOLEDENVATTACH 0
+  TCPUIFLAGS 0
   MIXERUIFLAGS 11 48
   PEAKGAIN 1
   FEEDBACK 0
@@ -15,8 +16,8 @@
   TIMEMODE 1 5 -1 30 0 0 -1
   VIDEO_CONFIG 0 0 256
   PANMODE 3
-  CURSOR 34.06451612903226
-  ZOOM 4.5213267266622 0 0
+  CURSOR 3.09677419354839
+  ZOOM 138.01117556853498 0 0
   VZOOMEX 2.86322975 0
   USE_REC_CFG 0
   RECMODE 1
@@ -38,6 +39,7 @@
   RENDER_ADDTOPROJ 0
   RENDER_STEMS 0
   RENDER_DITHER 0
+  RENDER_TRIM 0.000001 0.000001 0 0
   TIMELOCKMODE 1
   TEMPOENVLOCKMODE 1
   ITEMMIX 1
@@ -52,16 +54,16 @@
     VOL 1 1
     BEATLEN 4
     FREQ 800 1600 1
-    SAMPLES "/Music/Assets/Clicks/New Click -  Blip-accents.wav" "/Music/Assets/Clicks/New Click -  Blip-sixteenth.wav"
+    SAMPLES "/Music/Assets/Clicks/New Click -  Blip-accents.wav" "/Music/Assets/Clicks/New Click -  Blip-sixteenth.wav" "" ""
     SPLIGNORE 0 0
-    SPLDEF 2 660 "" 0
-    SPLDEF 3 440 "" 0
+    SPLDEF 2 660 "" 0 ""
+    SPLDEF 3 440 "" 0 ""
     PATTERN 0 153
     PATTERNSTR ABAB
     MULT 2
   >
   GLOBAL_AUTO -1
-  TEMPO 77.5 4 4
+  TEMPO 77.5 4 4 0
   PLAYRATE 1 0 0.25 4
   SELECTION 80.51612903225806 12.38709677419355
   SELECTION2 80.51612903225806 12.38709677419355
@@ -69,7 +71,7 @@
   MASTERTRACKHEIGHT 0 0
   MASTERPEAKCOL 16576
   MASTERMUTESOLO 0
-  MASTERTRACKVIEW 1 0.6667 0.5 0.5 0 0 0 0 0 0 0 0 0 0
+  MASTERTRACKVIEW 1 0.6667 0.5 0.5 0 0 0 0 0 0 0 0 0 0 0
   MASTERHWOUT 0 0 1 0 0 0 0 -1
   MASTERHWOUT 0 0 1 0 0 0 2 -1
   MASTER_NCH 4 2
@@ -130,9 +132,9 @@
     PLAYOFFS 0 1
     ISBUS 0 0
     BUSCOMP 0 0 0 0 0
-    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
     FIXEDLANES 9 0 0 0 0
-    SEL 1
+    SEL 0
     REC 0 0 1 0 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0 0 0 0 0
@@ -153,7 +155,7 @@
       FADEIN 1 0 0 1 0 0 0
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
-      SEL 1
+      SEL 0
       IGUID {6FFA8288-DFEB-CC6C-5F2D-51132756D97A}
       IID 19
       NAME "Click source"
@@ -163,16 +165,16 @@
       CHANMODE 0
       GUID {AFCE307B-287E-86CB-041F-2D8A5D35CA3E}
       <SOURCE CLICK
-        AUTO 1
+        AUTO 1 0
         BPM 77.5
         BPI 4 4
         VOL 1 1
         BEATLEN 4
         FREQ 800 1600 1
-        SAMPLES "/Music/Assets/Clicks/New Click -  Blip-accents.wav" "/Music/Assets/Clicks/New Click -  Blip-sixteenth.wav"
+        SAMPLES "/home/butbkadrug/Music/Assets/Clicks/New Click -  Blip-accents.wav" "/home/butbkadrug/Music/Assets/Clicks/New Click -  Blip-sixteenth.wav" "" ""
         SPLIGNORE 0 0
-        SPLDEF 2 660 "" 0
-        SPLDEF 3 440 "" 0
+        SPLDEF 2 660 "" 0 ""
+        SPLDEF 3 440 "" 0 ""
         PATTERN 0 169
         PATTERNSTR ABBB
         MULT 1
@@ -190,9 +192,9 @@
     PLAYOFFS 0 1
     ISBUS 0 0
     BUSCOMP 0 0 0 0 0
-    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
     FIXEDLANES 9 0 0 0 0
-    SEL 0
+    SEL 1
     REC 0 0 1 0 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0 0 0 0 0
@@ -224,7 +226,7 @@
       CHANMODE 0
       GUID {D3ED0E2E-7830-B485-709B-0DA2DBE23ED2}
       <SOURCE WAVE
-        FILE "/Music/Assets/Cues/English Female - 1.wav"
+        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 1.wav"
       >
     >
     <ITEM
@@ -247,7 +249,7 @@
       CHANMODE 0
       GUID {D9DB122F-9D69-5FE8-8DA7-C731E0236E18}
       <SOURCE WAVE
-        FILE "/Music/Assets/Cues/English Female - 2.wav"
+        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 2.wav"
       >
     >
     <ITEM
@@ -270,7 +272,7 @@
       CHANMODE 0
       GUID {6413E935-BC3C-AAD8-8344-3B5559837F93}
       <SOURCE WAVE
-        FILE "/Music/Assets/Cues/English Female - Intro.wav"
+        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - Intro.wav"
       >
     >
     <ITEM
@@ -283,7 +285,7 @@
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
       BEAT 1
-      SEL 0
+      SEL 1
       IGUID {6E551C3A-7278-B203-2892-5F2346FCE312}
       IID 18
       NAME "English Female - 2.wav"
@@ -293,7 +295,7 @@
       CHANMODE 0
       GUID {F05D7FCD-02C3-6475-C49D-258F9E17DF92}
       <SOURCE WAVE
-        FILE "/Music/Assets/Cues/English Female - 2.wav"
+        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 2.wav"
       >
     >
     <ITEM
@@ -316,7 +318,7 @@
       CHANMODE 0
       GUID {49A3D2AD-A1A2-3A37-C353-56919578DF35}
       <SOURCE WAVE
-        FILE "/Music/Assets/Cues/English Female - 3.wav"
+        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 3.wav"
       >
     >
     <ITEM
@@ -339,7 +341,7 @@
       CHANMODE 0
       GUID {8E4A3B9F-EECF-0C8E-BA45-B47D0CC48F8B}
       <SOURCE WAVE
-        FILE "/Music/Assets/Cues/English Female - 4.wav"
+        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 4.wav"
       >
     >
     <ITEM
@@ -575,7 +577,7 @@
     PLAYOFFS 0 1
     ISBUS 0 0
     BUSCOMP 0 0 0 0 0
-    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
     FIXEDLANES 9 0 0 0 0
     SEL 0
     REC 0 0 1 0 0 0 0 0
@@ -607,7 +609,7 @@
       CHANMODE 0
       GUID {DAC0D1E1-C2E9-4F32-B40A-97BB55EE5C22}
       <SOURCE MP3
-        FILE "/Downloads/All That I Am _ Treasured VBS _ Group Publishing [music].mp3" 1
+        FILE "/home/butbkadrug/Downloads/All That I Am _ Treasured VBS _ Group Publishing [music].mp3" 1
       >
     >
   >
@@ -623,7 +625,7 @@
     PLAYOFFS 0 1
     ISBUS 0 0
     BUSCOMP 0 0 0 0 0
-    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
     FIXEDLANES 9 0 0 0 0
     SEL 0
     REC 0 0 1 0 0 0 0 0
@@ -655,7 +657,7 @@
       CHANMODE 0
       GUID {D0C283E1-7A1A-5C87-2352-55CAB3A3ECD0}
       <SOURCE MP3
-        FILE "/Downloads/All That I Am _ Treasured VBS _ Group Publishing [vocals].mp3" 1
+        FILE "/home/butbkadrug/Downloads/All That I Am _ Treasured VBS _ Group Publishing [vocals].mp3" 1
       >
     >
   >

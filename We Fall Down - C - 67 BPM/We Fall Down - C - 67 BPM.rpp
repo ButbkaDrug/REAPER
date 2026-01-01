@@ -1,9 +1,10 @@
-<REAPER_PROJECT 0.1 "6.77/win64" 1688053766
-  RIPPLE 0
-  GROUPOVERRIDE 0 0 0
+<REAPER_PROJECT 0.1 "7.52/linux-x86_64" 1766758975
+  RIPPLE 0 0
+  GROUPOVERRIDE 0 0 0 0
   AUTOXFADE 129
   ENVATTACH 1
   POOLEDENVATTACH 0
+  TCPUIFLAGS 0
   MIXERUIFLAGS 11 48
   PEAKGAIN 1
   FEEDBACK 0
@@ -15,7 +16,7 @@
   VIDEO_CONFIG 0 0 256
   PANMODE 3
   CURSOR 0
-  ZOOM 8.65663449374218 0 0
+  ZOOM 6.15012927216742 0 0
   VZOOMEX 4 0
   USE_REC_CFG 0
   RECMODE 1
@@ -37,6 +38,7 @@
   RENDER_ADDTOPROJ 0
   RENDER_STEMS 0
   RENDER_DITHER 0
+  RENDER_TRIM 0.000001 0.000001 0 0
   TIMELOCKMODE 1
   TEMPOENVLOCKMODE 1
   ITEMMIX 0
@@ -49,15 +51,19 @@
   LOCK 1
   <METRONOME 7 2
     VOL 0.481472 0.240736
-    FREQ 800 1600 1
     BEATLEN 4
-    SAMPLES "/Music/Assets/Clicks/New Click -  Blip-accents.wav" "/Music/Assets/Clicks/New Click -  Blip-sixteenth.wav"
-    PATTERN 2863311530 2863311513
+    FREQ 800 1600 1
+    SAMPLES "/Music/Assets/Clicks/New Click -  Blip-accents.wav" "/Music/Assets/Clicks/New Click -  Blip-sixteenth.wav" "" ""
+    SPLIGNORE 0 0
+    SPLDEF 2 660 "" 0 ""
+    SPLDEF 3 440 "" 0 ""
+    PATTERN 0 153
+    PATTERNSTR ABAB
     MULT 2
   >
   METRONOMEOUT 1036
   GLOBAL_AUTO -1
-  TEMPO 67 4 4
+  TEMPO 67 4 4 0
   PLAYRATE 1 0 0.25 4
   SELECTION 10.74626865671638 32.23880597014929
   SELECTION2 10.74626865671638 32.23880597014929
@@ -65,7 +71,7 @@
   MASTERTRACKHEIGHT 0 0
   MASTERPEAKCOL 16576
   MASTERMUTESOLO 0
-  MASTERTRACKVIEW 1 0.6667 0.5 0.5 0 -1 0 0 0 0 0 0 0
+  MASTERTRACKVIEW 1 0.6667 0.5 0.5 0 -1 0 0 0 0 0 0 0 0 0
   MASTERHWOUT 0 0 1 0 0 0 0 -1
   MASTERHWOUT 0 0 1 0 0 0 2 -1
   MASTERHWOUT 0 0 1 0 0 0 4 -1
@@ -93,30 +99,30 @@
     DEFSHAPE 1 -1 -1
     PT 0.000000000000 67.0000000000 1
   >
-  MARKER 1 0 "We Fall Down - Chris Tomlin - C - 67 BPM" 1 0 1 R {AA955C5C-BECC-A4AE-293E-4CD5CE6CEEB9}
-  MARKER 1 3.58208955223881 "" 1 0 1 R
-  MARKER 2 3.58208955223876 Intro 1 33554176 1 R {B6975B3D-3C00-444F-8A60-42192F416EC3}
-  MARKER 2 32.23880597014925 "" 1 33554176 1 R
-  MARKER 3 32.23880597014929 Verse 1 33521792 1 R {4E925BE0-8896-4FD5-BBF9-C0761B181BBF}
-  MARKER 3 60.89552238805969 "" 1 33521792 1 R
-  MARKER 4 60.89552238805969 Verse 1 33521792 1 R {48B1E2F5-78A3-4C5C-B518-0ABB178E147B}
-  MARKER 4 89.55223880597021 "" 1 33521792 1 R
-  MARKER 5 89.55223880597021 Chorus 1 17114531 1 R {99321B07-E127-4DC5-9D9E-D1206FA6CB1C}
-  MARKER 5 111.04477611940302 "" 1 17114531 1 R
-  MARKER 6 111.04477611940302 Interlude 1 18685293 1 R {66137B27-A029-4A72-B6A9-A00A66F614FE}
-  MARKER 6 125.37313432835822 "" 1 18685293 1 R
-  MARKER 7 125.37313432835822 Verse 1 33521792 1 R {0C9C98F3-3B0E-48B6-8AF1-E686CA7275E5}
-  MARKER 7 154.02985074626866 "" 1 33521792 1 R
-  MARKER 8 154.02985074626866 Chorus 1 17114531 1 R {100D23D9-E37B-4B00-95B1-74A30D88ABD0}
-  MARKER 8 175.52238805970148 "" 1 17114531 1 R
-  MARKER 10 175.52238805970154 Interlude 1 18685293 1 R {FEA302A6-8E7C-4078-88DD-47AFD9C0651C}
-  MARKER 10 189.85074626865676 "" 1 18685293 1 R
-  MARKER 14 189.85074626865676 "Verse R" 1 33521792 1 R {E2AD652F-A725-4B83-9166-2CE638435456}
-  MARKER 14 218.50746268656721 "" 1 33521792 1 R
-  MARKER 9 218.50746268656724 "Chorus R" 1 17114531 1 R {92A90B6A-AC93-4E1D-AD38-DBA619CF1197}
-  MARKER 9 240 "" 1 17114531 1 R
-  MARKER 12 240 "Chorus R" 1 17114531 1 R {4F5F83C2-AA20-4CAA-8D4E-48794BA5EDD7}
-  MARKER 12 261.49253731343271 "" 1 17114531 1 R
+  MARKER 1 0 "We Fall Down - Chris Tomlin - C - 67 BPM" 1 0 1 B {AA955C5C-BECC-A4AE-293E-4CD5CE6CEEB9} 0
+  MARKER 1 3.58208955223881 "" 1
+  MARKER 2 3.58208955223876 Intro 1 16842751 1 B {B6975B3D-3C00-444F-8A60-42192F416EC3} 0
+  MARKER 2 32.23880597014925 "" 1
+  MARKER 3 32.23880597014929 "Verse 1 R" 9 25198847 1 B {4E925BE0-8896-4FD5-BBF9-C0761B181BBF} 0
+  MARKER 3 60.89552238805969 "" 9
+  MARKER 4 60.89552238805969 "Verse 1" 9 25198847 1 B {48B1E2F5-78A3-4C5C-B518-0ABB178E147B} 0
+  MARKER 4 89.55223880597021 "" 9
+  MARKER 5 89.55223880597021 Chorus 1 27469061 1 B {99321B07-E127-4DC5-9D9E-D1206FA6CB1C} 0
+  MARKER 5 111.04477611940302 "" 1
+  MARKER 6 111.04477611940302 Interlude 1 23928093 1 B {66137B27-A029-4A72-B6A9-A00A66F614FE} 0
+  MARKER 6 125.37313432835822 "" 1
+  MARKER 7 125.37313432835822 "Verse 2" 9 25198847 1 B {0C9C98F3-3B0E-48B6-8AF1-E686CA7275E5} 0
+  MARKER 7 154.02985074626866 "" 9
+  MARKER 8 154.02985074626866 Chorus 1 27469061 1 B {100D23D9-E37B-4B00-95B1-74A30D88ABD0} 0
+  MARKER 8 175.52238805970148 "" 1
+  MARKER 10 175.52238805970154 Interlude 1 23928093 1 B {FEA302A6-8E7C-4078-88DD-47AFD9C0651C} 0
+  MARKER 10 189.85074626865676 "" 1
+  MARKER 14 189.85074626865676 "Verse R" 1 25198847 1 B {E2AD652F-A725-4B83-9166-2CE638435456} 0
+  MARKER 14 218.50746268656721 "" 1
+  MARKER 9 218.50746268656724 "Chorus R" 1 27469061 1 B {92A90B6A-AC93-4E1D-AD38-DBA619CF1197} 0
+  MARKER 9 240 "" 1
+  MARKER 12 240 "Chorus R" 1 27469061 1 B {4F5F83C2-AA20-4CAA-8D4E-48794BA5EDD7} 0
+  MARKER 12 261.49253731343271 "" 1
   <PROJBAY
   >
   <TRACK {EE61A3FC-F751-4C05-8E6C-6DFD04E28C27}
@@ -130,11 +136,11 @@
     PLAYOFFS 0 1
     ISBUS 0 0
     BUSCOMP 0 0 0 0 0
-    SHOWINMIX 1 0.6667 0.5 1 0.5 0 -1 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 -1 0 0
     SEL 1
     REC 0 0 1 0 0 0 0 0
     VU 2
-    TRACKHEIGHT 0 0 0 0 0 0
+    TRACKHEIGHT 0 0 0 0 0 0 0
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 2
     FX 1
@@ -162,14 +168,18 @@
       CHANMODE 2
       GUID {95624358-C4B5-4C83-8828-B204C4A2D72D}
       <SOURCE CLICK
-        AUTO 0
+        AUTO 0 0
         BPM 134
-        BPI 4
+        BPI 4 4
         VOL 1 1
-        FREQ 800 1600 1
         BEATLEN 4
-        SAMPLES "C:\Users\butbkadrug\Music\Assets\Clicks\New Click -  Blip-accents.wav" "C:\Users\butbkadrug\Music\Assets\Clicks\New Click -  Blip-sixteenth.wav"
-        PATTERN 2863311530 2863311529
+        FREQ 800 1600 1
+        SAMPLES "C:\Users\butbkadrug\Music\Assets\Clicks\New Click -  Blip-accents.wav" "C:\Users\butbkadrug\Music\Assets\Clicks\New Click -  Blip-sixteenth.wav" "" ""
+        SPLIGNORE 0 0
+        SPLDEF 2 660 "" 0 ""
+        SPLDEF 3 440 "" 0 ""
+        PATTERN 0 169
+        PATTERNSTR ABBB
         MULT 1
       >
     >
@@ -192,14 +202,18 @@
       CHANMODE 2
       GUID {288E1745-7C6B-4670-801A-EFE58A092A96}
       <SOURCE CLICK
-        AUTO 0
+        AUTO 0 0
         BPM 134
-        BPI 4
+        BPI 4 4
         VOL 1 1
-        FREQ 800 1600 1
         BEATLEN 4
-        SAMPLES "C:\Users\butbkadrug\Music\Assets\Clicks\New Click -  Blip-accents.wav" "C:\Users\butbkadrug\Music\Assets\Clicks\New Click -  Blip-sixteenth.wav"
-        PATTERN 2863311530 2863311529
+        FREQ 800 1600 1
+        SAMPLES "C:\Users\butbkadrug\Music\Assets\Clicks\New Click -  Blip-accents.wav" "C:\Users\butbkadrug\Music\Assets\Clicks\New Click -  Blip-sixteenth.wav" "" ""
+        SPLIGNORE 0 0
+        SPLDEF 2 660 "" 0 ""
+        SPLDEF 3 440 "" 0 ""
+        PATTERN 0 169
+        PATTERNSTR ABBB
         MULT 1
       >
     >
@@ -222,14 +236,18 @@
       CHANMODE 2
       GUID {2AEAFA4D-D283-4B07-A7AF-4DC0FD5AD421}
       <SOURCE CLICK
-        AUTO 0
+        AUTO 0 0
         BPM 134
-        BPI 4
+        BPI 4 4
         VOL 1 1
-        FREQ 800 1600 1
         BEATLEN 4
-        SAMPLES "C:\Users\butbkadrug\Music\Assets\Clicks\New Click -  Blip-accents.wav" "C:\Users\butbkadrug\Music\Assets\Clicks\New Click -  Blip-sixteenth.wav"
-        PATTERN 2863311530 2863311529
+        FREQ 800 1600 1
+        SAMPLES "C:\Users\butbkadrug\Music\Assets\Clicks\New Click -  Blip-accents.wav" "C:\Users\butbkadrug\Music\Assets\Clicks\New Click -  Blip-sixteenth.wav" "" ""
+        SPLIGNORE 0 0
+        SPLDEF 2 660 "" 0 ""
+        SPLDEF 3 440 "" 0 ""
+        PATTERN 0 169
+        PATTERNSTR ABBB
         MULT 1
       >
     >
@@ -252,14 +270,18 @@
       CHANMODE 2
       GUID {97E9205F-14ED-48D7-91BA-F9BB3394ADCC}
       <SOURCE CLICK
-        AUTO 0
+        AUTO 0 0
         BPM 134
-        BPI 4
+        BPI 4 4
         VOL 1 1
-        FREQ 800 1600 1
         BEATLEN 4
-        SAMPLES "C:\Users\butbkadrug\Music\Assets\Clicks\New Click -  Blip-accents.wav" "C:\Users\butbkadrug\Music\Assets\Clicks\New Click -  Blip-sixteenth.wav"
-        PATTERN 2863311530 2863311529
+        FREQ 800 1600 1
+        SAMPLES "C:\Users\butbkadrug\Music\Assets\Clicks\New Click -  Blip-accents.wav" "C:\Users\butbkadrug\Music\Assets\Clicks\New Click -  Blip-sixteenth.wav" "" ""
+        SPLIGNORE 0 0
+        SPLDEF 2 660 "" 0 ""
+        SPLDEF 3 440 "" 0 ""
+        PATTERN 0 169
+        PATTERNSTR ABBB
         MULT 1
       >
     >
@@ -282,14 +304,18 @@
       CHANMODE 2
       GUID {4878041E-52D5-40CB-82DE-6F529652A263}
       <SOURCE CLICK
-        AUTO 0
+        AUTO 0 0
         BPM 134
-        BPI 4
+        BPI 4 4
         VOL 1 1
-        FREQ 800 1600 1
         BEATLEN 4
-        SAMPLES "C:\Users\butbkadrug\Music\Assets\Clicks\New Click -  Blip-accents.wav" "C:\Users\butbkadrug\Music\Assets\Clicks\New Click -  Blip-sixteenth.wav"
-        PATTERN 2863311530 2863311529
+        FREQ 800 1600 1
+        SAMPLES "C:\Users\butbkadrug\Music\Assets\Clicks\New Click -  Blip-accents.wav" "C:\Users\butbkadrug\Music\Assets\Clicks\New Click -  Blip-sixteenth.wav" "" ""
+        SPLIGNORE 0 0
+        SPLDEF 2 660 "" 0 ""
+        SPLDEF 3 440 "" 0 ""
+        PATTERN 0 169
+        PATTERNSTR ABBB
         MULT 1
       >
     >
@@ -312,14 +338,18 @@
       CHANMODE 0
       GUID {D47E780E-9302-4363-B3AA-59648E01C837}
       <SOURCE CLICK
-        AUTO 0
+        AUTO 0 0
         BPM 134
-        BPI 4
+        BPI 4 4
         VOL 0.800276 0.397364
-        FREQ 800 1600 1
         BEATLEN 4
-        SAMPLES "/Music\Metronome\hi_click.wav" "/Music\Metronome\low_click.wav"
-        PATTERN 2863311530 2863311529
+        FREQ 800 1600 1
+        SAMPLES "/Music\Metronome\hi_click.wav" "/Music\Metronome\low_click.wav" "" ""
+        SPLIGNORE 0 0
+        SPLDEF 2 660 "" 0 ""
+        SPLDEF 3 440 "" 0 ""
+        PATTERN 0 169
+        PATTERNSTR ABBB
         MULT 1
       >
     >
@@ -335,11 +365,11 @@
     PLAYOFFS 0 1
     ISBUS 2 -1
     BUSCOMP 0 0 0 0 0
-    SHOWINMIX 1 0.6667 0.5 1 0.5 0 -1 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 -1 0 0
     SEL 0
     REC 0 0 1 0 0 0 0 0
     VU 2
-    TRACKHEIGHT 0 0 0 0 0 0
+    TRACKHEIGHT 0 0 0 0 0 0 0
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 2
     FX 1
