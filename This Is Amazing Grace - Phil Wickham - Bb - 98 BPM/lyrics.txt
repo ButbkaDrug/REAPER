@@ -1,60 +1,109 @@
+[Intro]
+#1 4 1 4
+
+[Outro]
+#1 4 1 4
+
+[Ending]
+#1
+
 [ Verse 1 ]
-Who breaks the power
+#1
+^Who breaks the power
+#
 Of sin and darkness
-Whose love is mighty
+#4
+^Whose love is mighty
+#
 And so much stronger
-The King of Glory
-The King above all kings
-Who shakes the whole Earth
+#6m 5
+^The King of Glory
+#4
+The King above all kings^
+#1
+^Who shakes the whole Earth
+#
 With holy thunder
-Who leaves us breathless
+#4
+^Who leaves us breathless
+#
 In awe and wonder
-The King of Glory
-The King above all kings
+#6m 5
+^The King of Glory
+#4
+The King above all kings^
 
 [ Chorus ]
-This is amazing grace
-This is unfailing love
-That You would take my place
-That You would bear my cross
-You laid down Your life
-That I would be set free
-Oh  Jesus I sing for
+#1
+This is amazing gr^ace
+#4
+This is unfailing l^ove
+#6m
+That You would take my p^lace
+#5
+That You would bear my cr^oss
+#1
+You laid down Your l^ife
+#4
+That I would be set fr^ee
+#6m 5
+Oh^ Jesus I sing for
+#
 All that You've done for me
 
 [ Verse 2 ]
+#1
 Who brings our chaos
+#
 Back into order
+#4
 Who makes the orphan
+#
 A son and daughter
+#6m
 The King of Glory
+#5
 The King of Glory
+#1
 Who rules the nations
+#
 With truth and justice
+#4
 Shines like the sun in
+#
 All of its brilliance
-The King of Glory
-The King above all kings
+#6m 5
+^The King of Glory
+#4
+The King above all k^ings
 
 [ Bridge 1 ]
+#1
 Worthy is the Lamb, who was slain
+#4
 Worthy is the King, who conquered the grave
+#1
 Worthy is the Lamb, who was slain
+#4
 Worthy is the King, who conquered the grave
 
 [ Bridge 2 ]
+#1
 Worthy is the Lamb, who was slain
+#4
 Worthy is the King, who conquered the grave
-Worthy is the Lamb, who was slain
-Worthy worthy worthy
+#6m 1
+^Worthy is the Lamb, who was sl^ain
+#4
+Worthy w^orthy worthy
 
 [ Verse 1 R ]
 Кто грех повергнув,
 Лишил тьму силы?
-И чья любовь 
+И чья любовь
 Всё победила?
 Это - Царь славы,
-Это -  Царь всех царей
+Это - Царь всех царей
 Кто потрясает
 Громом всю землю?
 И кто приводит
@@ -69,7 +118,7 @@ Worthy worthy worthy
 Вместо меня понёс
 Свою Ты жизнь отдал,
 Чтоб был свободен я.
-О том, что сделал Ты,
+^О том, что сделал Ты,
 Я буду петь всегда.
 
 [ Verse 2 R ]
@@ -83,8 +132,8 @@ Worthy worthy worthy
 В народах правит?
 В великолепьи
 Светом сияет?
-Это - Царь славы,
-Это - Царь всех царей
+^Это - Царь славы,
+Это - Царь всех цар^ей
 
 [ Bridge 1 R ]
 Достоин Агнец, что заклан был.

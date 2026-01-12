@@ -1,48 +1,59 @@
+[Intro]
+#15
+
 [Instrumental]
 --Played same as regular chorus
+#15 6m7 42
+#15 54 6m7 42
+
+[Breakdown]
+#15
+
+[Outro]
+#14 1 14 1
+
+[Ending]
+#15
 
 
 [ Verse 1 ]
-{0, 4.2142230026}
-Praise is rising
-{4.2142230026, 6.8481123793}
-Eyes are turning to You
-{11.0623353819, 5.7945566286}
-We turn to You
+#1
+^Praise is rising
+#4
+Eyes are turning to ^You
+#1
+We turn to ^You
 
 [ Verse 2 ]
-{0, 4.2142230027}
-Hope is stirring
-{4.2142230027, 6.8481123793}
-Hearts are yearning for You
-{11.062335382, 3.6874451273}
-We long for You
+^Hope is stirring
+Hearts are yearning for ^You
+We long for ^You
 
 [ Pre Chorus ]
-{-1.580333626, 4.2142230026}
-Cause when we see You we find strength
-{2.6338893766, 4.741000878}
-To face the day
-{7.3748902546, 4.2142230026}
-And in Your presence all our fears
-{11.5891132572, 4.2142230026}
-Are washed away washed away
+#5add4 42
+Cause when we ^see You we find str^ength
+#15
+To face the ^day
+#5add4 42
+And in Your ^presence all our ^fears
+#15 54
+Are washed a^way washed ^away
 
 [ Chorus 1 ]
-{-0.5267778753, 7.8354192786}
-Hosanna Hosanna
-{7.3086414033, 4.1939266747}
-You are the God who saves us
-{11.502568078, 4.3007681819}
-Worthy of all our praises
+#14 1 6m7 42
+Hos^an - ^na Ho^sanna
+#15 54
+You are the ^God who saves ^us
+#6m7 42
+Worthy of ^all our prai^ses
 
 [ Chorus 2 ]
-{-0.5267778753, 7.90166813}
-Hosanna Hosanna
-{7.3748902547, 3.9235316776}
-Come have Your way among us
-{11.2984219323, 6.6120258289}
-We welcome You here Lord Jesus
+#14 1 6m7 42
+Hos^an - ^na Ho^sanna
+#15 54
+Come have Your ^way among ^us
+#6m7 42
+We welcome You ^here Lord Je^
 
 [ Verse 3 ]
 Hear the sound of
@@ -55,14 +66,14 @@ Broken lives are made new
 You make us new
 
 [ Bridge ]
-{-1.0535557506, 7.3748902546}
+#5add4 42 15
 Cause when we see You we find strength To face the day
-{7.3748902547, 7.3748902546}
+#5add4 42 15
 And in Your presence all our fears Are washed away
 
 [ Tag ]
-{-0.5267778754, 7.90166813}
-Hosanna Hosann
+#14 1 14 1
+Ho^san^na Ho^san^na
 
 [ Verse 1 R ]
 Тебя мы славим,
@@ -75,53 +86,34 @@ Hosanna Hosann
 Господь, познать Тебя.
 
 [ Pre Chorus R ]
-{-1.580333626, 4.2142230026}
-Даешь нам силу встать и встретить
-{2.6338893766, 4.741000878}
-Новый день,
-{7.3748902546, 4.2142230026}
-Не боимся мы с тобой,
-{11.5891132572, 4.2142230026}
-Ведь Ты - сильней!
+Даешь нам ^силу встать и вст^ретить
+Новый ^день,
+Не б^оимся мы с тоб^ой,
+Ведь Ты - сильн^ей!
 
 [ Chorus 1 R ]
-{-0.5267778753, 7.8354192786}
-Осанна, Осанна
-{7.3086414033, 4.1939266747}
-Ты - тот, кто спасает жизни,
-{11.502568078, 4.3007681819}
-Один Ты достоин славы
+Ос^анн^а, Ос^анн^а
+Ты - тот, кто спас^ает жизн^и,
+Один Ты дост^оин слав^ы
 
 [ Chorus 2 R ]
-{-0.5267778753, 7.90166813}
-Осанна, Осанна
-{7.3086414033, 4.1939266747}
-Приди и живи в нас, вечно,
-{11.2984219323, 6.6120258289}
-Ты - Святый Господь, Спаситель
+Ос^анн^а, Ос^анн^а
+Приди и жив^и в нас, вечн^о,
+Ты - Святый Госп^одь, Спасит^ель
 
 [ Verse 3 R ]
-{0, 4.2142230026}
-Cердце снова
-{4.2142230026, 6.8481123793}
-Ищет и жаждет Тебя,
-{11.0623353819, 3.6874451273}
-К Тебе бежим
+^Cердце снова
+Ищет и жаждет ^Тебя,
+К Тебе бе^жим
 
 [ Verse 4 R ]
-{0, 4.2142230027}
-Нас меняешь,
-{4.2142230027, 7.0124442891}
-Oбновляешь,
-{11.2266672918, 2.9963353421}
-Даешь Ты новую жизнь
+^Нас меняешь,
+Oбновля^ешь,
+Даешь Ты новую ^жизнь
 
 [ Bridge R ]
-{-1.0535557506, 7.3748902546}
-Даешь нам силу Встать и встретить Новый день,
-{7.3748902547, 7.3748902546}
-Не боимся мы с тобой, Ведь Ты - сильней!
+Даешь нам ^силу встать и вст^ретить новый ^день,
+Не б^оимся мы с тоб^ой, ведь Ты - сильн^ей!
 
 [ Tag R ]
-{-0.5267778754, 7.90166813}
-Осанна, Осанна
+Ос^анн^а, Ос^анн^а
