@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "7.52/linux-x86_64" 1767265372
+<REAPER_PROJECT 0.1 "7.59/linux-x86_64" 1768485341 0
   <NOTES 0 2
   >
   RIPPLE 0 0
@@ -15,11 +15,11 @@
   PROJOFFS 0 0 0
   MAXPROJLEN 0 0
   GRID 3199 8 1 8 1 0 0 0
-  TIMEMODE 1 5 -1 30 0 0 -1
+  TIMEMODE 1 5 -1 30 0 0 -1 0
   VIDEO_CONFIG 0 0 65792
   PANMODE 3
   PANLAWFLAGS 3
-  CURSOR 30208
+  CURSOR 4608
   ZOOM 0.02890777349119 0 0
   VZOOMEX 14.05275249 0
   USE_REC_CFG 0
@@ -125,7 +125,8 @@
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
     FIXEDLANES 9 0 0 0 0
-    SEL 0
+    LANEREC -1 -1 -1 0
+    SEL 1
     REC 0 0 1 0 0 0 0 0
     VU 64
     TRACKHEIGHT 0 0 0 0 0 0 0
@@ -148,45 +149,45 @@
     <ITEM
       POSITION 0
       SNAPOFFS 0
-      LENGTH 306.66666666666669
+      LENGTH 279.18366666666668
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0 0 1 0 0 0
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {F3573207-2F68-FB4A-3CC7-F9EB35DE4907}
-      IID 266
-      NAME "Newborn King - Antioch Music - E - 108 BPM.RPP"
+      IGUID {5FF9A1B1-6AAD-F7C7-DF93-DAE41F170A52}
+      IID 3373
+      NAME "This Is Amazing Grace - Phil Wickham - Bb - 98 BPM.rpp"
       VOLPAN 1 0 1 -1
       SOFFS 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {6A1E8392-F718-9235-25F7-9F56A471EE17}
+      GUID {79F2D3B5-FFDA-EBA8-2F9D-6CF4E46CEA6D}
       <SOURCE RPP_PROJECT
-        FILE "/Music/REAPER/Newborn King - Antioch Music - E - 108 BPM/Newborn King - Antioch Music - E - 108 BPM.RPP"
+        FILE "/Music/REAPER/This Is Amazing Grace - Phil Wickham - Bb - 98 BPM/This Is Amazing Grace - Phil Wickham - Bb - 98 BPM.rpp"
       >
     >
     <ITEM
       POSITION 4096
       SNAPOFFS 0
-      LENGTH 219.53487528344672
+      LENGTH 360.31607709750568
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0 0 1 0 0 0
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
-      SEL 0
-      IGUID {D22973CF-188F-AE82-B74C-1A1BF8C2F41B}
-      IID 267
-      NAME "Praise - Seph Schlueter - A - 129 BPM.RPP"
+      SEL 1
+      IGUID {0907CEBD-B8CA-1EFA-9B97-A2997AE7FDC6}
+      IID 250
+      NAME "Hosanna - Praise is Rising (Live) - Paul Baloche - G - 113.9 BPM.RPP"
       VOLPAN 1 0 1 -1
       SOFFS 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {48FA943B-6504-13BF-79DD-EE769197119B}
+      GUID {E95D4522-4DA2-490B-34B3-59F4E1AAFC65}
       <SOURCE RPP_PROJECT
-        FILE "/Music/REAPER/Praise - Seph Schlueter - A - 129 BPM/Praise - Seph Schlueter - A - 129 BPM.RPP"
+        FILE "/Music/REAPER/Hosanna - Praise is Rising (Live) - Paul Baloche - G - 113.9 BPM/Hosanna - Praise is Rising (Live) - Paul Baloche - G - 113.9 BPM.RPP"
       >
     >
     <ITEM
@@ -214,45 +215,45 @@
     <ITEM
       POSITION 12288
       SNAPOFFS 0
-      LENGTH 310.07927437641723
+      LENGTH 289.41176870748302
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0 0 1 0 0 0
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {D3A91545-9C5C-7706-DA4E-EA8F952D267D}
-      IID 106
-      NAME "Holy Forever - Chris Tomlin - Db - 72 BPM.RPP"
+      IGUID {07EF203F-55E8-ECFE-B2E6-212971DCAE57}
+      IID 2941
+      NAME "King Of My Heart - Bethel Music - A - 68 BPM.rpp"
       VOLPAN 1 0 1 -1
       SOFFS 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {7A1F618A-0125-C1CA-2089-CB54BCD3D1B5}
+      GUID {32B3C83C-0B64-CCCE-0611-949921DD7BDB}
       <SOURCE RPP_PROJECT
-        FILE "/Music/REAPER/Holy Forever - Chris Tomlin - Db - 72 BPM/Holy Forever - Chris Tomlin - Db - 72 BPM.RPP"
+        FILE "/Music/REAPER/King Of My Heart - Bethel Music - A - 68 BPM/King Of My Heart - Bethel Music - A - 68 BPM.rpp"
       >
     >
     <ITEM
       POSITION 16384
       SNAPOFFS 0
-      LENGTH 329.97689342403629
+      LENGTH 340
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0 0 1 0 0 0
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {EFA9AE91-3373-D768-2242-C89835A4754E}
-      IID 105
-      NAME "Psalm 46 - Capital City Music - Ab - 69 BPM.RPP"
+      IGUID {05B80E83-48A0-CD2C-FBEA-A1FBFBEBCF81}
+      IID 2837
+      NAME "Build My Life - Patt Barat - G - 72 BPM.rpp"
       VOLPAN 1 0 1 -1
       SOFFS 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {0604FB43-E44E-7808-3FDD-F997D77696AE}
+      GUID {EC9B3A56-F61D-687D-60C6-6A62DF4AA958}
       <SOURCE RPP_PROJECT
-        FILE "/Music/REAPER/Psalm 46 - Capital City Music - Ab - 69 BPM/Psalm 46 - Capital City Music - Ab - 69 BPM.RPP"
+        FILE "/Music/REAPER/Build My Life - Patt Barat - G - 72 BPM/Build My Life - Patt Barat - G - 72 BPM.rpp"
       >
     >
     <ITEM
@@ -292,7 +293,8 @@
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
     FIXEDLANES 9 0 0 0 0
-    SEL 1
+    LANEREC -1 -1 -1 0
+    SEL 0
     REC 0 0 1 0 0 0 0 0
     VU 64
     TRACKHEIGHT 0 0 0 0 0 0 0
@@ -314,7 +316,7 @@
       FADEIN 1 0.92017088052307 0 1 0 0 0
       FADEOUT 1 183.61120922036207 0 1 0 0 0
       MUTE 0 0
-      SEL 1
+      SEL 0
       IGUID {49237862-AC5C-474D-9B8A-D51687642A25}
       IID 498
       NAME "Christian Mood Booster _ Powerful Worship Songs to Turn Your Day Around.mp3"
