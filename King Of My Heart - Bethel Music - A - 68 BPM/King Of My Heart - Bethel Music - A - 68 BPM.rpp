@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "7.59/linux-x86_64" 1768236538 0
+<REAPER_PROJECT 0.1 "7.55/macOS-arm64" 1768492889 0
   RIPPLE 0 0
   GROUPOVERRIDE 0 0 0 0
   AUTOXFADE 128
@@ -15,8 +15,8 @@
   TIMEMODE 1 5 -1 30 0 0 -1 0
   VIDEO_CONFIG 0 0 256
   PANMODE 3
-  CURSOR 63.52941176470588
-  ZOOM 7.47791804820248 0 0
+  CURSOR 287.16360010670934
+  ZOOM 28.12431426456706 7531 0
   VZOOMEX 7.29981709 0
   USE_REC_CFG 0
   RECMODE 1
@@ -37,6 +37,7 @@
   RENDER_ADDTOPROJ 0
   RENDER_STEMS 0
   RENDER_DITHER 0
+  RENDER_TRIM 0.000001 0.000001 0 0
   TIMELOCKMODE 1
   TEMPOENVLOCKMODE 1
   ITEMMIX 0
@@ -62,8 +63,8 @@
   GLOBAL_AUTO -1
   TEMPO 136 4 4 0
   PLAYRATE 1 0 0.25 4
-  SELECTION 0 0
-  SELECTION2 0 0
+  SELECTION 3.52941176470588 3.52945344137255
+  SELECTION2 3.52941176470588 3.52945344137255
   MASTERAUTOMODE 0
   MASTERTRACKHEIGHT 0 0
   MASTERPEAKCOL 16576
@@ -219,51 +220,379 @@
     MIDIOUT -1
     MAINSEND 1 0
     <ITEM
-      POSITION 0
+      POSITION 3.52941176470588
       SNAPOFFS 0
-      LENGTH 275.29411764705884
+      LENGTH 1.25
       LOOP 1
       ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0 0
-      FADEOUT 1 0.01 0 1 0 0 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
-      SEL 1
-      IGUID {3E9CE0A2-7E36-46E9-A6D8-8350B4309B58}
-      IID 2010
-      NAME "English Female - 1-glued.wav"
+      SEL 0
+      IGUID {D21C0627-0342-DA43-92E1-0A54A95ED35E}
+      IID 2941
+      NAME "English Female - Intro.wav"
       VOLPAN 1 0 1 -1
       SOFFS 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {F5821024-E498-4FA9-86D8-3AEBA15D7D85}
+      GUID {6D1F3F0C-C97A-E94B-9337-70822EC729C4}
       <SOURCE WAVE
-        FILE "English Female - 1-glued.wav"
+        FILE "/Music/Assets/Cues/English Female - Intro.wav"
       >
     >
     <ITEM
-      POSITION 288.52941176470586
+      POSITION 5.29411764705882
       SNAPOFFS 0
-      LENGTH 0.88235294107034
+      LENGTH 0.44117647058824
       LOOP 1
       ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0 0
-      FADEOUT 1 0.010882 0 1 0 0 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {73A9BD12-85E4-43DC-8AA6-E72219A94B83}
-      IID 2940
-      NAME "English Female - 1-glued.wav"
+      IGUID {AB4E9EA7-309A-A243-88EC-B2941933AE8D}
+      IID 2942
+      NAME "English Female - Chorus 3.wav"
       VOLPAN 1 0 1 -1
-      SOFFS 285.88235294117646
+      SOFFS 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {8E52EF27-3DAA-4F1A-A2FF-423CC35C37B3}
+      GUID {7E2BE545-7E44-4F4E-AA09-509FA41A9BEB}
       <SOURCE WAVE
-        FILE "English Female - 1-glued.wav"
+        FILE "/Music/Assets/Cues/English Female - Chorus 3.wav"
       >
     >
-  >
-  <EXTENSIONS
+    <ITEM
+      POSITION 6.17647058823529
+      SNAPOFFS 0
+      LENGTH 0.44117647058823
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {69034ABF-ACA2-BE4B-8473-9E5EB9138546}
+      IID 2943
+      NAME "English Female - Chorus 4.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {ED2CE7BA-A14C-6D45-A0DB-67975187BC84}
+      <SOURCE WAVE
+        FILE "/Music/Assets/Cues/English Female - Chorus 4.wav"
+      >
+    >
+    <ITEM
+      POSITION 17.64705882352941
+      SNAPOFFS 0
+      LENGTH 1.28124716553288
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {94AA5CFF-9ABB-1743-94D3-4482A7A4F424}
+      IID 2944
+      NAME "English Female - Verse 1.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7ACF7673-DA6B-E345-9D46-06747035593B}
+      <SOURCE WAVE
+        FILE "/Music/Assets/Cues/English Female - Verse 1.wav"
+      >
+    >
+    <ITEM
+      POSITION 45.88235294117647
+      SNAPOFFS 0
+      LENGTH 1.28124716553288
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {CB9BE0B0-549D-324C-A79E-099DED2CFA89}
+      IID 2945
+      NAME "English Female - Chorus.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {317C1647-8047-2545-9383-4A65E09BE522}
+      <SOURCE WAVE
+        FILE "/Music/Assets/Cues/English Female - Chorus.wav"
+      >
+    >
+    <ITEM
+      POSITION 74.11764705882354
+      SNAPOFFS 0
+      LENGTH 1.28124716553288
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {60D5F688-05B0-CF40-810B-5D4174F3C02E}
+      IID 2946
+      NAME "English Female - Verse 2.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A3FD98BA-F0E6-A74A-93CA-DCC41236E04D}
+      <SOURCE WAVE
+        FILE "/Music/Assets/Cues/English Female - Verse 2.wav"
+      >
+    >
+    <ITEM
+      POSITION 102.35294117647059
+      SNAPOFFS 0
+      LENGTH 1.28124716553288
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {34BDFE5D-F96A-1149-8EC2-320246AC8017}
+      IID 2947
+      NAME "English Female - Verse 2.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {73481695-A62D-2441-96C1-2F28CA425B1E}
+      <SOURCE WAVE
+        FILE "/Music/Assets/Cues/English Female - Verse 2.wav"
+      >
+    >
+    <ITEM
+      POSITION 130.58823529411765
+      SNAPOFFS 0
+      LENGTH 1.28124716553288
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {8C64A895-0CB2-0A4B-B43D-02BE0FC9DA37}
+      IID 2948
+      NAME "English Female - Chorus.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B2955B22-C414-2842-A6A5-9B44B4F52E2E}
+      <SOURCE WAVE
+        FILE "/Music/Assets/Cues/English Female - Chorus.wav"
+      >
+    >
+    <ITEM
+      POSITION 158.8235294117647
+      SNAPOFFS 0
+      LENGTH 1.28124716553288
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {D176C46B-8BD4-5A43-AFCE-815072A65A8A}
+      IID 2949
+      NAME "English Female - Bridge.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D0D96B65-16BF-9E47-8189-D072A7554070}
+      <SOURCE WAVE
+        FILE "/Music/Assets/Cues/English Female - Bridge.wav"
+      >
+    >
+    <ITEM
+      POSITION 172.94117647058823
+      SNAPOFFS 0
+      LENGTH 1.28124716553288
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {DEF07CCB-5D1D-7A41-B10A-292347952A81}
+      IID 2950
+      NAME "English Female - Bridge.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3D21C3AA-A35D-8E4A-881A-A82A24E978EC}
+      <SOURCE WAVE
+        FILE "/Music/Assets/Cues/English Female - Bridge.wav"
+      >
+    >
+    <ITEM
+      POSITION 187.05882352941177
+      SNAPOFFS 0
+      LENGTH 1.28124716553288
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {59497170-44C8-1E43-B208-7F744019871F}
+      IID 2951
+      NAME "English Female - Bridge.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {722B2F47-37DD-0B47-A212-2B9CC9EE8E33}
+      <SOURCE WAVE
+        FILE "/Music/Assets/Cues/English Female - Bridge.wav"
+      >
+    >
+    <ITEM
+      POSITION 201.1764705882353
+      SNAPOFFS 0
+      LENGTH 1.28124716553288
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {69C523CE-F8A5-C94C-AE09-4B8B014F7F4D}
+      IID 2952
+      NAME "English Female - Bridge.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {05D7D718-7F91-4B42-B8D2-9B8A7ECE574B}
+      <SOURCE WAVE
+        FILE "/Music/Assets/Cues/English Female - Bridge.wav"
+      >
+    >
+    <ITEM
+      POSITION 215.29411764705881
+      SNAPOFFS 0
+      LENGTH 1.28124716553288
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {D8B5DB77-0A1E-6047-8915-43739779AE4D}
+      IID 2954
+      NAME "English Female - Chorus.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1B38CBA2-AAA7-1941-AFA5-544D989C0EF8}
+      <SOURCE WAVE
+        FILE "/Music/Assets/Cues/English Female - Chorus.wav"
+      >
+    >
+    <ITEM
+      POSITION 243.52941176470588
+      SNAPOFFS 0
+      LENGTH 1.28124716553288
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {DD7A2B68-C48D-E04D-AF61-1807DAF4222A}
+      IID 2959
+      NAME "English Female - Bridge.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2057BEC2-DAD4-F64C-A540-9222FE584F32}
+      <SOURCE WAVE
+        FILE "/Music/Assets/Cues/English Female - Bridge.wav"
+      >
+    >
+    <ITEM
+      POSITION 257.64705882352939
+      SNAPOFFS 0
+      LENGTH 1.28124716553288
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {9B02CFB6-00B7-8040-91E6-E824F843D465}
+      IID 2958
+      NAME "English Female - Bridge.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6DF4ED8A-6A44-9A40-8E9E-B38354D858A7}
+      <SOURCE WAVE
+        FILE "/Music/Assets/Cues/English Female - Bridge.wav"
+      >
+    >
+    <ITEM
+      POSITION 271.76470588235293
+      SNAPOFFS 0
+      LENGTH 1.28124716553288
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {464BA7C8-FDED-E449-85E9-84D7685B7F17}
+      IID 2960
+      NAME "English Female - Outro.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F1E3DA7B-7BC0-8F48-BCD5-F9CF8AAF334A}
+      <SOURCE WAVE
+        FILE "/Music/Assets/Cues/English Female - Outro.wav"
+      >
+    >
+    <ITEM
+      POSITION 285.88235294117646
+      SNAPOFFS 0
+      LENGTH 1.28124716553288
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {E9FB9CDD-A50D-FA4D-9405-4F3A15ED6E0E}
+      IID 2961
+      NAME "English Female - Ending.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BDFC3670-DF84-B440-BF01-5B824A75783E}
+      <SOURCE WAVE
+        FILE "/Music/Assets/Cues/English Female - Ending.wav"
+      >
+    >
   >
   <EXTSTATE
     <COM.PANDABOT.CHORDGUN
