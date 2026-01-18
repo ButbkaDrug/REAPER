@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "7.55/macOS-arm64" 1768658610 0
+<REAPER_PROJECT 0.1 "7.59/linux-x86_64" 1768711154 0
   <NOTES 0 2
   >
   RIPPLE 0 0
@@ -19,8 +19,8 @@
   VIDEO_CONFIG 0 0 65792
   PANMODE 3
   PANLAWFLAGS 3
-  CURSOR 24576
-  ZOOM 12.48146284168327 330651 0
+  CURSOR 4232
+  ZOOM 1.60500529720957 6307 0
   VZOOMEX 14.05275249 0
   USE_REC_CFG 0
   RECMODE 1
@@ -126,7 +126,7 @@
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
     FIXEDLANES 9 0 0 0 0
     LANEREC -1 -1 -1 0
-    SEL 0
+    SEL 1
     REC 0 0 1 0 0 0 0 0
     VU 64
     TRACKHEIGHT 0 0 0 0 0 0 0
@@ -177,7 +177,7 @@
       FADEIN 1 0 0 1 0 0 0
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
-      SEL 0
+      SEL 1
       IGUID {0907CEBD-B8CA-1EFA-9B97-A2997AE7FDC6}
       IID 250
       NAME "Hosanna - Praise is Rising (Live) - Paul Baloche - G - 113.9 BPM.RPP"
@@ -272,7 +272,7 @@
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
     FIXEDLANES 9 0 0 0 0
     LANEREC -1 -1 -1 0
-    SEL 1
+    SEL 0
     REC 0 0 1 0 0 0 0 0
     VU 64
     TRACKHEIGHT 405 0 0 0 0 0 0
@@ -304,29 +304,7 @@
       CHANMODE 0
       GUID {DD41E5EE-201E-D843-9E4B-CD5344E148A7}
       <SOURCE MP3
-        FILE "/Users/calvarchapelbatumi/Downloads/God Is For Me (Instrumental).mp3" 1
-      >
-    >
-    <ITEM
-      POSITION 24576
-      SNAPOFFS 0
-      LENGTH 138.15873015873015
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0 0
-      FADEOUT 1 0 0 1 0 0 0
-      MUTE 0 0
-      SEL 1
-      IGUID {5786A5E6-7597-3046-BF83-F671C2897BCB}
-      IID 2964
-      NAME "adlai - Our God Is Good Official Lyric Video [music].mp3"
-      VOLPAN 1 0 1 -1
-      SOFFS 0
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {99FB2486-1D77-9847-B117-674731807738}
-      <SOURCE MP3
-        FILE "/Users/calvarchapelbatumi/Downloads/adlai - Our God Is Good Official Lyric Video [music].mp3" 1
+        FILE "/Downloads/God Is For Me (Instrumental).mp3" 1
       >
     >
     <ITEM
@@ -373,5 +351,7 @@
         FILE "/Downloads/Instrumental Worship and Hymns _ Acoustic Fingerstyle Guitar Collection _ Titus Major [zTRmJvGnDAY].mp3" 1
       >
     >
+  >
+  <EXTENSIONS
   >
 >
