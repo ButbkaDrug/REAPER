@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "7.59/linux-x86_64" 1768711137 0
+<REAPER_PROJECT 0.1 "7.55/macOS-arm64" 1768711285 0
   RIPPLE 0 0
   GROUPOVERRIDE 0 0 0 0
   AUTOXFADE 128
@@ -238,7 +238,7 @@
       CHANMODE 0
       GUID {0A2B3A90-C585-6B17-5E9C-C523DE8C96BE}
       <SOURCE WAVE
-        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 1.wav"
+        FILE "/Users/calvarchapelbatumi/Music/Assets/Cues/English Female - 1.wav"
       >
     >
     <ITEM
@@ -260,7 +260,7 @@
       CHANMODE 0
       GUID {57924152-260D-F9BC-4DA5-4BCB9EB5AA46}
       <SOURCE WAVE
-        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 2.wav"
+        FILE "/Users/calvarchapelbatumi/Music/Assets/Cues/English Female - 2.wav"
       >
     >
     <ITEM
@@ -304,7 +304,7 @@
       CHANMODE 0
       GUID {270FAB4C-5B63-50D8-1E5C-494422D61699}
       <SOURCE WAVE
-        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 3.wav"
+        FILE "/Users/calvarchapelbatumi/Music/Assets/Cues/English Female - 3.wav"
       >
     >
     <ITEM
@@ -326,7 +326,7 @@
       CHANMODE 0
       GUID {F29DF3E3-E06F-27BD-38BF-09CBCD6A5795}
       <SOURCE WAVE
-        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 4.wav"
+        FILE "/Users/calvarchapelbatumi/Music/Assets/Cues/English Female - 4.wav"
       >
     >
     <ITEM
@@ -370,7 +370,7 @@
       CHANMODE 0
       GUID {3322983E-16FB-FFCE-8CE5-D8718BA77DA6}
       <SOURCE WAVE
-        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 3.wav"
+        FILE "/Users/calvarchapelbatumi/Music/Assets/Cues/English Female - 3.wav"
       >
     >
     <ITEM
@@ -392,7 +392,7 @@
       CHANMODE 0
       GUID {A4CEF92F-07B7-EC10-E9E3-FB0AE71B9E5C}
       <SOURCE WAVE
-        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 4.wav"
+        FILE "/Users/calvarchapelbatumi/Music/Assets/Cues/English Female - 4.wav"
       >
     >
     <ITEM
@@ -436,7 +436,7 @@
       CHANMODE 0
       GUID {F75EC3BE-784E-2618-6A92-98A4945681BD}
       <SOURCE WAVE
-        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 3.wav"
+        FILE "/Users/calvarchapelbatumi/Music/Assets/Cues/English Female - 3.wav"
       >
     >
     <ITEM
@@ -458,7 +458,7 @@
       CHANMODE 0
       GUID {A894F280-FAB9-4858-AA03-34E4F09E3795}
       <SOURCE WAVE
-        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 4.wav"
+        FILE "/Users/calvarchapelbatumi/Music/Assets/Cues/English Female - 4.wav"
       >
     >
     <ITEM
@@ -502,7 +502,7 @@
       CHANMODE 0
       GUID {AEF1C1DF-79FE-9E91-9C69-956ACE40D70E}
       <SOURCE WAVE
-        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 3.wav"
+        FILE "/Users/calvarchapelbatumi/Music/Assets/Cues/English Female - 3.wav"
       >
     >
     <ITEM
@@ -524,7 +524,7 @@
       CHANMODE 0
       GUID {61AD69C5-E3B4-356B-6D01-C7425D94D035}
       <SOURCE WAVE
-        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 4.wav"
+        FILE "/Users/calvarchapelbatumi/Music/Assets/Cues/English Female - 4.wav"
       >
     >
     <ITEM
@@ -568,7 +568,7 @@
       CHANMODE 0
       GUID {2D60EF59-15DB-C0D0-47B4-D55583C99C74}
       <SOURCE WAVE
-        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 3.wav"
+        FILE "/Users/calvarchapelbatumi/Music/Assets/Cues/English Female - 3.wav"
       >
     >
     <ITEM
@@ -590,7 +590,7 @@
       CHANMODE 0
       GUID {99FD7BC3-C68C-99BD-F1EC-3F7487813800}
       <SOURCE WAVE
-        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 4.wav"
+        FILE "/Users/calvarchapelbatumi/Music/Assets/Cues/English Female - 4.wav"
       >
     >
     <ITEM
@@ -634,7 +634,7 @@
       CHANMODE 0
       GUID {0647A819-0AB7-C53F-C150-E461BCB0968A}
       <SOURCE WAVE
-        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 3.wav"
+        FILE "/Users/calvarchapelbatumi/Music/Assets/Cues/English Female - 3.wav"
       >
     >
     <ITEM
@@ -656,7 +656,7 @@
       CHANMODE 0
       GUID {C333E885-0AB5-E8D8-4CC1-5DD53BAE44E3}
       <SOURCE WAVE
-        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 4.wav"
+        FILE "/Users/calvarchapelbatumi/Music/Assets/Cues/English Female - 4.wav"
       >
     >
     <ITEM
@@ -700,7 +700,7 @@
       CHANMODE 0
       GUID {77B93206-F09C-0E4D-367B-6FE5CEEB9C6A}
       <SOURCE WAVE
-        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 3.wav"
+        FILE "/Users/calvarchapelbatumi/Music/Assets/Cues/English Female - 3.wav"
       >
     >
     <ITEM
@@ -722,7 +722,7 @@
       CHANMODE 0
       GUID {D216B459-DFA6-F5E4-F875-C713BF9AE485}
       <SOURCE WAVE
-        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 4.wav"
+        FILE "/Users/calvarchapelbatumi/Music/Assets/Cues/English Female - 4.wav"
       >
     >
     <ITEM
@@ -766,7 +766,7 @@
       CHANMODE 0
       GUID {78149E64-6E19-696F-C195-D7AF20E4257E}
       <SOURCE WAVE
-        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 3.wav"
+        FILE "/Users/calvarchapelbatumi/Music/Assets/Cues/English Female - 3.wav"
       >
     >
     <ITEM
@@ -788,7 +788,7 @@
       CHANMODE 0
       GUID {62F4E829-B472-A163-1DA7-F2BEB075AB2C}
       <SOURCE WAVE
-        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 4.wav"
+        FILE "/Users/calvarchapelbatumi/Music/Assets/Cues/English Female - 4.wav"
       >
     >
     <ITEM
@@ -832,7 +832,7 @@
       CHANMODE 0
       GUID {EF526BC2-74F4-C523-7A1B-7B3C58839BA9}
       <SOURCE WAVE
-        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 3.wav"
+        FILE "/Users/calvarchapelbatumi/Music/Assets/Cues/English Female - 3.wav"
       >
     >
     <ITEM
@@ -854,7 +854,7 @@
       CHANMODE 0
       GUID {FBA4CEAF-A56D-64A5-FCE0-3873294A66F1}
       <SOURCE WAVE
-        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 4.wav"
+        FILE "/Users/calvarchapelbatumi/Music/Assets/Cues/English Female - 4.wav"
       >
     >
     <ITEM
@@ -898,7 +898,7 @@
       CHANMODE 0
       GUID {3355C13C-FC81-8AD4-59DC-6F555135C002}
       <SOURCE WAVE
-        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 3.wav"
+        FILE "/Users/calvarchapelbatumi/Music/Assets/Cues/English Female - 3.wav"
       >
     >
     <ITEM
@@ -920,7 +920,7 @@
       CHANMODE 0
       GUID {560FC9A9-34A2-FEAD-A1E1-24E3A6DF0B44}
       <SOURCE WAVE
-        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 4.wav"
+        FILE "/Users/calvarchapelbatumi/Music/Assets/Cues/English Female - 4.wav"
       >
     >
     <ITEM
@@ -964,7 +964,7 @@
       CHANMODE 0
       GUID {71A29081-53EE-511C-48F7-7E1E9C29AC77}
       <SOURCE WAVE
-        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 3.wav"
+        FILE "/Users/calvarchapelbatumi/Music/Assets/Cues/English Female - 3.wav"
       >
     >
     <ITEM
@@ -986,7 +986,7 @@
       CHANMODE 0
       GUID {07153E80-3D06-736C-7278-ED84EC97A758}
       <SOURCE WAVE
-        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 4.wav"
+        FILE "/Users/calvarchapelbatumi/Music/Assets/Cues/English Female - 4.wav"
       >
     >
     <ITEM
@@ -1030,7 +1030,7 @@
       CHANMODE 0
       GUID {C39640FF-594F-7601-4FE1-048A87CACACE}
       <SOURCE WAVE
-        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 3.wav"
+        FILE "/Users/calvarchapelbatumi/Music/Assets/Cues/English Female - 3.wav"
       >
     >
     <ITEM
@@ -1052,7 +1052,7 @@
       CHANMODE 0
       GUID {CF96B6E4-E36B-0F45-BA12-522D708386FE}
       <SOURCE WAVE
-        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 4.wav"
+        FILE "/Users/calvarchapelbatumi/Music/Assets/Cues/English Female - 4.wav"
       >
     >
     <ITEM
@@ -1096,7 +1096,7 @@
       CHANMODE 0
       GUID {2860D902-8470-6A8C-EF37-ABB1767143E1}
       <SOURCE WAVE
-        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 3.wav"
+        FILE "/Users/calvarchapelbatumi/Music/Assets/Cues/English Female - 3.wav"
       >
     >
     <ITEM
@@ -1118,7 +1118,7 @@
       CHANMODE 0
       GUID {2CC86700-9667-B7F2-344D-CB44BEA6CA31}
       <SOURCE WAVE
-        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 4.wav"
+        FILE "/Users/calvarchapelbatumi/Music/Assets/Cues/English Female - 4.wav"
       >
     >
     <ITEM
@@ -1162,7 +1162,7 @@
       CHANMODE 0
       GUID {E2C505C4-D0D2-A236-B867-E97402841968}
       <SOURCE WAVE
-        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 3.wav"
+        FILE "/Users/calvarchapelbatumi/Music/Assets/Cues/English Female - 3.wav"
       >
     >
     <ITEM
@@ -1184,7 +1184,7 @@
       CHANMODE 0
       GUID {4132D438-BEDD-8645-D3FF-BBD6610A0595}
       <SOURCE WAVE
-        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 4.wav"
+        FILE "/Users/calvarchapelbatumi/Music/Assets/Cues/English Female - 4.wav"
       >
     >
     <ITEM
@@ -1228,7 +1228,7 @@
       CHANMODE 0
       GUID {E6E46506-2A05-DD29-B952-C3DEA540C3FE}
       <SOURCE WAVE
-        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 3.wav"
+        FILE "/Users/calvarchapelbatumi/Music/Assets/Cues/English Female - 3.wav"
       >
     >
     <ITEM
@@ -1250,11 +1250,9 @@
       CHANMODE 0
       GUID {E533BDD3-C9E2-F784-AFAA-64F2F4B82542}
       <SOURCE WAVE
-        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 4.wav"
+        FILE "/Users/calvarchapelbatumi/Music/Assets/Cues/English Female - 4.wav"
       >
     >
-  >
-  <EXTENSIONS
   >
   <EXTSTATE
     <COM.PANDABOT.CHORDGUN
