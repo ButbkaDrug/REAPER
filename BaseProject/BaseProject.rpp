@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "7.55/macOS-arm64" 1768711289 0
+<REAPER_PROJECT 0.1 "7.59/linux-x86_64" 1768711558 0
   <NOTES 0 2
   >
   RIPPLE 0 0
@@ -19,8 +19,8 @@
   VIDEO_CONFIG 0 0 65792
   PANMODE 3
   PANLAWFLAGS 3
-  CURSOR 4232
-  ZOOM 1.60500529720957 6307 0
+  CURSOR 20756.067029478458
+  ZOOM 1.60500529720957 32603 0
   VZOOMEX 14.05275249 0
   USE_REC_CFG 0
   RECMODE 1
@@ -177,7 +177,7 @@
       FADEIN 1 0 0 1 0 0 0
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
-      SEL 1
+      SEL 0
       IGUID {0907CEBD-B8CA-1EFA-9B97-A2997AE7FDC6}
       IID 250
       NAME "Hosanna - Praise is Rising (Live) - Paul Baloche - G - 113.9 BPM.RPP"
@@ -237,23 +237,23 @@
     <ITEM
       POSITION 20480
       SNAPOFFS 0
-      LENGTH 329.49206349206349
+      LENGTH 276.06702947845804
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0 0 1 0 0 0
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
-      SEL 0
-      IGUID {464DC9BE-26A3-67DF-9D20-C8B4EE4696F1}
-      IID 3502
-      NAME "Who You Say I Am - G - 84 BPM.rpp"
+      SEL 1
+      IGUID {745A96FA-4D3C-5F6A-778A-DAA43E520A4F}
+      IID 2409
+      NAME "Canvas And Clay - Patt Barett - A - 72 BPM.rpp"
       VOLPAN 1 0 1 -1
       SOFFS 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {222684C6-7332-2219-FBCA-7297528CE240}
+      GUID {B56B90F8-589F-9D7D-97D7-DDC0970CBB34}
       <SOURCE RPP_PROJECT
-        FILE "/Music/REAPER/Who You Say I Am - G - 84 BPM/Who You Say I Am - G - 84 BPM.rpp"
+        FILE "/Music/REAPER/Canvas And Clay - Patt Barett - A - 72 BPM/Canvas And Clay - Patt Barett - A - 72 BPM.rpp"
       >
     >
   >
@@ -351,5 +351,7 @@
         FILE "/Downloads/Instrumental Worship and Hymns _ Acoustic Fingerstyle Guitar Collection _ Titus Major [zTRmJvGnDAY].mp3" 1
       >
     >
+  >
+  <EXTENSIONS
   >
 >
