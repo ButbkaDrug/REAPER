@@ -1,9 +1,10 @@
-<REAPER_PROJECT 0.1 "7.34/linux-x86_64" 1757248310
-  RIPPLE 0
-  GROUPOVERRIDE 0 0 0
+<REAPER_PROJECT 0.1 "7.59/linux-x86_64" 1769606409 0
+  RIPPLE 0 0
+  GROUPOVERRIDE 0 0 0 0
   AUTOXFADE 129
   ENVATTACH 1
   POOLEDENVATTACH 0
+  TCPUIFLAGS 0
   MIXERUIFLAGS 11 48
   PEAKGAIN 1
   FEEDBACK 0
@@ -11,12 +12,12 @@
   PROJOFFS 0 0 0
   MAXPROJLEN 0 600
   GRID 3199 8 1 8 1 0 0 0
-  TIMEMODE 1 5 -1 30 0 0 -1
+  TIMEMODE 1 5 -1 30 0 0 -1 0
   VIDEO_CONFIG 0 0 256
   PANMODE 3
-  CURSOR 314.21052631578937
+  CURSOR 313.0263157894737
   ZOOM 22.60361814525998 6955 0
-  VZOOMEX 5.79267263 115
+  VZOOMEX 5.79267263 0
   USE_REC_CFG 0
   RECMODE 1
   SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
@@ -36,6 +37,7 @@
   RENDER_ADDTOPROJ 0
   RENDER_STEMS 0
   RENDER_DITHER 0
+  RENDER_TRIM 0.000001 0.000001 0 0
   TIMELOCKMODE 1
   TEMPOENVLOCKMODE 1
   ITEMMIX 0
@@ -67,7 +69,7 @@
   MASTERTRACKHEIGHT 0 0
   MASTERPEAKCOL 16576
   MASTERMUTESOLO 0
-  MASTERTRACKVIEW 1 0.6667 0.698113 0.5 0 -1 0 0 0 0 0 0 0 0
+  MASTERTRACKVIEW 1 0.6667 0.698113 0.5 0 -1 0 0 0 0 0 0 0 0 0
   MASTERHWOUT 0 0 1 0 0 0 0 -1
   MASTERHWOUT 0 0 1 0 0 0 2 -1
   MASTERHWOUT 0 0 1 0 0 0 4 -1
@@ -138,8 +140,9 @@
     PLAYOFFS 0 1
     ISBUS 0 0
     BUSCOMP 0 0 0 0 0
-    SHOWINMIX 1 0.6667 0.5 1 0.5 0 -1 0
-    SEL 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 -1 0 0
+    LANEREC -1 -1 -1 0
+    SEL 1
     REC 0 0 1 0 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0 0 0 0 0
@@ -150,7 +153,6 @@
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
-    MAINSEND_NCH 1
     <ITEM
       POSITION 0
       SNAPOFFS 0
@@ -160,7 +162,7 @@
       FADEIN 1 0 0 1 0 0 0
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
-      SEL 0
+      SEL 1
       IGUID {7377293E-B25E-D24D-5613-DBE1D66307F0}
       IID 3519
       NAME "Click source"
@@ -170,13 +172,13 @@
       CHANMODE 0
       GUID {1F3AB2FD-AB6A-B4E0-BB25-BFECA32541BA}
       <SOURCE CLICK
-        AUTO 1
+        AUTO 1 0
         BPM 120
         BPI 4 4
-        VOL 1 1
-        BEATLEN 4
-        FREQ 800 1600 1
-        SAMPLES "/Music/Assets/Clicks/New Click -  Blip-accents.wav" "/Music/Assets/Clicks/New Click -  Blip-sixteenth.wav" "" ""
+        VOL 0.501187 0.501187
+        BEATLEN 37
+        FREQ 2700 2000 3
+        SAMPLES "" "" "" ""
         SPLIGNORE 0 0
         SPLDEF 2 660 "" 0 ""
         SPLDEF 3 440 "" 0 ""
@@ -197,8 +199,9 @@
     PLAYOFFS 0 1
     ISBUS 0 0
     BUSCOMP 0 0 0 0 0
-    SHOWINMIX 1 0.6667 0.5 1 0.5 0 -1 0
-    SEL 1
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 -1 0 0
+    LANEREC -1 -1 -1 0
+    SEL 0
     REC 0 0 1 0 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0 0 0 0 0
@@ -208,8 +211,7 @@
     TRACKID {0AC942CC-6BC8-4749-A869-929447C43ECB}
     PERF 0
     MIDIOUT -1
-    MAINSEND 1 1
-    MAINSEND_NCH 1
+    MAINSEND 1 0
     <ITEM
       POSITION 0
       SNAPOFFS 0
@@ -1599,7 +1601,7 @@
       FADEIN 1 0 0 1 0 0 0
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
-      SEL 1
+      SEL 0
       IGUID {7501DCBA-FA81-0FE4-EFB6-52A2701813D1}
       IID 3533
       NAME "English Female - Ending.wav"
@@ -1610,412 +1612,6 @@
       GUID {5E46AD96-79DE-0A1F-3012-626371CE6A74}
       <SOURCE WAVE
         FILE "/Music/Assets/Cues/English Female - Ending.wav"
-      >
-    >
-  >
-  <TRACK {75F577C4-318B-CDCD-6518-AC5DA8DF3329}
-    NAME ""
-    PEAKCOL 16576
-    BEAT -1
-    AUTOMODE 0
-    PANLAWFLAGS 3
-    VOLPAN 1 0 -1 -1 1
-    MUTESOLO 1 0 0
-    IPHASE 0
-    PLAYOFFS 0 1
-    ISBUS 1 1
-    BUSCOMP 0 0 0 0 0
-    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
-    FIXEDLANES 9 0 0 0 0
-    SEL 0
-    REC 0 0 1 0 0 0 0 0
-    VU 2
-    TRACKHEIGHT 0 0 0 0 0 0 0
-    INQ 0 0 0 0.5 100 0 0 100
-    NCHAN 2
-    FX 1
-    TRACKID {75F577C4-318B-CDCD-6518-AC5DA8DF3329}
-    PERF 0
-    MIDIOUT -1
-    MAINSEND 1 0
-  >
-  <TRACK {D8B8C069-0A78-4B98-4978-7898032F4E8C}
-    NAME Drums
-    PEAKCOL 16576
-    BEAT -1
-    AUTOMODE 0
-    PANLAWFLAGS 3
-    VOLPAN 1 0 -1 -1 1
-    MUTESOLO 0 0 0
-    IPHASE 0
-    PLAYOFFS 0 1
-    ISBUS 0 0
-    BUSCOMP 0 0 0 0 0
-    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
-    FIXEDLANES 9 0 0 0 0
-    SEL 0
-    REC 0 0 1 0 0 0 0 0
-    VU 2
-    TRACKHEIGHT 0 0 0 0 0 0 0
-    INQ 0 0 0 0.5 100 0 0 100
-    NCHAN 2
-    FX 1
-    TRACKID {D8B8C069-0A78-4B98-4978-7898032F4E8C}
-    PERF 0
-    MIDIOUT -1
-    MAINSEND 1 0
-    <ITEM
-      POSITION 1.57894736842105
-      SNAPOFFS 0
-      LENGTH 39.47368421052632
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0 0
-      FADEOUT 1 0.01 0 1 0 0 0
-      MUTE 0 0
-      BEAT 2
-      SEL 0
-      IGUID {37612097-6B41-DF73-586E-B18C2E8CF892}
-      IID 3490
-      NAME "Worthy Is The Lamb - Hillsong Worship [drums].mp3"
-      VOLPAN 1 0 1 -1
-      SOFFS 0.84087310614809
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {595126EB-52F5-76B4-DAF0-593B470B6C51}
-      <SOURCE MP3
-        FILE "/Downloads/Telegram Desktop/Worthy Is The Lamb - Hillsong Worship [drums].mp3" 1
-      >
-    >
-    <ITEM
-      POSITION 41.05263157894737
-      SNAPOFFS 0
-      LENGTH 25.26315789473684
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0 0
-      FADEOUT 1 0.01 0 1 0 0 0
-      MUTE 0 0
-      BEAT 2
-      SEL 0
-      IGUID {0539E5F7-2CC2-AA5B-F46F-5A707F6DF79B}
-      IID 3490
-      NAME "Worthy Is The Lamb - Hillsong Worship [drums].mp3"
-      VOLPAN 1 0 1 -1
-      SOFFS 40.31455731667441
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {89A9546D-69A2-544C-2FCB-D9E17C0F85F0}
-      <SOURCE MP3
-        FILE "/Downloads/Telegram Desktop/Worthy Is The Lamb - Hillsong Worship [drums].mp3" 1
-      >
-    >
-    <ITEM
-      POSITION 66.31578947368421
-      SNAPOFFS 0
-      LENGTH 48.94736842105262
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0 0
-      FADEOUT 1 0.01 0 1 0 0 0
-      MUTE 0 0
-      BEAT 2
-      SEL 0
-      IGUID {1D01195F-6530-1727-2696-C87D00638663}
-      IID 3490
-      NAME "Worthy Is The Lamb - Hillsong Worship [drums].mp3"
-      VOLPAN 1 0 1 -1
-      SOFFS 65.57771521141125
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {9C935B7A-2956-AA9C-1B10-79133D3A3263}
-      <SOURCE MP3
-        FILE "/Downloads/Telegram Desktop/Worthy Is The Lamb - Hillsong Worship [drums].mp3" 1
-      >
-    >
-    <ITEM
-      POSITION 115.26315789473684
-      SNAPOFFS 0
-      LENGTH 14.21052631578949
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0 0
-      FADEOUT 1 0.01 0 1 0 0 0
-      MUTE 0 0
-      BEAT 2
-      SEL 0
-      IGUID {D4812F50-F80C-FEEC-F890-697A1D45FA6C}
-      IID 3507
-      NAME "Worthy Is The Lamb - Hillsong Worship [drums].mp3"
-      VOLPAN 1 0 1 -1
-      SOFFS 40.31455731667441
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {E01F5C8D-9B41-EC0A-A0A5-5DA2D6237476}
-      <SOURCE MP3
-        FILE "/Downloads/Telegram Desktop/Worthy Is The Lamb - Hillsong Worship [drums].mp3" 1
-      >
-    >
-    <ITEM
-      POSITION 129.47368421052633
-      SNAPOFFS 0
-      LENGTH 25.26315789473682
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0 0
-      FADEOUT 1.1 0.01 1.57894736842104 1 1 0 0
-      MUTE 0 0
-      BEAT 2
-      SEL 0
-      IGUID {F976CBEA-4D10-1DA2-BB44-56E34BE982DB}
-      IID 3511
-      NAME "Worthy Is The Lamb - Hillsong Worship [drums].mp3"
-      VOLPAN 1 0 1 -1
-      SOFFS 40.31455731667441
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {51B369E8-9610-3187-3BEC-55C59EA1EEF0}
-      <SOURCE MP3
-        FILE "/Downloads/Telegram Desktop/Worthy Is The Lamb - Hillsong Worship [drums].mp3" 1
-      >
-    >
-    <ITEM
-      POSITION 153.15789473684211
-      SNAPOFFS 0
-      LENGTH 148.42105263157893
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1.1 0 1.57894736842104 1 1 0 0
-      FADEOUT 1 0.01 0 1 0 0 0
-      MUTE 0 0
-      BEAT 2
-      SEL 0
-      IGUID {C5EE473F-8F79-FA4C-F52D-A5B8B1565001}
-      IID 3521
-      NAME "Worthy Is The Lamb - Hillsong Worship [drums].mp3"
-      VOLPAN 1 0 1 -1
-      SOFFS 38.73560994825336
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {2992B3E5-438D-7C99-A924-23C1FA9A8948}
-      <SOURCE MP3
-        FILE "/Downloads/Telegram Desktop/Worthy Is The Lamb - Hillsong Worship [drums].mp3" 1
-      >
-    >
-  >
-  <TRACK {D41D7226-30B4-07D4-2A2B-B2CD73F822DA}
-    NAME Bass
-    PEAKCOL 16576
-    BEAT -1
-    AUTOMODE 0
-    PANLAWFLAGS 3
-    VOLPAN 1 0 -1 -1 1
-    MUTESOLO 0 0 0
-    IPHASE 0
-    PLAYOFFS 0 1
-    ISBUS 0 0
-    BUSCOMP 0 0 0 0 0
-    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
-    FIXEDLANES 9 0 0 0 0
-    SEL 0
-    REC 0 0 1 0 0 0 0 0
-    VU 2
-    TRACKHEIGHT 0 0 0 0 0 0 0
-    INQ 0 0 0 0.5 100 0 0 100
-    NCHAN 2
-    FX 1
-    TRACKID {D41D7226-30B4-07D4-2A2B-B2CD73F822DA}
-    PERF 0
-    MIDIOUT -1
-    MAINSEND 1 0
-    <ITEM
-      POSITION 1.57894736842105
-      SNAPOFFS 0
-      LENGTH 113.68421052631578
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0 0
-      FADEOUT 1 0.01 0 1 0 0 0
-      MUTE 0 0
-      BEAT 2
-      SEL 0
-      IGUID {6AF12066-EB47-0E25-DA00-B64B5ACB4B6D}
-      IID 3489
-      NAME "Worthy Is The Lamb - Hillsong Worship [bass].mp3"
-      VOLPAN 1 0 1 -1
-      SOFFS 0.84087310614809
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {0454D2B3-44AE-3A0F-6568-EF00A9202761}
-      <SOURCE MP3
-        FILE "/Downloads/Telegram Desktop/Worthy Is The Lamb - Hillsong Worship [bass].mp3" 1
-      >
-    >
-    <ITEM
-      POSITION 115.26315789473684
-      SNAPOFFS 0
-      LENGTH 186.31578947368422
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0 0
-      FADEOUT 1 0.01 0 1 0 0 0
-      MUTE 0 0
-      BEAT 2
-      SEL 0
-      IGUID {6A013738-484C-AF29-BCAB-96F51F70745A}
-      IID 3523
-      NAME "Worthy Is The Lamb - Hillsong Worship [bass].mp3"
-      VOLPAN 1 0 1 -1
-      SOFFS 0.84087310614809
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {72516693-55C7-6458-8F73-E48AE3AF33AC}
-      <SOURCE MP3
-        FILE "/Downloads/Telegram Desktop/Worthy Is The Lamb - Hillsong Worship [bass].mp3" 1
-      >
-    >
-  >
-  <TRACK {412334CD-42B6-E9A8-B1F2-54AEAFFBFED2}
-    NAME Music
-    PEAKCOL 16576
-    BEAT -1
-    AUTOMODE 0
-    PANLAWFLAGS 3
-    VOLPAN 1 0 -1 -1 1
-    MUTESOLO 0 0 0
-    IPHASE 0
-    PLAYOFFS 0 1
-    ISBUS 0 0
-    BUSCOMP 0 0 0 0 0
-    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
-    FIXEDLANES 9 0 0 0 0
-    SEL 0
-    REC 0 0 1 0 0 0 0 0
-    VU 2
-    TRACKHEIGHT 0 0 0 0 0 0 0
-    INQ 0 0 0 0.5 100 0 0 100
-    NCHAN 2
-    FX 1
-    TRACKID {412334CD-42B6-E9A8-B1F2-54AEAFFBFED2}
-    PERF 0
-    MIDIOUT -1
-    MAINSEND 1 0
-    <ITEM
-      POSITION 1.57894736842105
-      SNAPOFFS 0
-      LENGTH 113.68421052631578
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0 0
-      FADEOUT 1 0.01 0 1 0 0 0
-      MUTE 0 0
-      BEAT 2
-      SEL 0
-      IGUID {19DB57A4-C5C7-4063-FF19-A04DFB748647}
-      IID 3491
-      NAME "Worthy Is The Lamb - Hillsong Worship [music].mp3"
-      VOLPAN 1 0 1 -1
-      SOFFS 0.84087310614809
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {178FE9B5-C4B3-3644-9DBC-55330D3AB22A}
-      <SOURCE MP3
-        FILE "/Downloads/Telegram Desktop/Worthy Is The Lamb - Hillsong Worship [music].mp3" 1
-      >
-    >
-    <ITEM
-      POSITION 115.26315789473684
-      SNAPOFFS 0
-      LENGTH 186.31578947368422
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0 0
-      FADEOUT 1 0.01 0 1 0 0 0
-      MUTE 0 0
-      BEAT 2
-      SEL 0
-      IGUID {468E0C04-52C0-2DE2-E2B7-E4ADD8365BEF}
-      IID 3525
-      NAME "Worthy Is The Lamb - Hillsong Worship [music].mp3"
-      VOLPAN 1 0 1 -1
-      SOFFS 0.84087310614809
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {D3FEE2DB-ED82-215D-767C-9390E4D5207B}
-      <SOURCE MP3
-        FILE "/Downloads/Telegram Desktop/Worthy Is The Lamb - Hillsong Worship [music].mp3" 1
-      >
-    >
-  >
-  <TRACK {F07741B8-8A2F-F06E-02D5-C53F70375F40}
-    NAME Vocal
-    PEAKCOL 16576
-    BEAT -1
-    AUTOMODE 0
-    PANLAWFLAGS 3
-    VOLPAN 0.43424937126806 0 -1 -1 1
-    MUTESOLO 0 0 0
-    IPHASE 0
-    PLAYOFFS 0 1
-    ISBUS 2 -1
-    BUSCOMP 0 0 0 0 0
-    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
-    FIXEDLANES 9 0 0 0 0
-    SEL 0
-    REC 0 0 1 0 0 0 0 0
-    VU 2
-    TRACKHEIGHT 0 0 0 0 0 0 0
-    INQ 0 0 0 0.5 100 0 0 100
-    NCHAN 2
-    FX 1
-    TRACKID {F07741B8-8A2F-F06E-02D5-C53F70375F40}
-    PERF 0
-    MIDIOUT -1
-    MAINSEND 1 0
-    <ITEM
-      POSITION 1.57894736842105
-      SNAPOFFS 0
-      LENGTH 111.31578947368421
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0 0
-      FADEOUT 1 0.01 0 1 0 0 0
-      MUTE 0 0
-      BEAT 2
-      SEL 0
-      IGUID {6022B135-E765-9277-C137-042B9D49FE1D}
-      IID 3492
-      NAME "Worthy Is The Lamb - Hillsong Worship [vocals].mp3"
-      VOLPAN 1 0 1 -1
-      SOFFS 0.84087310614809
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {5A9F25A2-2657-8E83-8248-2EB42DED8CDC}
-      <SOURCE MP3
-        FILE "/Downloads/Telegram Desktop/Worthy Is The Lamb - Hillsong Worship [vocals].mp3" 1
-      >
-    >
-    <ITEM
-      POSITION 112.89473684210526
-      SNAPOFFS 0
-      LENGTH 188.68421052631578
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0 0
-      FADEOUT 1 0.01 0 1 0 0 0
-      MUTE 0 0
-      BEAT 2
-      SEL 0
-      IGUID {0D549EE8-285C-2EA6-289B-21F41D369259}
-      IID 3527
-      NAME "Worthy Is The Lamb - Hillsong Worship [vocals].mp3"
-      VOLPAN 1 0 1 -1
-      SOFFS 372.96494638458228
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {654985D8-D8AC-F9E9-26BB-BFA2FB5FEC33}
-      <SOURCE MP3
-        FILE "/Downloads/Telegram Desktop/Worthy Is The Lamb - Hillsong Worship [vocals].mp3" 1
       >
     >
   >

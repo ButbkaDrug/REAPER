@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "7.59/linux-x86_64" 1768711558 0
+<REAPER_PROJECT 0.1 "7.59/linux-x86_64" 1769606431 0
   <NOTES 0 2
   >
   RIPPLE 0 0
@@ -19,8 +19,8 @@
   VIDEO_CONFIG 0 0 65792
   PANMODE 3
   PANLAWFLAGS 3
-  CURSOR 20756.067029478458
-  ZOOM 1.60500529720957 32603 0
+  CURSOR 16536
+  ZOOM 0.20638943020908 2936 0
   VZOOMEX 14.05275249 0
   USE_REC_CFG 0
   RECMODE 1
@@ -149,111 +149,89 @@
     <ITEM
       POSITION 0
       SNAPOFFS 0
-      LENGTH 279.18366666666668
+      LENGTH 336.31104308390024
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0 0 1 0 0 0
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {5FF9A1B1-6AAD-F7C7-DF93-DAE41F170A52}
-      IID 3373
-      NAME "This Is Amazing Grace - Phil Wickham - Bb - 98 BPM.rpp"
+      IGUID {3C0DAC32-1C5F-82E3-12B2-39DB8DF91702}
+      IID 278
+      NAME "Blessed Be Your Name - Matt Redman - G - 116 BPM(Original).RPP"
       VOLPAN 1 0 1 -1
       SOFFS 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {79F2D3B5-FFDA-EBA8-2F9D-6CF4E46CEA6D}
+      GUID {72D04F23-429B-8434-1F6D-A6D40A543354}
       <SOURCE RPP_PROJECT
-        FILE "/Music/REAPER/This Is Amazing Grace - Phil Wickham - Bb - 98 BPM/This Is Amazing Grace - Phil Wickham - Bb - 98 BPM.rpp"
+        FILE "/Music/REAPER/Blessed Be Your Name - Matt Redman - G - 116 BPM(Original)/Blessed Be Your Name - Matt Redman - G - 116 BPM(Original).RPP"
       >
     >
     <ITEM
       POSITION 4096
       SNAPOFFS 0
-      LENGTH 360.31607709750568
+      LENGTH 320.23256235827665
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0 0 1 0 0 0
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {0907CEBD-B8CA-1EFA-9B97-A2997AE7FDC6}
-      IID 250
-      NAME "Hosanna - Praise is Rising (Live) - Paul Baloche - G - 113.9 BPM.RPP"
+      IGUID {22369A8F-B82C-3D1C-B728-0459260BB273}
+      IID 278
+      NAME "Who You Say I Am - G - 84 BPM.rpp"
       VOLPAN 1 0 1 -1
       SOFFS 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {E95D4522-4DA2-490B-34B3-59F4E1AAFC65}
+      GUID {2D20F760-FAF0-7495-4D56-1615CD12E244}
       <SOURCE RPP_PROJECT
-        FILE "/Music/REAPER/Hosanna - Praise is Rising (Live) - Paul Baloche - G - 113.9 BPM/Hosanna - Praise is Rising (Live) - Paul Baloche - G - 113.9 BPM.RPP"
+        FILE "/Music/REAPER/Who You Say I Am - G - 84 BPM/Who You Say I Am - G - 84 BPM.rpp"
       >
     >
     <ITEM
       POSITION 12288
       SNAPOFFS 0
-      LENGTH 288
+      LENGTH 296.86712018140588
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0 0 1 0 0 0
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {07EF203F-55E8-ECFE-B2E6-212971DCAE57}
-      IID 2941
-      NAME "King Of My Heart - Bethel Music - A - 68 BPM.rpp"
+      IGUID {38CD4254-8027-7FF2-A1D0-1248401A0A27}
+      IID 126
+      NAME "Living Hope - Phil Wickham - Eb - 74 BPM.RPP"
       VOLPAN 1 0 1 -1
       SOFFS 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {32B3C83C-0B64-CCCE-0611-949921DD7BDB}
+      GUID {C233070E-8E29-1CAF-2CE2-3762D4B9CC72}
       <SOURCE RPP_PROJECT
-        FILE "/Music/REAPER/King Of My Heart - Bethel Music - A - 68 BPM/King Of My Heart - Bethel Music - A - 68 BPM.rpp"
+        FILE "/Music/REAPER/Living Hope - Phil Wickham - Eb - 74 BPM/Living Hope - Phil Wickham - Eb - 74 BPM.RPP"
       >
     >
     <ITEM
       POSITION 16384
       SNAPOFFS 0
-      LENGTH 340
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0 0
-      FADEOUT 1 0 0 1 0 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {05B80E83-48A0-CD2C-FBEA-A1FBFBEBCF81}
-      IID 2837
-      NAME "Build My Life - Patt Barat - G - 72 BPM.rpp"
-      VOLPAN 1 0 1 -1
-      SOFFS 0
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {EC9B3A56-F61D-687D-60C6-6A62DF4AA958}
-      <SOURCE RPP_PROJECT
-        FILE "/Music/REAPER/Build My Life - Patt Barat - G - 72 BPM/Build My Life - Patt Barat - G - 72 BPM.rpp"
-      >
-    >
-    <ITEM
-      POSITION 20480
-      SNAPOFFS 0
-      LENGTH 276.06702947845804
+      LENGTH 314.21052154195013
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0 0 1 0 0 0
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
       SEL 1
-      IGUID {745A96FA-4D3C-5F6A-778A-DAA43E520A4F}
-      IID 2409
-      NAME "Canvas And Clay - Patt Barett - A - 72 BPM.rpp"
+      IGUID {2B881FD1-3D55-C08B-7AA1-7A1C0B4A1695}
+      IID 3593
+      NAME "Worthy Is The Lamb - G - 136 BPM.rpp"
       VOLPAN 1 0 1 -1
       SOFFS 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {B56B90F8-589F-9D7D-97D7-DDC0970CBB34}
+      GUID {EEB96031-628A-F5DB-13BE-F004A7D269DD}
       <SOURCE RPP_PROJECT
-        FILE "/Music/REAPER/Canvas And Clay - Patt Barett - A - 72 BPM/Canvas And Clay - Patt Barett - A - 72 BPM.rpp"
+        FILE "/Music/REAPER/Worthy Is The Lamb - G - 136 BPM/Worthy Is The Lamb - G - 136 BPM.rpp"
       >
     >
   >
@@ -288,23 +266,23 @@
     <ITEM
       POSITION 8192
       SNAPOFFS 0
-      LENGTH 167.30993197278912
+      LENGTH 215.82475
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0 0 1 0 0 0
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {9D8550F2-113A-3744-A8E1-D728D81577D6}
-      IID 2963
-      NAME "God Is For Me (Instrumental).mp3"
+      IGUID {296EADFE-5A63-ED49-0AE5-58692CC6F33D}
+      IID 3448
+      NAME "My God Is Powerful (Instrumental).mp3"
       VOLPAN 1 0 1 -1
       SOFFS 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {DD41E5EE-201E-D843-9E4B-CD5344E148A7}
+      GUID {0B4FB2D7-EC61-4734-5866-4EEC2E293D5A}
       <SOURCE MP3
-        FILE "/Downloads/God Is For Me (Instrumental).mp3" 1
+        FILE "/Downloads/My God Is Powerful (Instrumental).mp3" 1
       >
     >
     <ITEM
