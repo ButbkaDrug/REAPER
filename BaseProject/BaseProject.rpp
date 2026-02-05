@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "7.59/linux-x86_64" 1769606431 0
+<REAPER_PROJECT 0.1 "7.59/linux-x86_64" 1770277301 0
   <NOTES 0 2
   >
   RIPPLE 0 0
@@ -19,8 +19,8 @@
   VIDEO_CONFIG 0 0 65792
   PANMODE 3
   PANLAWFLAGS 3
-  CURSOR 16536
-  ZOOM 0.20638943020908 2936 0
+  CURSOR 8222
+  ZOOM 4.47580316567056 36546 0
   VZOOMEX 14.05275249 0
   USE_REC_CFG 0
   RECMODE 1
@@ -149,89 +149,133 @@
     <ITEM
       POSITION 0
       SNAPOFFS 0
-      LENGTH 336.31104308390024
+      LENGTH 300
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0 0 1 0 0 0
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {3C0DAC32-1C5F-82E3-12B2-39DB8DF91702}
-      IID 278
-      NAME "Blessed Be Your Name - Matt Redman - G - 116 BPM(Original).RPP"
+      IGUID {080357EB-FF19-6BFD-1FD6-8354BDBDE94A}
+      IID 105
+      NAME "Holy Forever - Chris Tomlin - Db - 72 BPM.RPP"
       VOLPAN 1 0 1 -1
       SOFFS 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {72D04F23-429B-8434-1F6D-A6D40A543354}
+      GUID {7B6E25EA-CFC0-E6C7-B3C0-EE9B3F9DF129}
       <SOURCE RPP_PROJECT
-        FILE "/Music/REAPER/Blessed Be Your Name - Matt Redman - G - 116 BPM(Original)/Blessed Be Your Name - Matt Redman - G - 116 BPM(Original).RPP"
+        FILE "/Music/REAPER/Holy Forever - Chris Tomlin - Db - 72 BPM/Holy Forever - Chris Tomlin - Db - 72 BPM.RPP"
       >
     >
     <ITEM
       POSITION 4096
       SNAPOFFS 0
-      LENGTH 320.23256235827665
+      LENGTH 285.71429166666667
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0 0 1 0 0 0
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {22369A8F-B82C-3D1C-B728-0459260BB273}
-      IID 278
-      NAME "Who You Say I Am - G - 84 BPM.rpp"
+      IGUID {EC482813-A83F-950C-CE54-4C3E79BB5F18}
+      IID 106
+      NAME "Our God - Chris Tomlin - B - 105 BPM.RPP"
       VOLPAN 1 0 1 -1
       SOFFS 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {2D20F760-FAF0-7495-4D56-1615CD12E244}
+      GUID {06686E3B-1B2E-1512-7A3F-F3F0D3558B55}
       <SOURCE RPP_PROJECT
-        FILE "/Music/REAPER/Who You Say I Am - G - 84 BPM/Who You Say I Am - G - 84 BPM.rpp"
+        FILE "/Music/REAPER/Our God - Chris Tomlin - B - 105 BPM/Our God - Chris Tomlin - B - 105 BPM.RPP"
       >
     >
     <ITEM
-      POSITION 12288
+      POSITION 8192
       SNAPOFFS 0
-      LENGTH 296.86712018140588
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0 0
-      FADEOUT 1 0 0 1 0 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {38CD4254-8027-7FF2-A1D0-1248401A0A27}
-      IID 126
-      NAME "Living Hope - Phil Wickham - Eb - 74 BPM.RPP"
-      VOLPAN 1 0 1 -1
-      SOFFS 0
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {C233070E-8E29-1CAF-2CE2-3762D4B9CC72}
-      <SOURCE RPP_PROJECT
-        FILE "/Music/REAPER/Living Hope - Phil Wickham - Eb - 74 BPM/Living Hope - Phil Wickham - Eb - 74 BPM.RPP"
-      >
-    >
-    <ITEM
-      POSITION 16384
-      SNAPOFFS 0
-      LENGTH 314.21052154195013
+      LENGTH 176.42727891156463
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0 0 1 0 0 0
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
       SEL 1
-      IGUID {2B881FD1-3D55-C08B-7AA1-7A1C0B4A1695}
-      IID 3593
-      NAME "Worthy Is The Lamb - G - 136 BPM.rpp"
+      IGUID {E93ACC80-0C4F-BAC8-CFD5-7E5591CE7EE6}
+      IID 22
+      NAME "Ya Noviy - Nuteki Worship - Ab - 131 BPM.RPP"
       VOLPAN 1 0 1 -1
       SOFFS 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {EEB96031-628A-F5DB-13BE-F004A7D269DD}
+      GUID {50CF2CA8-0AE5-D5E9-BCCF-C73B7CCEF684}
       <SOURCE RPP_PROJECT
-        FILE "/Music/REAPER/Worthy Is The Lamb - G - 136 BPM/Worthy Is The Lamb - G - 136 BPM.rpp"
+        FILE "/Music/REAPER/Ya Noviy - Nuteki Worship - Ab - 131 BPM/Ya Noviy - Nuteki Worship - Ab - 131 BPM.RPP"
+      >
+    >
+    <ITEM
+      POSITION 12288
+      SNAPOFFS 0
+      LENGTH 455.11110416666668
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {92A23F88-2188-9FAF-5C81-AC9D1A8BAF17}
+      IID 23
+      NAME "Worthy - Elevation Worship - Eb - 67,50 BPM.rpp"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {EC9A07CC-827C-D521-E8FE-77F8A415D99E}
+      <SOURCE RPP_PROJECT
+        FILE "/Music/REAPER/Worthy - Elevation Worship - Eb - 67,50 BPM/Worthy - Elevation Worship - Eb - 67,50 BPM.rpp"
+      >
+    >
+    <ITEM
+      POSITION 16384
+      SNAPOFFS 0
+      LENGTH 261.49254166666668
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {FAB92624-3272-C860-C587-1032B5DBCC8D}
+      IID 24
+      NAME "We Fall Down - C - 67 BPM.rpp"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {22E3DC4D-ACB6-018E-42BB-2B217B37F969}
+      <SOURCE RPP_PROJECT
+        FILE "/Music/REAPER/We Fall Down - C - 67 BPM/We Fall Down - C - 67 BPM.rpp"
+      >
+    >
+    <ITEM
+      POSITION 20480
+      SNAPOFFS 0
+      LENGTH 346.28570833333333
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {8E642B6C-3AFC-A1FF-5864-0F11DF90C8BD}
+      IID 25
+      NAME "Still - Hillsong United - C - 70 BPM.rpp"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {89DFB783-A3EE-BDF8-01EB-1AF4162ECBAA}
+      <SOURCE RPP_PROJECT
+        FILE "/Music/REAPER/Still - Hillsong United - C - 70 BPM/Still - Hillsong United - C - 70 BPM.rpp"
       >
     >
   >
@@ -263,28 +307,6 @@
     MAINSEND 0 0
     HWOUT 16 0 1 0 0 0 0 -1:U -1
     HWOUT 516 0 1 0 0 0 0 -1:U -1
-    <ITEM
-      POSITION 8192
-      SNAPOFFS 0
-      LENGTH 215.82475
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0 0
-      FADEOUT 1 0 0 1 0 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {296EADFE-5A63-ED49-0AE5-58692CC6F33D}
-      IID 3448
-      NAME "My God Is Powerful (Instrumental).mp3"
-      VOLPAN 1 0 1 -1
-      SOFFS 0
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {0B4FB2D7-EC61-4734-5866-4EEC2E293D5A}
-      <SOURCE MP3
-        FILE "/Downloads/My God Is Powerful (Instrumental).mp3" 1
-      >
-    >
     <ITEM
       POSITION 28672
       SNAPOFFS 0

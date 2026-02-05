@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "7.52/linux-x86_64" 1766758975
+<REAPER_PROJECT 0.1 "7.59/linux-x86_64" 1770277016 0
   RIPPLE 0 0
   GROUPOVERRIDE 0 0 0 0
   AUTOXFADE 129
@@ -12,11 +12,11 @@
   PROJOFFS 0 0 0
   MAXPROJLEN 0 600
   GRID 3199 8 1 8 1 0 0 0
-  TIMEMODE 1 5 -1 30 0 0 -1
+  TIMEMODE 1 5 -1 30 0 0 -1 0
   VIDEO_CONFIG 0 0 256
   PANMODE 3
-  CURSOR 0
-  ZOOM 6.15012927216742 0 0
+  CURSOR 100.29850746268657
+  ZOOM 12.18467408439331 745 0
   VZOOMEX 4 0
   USE_REC_CFG 0
   RECMODE 1
@@ -137,6 +137,7 @@
     ISBUS 0 0
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 -1 0 0
+    LANEREC -1 -1 -1 0
     SEL 1
     REC 0 0 1 0 0 0 0 0
     VU 2
@@ -148,153 +149,16 @@
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
-    MAINSEND_NCH 1
     <ITEM
       POSITION 0
       SNAPOFFS 0
-      LENGTH 10.74626865671642
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0 0
-      FADEOUT 1 0.01 0 1 0 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {E23E862F-BA67-443B-A61A-6F3F4CACA5D1}
-      IID 2345
-      NAME "Click source"
-      VOLPAN 1 0 1 -1
-      SOFFS 0
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 2
-      GUID {95624358-C4B5-4C83-8828-B204C4A2D72D}
-      <SOURCE CLICK
-        AUTO 0 0
-        BPM 134
-        BPI 4 4
-        VOL 1 1
-        BEATLEN 4
-        FREQ 800 1600 1
-        SAMPLES "C:\Users\butbkadrug\Music\Assets\Clicks\New Click -  Blip-accents.wav" "C:\Users\butbkadrug\Music\Assets\Clicks\New Click -  Blip-sixteenth.wav" "" ""
-        SPLIGNORE 0 0
-        SPLDEF 2 660 "" 0 ""
-        SPLDEF 3 440 "" 0 ""
-        PATTERN 0 169
-        PATTERNSTR ABBB
-        MULT 1
-      >
-    >
-    <ITEM
-      POSITION 10.74626865671642
-      SNAPOFFS 0
-      LENGTH 7.16417910447766
+      LENGTH 261.49253731343288
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0 0
       FADEOUT 1 0.01 0 1 0 0 0
       MUTE 0 0
-      SEL 0
-      IGUID {62108609-1DF4-4656-AAE1-6BE88C08E2E7}
-      IID 2351
-      NAME "Click source"
-      VOLPAN 1 0 1 -1
-      SOFFS 1.79104477611936
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 2
-      GUID {288E1745-7C6B-4670-801A-EFE58A092A96}
-      <SOURCE CLICK
-        AUTO 0 0
-        BPM 134
-        BPI 4 4
-        VOL 1 1
-        BEATLEN 4
-        FREQ 800 1600 1
-        SAMPLES "C:\Users\butbkadrug\Music\Assets\Clicks\New Click -  Blip-accents.wav" "C:\Users\butbkadrug\Music\Assets\Clicks\New Click -  Blip-sixteenth.wav" "" ""
-        SPLIGNORE 0 0
-        SPLDEF 2 660 "" 0 ""
-        SPLDEF 3 440 "" 0 ""
-        PATTERN 0 169
-        PATTERNSTR ABBB
-        MULT 1
-      >
-    >
-    <ITEM
-      POSITION 17.91044776119404
-      SNAPOFFS 0
-      LENGTH 7.16417910447766
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0 0
-      FADEOUT 1 0.01 0 1 0 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {F472797E-CEEB-457E-9F02-E327734ED947}
-      IID 2356
-      NAME "Click source"
-      VOLPAN 1 0 1 -1
-      SOFFS 1.79104477611936
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 2
-      GUID {2AEAFA4D-D283-4B07-A7AF-4DC0FD5AD421}
-      <SOURCE CLICK
-        AUTO 0 0
-        BPM 134
-        BPI 4 4
-        VOL 1 1
-        BEATLEN 4
-        FREQ 800 1600 1
-        SAMPLES "C:\Users\butbkadrug\Music\Assets\Clicks\New Click -  Blip-accents.wav" "C:\Users\butbkadrug\Music\Assets\Clicks\New Click -  Blip-sixteenth.wav" "" ""
-        SPLIGNORE 0 0
-        SPLDEF 2 660 "" 0 ""
-        SPLDEF 3 440 "" 0 ""
-        PATTERN 0 169
-        PATTERNSTR ABBB
-        MULT 1
-      >
-    >
-    <ITEM
-      POSITION 25.07462686567166
-      SNAPOFFS 0
-      LENGTH 7.16417910447766
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0 0
-      FADEOUT 1 0.01 0 1 0 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {43417941-605C-4731-8B46-C88318EE432E}
-      IID 2278
-      NAME "Click source"
-      VOLPAN 1 0 1 -1
-      SOFFS 1.79104477611936
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 2
-      GUID {97E9205F-14ED-48D7-91BA-F9BB3394ADCC}
-      <SOURCE CLICK
-        AUTO 0 0
-        BPM 134
-        BPI 4 4
-        VOL 1 1
-        BEATLEN 4
-        FREQ 800 1600 1
-        SAMPLES "C:\Users\butbkadrug\Music\Assets\Clicks\New Click -  Blip-accents.wav" "C:\Users\butbkadrug\Music\Assets\Clicks\New Click -  Blip-sixteenth.wav" "" ""
-        SPLIGNORE 0 0
-        SPLDEF 2 660 "" 0 ""
-        SPLDEF 3 440 "" 0 ""
-        PATTERN 0 169
-        PATTERNSTR ABBB
-        MULT 1
-      >
-    >
-    <ITEM
-      POSITION 32.23880597014929
-      SNAPOFFS 0
-      LENGTH 229.25373134328359
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0 0
-      FADEOUT 1 0.01 0 1 0 0 0
-      MUTE 0 0
-      SEL 0
+      SEL 1
       IGUID {730E26C3-BEBE-4DE9-8A20-FB79E180A7C1}
       IID 2278
       NAME "Click source"
@@ -307,10 +171,10 @@
         AUTO 0 0
         BPM 134
         BPI 4 4
-        VOL 1 1
-        BEATLEN 4
-        FREQ 800 1600 1
-        SAMPLES "C:\Users\butbkadrug\Music\Assets\Clicks\New Click -  Blip-accents.wav" "C:\Users\butbkadrug\Music\Assets\Clicks\New Click -  Blip-sixteenth.wav" "" ""
+        VOL 0.501187 0.501187
+        BEATLEN 37
+        FREQ 2700 2000 3
+        SAMPLES "" "" "" ""
         SPLIGNORE 0 0
         SPLDEF 2 660 "" 0 ""
         SPLDEF 3 440 "" 0 ""
@@ -366,6 +230,7 @@
     ISBUS 2 -1
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 -1 0 0
+    LANEREC -1 -1 -1 0
     SEL 0
     REC 0 0 1 0 0 0 0 0
     VU 2
@@ -376,8 +241,7 @@
     TRACKID {CE0E77CA-F5B7-471B-B3A7-80874FB9151D}
     PERF 0
     MIDIOUT -1
-    MAINSEND 1 1
-    MAINSEND_NCH 1
+    MAINSEND 1 0
     HWOUT 1029 0 1 0 0 0 0 -1:U -1
     <ITEM
       POSITION 0
