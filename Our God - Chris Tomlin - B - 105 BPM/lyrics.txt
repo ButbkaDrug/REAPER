@@ -1,41 +1,82 @@
-[ Verse 1 ]
-Water You turned into wine
-Opened the eyes of the blind
-There's no one like You
-None like You
+[Intro]
+#6m 4 1 3m
+#6m 4 1 5/7 
 
-Into the darkness You shine
-Out of the ashes we rise
+[Ending]
+#4
+
+
+[ Verse 1 ]
+#6m 4 1
+Water You turned into wine
+#6m 4 1
+Opened the eyes of the blind
+#2m
 There's no one like You
+#5sus4 5
+None like You
+#6m 4 1
+Into the darkness You shine
+#6m 4 1
+Out of the ashes we rise
+#2m
+There's no one like You
+#5sus4 5
 None like You
 
 [ Chorus ]
+#6m
 Our God is greater
+#4
 Our God is stronger
+#1 5/7
 God You are higher than any other
+#6m
 Our God is Healer
+#4
 Awesome in power
+#1/3 5
 Our God our God
 
 [ Bridge 1 ]
-And if our God is for us
-Then who could ever stop us
-And if our God is with us
-Then what could stand against
+#6m
+>And if our God is for us
+#4
+>Then who could ever stop us
+#1
+>And if our God is with us
+#5/7
+>Then what could stand against
+#6m
+>And if our God is for us
+#4
+>Then who could ever stop us
+#1
+>And if our God is with us
+#5
+>Then what could stand against
 
 [ Bridge 2 ]
-Then what could stand against
+#6m 4 1/3
+>x
+#5
+Then what could stand
+#6m 4 1/3 5
+agai - nst
 
 [ Outro ]
-What could stand against
-What could stand against
+#6m 4 1/3
+>x
+#5 6m 4
+>What could stand ag^ainst
+#1/3 5
+What could stand ag^ainst
 
 [ Verse 1 R ]
 Воду в вино превратил
 Слепые глаза Ты открыл
 Нет таких Бог
 Нет как Ты
-
 Ты нас из праха поднял
 Свет Твой во тьме воссиял
 Нет таких Бог
@@ -58,6 +99,7 @@ What could stand against
 [ Bridge 2 R ]
 Кто может против быть?
 
-[Outro R]
+[ Outro R ]
+x
 Кто может против быть?
 Кто может против быть?
