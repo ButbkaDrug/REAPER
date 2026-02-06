@@ -1,63 +1,94 @@
+[Intro]
+#4 1 5 2m
+#4 1 5
+
+[Outro]
+#6m 4 1 5
+#6m 4 1 5
+#6m 4 1 5
+#6m 4 1 5
+
+[ Ending ]
+#4
+
 [ Verse 1 ]
-Higher than the mountains that I face
-Stronger than the power of the grave
-Constant in the trial and the change
-This one thing remains
+#4 1 5
+^Higher than the ^mountains that I ^face
+#4 1 5
+i^Stronger than the ^power of the g^rave
+#4 1 5
+^Constant in the ^trial and the ^change
+#4 1 5
+This one ^thing ^ rem^ains
 
 [ Chorus ]
-Your love never fails
-It never gives up
-It never runs out on me
-Your love never fails
-It never gives up
-It never runs out on me
-Your love never fails
-It never gives up
-It never runs out on me
+#6m
+Your ^love never fails
+#4
+It ^never gives up
+#1 5
+It ^never runs out on ^me
+#6m
+Your ^love never fails
+#4
+It ^never gives up
+#1 5
+It ^never runs out on ^me
+#6m 4 1 5
+Your l^ove
 
 [ Verse 2 ]
-On and on and on and on it goes
-It overwhelms and satisfies my soul
-And I never ever have to be afraid
-This one thing remains
-This one thing remains
+#4 1 5
+^On and on and ^on and on it ^goes
+#4 1 5
+It ^overwhelms and ^satisfies my ^soul
+#4 1 5
+And I ^never ever ^have to be afr^aid
+#4 1 5
+This one ^thing ^ rem^ains
+#4 1 5
+This one ^thing ^ rem^ains
 
 [ Bridge ]
-In death In life
-I'm confident and covered by
-The power of Your great love
-My debt is paid
-There's nothing that can separate
-My heart from Your great love
+#4 1
+In ^death In l^ife
+#5 2m
+I'm ^confident and ^covered by
+#4 1/3 1 5
+The ^power of ^Your ^great ^love
+#4 1
+My ^debt is ^paid
+#5 2m
+There's ^nothing that can ^separate
+#4 1/3 1 5
+My ^heart from ^Your ^great ^love
 
 [ Verse 1 R ]
-Выше всяких гор, что на пути.
-Сильнее силы смерти, власти тьмы.
-Скала среди бушующих морей
-Любовь сильней
+^Выше всяких ^гор, что на ^пути.
+Силь^нее силы ^смерти, власти^ тьмы.
+Ска^ла среди бу^шующих ^морей
+Лю^бовь^ силь^ней
 
 [ Chorus R ]
-Любовь Твоя
-Не подведёт
-И не предаст меня
-Любовь Твоя
-Не подведёт
-И не предаст меня
-Любовь Твоя
-Не подведёт
-И не предаст меня
+Люб^овь Твоя
+^Не подведёт
+^И не предаст ме^ня
+Люб^овь Твоя
+^Не подведёт
+^И не предаст ме^ня
+Люб^овь^ Тво^я
 
 [ Verse 2 R ]
-Вновь, и вновь, и вновь, и вновь она
-Прольётся с неба, напоит меня
-Больше нечего теперь бояться мне
-Любовь сильней
-Любовь сильней
+Вн^овь, и вновь, и вн^овь, и вновь о^на
+Проль^ётся с неба, н^апоит ме^ня
+Больше ^нечего те^перь бояться ^мне
+Лю^бовь^ силь^ней
+Лю^бовь^ силь^ней
 
 [ Bridge R ]
-И я всегда
-Уверен и наполнен силой
-Твоей любви
-Мой грех прощён,
-И ничто не может отделить
-Меня от Твоей любви.
+И ^я всег^да
+Ув^ерен и на^полнен силой
+>Тв^оей ^люб^ви
+Мой г^рех про^щён,
+И нич^то не может ^отделить
+Мен^я от Тв^оей ^люб^ви.

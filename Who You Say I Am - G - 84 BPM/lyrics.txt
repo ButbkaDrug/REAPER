@@ -1,12 +1,26 @@
+[Intro]
+--VIKTAR KEY: Bb
+#1
+
+[Instrumental]
+#6m 5/7 1 4
+
 [ Verse 1 ]
+#1
 Who am I that the highest King
+#6m 5 1
 Would welcome me
+#1
 I was lost but He brought me in
+#6m 5 1
 Oh His love for me
 
 [ Chorus 1 ]
+#1
 Who the Son sets free
+#5
 Oh is free indeed
+#6m 5 4 1
 I'm a child of God yes I am
 
 [ Verse 2 ]
@@ -16,14 +30,21 @@ While I was a slave to sin
 Jesus died for me
 
 [ Chorus 2 ]
+#1
 In my Father's house
+#5
 There's a place for me
+#6m 5 4 1
 I'm a child of God yes I am
 
 [ Bridge ]
+#6m 5/7
 I am chosen not forsaken
+#1 4
 I am who You say I am
+#6m 5/7
 You are for me not against me
+#1 4
 I am who You say I am
 
 [ Verse 1 R ]

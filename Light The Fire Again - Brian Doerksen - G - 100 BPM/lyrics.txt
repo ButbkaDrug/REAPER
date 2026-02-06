@@ -1,40 +1,67 @@
+[Intro]
+#1 5 2m 4
+
+[ Vamp ]
+#1
+
+[Endign]
+#1
+
+[Turnaround]
+#1 5 2m 4
+
+[Instrumental]
+#1 5 2m 4
+
 [ Verse 1 ]
-Don't let my love grow cold
-I'm calling out light the fire again
-Don't let my vision die
-I'm calling out light the fire again
+#1 5
+^Don't let my love^ grow cold
+#2m 4
+I'm ^calling out ^light the fire again
+#1 5
+^Don't let my ^vision die
+#2m 4
+I'm ^calling out ^light the fire again
 
 [ Verse 2 ]
-You know my heart my deeds
-I'm calling out light the fire again
-I need Your discipline
-I'm calling out light the fire again
+^You know my ^heart my deeds
+I'm ^calling out ^light the fire again
+^I need Your ^discipline
+I'm ^calling out ^light the fire again
 
 [ Chorus ]
-I am here to buy gold
-Refined in the fire
-Naked and poor
-Wretched and blind I come
-Clothe me in white
+#2m 6m
+^I am here to buy gold^
+#5
+Refined in the ^fire
+#4
+^Naked and poor
+#1/3 5
+^Wretched and blind I ^come
+#7b 7b/4 7b
+Clothe me in wh^ite
+#4/6 4 4/6 5sus4
 So I won't be ashamed
-Lord light the fire again
+#42
+^Lord light the fire again
 
 [ Verse 1 R ]
-Не дай любви остыть,
-Взываю я, зажги огонь опять.
-Не дай тебя забыть,
-Взываю я, зажги огонь опять.
+^Не дай любви^ остыть,
+Взыв^аю я, зажг^и огонь опять.
+^Не дай тебя^ забыть,
+Взыв^аю я, зажг^и огонь опять.
 
 [ Verse 2 R ]
-Ты знаешь каждый шаг,
-Взываю я, зажги огонь опять.
-Ты измени меня,
-Взываю я, зажги огонь опять.
+^Ты знаешь ^каждый шаг,
+Взыв^аю я, зажг^и огонь опять.
+^Ты измени^ меня,
+Взыв^аю я, зажг^и огонь опять.
 
 [ Chorus R ]
-Я сейчас пред тобой,
-Созданье твоё
-Беден и слаб, жалок и cлеп господь,
-Ты нужен мне!
+^Я сейчас пред тобой^,
+Созданье тв^оё
+Б^еден и слаб,
+^Жалок и cл^еп Господь,
+Ты нужен мне!^
 Свободным хочу быть я.
-Зажги же огонь опять
+^Зажги же огонь опять

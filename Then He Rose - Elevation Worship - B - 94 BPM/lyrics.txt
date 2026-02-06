@@ -2,129 +2,120 @@
 
 [ Intro ]
 --All In
+#1/3 4 5 6m
+#1/3 4 5 1
 
 [ Instrumental ]
+#4 1 5 4 1 5
 --Played same as the bridge
 
+[Ending]
+#1
+
 [ Verse 1 ]
-See Him now the King of Heaven
-Son of God enthroned above
-Heavy cross upon His shoulders
-Carried for us carried for us
+#4 1
+See Him ^now the King of H^eaven
+#6m 5
+Son of ^God enthroned ab^ove
+#4 1
+Heavy c^ross upon His sh^oulders
+#6m 5
+Carried for ^us carried for ^us
 
 [ Verse 2 ]
-See Him now our King surrendered
-Final word of perfect love
-Hear His cry Father forgive them
-Spoken for us spoken for us
+#4 1
+See Him ^now our King surr^endered
+#6m 5
+Final ^word of perfect ^love
+#4 1
+Hear His c^ry Father forg^ive them
+#6m 5
+Spoken for ^us spoken for ^us
 
 [ Pre Chorus 1 ]
-{-1.2765957447, 5.1063829787}
-When He said it is finished
-{3.829787234, 5.1063829787}
-Oh our hope had just begun
+#4 6m 5
+When He s^aid it is f^in - ^ished
+#1/3 4 5
+Oh our h^ope had j^ust beg^un
 
 [ Verse 3 ]
-{-1.2765957447, 5.1063829787}
-Now we rise by His spirit
-{3.829787234, 5.1063829788}
-In His name we overcome
-{8.9361702128, 4.6848945213}
-All our hope in this same power
-{13.6210647341, 5.2360363336}
-Living in us living in us
+
+Now we r^ise by His sp^irit
+In His ^name we overc^ome
+All our h^ope in this same p^ower
+Living in ^us living in ^us
 
 [ Pre Chorus 2 ]
-{-1.2765957447, 5.1063829787}
-For our sin is defeated
-{3.829787234, 5.4444469564}
-Oh the war has now been won
+For our s^in is de^feat - ^ed
+Oh the ^war has n^ow been w^on
 
 [ Chorus ]
-{-0.6382978723, 5.1063829787}
-The grave has lost its hold
-{4.4680851064, 4.4680851064}
-Arise the stone is gone
-{8.9361702128, 5.7446808511}
-Our God reigns forevermore
-{14.6808510639, 5.1063829787}
-All praise to Him belongs
-{19.7872340426, 4.4680851064}
-Lift high His name alone
-{24.255319149, 4.4680851064}
-Jesus came paid it all
+#1
+The g^rave has lost its hold
+#6m
+A^rise the stone is gone
+#4 5
+Our God r^eigns forever^more
+#1
+All p^raise to Him belongs
+#6m
+Lift ^high His name alone
+#4 5
+Jesus c^ame paid it ^all
 
 [ Refrain ]
-{-1.5968830449, 5.4266702789}
-Then He rose
-{3.829787234, 5.1063829787}
-Then He rose
+#1/3 4 5 6m
+Then He ^ro - ^o - se
+#1/3 4 5 1
+Then He ^ro - ^o - se
 
 [ Bridge 1 ]
-{0, 5.1063829787}
-Death lay your weapons down
-{5.1063829787, 4.7847369468}
-Sin you're defeated now
-{9.8911199255, 4.151433266}
-The stone is rolled away
-{14.0425531915, 4.4680851063}
-Our God reigns
+#4 1 5
+^Death lay y^our w^eapons down
+#4 1 5
+^Sin you're ^de - f^eated now
+#4 6m 5
+The st^one is ^rolled aw^ay
+#1
+Our G^od reigns
 
 [ Bridge 2 ]
-{0, 4.9250385695}
-Crown Him with many crowns
-{4.9250385695, 4.9163326226}
-Soon every knee will bow
-{9.8413711921, 4.0282667587}
-The stone is rolled away
-{13.8696379508, 4.641000347}
-Our God reigns
+#4 1 5
+^Crown Him w^ith m^any crowns
+#4 1 5
+^Soon e^very kn^ee will bow
+#4 6m 5
+The st^one is r^olled aw^ay
+#4 5
+Our G^od reigns^
 
 [ Verse 1 R ]
-{-1.2765957447, 5.1063829787}
-Мир, узри: Он - Царь Небесный!
-{3.829787234, 5.1063829787}
-Божий Сын царит сейчас.
-{8.9361702127, 5.1063829788}
-Тяжкий крест Он, взяв на плечи,
-{14.0425531915, 4.4680851063}
-Нёс вместо нас, нёс вместо нас.
+Мир, узр^и: Он - Царь Неб^есный!
+Божий С^ын царит сейч^ас.
+Тяжкий кр^ест Он, взяв на пл^ечи,
+Нёс вместо ^нас, нёс вместо н^ас.
 
 [ Verse 2 R ]
-{-1.2765957447, 5.1063829787}
-Мир, узри: наш Царь распят был –
-{3.829787234, 5.1063829787}
-Совершенный дар любви.
-{8.9361702127, 4.778918086}
-Он воззвал: «Отче, прости их», –
-{13.7150882987, 4.7955499991}
-Чтоб нас спасти, чтоб нас спасти.
+Мир, узр^и: наш Царь расп^ят был –
+Совер^шенный дар любв^и.
+Он воззв^ал: «Отче, прост^и их», –
+Чтоб нас спас^ти, чтоб нас спаст^и.
 
 [ Pre Chorus 1 R ]
-{-1.2765957447, 5.1063829787}
-И, сказав: «Совершилось»,
-{3.829787234, 5.1063829787}
-Он вдохнул надежду в мир!
+И, сказ^ав: «Совер^ши - л^ось»,
+Он вдох^нул над^ежду в м^ир!
 
 [ Chorus R ]
-{-0.6382978723, 5.1063829787}
-Не властна больше смерть:
-{4.4680851064, 4.1335601614}
-Ведь Божий Сын воскрес.
-{8.6016452678, 6.079205796}
-Бог вовеки Царствует!
-{14.6808510638, 5.1063829788}
-Ему хвала и честь
-{19.7872340426, 4.1081249229}
-Принадлежат вовек.
-{23.8953589655, 5.1231417172}
-Заплатил Он за грех
+Не вл^астна больше смерть:
+Ведь ^Божий Сын воскрес.
+Бог вов^еки Царству^ет!
+Ем^у хвала и честь
+При^надлежат вовек.
+Заплат^ил Он за гр^ех
 
 [ Refrain R ]
-{-1.5968830449, 5.4266702789}
-И воскрес!
-{3.829787234, 5.1063829787}
-Он воскрес!
+И вос^кре - ^e - eс!
+Он вос^кре - ^e - eс!
 
 [ Verse 3 R ]
 Мир, воспрянь, Духом Божьим
@@ -137,21 +128,13 @@ Our God reigns
 Одержал победу Бог!
 
 [ Bridge 1 R ]
-{0, 5.1063829787}
-Смерть, ты не властна здесь,
-{5.1063829787, 4.7847369468}
-Грех побеждён навек.
-{9.8911199255, 4.151433266}
-Отринут камень прочь,
-{14.0425531915, 4.4680851063}
-Жив наш Бог!
+См^ерть, ты н^е вл^астна здесь,
+Гр^ех побежд^ён н^авек.
+Отр^инут к^амень пр^очь,
+Жив наш Б^ог!
 
 [ Bridge 2 R ]
-{0, 4.9250385695}
-Ты коронован Царь,
-{4.9250385695, 4.9163326226}
-Пред Тобой все склонятся,
-{9.8413711921, 4.0282667587}
-Отринут камень прочь,
-{13.8696379508, 4.641000347}
-Жив наш Бог!
+Т^ы кор^он^ован Царь,
+Пр^ед Тобой все скл^он^ятся,
+Отр^инут к^амень пр^очь,
+Жив наш Б^ог!

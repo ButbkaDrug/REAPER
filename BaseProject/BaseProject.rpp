@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "7.59/linux-x86_64" 1770277301 0
+<REAPER_PROJECT 0.1 "7.59/linux-x86_64" 1770306305 0
   <NOTES 0 2
   >
   RIPPLE 0 0
@@ -19,8 +19,8 @@
   VIDEO_CONFIG 0 0 65792
   PANMODE 3
   PANLAWFLAGS 3
-  CURSOR 8222
-  ZOOM 4.47580316567056 36546 0
+  CURSOR 0
+  ZOOM 4.47580316567056 0 0
   VZOOMEX 14.05275249 0
   USE_REC_CFG 0
   RECMODE 1
@@ -126,7 +126,7 @@
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
     FIXEDLANES 9 0 0 0 0
     LANEREC -1 -1 -1 0
-    SEL 1
+    SEL 0
     REC 0 0 1 0 0 0 0 0
     VU 64
     TRACKHEIGHT 0 0 0 0 0 0 0
@@ -136,7 +136,7 @@
     TRACKID {6B7123E5-3A60-F3DC-B36D-46D5DD4930B8}
     PERF 0
     MIDIOUT -1
-    MAINSEND 0 0
+    MAINSEND 1 0
     HWOUT 1032 0 1 0 0 0 0 -1:U -1
     HWOUT 16 0 1 0 0 0 2 -1:U -1
     HWOUT 516 0 1 0 0 0 2 -1:U -1
@@ -149,111 +149,111 @@
     <ITEM
       POSITION 0
       SNAPOFFS 0
-      LENGTH 300
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0 0
-      FADEOUT 1 0 0 1 0 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {080357EB-FF19-6BFD-1FD6-8354BDBDE94A}
-      IID 105
-      NAME "Holy Forever - Chris Tomlin - Db - 72 BPM.RPP"
-      VOLPAN 1 0 1 -1
-      SOFFS 0
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {7B6E25EA-CFC0-E6C7-B3C0-EE9B3F9DF129}
-      <SOURCE RPP_PROJECT
-        FILE "/Music/REAPER/Holy Forever - Chris Tomlin - Db - 72 BPM/Holy Forever - Chris Tomlin - Db - 72 BPM.RPP"
-      >
-    >
-    <ITEM
-      POSITION 4096
-      SNAPOFFS 0
-      LENGTH 285.71429166666667
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0 0
-      FADEOUT 1 0 0 1 0 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {EC482813-A83F-950C-CE54-4C3E79BB5F18}
-      IID 106
-      NAME "Our God - Chris Tomlin - B - 105 BPM.RPP"
-      VOLPAN 1 0 1 -1
-      SOFFS 0
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {06686E3B-1B2E-1512-7A3F-F3F0D3558B55}
-      <SOURCE RPP_PROJECT
-        FILE "/Music/REAPER/Our God - Chris Tomlin - B - 105 BPM/Our God - Chris Tomlin - B - 105 BPM.RPP"
-      >
-    >
-    <ITEM
-      POSITION 8192
-      SNAPOFFS 0
-      LENGTH 176.42727891156463
+      LENGTH 219.06977324263039
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0 0 1 0 0 0
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
       SEL 1
-      IGUID {E93ACC80-0C4F-BAC8-CFD5-7E5591CE7EE6}
-      IID 22
-      NAME "Ya Noviy - Nuteki Worship - Ab - 131 BPM.RPP"
+      IGUID {9EB078A1-4916-3A95-7DA7-9EF6A6A0CFE5}
+      IID 500
+      NAME "Praise - Seph Schlueter - A - 129 BPM.RPP"
       VOLPAN 1 0 1 -1
       SOFFS 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {50CF2CA8-0AE5-D5E9-BCCF-C73B7CCEF684}
+      GUID {6346048C-8288-6408-42D8-D1AE3BF14DA8}
       <SOURCE RPP_PROJECT
-        FILE "/Music/REAPER/Ya Noviy - Nuteki Worship - Ab - 131 BPM/Ya Noviy - Nuteki Worship - Ab - 131 BPM.RPP"
+        FILE "/Music/REAPER/Praise - Seph Schlueter - A - 129 BPM/Praise - Seph Schlueter - A - 129 BPM.RPP"
+      >
+    >
+    <ITEM
+      POSITION 4096
+      SNAPOFFS 0
+      LENGTH 375.2988125
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {536BDE50-A796-72A8-EEB0-77543363302F}
+      IID 501
+      NAME "In Jesus Name - Darlene Zschech - D - 105 BPM.rpp"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {FC19A53F-A88B-C563-3F33-558BE6A2E960}
+      <SOURCE RPP_PROJECT
+        FILE "/Music/REAPER/In Jesus Name - Darlene Zschech - D - 105 BPM/In Jesus Name - Darlene Zschech - D - 105 BPM.rpp"
+      >
+    >
+    <ITEM
+      POSITION 8192
+      SNAPOFFS 0
+      LENGTH 369.48647916666664
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {618C75B2-7005-1F93-61E6-AE3C1F365A57}
+      IID 502
+      NAME "No Longer Slaves - Bb - 74 BPM.rpp"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {720B3D4D-65B0-634B-D5AA-97741857FB2F}
+      <SOURCE RPP_PROJECT
+        FILE "/Music/REAPER/No Longer Slaves - Bb - 74 BPM/No Longer Slaves - Bb - 74 BPM.rpp"
       >
     >
     <ITEM
       POSITION 12288
       SNAPOFFS 0
-      LENGTH 455.11110416666668
+      LENGTH 370.843375
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0 0 1 0 0 0
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
-      SEL 0
-      IGUID {92A23F88-2188-9FAF-5C81-AC9D1A8BAF17}
-      IID 23
-      NAME "Worthy - Elevation Worship - Eb - 67,50 BPM.rpp"
+      SEL 1
+      IGUID {D6C7AD8B-CD56-6D7B-C160-01A9FB09E4E1}
+      IID 503
+      NAME "Reckless Love - Cory Asbury - Gb - 83 BPM.rpp"
       VOLPAN 1 0 1 -1
       SOFFS 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {EC9A07CC-827C-D521-E8FE-77F8A415D99E}
+      GUID {D4E72022-9C6C-AF6B-6618-DB9754D7BB46}
       <SOURCE RPP_PROJECT
-        FILE "/Music/REAPER/Worthy - Elevation Worship - Eb - 67,50 BPM/Worthy - Elevation Worship - Eb - 67,50 BPM.rpp"
+        FILE "/Music/REAPER/Reckless Love - Cory Asbury - Gb - 83 BPM/Reckless Love - Cory Asbury - Gb - 83 BPM.rpp"
       >
     >
     <ITEM
       POSITION 16384
       SNAPOFFS 0
-      LENGTH 261.49254166666668
+      LENGTH 289.41176870748302
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0 0 1 0 0 0
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
-      SEL 0
-      IGUID {FAB92624-3272-C860-C587-1032B5DBCC8D}
-      IID 24
-      NAME "We Fall Down - C - 67 BPM.rpp"
+      SEL 1
+      IGUID {1F0802AB-2033-C0FB-FDA1-C440936D2631}
+      IID 504
+      NAME "King Of My Heart - Bethel Music - A - 68 BPM.rpp"
       VOLPAN 1 0 1 -1
       SOFFS 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {22E3DC4D-ACB6-018E-42BB-2B217B37F969}
+      GUID {8CAB9985-B2C1-AB94-169A-279FB288E372}
       <SOURCE RPP_PROJECT
-        FILE "/Music/REAPER/We Fall Down - C - 67 BPM/We Fall Down - C - 67 BPM.rpp"
+        FILE "/Music/REAPER/King Of My Heart - Bethel Music - A - 68 BPM/King Of My Heart - Bethel Music - A - 68 BPM.rpp"
       >
     >
     <ITEM
@@ -294,7 +294,7 @@
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
     FIXEDLANES 9 0 0 0 0
     LANEREC -1 -1 -1 0
-    SEL 0
+    SEL 1
     REC 0 0 1 0 0 0 0 0
     VU 64
     TRACKHEIGHT 405 0 0 0 0 0 0
