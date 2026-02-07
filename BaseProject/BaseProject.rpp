@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "7.59/linux-x86_64" 1770306305 0
+<REAPER_PROJECT 0.1 "7.59/linux-x86_64" 1770469989 0
   <NOTES 0 2
   >
   RIPPLE 0 0
@@ -19,8 +19,8 @@
   VIDEO_CONFIG 0 0 65792
   PANMODE 3
   PANLAWFLAGS 3
-  CURSOR 0
-  ZOOM 4.47580316567056 0 0
+  CURSOR 8192
+  ZOOM 0.40890001336102 3020 0
   VZOOMEX 14.05275249 0
   USE_REC_CFG 0
   RECMODE 1
@@ -126,7 +126,7 @@
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
     FIXEDLANES 9 0 0 0 0
     LANEREC -1 -1 -1 0
-    SEL 0
+    SEL 1
     REC 0 0 1 0 0 0 0 0
     VU 64
     TRACKHEIGHT 0 0 0 0 0 0 0
@@ -136,9 +136,8 @@
     TRACKID {6B7123E5-3A60-F3DC-B36D-46D5DD4930B8}
     PERF 0
     MIDIOUT -1
-    MAINSEND 1 0
+    MAINSEND 0 0
     HWOUT 1032 0 1 0 0 0 0 -1:U -1
-    HWOUT 16 0 1 0 0 0 2 -1:U -1
     HWOUT 516 0 1 0 0 0 2 -1:U -1
     <FXCHAIN
       WNDRECT 32 77 912 483
@@ -149,111 +148,111 @@
     <ITEM
       POSITION 0
       SNAPOFFS 0
-      LENGTH 219.06977324263039
+      LENGTH 320.23256235827665
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0 0 1 0 0 0
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
-      SEL 1
-      IGUID {9EB078A1-4916-3A95-7DA7-9EF6A6A0CFE5}
-      IID 500
-      NAME "Praise - Seph Schlueter - A - 129 BPM.RPP"
+      SEL 0
+      IGUID {4134A483-416F-72A4-99B5-F471BF8DB21F}
+      IID 508
+      NAME "Who You Say I Am - G - 84 BPM.rpp"
       VOLPAN 1 0 1 -1
       SOFFS 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {6346048C-8288-6408-42D8-D1AE3BF14DA8}
+      GUID {21E9A298-545B-8253-B2BE-9A2855DE3F31}
       <SOURCE RPP_PROJECT
-        FILE "/Music/REAPER/Praise - Seph Schlueter - A - 129 BPM/Praise - Seph Schlueter - A - 129 BPM.RPP"
+        FILE "/Music/REAPER/Who You Say I Am - G - 84 BPM/Who You Say I Am - G - 84 BPM.rpp"
       >
     >
     <ITEM
       POSITION 4096
       SNAPOFFS 0
-      LENGTH 375.2988125
+      LENGTH 285.71428571428572
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0 0 1 0 0 0
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
-      SEL 1
-      IGUID {536BDE50-A796-72A8-EEB0-77543363302F}
-      IID 501
-      NAME "In Jesus Name - Darlene Zschech - D - 105 BPM.rpp"
+      SEL 0
+      IGUID {0B77262D-A079-6CD6-F860-7BCF1C44D3E3}
+      IID 509
+      NAME "Our God - Chris Tomlin - B - 105 BPM.RPP"
       VOLPAN 1 0 1 -1
       SOFFS 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {FC19A53F-A88B-C563-3F33-558BE6A2E960}
+      GUID {568E4780-4C42-DBDE-59E5-297C73763423}
       <SOURCE RPP_PROJECT
-        FILE "/Music/REAPER/In Jesus Name - Darlene Zschech - D - 105 BPM/In Jesus Name - Darlene Zschech - D - 105 BPM.rpp"
+        FILE "/Music/REAPER/Our God - Chris Tomlin - B - 105 BPM/Our God - Chris Tomlin - B - 105 BPM.RPP"
       >
     >
     <ITEM
       POSITION 8192
       SNAPOFFS 0
-      LENGTH 369.48647916666664
+      LENGTH 176.42727891156463
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0 0 1 0 0 0
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
-      SEL 1
-      IGUID {618C75B2-7005-1F93-61E6-AE3C1F365A57}
-      IID 502
-      NAME "No Longer Slaves - Bb - 74 BPM.rpp"
+      SEL 0
+      IGUID {C411594C-EA23-6DBD-37E3-E6BB595C860F}
+      IID 510
+      NAME "Ya Noviy - Nuteki Worship - Ab - 131 BPM.RPP"
       VOLPAN 1 0 1 -1
       SOFFS 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {720B3D4D-65B0-634B-D5AA-97741857FB2F}
+      GUID {97C804B2-1FAC-C321-BA3F-0629C55EAEF9}
       <SOURCE RPP_PROJECT
-        FILE "/Music/REAPER/No Longer Slaves - Bb - 74 BPM/No Longer Slaves - Bb - 74 BPM.rpp"
+        FILE "/Music/REAPER/Ya Noviy - Nuteki Worship - Ab - 131 BPM/Ya Noviy - Nuteki Worship - Ab - 131 BPM.RPP"
       >
     >
     <ITEM
       POSITION 12288
       SNAPOFFS 0
-      LENGTH 370.843375
+      LENGTH 363.02777083333331
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0 0 1 0 0 0
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
-      SEL 1
-      IGUID {D6C7AD8B-CD56-6D7B-C160-01A9FB09E4E1}
-      IID 503
-      NAME "Reckless Love - Cory Asbury - Gb - 83 BPM.rpp"
+      SEL 0
+      IGUID {328EB9C8-182A-5D2E-FA3E-D82B82B80D21}
+      IID 511
+      NAME "Worthy - Elevation Worship - Eb - 67,50 BPM.rpp"
       VOLPAN 1 0 1 -1
       SOFFS 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {D4E72022-9C6C-AF6B-6618-DB9754D7BB46}
+      GUID {481CED2D-6AA5-2C55-7FB4-072DF9E9C5DA}
       <SOURCE RPP_PROJECT
-        FILE "/Music/REAPER/Reckless Love - Cory Asbury - Gb - 83 BPM/Reckless Love - Cory Asbury - Gb - 83 BPM.rpp"
+        FILE "/Music/REAPER/Worthy - Elevation Worship - Eb - 67,50 BPM/Worthy - Elevation Worship - Eb - 67,50 BPM.rpp"
       >
     >
     <ITEM
       POSITION 16384
       SNAPOFFS 0
-      LENGTH 289.41176870748302
+      LENGTH 300
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0 0 1 0 0 0
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
-      SEL 1
-      IGUID {1F0802AB-2033-C0FB-FDA1-C440936D2631}
-      IID 504
-      NAME "King Of My Heart - Bethel Music - A - 68 BPM.rpp"
+      SEL 0
+      IGUID {615485CF-92C4-77C2-2B45-E7FC69A986CF}
+      IID 512
+      NAME "Holy Forever - Chris Tomlin - Db - 72 BPM.RPP"
       VOLPAN 1 0 1 -1
       SOFFS 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {8CAB9985-B2C1-AB94-169A-279FB288E372}
+      GUID {5F23A4DD-C07A-1435-5913-12B030160279}
       <SOURCE RPP_PROJECT
-        FILE "/Music/REAPER/King Of My Heart - Bethel Music - A - 68 BPM/King Of My Heart - Bethel Music - A - 68 BPM.rpp"
+        FILE "/Music/REAPER/Holy Forever - Chris Tomlin - Db - 72 BPM/Holy Forever - Chris Tomlin - Db - 72 BPM.RPP"
       >
     >
     <ITEM
@@ -265,15 +264,15 @@
       FADEIN 1 0 0 1 0 0 0
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
-      SEL 0
-      IGUID {8E642B6C-3AFC-A1FF-5864-0F11DF90C8BD}
-      IID 25
+      SEL 1
+      IGUID {3623EFB6-C3A3-5479-4F30-E9C986F6B988}
+      IID 513
       NAME "Still - Hillsong United - C - 70 BPM.rpp"
       VOLPAN 1 0 1 -1
       SOFFS 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {89DFB783-A3EE-BDF8-01EB-1AF4162ECBAA}
+      GUID {70A89A91-741C-9BCC-A687-B6698FAF4BD2}
       <SOURCE RPP_PROJECT
         FILE "/Music/REAPER/Still - Hillsong United - C - 70 BPM/Still - Hillsong United - C - 70 BPM.rpp"
       >
@@ -294,7 +293,7 @@
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
     FIXEDLANES 9 0 0 0 0
     LANEREC -1 -1 -1 0
-    SEL 1
+    SEL 0
     REC 0 0 1 0 0 0 0 0
     VU 64
     TRACKHEIGHT 405 0 0 0 0 0 0
@@ -303,6 +302,7 @@
     FX 1
     TRACKID {200B85FE-1774-CF92-3981-DA774A363D69}
     PERF 0
+    AUXRECV 0 0 1 0 0 0 0 2 0 -1:U 0 -1 ''
     MIDIOUT -1
     MAINSEND 0 0
     HWOUT 16 0 1 0 0 0 0 -1:U -1
