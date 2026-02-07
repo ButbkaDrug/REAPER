@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "7.59/linux-x86_64" 1770277292 0
+<REAPER_PROJECT 0.1 "7.59/linux-x86_64" 1770470134 0
   <NOTES 0 2
   >
   RIPPLE 0 0
@@ -21,7 +21,7 @@
   PANLAWFLAGS 3
   CURSOR 0
   ZOOM 71.04526911253342 0 0
-  VZOOMEX 6 0
+  VZOOMEX 6 374
   USE_REC_CFG 0
   RECMODE 1
   SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
@@ -467,7 +467,7 @@
       CHANMODE 0
       GUID {4C2B9292-2408-AB38-9ED8-49BFD45C0004}
       <SOURCE WAVE
-        FILE "Audio Files/Nuteki-Ya-Noviy [bass].wav"
+        FILE "/Downloads/Nuteki-Ya-Noviy [bass].wav"
       >
     >
     <ITEM
@@ -490,7 +490,7 @@
       CHANMODE 0
       GUID {E86945DF-9BE0-623E-ABA6-CA0DE577E97B}
       <SOURCE WAVE
-        FILE "Audio Files/Nuteki-Ya-Noviy [bass].wav"
+        FILE "/Downloads/Nuteki-Ya-Noviy [bass].wav"
       >
     >
   >
@@ -540,7 +540,7 @@
       CHANMODE 0
       GUID {7C900D54-C510-0E17-DA0D-80F95D5BA4CC}
       <SOURCE WAVE
-        FILE "Audio Files/Nuteki-Ya-Noviy [drums].wav"
+        FILE "/Downloads/Nuteki-Ya-Noviy [drums].wav"
       >
     >
     <ITEM
@@ -563,7 +563,7 @@
       CHANMODE 0
       GUID {3906596A-6C17-DBB8-3928-3E181AF3C1B9}
       <SOURCE WAVE
-        FILE "Audio Files/Nuteki-Ya-Noviy [drums].wav"
+        FILE "/Downloads/Nuteki-Ya-Noviy [drums].wav"
       >
     >
   >
@@ -613,7 +613,7 @@
       CHANMODE 0
       GUID {A9123CD9-1744-DE3A-676F-0000A3925B84}
       <SOURCE WAVE
-        FILE "Audio Files/Nuteki-Ya-Noviy [music].wav"
+        FILE "/Downloads/Nuteki-Ya-Noviy [music].wav"
       >
     >
     <ITEM
@@ -636,7 +636,7 @@
       CHANMODE 0
       GUID {210AA32D-235D-13A3-04C7-7CBF563AC9E9}
       <SOURCE WAVE
-        FILE "Audio Files/Nuteki-Ya-Noviy [music].wav"
+        FILE "/Downloads/Nuteki-Ya-Noviy [music].wav"
       >
     >
     <ITEM
@@ -659,7 +659,7 @@
       CHANMODE 0
       GUID {1895D20B-F771-22B8-83E6-D6219F10B374}
       <SOURCE WAVE
-        FILE "Audio Files/Nuteki-Ya-Noviy [music].wav"
+        FILE "/Downloads/Nuteki-Ya-Noviy [music].wav"
       >
     >
     <ITEM
@@ -682,7 +682,7 @@
       CHANMODE 0
       GUID {58061E43-3EE9-350D-5F1A-F4192229E0FA}
       <SOURCE WAVE
-        FILE "Audio Files/Nuteki-Ya-Noviy [music].wav"
+        FILE "/Downloads/Nuteki-Ya-Noviy [music].wav"
       >
     >
   >
@@ -732,7 +732,7 @@
       CHANMODE 0
       GUID {4447A129-4EFF-4772-279F-D1F5D01D4AA0}
       <SOURCE WAVE
-        FILE "Audio Files/Nuteki-Ya-Noviy [vocals].wav"
+        FILE "/Downloads/Nuteki-Ya-Noviy [vocals].wav"
       >
     >
     <ITEM
@@ -755,7 +755,7 @@
       CHANMODE 0
       GUID {6CC60464-A6D7-C663-0873-4777A964119C}
       <SOURCE WAVE
-        FILE "Audio Files/Nuteki-Ya-Noviy [vocals].wav"
+        FILE "/Downloads/Nuteki-Ya-Noviy [vocals].wav"
       >
     >
   >
