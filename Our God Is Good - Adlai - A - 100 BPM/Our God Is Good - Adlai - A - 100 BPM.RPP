@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "7.59/linux-x86_64" 1771076950 0
+<REAPER_PROJECT 0.1 "7.59/linux-x86_64" 1771077295 0
   <NOTES 0 2
   >
   RIPPLE 0 0
@@ -33,7 +33,7 @@
   >
   <APPLYFX_CFG
   >
-  RENDER_FILE "/home/butbkadrug/RENDERS//our-god-is-good-plus.ogg"
+  RENDER_FILE "/home/butbkadrug/Personal/sharing/RENDERS/our-god-is-good.ogg"
   RENDER_FMT 0 2 44100
   RENDER_1X 0
   RENDER_RANGE 1 0 0 0 1000
@@ -466,7 +466,7 @@
     AUTOMODE 0
     PANLAWFLAGS 3
     VOLPAN 1 0 -1 -1 1
-    MUTESOLO 0 0 0
+    MUTESOLO 1 0 0
     IPHASE 0
     PLAYOFFS 0 1
     ISBUS 0 0

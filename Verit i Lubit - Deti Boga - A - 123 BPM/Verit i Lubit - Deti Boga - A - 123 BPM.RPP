@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "7.59/linux-x86_64" 1770880601 0
+<REAPER_PROJECT 0.1 "7.59/linux-x86_64" 1771149700 0
   AUTHOR PROJECT_AUTHOR
   RIPPLE 0 0
   GROUPOVERRIDE 0 0 0 0
@@ -1130,7 +1130,7 @@
       CHANMODE 0
       GUID {FFFE6095-CC9F-753A-CBC5-A152BA47FE04}
       <SOURCE MP3
-        FILE "AudioFiles/Deti Boga - Verit i lubit.mp3" 1
+        FILE "/Downloads/Deti Boga - Verit i lubit.mp3" 1
       >
     >
   >
