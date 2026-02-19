@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "7.59/linux-x86_64" 1771149712 0
+<REAPER_PROJECT 0.1 "7.59/linux-x86_64" 1771504759 0
   <NOTES 0 2
   >
   RIPPLE 0 0
@@ -19,8 +19,8 @@
   VIDEO_CONFIG 0 0 65792
   PANMODE 3
   PANLAWFLAGS 3
-  CURSOR 0
-  ZOOM 2.25913043508545 0 0
+  CURSOR 8192
+  ZOOM 2.25913043508545 18275 0
   VZOOMEX 14.05275249 0
   USE_REC_CFG 0
   RECMODE 1
@@ -148,133 +148,133 @@
     <ITEM
       POSITION 0
       SNAPOFFS 0
-      LENGTH 375.2988125
+      LENGTH 311.48936507936509
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0 0 1 0 0 0
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {B5BC9F46-51B2-0FFD-DF82-2B0CEABFAB56}
-      IID 516
-      NAME "In Jesus Name - Darlene Zschech - D - 105 BPM.rpp"
+      IGUID {B279C003-9B49-CB50-910F-836331CCF23A}
+      IID 524
+      NAME "Then He Rose - Elevation Worship - B - 94 BPM.RPP"
       VOLPAN 1 0 1 -1
       SOFFS 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {4BD16588-7A91-455E-64D9-05A5837498D7}
+      GUID {0C91A536-CA47-A879-2869-157D5DA688EC}
       <SOURCE RPP_PROJECT
-        FILE "/Music/REAPER/In Jesus Name - Darlene Zschech - D - 105 BPM/In Jesus Name - Darlene Zschech - D - 105 BPM.rpp"
+        FILE "/Music/REAPER/Then He Rose - Elevation Worship - B - 94 BPM/Then He Rose - Elevation Worship - B - 94 BPM.RPP"
       >
     >
     <ITEM
       POSITION 4096
       SNAPOFFS 0
-      LENGTH 276.66666666666669
+      LENGTH 219.06977324263039
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0 0 1 0 0 0
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {C64234F8-5072-E873-6AAE-22A697EF1687}
-      IID 517
-      NAME "You Are Good - Bethel Music - A - 144 BPM.rpp"
+      IGUID {DD6AF2B9-18BA-E41A-0525-6B4433DBDB54}
+      IID 525
+      NAME "Praise - Seph Schlueter - A - 129 BPM.RPP"
       VOLPAN 1 0 1 -1
       SOFFS 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {050DF895-E9F9-DBA7-012E-3A5DD0FFDC47}
+      GUID {6CDE6268-37EE-81A0-E57D-4DDC0989B8C9}
       <SOURCE RPP_PROJECT
-        FILE "/Music/REAPER/You Are Good - Bethel Music - A - 144 BPM/You Are Good - Bethel Music - A - 144 BPM.rpp"
+        FILE "/Music/REAPER/Praise - Seph Schlueter - A - 129 BPM/Praise - Seph Schlueter - A - 129 BPM.RPP"
       >
     >
     <ITEM
       POSITION 8192
       SNAPOFFS 0
-      LENGTH 191.25
+      LENGTH 217.1961875
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {083DC205-B5E0-85FF-80AB-174EF062F59E}
+      IID 147
+      NAME "Our God Is Good - Adlai - A - 100 BPM.RPP"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D54FCCDB-FDAE-9485-825B-A9C2BC088BB9}
+      <SOURCE RPP_PROJECT
+        FILE "/Music/REAPER/Our God Is Good - Adlai - A - 100 BPM/Our God Is Good - Adlai - A - 100 BPM.RPP"
+      >
+    >
+    <ITEM
+      POSITION 12288
+      SNAPOFFS 0
+      LENGTH 316.52172916666666
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {35DE51A4-BC3A-36CF-B9C6-234DCD582EF7}
+      IID 3248
+      NAME "Ever Be - Bethel Music - G - 69 BPM.rpp"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {FCCF5929-EA85-2958-759F-4A4BEA27C900}
+      <SOURCE RPP_PROJECT
+        FILE "/Music/REAPER/Ever Be - Bethel Music - G - 69 BPM/Ever Be - Bethel Music - G - 69 BPM.rpp"
+      >
+    >
+    <ITEM
+      POSITION 16384
+      SNAPOFFS 0
+      LENGTH 250
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {CFF27DF5-7C76-E024-4ED5-AE681695FB4D}
+      IID 3249
+      NAME "Canvas And Clay - Patt Barett - A - 72 BPM.rpp"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8649DA72-CC23-E80B-AF3F-E72BCDAB38A0}
+      <SOURCE RPP_PROJECT
+        FILE "/Music/REAPER/Canvas And Clay - Patt Barett - A - 72 BPM/Canvas And Clay - Patt Barett - A - 72 BPM.rpp"
+      >
+    >
+    <ITEM
+      POSITION 20480
+      SNAPOFFS 0
+      LENGTH 340
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0 0 1 0 0 0
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
       SEL 1
-      IGUID {B43D2326-D71D-AF70-3B2D-9014F2B5FB18}
-      IID 518
-      NAME "Verit i Lubit - Deti Boga - A - 123 BPM.RPP"
+      IGUID {1C1AA49F-2E80-4089-EE2B-2A7E9A46E844}
+      IID 3250
+      NAME "Build My Life - Patt Barat - G - 72 BPM.rpp"
       VOLPAN 1 0 1 -1
       SOFFS 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {934EDB71-EF44-8753-4779-0F47F4785FD3}
+      GUID {F4A010EB-C41C-A5B6-E119-3FBC624A995B}
       <SOURCE RPP_PROJECT
-        FILE "/Music/REAPER/Verit i Lubit - Deti Boga - A - 123 BPM/Verit i Lubit - Deti Boga - A - 123 BPM.RPP"
-      >
-    >
-    <ITEM
-      POSITION 12288
-      SNAPOFFS 0
-      LENGTH 317.83783333333332
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0 0
-      FADEOUT 1 0 0 1 0 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {9271705C-2A23-923F-9FFD-177E266755C4}
-      IID 519
-      NAME "Tremble - Mosaic MSC - C - 148 BPM.rpp"
-      VOLPAN 1 0 1 -1
-      SOFFS 0
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {B13068E5-E0B1-B228-7F08-F7B16E08302C}
-      <SOURCE RPP_PROJECT
-        FILE "/Music/REAPER/Tremble - Mosaic MSC - C - 148 BPM/Tremble - Mosaic MSC - C - 148 BPM.rpp"
-      >
-    >
-    <ITEM
-      POSITION 16384
-      SNAPOFFS 0
-      LENGTH 381.17646258503402
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0 0
-      FADEOUT 1 0 0 1 0 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {06DD3DD4-5AA7-D691-6A67-E6FDE9E3561E}
-      IID 520
-      NAME "What a Beautiful Name - Hillsong Worship - D - 68 BPM.RPP"
-      VOLPAN 1 0 1 -1
-      SOFFS 0
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {BACEC2E7-5417-047F-50D4-1343AC0A7E60}
-      <SOURCE RPP_PROJECT
-        FILE "/Music/REAPER/What a Beautiful Name - Hillsong Worship - D - 68 BPM/What a Beautiful Name - Hillsong Worship - D - 68 BPM.RPP"
-      >
-    >
-    <ITEM
-      POSITION 20480
-      SNAPOFFS 0
-      LENGTH 301.71428571428623
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0 0
-      FADEOUT 1 0 0 1 0 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {C9552E11-2BC6-148A-052C-BF570B48BB97}
-      IID 2
-      NAME "Sinking Deep - Hillsong Young And Free - Bb - 70 BPM.RPP"
-      VOLPAN 1 0 1 -1
-      SOFFS 0
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {46D7477F-BCFE-DF2D-555F-ABC1ED847E83}
-      <SOURCE RPP_PROJECT
-        FILE "/Music/REAPER/Sinking Deep - Hillsong Young And Free - Bb - 70 BPM/Sinking Deep - Hillsong Young And Free - Bb - 70 BPM.RPP"
+        FILE "/Music/REAPER/Build My Life - Patt Barat - G - 72 BPM/Build My Life - Patt Barat - G - 72 BPM.rpp"
       >
     >
   >
