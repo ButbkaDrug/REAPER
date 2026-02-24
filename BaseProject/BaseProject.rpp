@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "7.59/linux-x86_64" 1771504759 0
+<REAPER_PROJECT 0.1 "7.59/linux-x86_64" 1771929164 0
   <NOTES 0 2
   >
   RIPPLE 0 0
@@ -20,7 +20,7 @@
   PANMODE 3
   PANLAWFLAGS 3
   CURSOR 8192
-  ZOOM 2.25913043508545 18275 0
+  ZOOM 2.25913043508545 18436 0
   VZOOMEX 14.05275249 0
   USE_REC_CFG 0
   RECMODE 1
@@ -148,45 +148,45 @@
     <ITEM
       POSITION 0
       SNAPOFFS 0
-      LENGTH 311.48936507936509
+      LENGTH 360.3160625
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0 0 1 0 0 0
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
-      SEL 0
-      IGUID {B279C003-9B49-CB50-910F-836331CCF23A}
-      IID 524
-      NAME "Then He Rose - Elevation Worship - B - 94 BPM.RPP"
+      SEL 1
+      IGUID {B77D175B-F11B-2204-9890-003DA70B0928}
+      IID 250
+      NAME "Hosanna - Praise is Rising (Live) - Paul Baloche - G - 113.9 BPM.RPP"
       VOLPAN 1 0 1 -1
       SOFFS 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {0C91A536-CA47-A879-2869-157D5DA688EC}
+      GUID {D9365653-58E7-D745-F0E6-E6CD3BE33B69}
       <SOURCE RPP_PROJECT
-        FILE "/Music/REAPER/Then He Rose - Elevation Worship - B - 94 BPM/Then He Rose - Elevation Worship - B - 94 BPM.RPP"
+        FILE "/Music/REAPER/Hosanna - Praise is Rising (Live) - Paul Baloche - G - 113.9 BPM/Hosanna - Praise is Rising (Live) - Paul Baloche - G - 113.9 BPM.RPP"
       >
     >
     <ITEM
       POSITION 4096
       SNAPOFFS 0
-      LENGTH 219.06977324263039
+      LENGTH 285.71428571428572
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0 0 1 0 0 0
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
-      SEL 0
-      IGUID {DD6AF2B9-18BA-E41A-0525-6B4433DBDB54}
-      IID 525
-      NAME "Praise - Seph Schlueter - A - 129 BPM.RPP"
+      SEL 1
+      IGUID {094380DE-EF27-563D-FDD6-0E03DC4F05FB}
+      IID 251
+      NAME "Our God - Chris Tomlin - B - 105 BPM.RPP"
       VOLPAN 1 0 1 -1
       SOFFS 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {6CDE6268-37EE-81A0-E57D-4DDC0989B8C9}
+      GUID {4FC29EF1-082D-AB96-D5F3-0BD74A02C782}
       <SOURCE RPP_PROJECT
-        FILE "/Music/REAPER/Praise - Seph Schlueter - A - 129 BPM/Praise - Seph Schlueter - A - 129 BPM.RPP"
+        FILE "/Music/REAPER/Our God - Chris Tomlin - B - 105 BPM/Our God - Chris Tomlin - B - 105 BPM.RPP"
       >
     >
     <ITEM
@@ -214,45 +214,45 @@
     <ITEM
       POSITION 12288
       SNAPOFFS 0
-      LENGTH 316.52172916666666
+      LENGTH 300
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0 0 1 0 0 0
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
-      SEL 0
-      IGUID {35DE51A4-BC3A-36CF-B9C6-234DCD582EF7}
-      IID 3248
-      NAME "Ever Be - Bethel Music - G - 69 BPM.rpp"
+      SEL 1
+      IGUID {79A3E86C-4142-53A8-4829-8DD09BCCD2A8}
+      IID 252
+      NAME "Holy Forever - Chris Tomlin - Db - 72 BPM.RPP"
       VOLPAN 1 0 1 -1
       SOFFS 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {FCCF5929-EA85-2958-759F-4A4BEA27C900}
+      GUID {0AD154E1-312C-8F65-3E05-CEF56418FD5F}
       <SOURCE RPP_PROJECT
-        FILE "/Music/REAPER/Ever Be - Bethel Music - G - 69 BPM/Ever Be - Bethel Music - G - 69 BPM.rpp"
+        FILE "/Music/REAPER/Holy Forever - Chris Tomlin - Db - 72 BPM/Holy Forever - Chris Tomlin - Db - 72 BPM.RPP"
       >
     >
     <ITEM
       POSITION 16384
       SNAPOFFS 0
-      LENGTH 250
+      LENGTH 296.93430839002269
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0 0 1 0 0 0
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
-      SEL 0
-      IGUID {CFF27DF5-7C76-E024-4ED5-AE681695FB4D}
-      IID 3249
-      NAME "Canvas And Clay - Patt Barett - A - 72 BPM.rpp"
+      SEL 1
+      IGUID {A7137FBF-E29C-3719-9917-B220F40444E5}
+      IID 253
+      NAME "Run To The Father - Cody Carnes - C - 137 BPM.rpp"
       VOLPAN 1 0 1 -1
       SOFFS 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {8649DA72-CC23-E80B-AF3F-E72BCDAB38A0}
+      GUID {9C2ACD69-58C7-8620-84C4-5FBEBA0A5210}
       <SOURCE RPP_PROJECT
-        FILE "/Music/REAPER/Canvas And Clay - Patt Barett - A - 72 BPM/Canvas And Clay - Patt Barett - A - 72 BPM.rpp"
+        FILE "/Music/REAPER/Run To The Father - Cody Carnes - C - 137 BPM/Run To The Father - Cody Carnes - C - 137 BPM.rpp"
       >
     >
     <ITEM
