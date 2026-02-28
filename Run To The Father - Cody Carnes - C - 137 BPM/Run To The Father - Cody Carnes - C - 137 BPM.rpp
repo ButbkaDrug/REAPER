@@ -1,9 +1,10 @@
-<REAPER_PROJECT 0.1 "7.19/linux-x86_64" 1727847548
-  RIPPLE 0
-  GROUPOVERRIDE 0 0 0
+<REAPER_PROJECT 0.1 "7.59/linux-x86_64" 1771958161 0
+  RIPPLE 0 0
+  GROUPOVERRIDE 0 0 0 0
   AUTOXFADE 128
   ENVATTACH 1
   POOLEDENVATTACH 0
+  TCPUIFLAGS 0
   MIXERUIFLAGS 11 48
   PEAKGAIN 1
   FEEDBACK 0
@@ -11,11 +12,11 @@
   PROJOFFS 0 0 0
   MAXPROJLEN 0 600
   GRID 3199 8 1 8 1 0 0 0
-  TIMEMODE 1 5 -1 30 0 0 -1
+  TIMEMODE 1 5 -1 30 0 0 -1 0
   VIDEO_CONFIG 0 0 256
   PANMODE 3
-  CURSOR 282.48175182481754
-  ZOOM 34.2618003050404 9613 0
+  CURSOR 45.85766423357664
+  ZOOM 2071.9926740595729 94785 0
   VZOOMEX 3 0
   USE_REC_CFG 0
   RECMODE 1
@@ -36,6 +37,7 @@
   RENDER_ADDTOPROJ 0
   RENDER_STEMS 0
   RENDER_DITHER 0
+  RENDER_TRIM 0.000001 0.000001 0 0
   TIMELOCKMODE 1
   TEMPOENVLOCKMODE 1
   ITEMMIX 0
@@ -50,24 +52,24 @@
     VOL 0.25 0.125
     BEATLEN 4
     FREQ 800 1600 1
-    SAMPLES "" ""
+    SAMPLES "" "" "" ""
     SPLIGNORE 0 0
-    SPLDEF 2 660 "" 0
-    SPLDEF 3 440 "" 0
+    SPLDEF 2 660 "" 0 ""
+    SPLDEF 3 440 "" 0 ""
     PATTERN 0 169
     PATTERNSTR ABBB
     MULT 1
   >
   GLOBAL_AUTO -1
-  TEMPO 137 3 4
+  TEMPO 137 3 4 0
   PLAYRATE 1 0 0.25 4
-  SELECTION 302.18978102189783 296.93430656934305
-  SELECTION2 302.18978102189783 296.93430656934305
+  SELECTION 0 0
+  SELECTION2 0 0
   MASTERAUTOMODE 0
   MASTERTRACKHEIGHT 0 0
   MASTERPEAKCOL 16576
   MASTERMUTESOLO 0
-  MASTERTRACKVIEW 1 0.6667 0.5 0.5 0 -1 0 0 0 0 0 0 0 0
+  MASTERTRACKVIEW 1 0.6667 0.5 0.5 0 -1 0 0 0 0 0 0 0 0 0
   MASTERHWOUT 0 0 1 0 0 0 0 -1
   MASTERHWOUT 0 0 1 0 0 0 2 -1
   MASTERHWOUT 0 0 1 0 0 0 4 -1
@@ -146,8 +148,9 @@
     PLAYOFFS 0 1
     ISBUS 0 0
     BUSCOMP 0 0 0 0 0
-    SHOWINMIX 1 0 0.5 1 0.5 0 -1 0
-    SEL 0
+    SHOWINMIX 1 0 0.5 1 0.5 0 -1 0 0
+    LANEREC -1 -1 -1 0
+    SEL 1
     REC 0 0 1 0 0 0 0 0
     VU 2
     TRACKHEIGHT 342 0 0 0 0 0 0
@@ -329,23 +332,67 @@
     <ITEM
       POSITION 22.33576642335766
       SNAPOFFS 0
-      LENGTH 1.31386861313868
+      LENGTH 0.43795620437956
       LOOP 1
       ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0 0
-      FADEOUT 1 0.01 0 1 0 0 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {868365F1-1F8A-4AA9-91C1-7E1A0F5A8903}
-      IID 17
-      NAME "English Female - 4-glued.wav"
+      IGUID {F882E6E8-0B27-87FC-6C3E-60185F891B9D}
+      IID 80
+      NAME "English Female - 4.wav"
       VOLPAN 1 0 1 -1
       SOFFS 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {B8983EC6-626C-442E-9A62-C7A75CF477B2}
+      GUID {2CA8A4B2-8C51-3F13-4CDD-A3D72B62DCB7}
       <SOURCE WAVE
-        FILE "Audio Files/English Female - 4-glued.wav"
+        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 4.wav"
+      >
+    >
+    <ITEM
+      POSITION 22.77372262773723
+      SNAPOFFS 0
+      LENGTH 0.43795620437956
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {8EEDDE8B-F534-822E-5599-5F3D46DD0D5D}
+      IID 81
+      NAME "English Female - 5.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C4805628-9FFF-3B93-4DD0-2CF82D507427}
+      <SOURCE WAVE
+        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 5.wav"
+      >
+    >
+    <ITEM
+      POSITION 23.21167883211679
+      SNAPOFFS 0
+      LENGTH 0.87591240875912
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {51BF2387-CF26-5E2F-F228-E1A75FF1AFDD}
+      IID 82
+      NAME "English Female - 6.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B2FF2303-1611-6539-16F9-A6AEB36131BA}
+      <SOURCE WAVE
+        FILE "/home/butbkadrug/Music/Assets/Cues/English Female - 6.wav"
       >
     >
     <ITEM
@@ -358,7 +405,7 @@
       FADEOUT 1 0.01 0 1 0 0 0
       MUTE 0 0
       BEAT 1
-      SEL 0
+      SEL 1
       IGUID {F3BED3B4-9F7B-41E0-A212-461DE8F6819F}
       IID 1
       NAME "English Female - Verse.wav"
@@ -372,25 +419,47 @@
       >
     >
     <ITEM
-      POSITION 43.35766423353925
+      POSITION 43.35766423357664
       SNAPOFFS 0
-      LENGTH 1.31386861313869
+      LENGTH 1.25
       LOOP 1
       ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0 0
-      FADEOUT 1 0.01 0 1 0 0 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
-      SEL 0
-      IGUID {D9AB9B45-2DDE-4C05-A281-448797954CA7}
-      IID 17
-      NAME "English Female - 4-glued.wav"
+      SEL 1
+      IGUID {390AFB79-51D4-D510-35F5-FD97222EE8E8}
+      IID 84
+      NAME "English Female - 1.wav"
       VOLPAN 1 0 1 -1
       SOFFS 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {70FC4476-D6E3-44F8-B1A9-F1B5DC587307}
+      GUID {C09BABC8-D86E-682A-DA2E-9E211D8AE1AF}
       <SOURCE WAVE
-        FILE "Audio Files/English Female - 4-glued.wav"
+        FILE "/Music/Assets/Cues/English Female - 1.wav"
+      >
+    >
+    <ITEM
+      POSITION 44.60766423357664
+      SNAPOFFS 0
+      LENGTH 1.25
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {D5DB82A5-72EC-DE42-F21D-3EED4E35D4C9}
+      IID 85
+      NAME "English Female - 1.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7002D36B-0353-E2BF-D332-133698AAEB4E}
+      <SOURCE WAVE
+        FILE "/Music/Assets/Cues/English Female - 1.wav"
       >
     >
     <ITEM
@@ -417,28 +486,6 @@
       >
     >
     <ITEM
-      POSITION 64.37956204381771
-      SNAPOFFS 0
-      LENGTH 1.31386861313869
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0 0
-      FADEOUT 1 0.01 0 1 0 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {38C2A2D8-AF2E-4D69-9D4D-90538F311DA0}
-      IID 17
-      NAME "English Female - 4-glued.wav"
-      VOLPAN 1 0 1 -1
-      SOFFS 0
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {F1DE2292-7ACA-4AD4-86B3-C084C7CA9103}
-      <SOURCE WAVE
-        FILE "Audio Files/English Female - 4-glued.wav"
-      >
-    >
-    <ITEM
       POSITION 84.08759124087591
       SNAPOFFS 0
       LENGTH 1.31386861313869
@@ -459,28 +506,6 @@
       GUID {0CFF12A2-8FA2-444D-8C92-CCC5937B3571}
       <SOURCE WAVE
         FILE "/Music/Assets/Cues/English Female - Refrain.wav"
-      >
-    >
-    <ITEM
-      POSITION 85.40145985397976
-      SNAPOFFS 0
-      LENGTH 1.31386861313869
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0 0
-      FADEOUT 1 0.01 0 1 0 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {D015E09A-EF5D-4016-BDC3-05756D758718}
-      IID 17
-      NAME "English Female - 4-glued.wav"
-      VOLPAN 1 0 1 -1
-      SOFFS 0
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {350EED62-D52B-4267-AFDF-5D309A76AB21}
-      <SOURCE WAVE
-        FILE "Audio Files/English Female - 4-glued.wav"
       >
     >
     <ITEM
@@ -507,28 +532,6 @@
       >
     >
     <ITEM
-      POSITION 95.91240875911899
-      SNAPOFFS 0
-      LENGTH 1.31386861313868
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0 0
-      FADEOUT 1 0.01 0 1 0 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {087A7398-CBF9-42F0-A36C-937CEDE4ADC0}
-      IID 17
-      NAME "English Female - 4-glued.wav"
-      VOLPAN 1 0 1 -1
-      SOFFS 0
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {05A84AD9-C7B5-44D7-9918-87423ECC88E5}
-      <SOURCE WAVE
-        FILE "Audio Files/English Female - 4-glued.wav"
-      >
-    >
-    <ITEM
       POSITION 115.62043795618229
       SNAPOFFS 0
       LENGTH 1.31386861313868
@@ -549,28 +552,6 @@
       GUID {4EBD650E-B23E-433C-866D-5B0DE592AC42}
       <SOURCE WAVE
         FILE "/Music/Assets/Cues/English Female - Verse.wav"
-      >
-    >
-    <ITEM
-      POSITION 116.93430656939745
-      SNAPOFFS 0
-      LENGTH 1.31386861313868
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0 0
-      FADEOUT 1 0.01 0 1 0 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {62704DC4-953E-4317-9B9A-2BF8876A3B20}
-      IID 17
-      NAME "English Female - 4-glued.wav"
-      VOLPAN 1 0 1 -1
-      SOFFS 0
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {CF832B8E-F313-4DAA-A6A2-32D318146FEC}
-      <SOURCE WAVE
-        FILE "Audio Files/English Female - 4-glued.wav"
       >
     >
     <ITEM
@@ -597,28 +578,6 @@
       >
     >
     <ITEM
-      POSITION 137.95620437955949
-      SNAPOFFS 0
-      LENGTH 1.31386861313868
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0 0
-      FADEOUT 1 0.01 0 1 0 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {5176385F-A92F-4629-9EB7-E98B5E782CD5}
-      IID 17
-      NAME "English Female - 4-glued.wav"
-      VOLPAN 1 0 1 -1
-      SOFFS 0
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {B85A41BE-DBE2-4C2E-A5A8-3D09F2E9C037}
-      <SOURCE WAVE
-        FILE "Audio Files/English Female - 4-glued.wav"
-      >
-    >
-    <ITEM
       POSITION 157.66423357662279
       SNAPOFFS 0
       LENGTH 1.31386861313868
@@ -639,28 +598,6 @@
       GUID {D9F3FBDE-2677-4F04-8184-282304C6ADAE}
       <SOURCE WAVE
         FILE "/Music/Assets/Cues/English Female - Refrain.wav"
-      >
-    >
-    <ITEM
-      POSITION 158.97810218972154
-      SNAPOFFS 0
-      LENGTH 1.31386861313868
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0 0
-      FADEOUT 1 0.01 0 1 0 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {0D56BCD0-CF11-4100-A209-1640C005AEB8}
-      IID 17
-      NAME "English Female - 4-glued.wav"
-      VOLPAN 1 0 1 -1
-      SOFFS 0
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {A91623AA-BF15-4920-957D-E9355C69B66C}
-      <SOURCE WAVE
-        FILE "Audio Files/English Female - 4-glued.wav"
       >
     >
     <ITEM
@@ -687,28 +624,6 @@
       >
     >
     <ITEM
-      POSITION 169.48905109486077
-      SNAPOFFS 0
-      LENGTH 1.31386861313868
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0 0
-      FADEOUT 1 0.01 0 1 0 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {2C1665CF-6DA5-4219-9CEE-34342E8326CB}
-      IID 17
-      NAME "English Female - 4-glued.wav"
-      VOLPAN 1 0 1 -1
-      SOFFS 0
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {F1AE2F2B-9BB9-48F7-876E-5A778CFAAD4F}
-      <SOURCE WAVE
-        FILE "Audio Files/English Female - 4-glued.wav"
-      >
-    >
-    <ITEM
       POSITION 178.68613138686132
       SNAPOFFS 0
       LENGTH 1.31386861313868
@@ -729,28 +644,6 @@
       GUID {52C005F5-21BA-4A4E-B4B2-CB05ACD920EE}
       <SOURCE WAVE
         FILE "/Music/Assets/Cues/English Female - Bridge.wav"
-      >
-    >
-    <ITEM
-      POSITION 180
-      SNAPOFFS 0
-      LENGTH 1.31386861313868
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0 0
-      FADEOUT 1 0.01 0 1 0 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {336D4E0E-98F0-429F-918E-8E5EC003FF79}
-      IID 17
-      NAME "English Female - 4-glued.wav"
-      VOLPAN 1 0 1 -1
-      SOFFS 0
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {8B31D604-71E8-46D1-AC1F-61FF25702172}
-      <SOURCE WAVE
-        FILE "Audio Files/English Female - 4-glued.wav"
       >
     >
     <ITEM
@@ -777,28 +670,6 @@
       >
     >
     <ITEM
-      POSITION 201.02189781016205
-      SNAPOFFS 0
-      LENGTH 1.31386861313868
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0 0
-      FADEOUT 1 0.01 0 1 0 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {48C2511B-5ED7-4058-A5F8-8E4390FBB952}
-      IID 17
-      NAME "English Female - 4-glued.wav"
-      VOLPAN 1 0 1 -1
-      SOFFS 0
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {9B94FD90-006C-496E-8DC0-93E3CB889547}
-      <SOURCE WAVE
-        FILE "Audio Files/English Female - 4-glued.wav"
-      >
-    >
-    <ITEM
       POSITION 220.72992700734176
       SNAPOFFS 0
       LENGTH 1.31386861313868
@@ -819,28 +690,6 @@
       GUID {60259A8D-825C-4480-845A-1F8FC0896863}
       <SOURCE WAVE
         FILE "/Music/Assets/Cues/English Female - Chorus.wav"
-      >
-    >
-    <ITEM
-      POSITION 222.04379562044051
-      SNAPOFFS 0
-      LENGTH 1.31386861313868
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0 0
-      FADEOUT 1 0.01 0 1 0 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {5B7BC225-03F2-4B02-A395-8C8FCE106325}
-      IID 17
-      NAME "English Female - 4-glued.wav"
-      VOLPAN 1 0 1 -1
-      SOFFS 0
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {DEE1E7F7-6DA5-49C0-A420-3E304C1A9C0A}
-      <SOURCE WAVE
-        FILE "Audio Files/English Female - 4-glued.wav"
       >
     >
     <ITEM
@@ -867,28 +716,6 @@
       >
     >
     <ITEM
-      POSITION 243.06569343071897
-      SNAPOFFS 0
-      LENGTH 1.31386861313868
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0 0
-      FADEOUT 1 0.01 0 1 0 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {F01FBC04-40FE-47F7-8B89-5A0D4A8FCC51}
-      IID 17
-      NAME "English Female - 4-glued.wav"
-      VOLPAN 1 0 1 -1
-      SOFFS 0
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {9F0DAEDD-0C1E-45AE-B8F8-DD63A36906B4}
-      <SOURCE WAVE
-        FILE "Audio Files/English Female - 4-glued.wav"
-      >
-    >
-    <ITEM
       POSITION 262.77372262778226
       SNAPOFFS 0
       LENGTH 1.31386861313865
@@ -909,28 +736,6 @@
       GUID {8B140507-42AF-4077-BB69-E26A89CCA44E}
       <SOURCE WAVE
         FILE "/Music/Assets/Cues/English Female - Refrain.wav"
-      >
-    >
-    <ITEM
-      POSITION 264.08759124088101
-      SNAPOFFS 0
-      LENGTH 1.31386861313871
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0 0
-      FADEOUT 1 0.01 0 1 0 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {6305CB2F-1425-40AD-9B7E-F7942182A662}
-      IID 17
-      NAME "English Female - 4-glued.wav"
-      VOLPAN 1 0 1 -1
-      SOFFS 0
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {0A3AB7CA-D56E-4654-9795-343BCA693A72}
-      <SOURCE WAVE
-        FILE "Audio Files/English Female - 4-glued.wav"
       >
     >
     <ITEM
@@ -957,28 +762,6 @@
       >
     >
     <ITEM
-      POSITION 274.59854014590383
-      SNAPOFFS 0
-      LENGTH 1.31386861313871
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0 0
-      FADEOUT 1 0.01 0 1 0 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {02A91BC4-0F7E-4A66-A4DE-92E710571C9E}
-      IID 17
-      NAME "English Female - 4-glued.wav"
-      VOLPAN 1 0 1 -1
-      SOFFS 0
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {624853B4-1ED5-44B1-9C68-F3E9F6B351A7}
-      <SOURCE WAVE
-        FILE "Audio Files/English Female - 4-glued.wav"
-      >
-    >
-    <ITEM
       POSITION 283.79562043794431
       SNAPOFFS 0
       LENGTH 1.31386861313865
@@ -1001,28 +784,6 @@
         FILE "/Music/Assets/Cues/English Female - Outro.wav"
       >
     >
-    <ITEM
-      POSITION 285.10948905104306
-      SNAPOFFS 0
-      LENGTH 1.31386861313865
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0 0
-      FADEOUT 1 0.01 0 1 0 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {2E0A7CBA-7FCA-42DA-856F-6B808036B34F}
-      IID 17
-      NAME "English Female - 4-glued.wav"
-      VOLPAN 1 0 1 -1
-      SOFFS 0
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {946D4652-792B-41C8-BA8E-90E62CA15842}
-      <SOURCE WAVE
-        FILE "Audio Files/English Female - 4-glued.wav"
-      >
-    >
   >
   <TRACK {DF75F5F2-21CC-4A76-8675-E58E881122F4}
     NAME Click
@@ -1035,8 +796,9 @@
     PLAYOFFS 0 1
     ISBUS 0 0
     BUSCOMP 0 0 0 0 0
-    SHOWINMIX 1 0 0.5 1 0.5 0 -1 0
-    SEL 1
+    SHOWINMIX 1 0 0.5 1 0.5 0 -1 0 0
+    LANEREC -1 -1 -1 0
+    SEL 0
     REC 0 0 1 0 0 0 0 0
     VU 2
     TRACKHEIGHT 0 1 0 0 0 0 0
@@ -1057,7 +819,7 @@
       FADEIN 1 0 0 1 0 0 0
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
-      SEL 1
+      SEL 0
       IGUID {C202FAC6-2288-CB21-1F17-1B6196DE8329}
       IID 76
       NAME "Click source"
@@ -1067,20 +829,22 @@
       CHANMODE 0
       GUID {085E66E9-2EB8-21C9-8EFC-A43991FC0F5E}
       <SOURCE CLICK
-        AUTO 1
+        AUTO 1 0
         BPM 137
         BPI 3 4
-        VOL 1 1
-        BEATLEN 4
-        FREQ 800 1600 1
-        SAMPLES "/Music/Assets/Clicks/New Click -  Blip-accents.wav" "/Music/Assets/Clicks/New Click -  Blip-sixteenth.wav"
+        VOL 0.501187 0.501187
+        BEATLEN 37
+        FREQ 2700 2000 3
+        SAMPLES "" "" "" ""
         SPLIGNORE 0 0
-        SPLDEF 2 660 "" 0
-        SPLDEF 3 440 "" 0
+        SPLDEF 2 660 "" 0 ""
+        SPLDEF 3 440 "" 0 ""
         PATTERN 0 41
         PATTERNSTR ABB
         MULT 1
       >
     >
+  >
+  <EXTENSIONS
   >
 >

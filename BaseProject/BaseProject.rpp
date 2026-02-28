@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "7.59/linux-x86_64" 1771929164 0
+<REAPER_PROJECT 0.1 "7.59/linux-x86_64" 1772277294 0
   <NOTES 0 2
   >
   RIPPLE 0 0
@@ -19,8 +19,8 @@
   VIDEO_CONFIG 0 0 65792
   PANMODE 3
   PANLAWFLAGS 3
-  CURSOR 8192
-  ZOOM 2.25913043508545 18436 0
+  CURSOR 8315.8943764172327
+  ZOOM 12.48146284168334 103563 0
   VZOOMEX 14.05275249 0
   USE_REC_CFG 0
   RECMODE 1
@@ -126,7 +126,7 @@
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
     FIXEDLANES 9 0 0 0 0
     LANEREC -1 -1 -1 0
-    SEL 1
+    SEL 0
     REC 0 0 1 0 0 0 0 0
     VU 64
     TRACKHEIGHT 0 0 0 0 0 0 0
@@ -154,7 +154,7 @@
       FADEIN 1 0 0 1 0 0 0
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
-      SEL 1
+      SEL 0
       IGUID {B77D175B-F11B-2204-9890-003DA70B0928}
       IID 250
       NAME "Hosanna - Praise is Rising (Live) - Paul Baloche - G - 113.9 BPM.RPP"
@@ -176,7 +176,7 @@
       FADEIN 1 0 0 1 0 0 0
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
-      SEL 1
+      SEL 0
       IGUID {094380DE-EF27-563D-FDD6-0E03DC4F05FB}
       IID 251
       NAME "Our God - Chris Tomlin - B - 105 BPM.RPP"
@@ -190,28 +190,6 @@
       >
     >
     <ITEM
-      POSITION 8192
-      SNAPOFFS 0
-      LENGTH 217.1961875
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0 0
-      FADEOUT 1 0 0 1 0 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {083DC205-B5E0-85FF-80AB-174EF062F59E}
-      IID 147
-      NAME "Our God Is Good - Adlai - A - 100 BPM.RPP"
-      VOLPAN 1 0 1 -1
-      SOFFS 0
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {D54FCCDB-FDAE-9485-825B-A9C2BC088BB9}
-      <SOURCE RPP_PROJECT
-        FILE "/Music/REAPER/Our God Is Good - Adlai - A - 100 BPM/Our God Is Good - Adlai - A - 100 BPM.RPP"
-      >
-    >
-    <ITEM
       POSITION 12288
       SNAPOFFS 0
       LENGTH 300
@@ -220,7 +198,7 @@
       FADEIN 1 0 0 1 0 0 0
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
-      SEL 1
+      SEL 0
       IGUID {79A3E86C-4142-53A8-4829-8DD09BCCD2A8}
       IID 252
       NAME "Holy Forever - Chris Tomlin - Db - 72 BPM.RPP"
@@ -242,7 +220,7 @@
       FADEIN 1 0 0 1 0 0 0
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
-      SEL 1
+      SEL 0
       IGUID {A7137FBF-E29C-3719-9917-B220F40444E5}
       IID 253
       NAME "Run To The Father - Cody Carnes - C - 137 BPM.rpp"
@@ -264,7 +242,7 @@
       FADEIN 1 0 0 1 0 0 0
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
-      SEL 1
+      SEL 0
       IGUID {1C1AA49F-2E80-4089-EE2B-2A7E9A46E844}
       IID 3250
       NAME "Build My Life - Patt Barat - G - 72 BPM.rpp"
@@ -293,7 +271,7 @@
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
     FIXEDLANES 9 0 0 0 0
     LANEREC -1 -1 -1 0
-    SEL 0
+    SEL 1
     REC 0 0 1 0 0 0 0 0
     VU 64
     TRACKHEIGHT 405 0 0 0 0 0 0
@@ -307,6 +285,28 @@
     MAINSEND 0 0
     HWOUT 16 0 1 0 0 0 0 -1:U -1
     HWOUT 516 0 1 0 0 0 0 -1:U -1
+    <ITEM
+      POSITION 8192
+      SNAPOFFS 0
+      LENGTH 123.89437641723356
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {72ABE14E-1898-1821-091B-87A5C77ADFD9}
+      IID 101
+      NAME Thankful-instrumental.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6534E987-CA0E-8566-90F3-64D891741882}
+      <SOURCE MP3
+        FILE "/Downloads/Thankful-instrumental.mp3" 1
+      >
+    >
     <ITEM
       POSITION 28672
       SNAPOFFS 0
