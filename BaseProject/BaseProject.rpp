@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "7.59/linux-x86_64" 1772345810 0
+<REAPER_PROJECT 0.1 "7.59/linux-x86_64" 1772718236 0
   <NOTES 0 2
   >
   RIPPLE 0 0
@@ -19,11 +19,11 @@
   VIDEO_CONFIG 0 0 65792
   PANMODE 3
   PANLAWFLAGS 3
-  CURSOR 45
-  ZOOM 12.48146284168334 0 0
-  VZOOMEX 14.05275249 0
+  CURSOR 16384
+  ZOOM 0.29050411489352 3498 0
+  VZOOMEX 14.97439003 0
   USE_REC_CFG 0
-  RECMODE 1
+  RECMODE 2
   SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
   LOOP 0
   LOOPGRAN 0 4
@@ -136,7 +136,7 @@
     TRACKID {6B7123E5-3A60-F3DC-B36D-46D5DD4930B8}
     PERF 0
     MIDIOUT -1
-    MAINSEND 0 0
+    MAINSEND 1 0
     HWOUT 1032 0 1 0 0 0 0 -1:U -1
     HWOUT 516 0 1 0 0 0 2 -1:U -1
     <FXCHAIN
@@ -148,45 +148,67 @@
     <ITEM
       POSITION 0
       SNAPOFFS 0
-      LENGTH 360.3160625
+      LENGTH 329.97689342403629
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0 0 1 0 0 0
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {B77D175B-F11B-2204-9890-003DA70B0928}
-      IID 250
-      NAME "Hosanna - Praise is Rising (Live) - Paul Baloche - G - 113.9 BPM.RPP"
+      IGUID {77A59D1C-5768-FE38-1828-D6961A41F80B}
+      IID 3727
+      NAME "Psalm 46 - Capital City Music - Ab - 69 BPM.RPP"
       VOLPAN 1 0 1 -1
       SOFFS 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {D9365653-58E7-D745-F0E6-E6CD3BE33B69}
+      GUID {619BCAFE-337E-A493-5B0E-6E9D1CACBCA1}
       <SOURCE RPP_PROJECT
-        FILE "/Music/REAPER/Hosanna - Praise is Rising (Live) - Paul Baloche - G - 113.9 BPM/Hosanna - Praise is Rising (Live) - Paul Baloche - G - 113.9 BPM.RPP"
+        FILE "/Music/REAPER/Psalm 46 - Capital City Music - Ab - 69 BPM/Psalm 46 - Capital City Music - Ab - 69 BPM.RPP"
       >
     >
     <ITEM
       POSITION 4096
       SNAPOFFS 0
-      LENGTH 285.71428571428572
+      LENGTH 225.1546485260771
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0 0 1 0 0 0
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {094380DE-EF27-563D-FDD6-0E03DC4F05FB}
-      IID 251
-      NAME "Our God - Chris Tomlin - B - 105 BPM.RPP"
+      IGUID {EEBCBAE5-1DA3-B921-4456-23B94715F739}
+      IID 3728
+      NAME "Light The Fire Again - Brian Doerksen - G - 100 BPM.rpp"
       VOLPAN 1 0 1 -1
       SOFFS 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {4FC29EF1-082D-AB96-D5F3-0BD74A02C782}
+      GUID {BFC9CBF7-EE6C-5651-FEB1-245F579ACB04}
       <SOURCE RPP_PROJECT
-        FILE "/Music/REAPER/Our God - Chris Tomlin - B - 105 BPM/Our God - Chris Tomlin - B - 105 BPM.RPP"
+        FILE "/Music/REAPER/Light The Fire Again - Brian Doerksen - G - 100 BPM/Light The Fire Again - Brian Doerksen - G - 100 BPM.rpp"
+      >
+    >
+    <ITEM
+      POSITION 8192
+      SNAPOFFS 0
+      LENGTH 173.19587301587302
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {8A869119-2CC5-3A93-5D69-7DB4A66E0854}
+      IID 7
+      NAME "Forever love forever God - Kids Song - A - 60 BPM.RPP"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B5B48B96-9676-698F-8DCC-01017324892D}
+      <SOURCE RPP_PROJECT
+        FILE "/Music/REAPER/Forever love forever God - Kids Song - A - 60 BPM/Forever love forever God - Kids Song - A - 60 BPM.RPP"
       >
     >
     <ITEM
@@ -211,26 +233,71 @@
         FILE "/Music/REAPER/Holy Forever - Chris Tomlin - Db - 72 BPM/Holy Forever - Chris Tomlin - Db - 72 BPM.RPP"
       >
     >
+  >
+  <TRACK {14750683-C86B-472B-75D5-E75E0F4D4E28}
+    NAME Notes
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    LANEREC -1 -1 -1 0
+    SEL 1
+    REC 0 0 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 289 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {14750683-C86B-472B-75D5-E75E0F4D4E28}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
     <ITEM
-      POSITION 16384
+      POSITION 0
       SNAPOFFS 0
-      LENGTH 296.93430839002269
-      LOOP 1
+      LENGTH 360
+      LOOP 0
       ALLTAKES 0
       FADEIN 1 0 0 1 0 0 0
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {A7137FBF-E29C-3719-9917-B220F40444E5}
-      IID 253
-      NAME "Run To The Father - Cody Carnes - C - 137 BPM.rpp"
+      IGUID {B21C7915-3F35-C86E-4B01-0B871BC466B8}
+      IID 49
+      <NOTES
+        |script running for 7179
+      >
+      IMGRESOURCEFLAGS 11
+      NOTESWND 2326 23 3286 1080
+    >
+    <ITEM
+      POSITION 16384
+      SNAPOFFS 0
+      LENGTH 317.4193541666682
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {75F67D29-EBA8-8640-A60B-88700CB66F9C}
+      IID 8
+      NAME "Perfect God - G - 62 BPM.rpp"
       VOLPAN 1 0 1 -1
       SOFFS 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {9C2ACD69-58C7-8620-84C4-5FBEBA0A5210}
+      GUID {BA1785EE-4297-DE64-AAB8-C15C06C747CD}
       <SOURCE RPP_PROJECT
-        FILE "/Music/REAPER/Run To The Father - Cody Carnes - C - 137 BPM/Run To The Father - Cody Carnes - C - 137 BPM.rpp"
+        FILE "/Music/REAPER/Perfect God - G - 62 BPM/Perfect God - G - 62 BPM.rpp"
       >
     >
   >
@@ -249,10 +316,10 @@
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
     FIXEDLANES 9 0 0 0 0
     LANEREC -1 -1 -1 0
-    SEL 1
+    SEL 0
     REC 0 0 1 0 0 0 0 0
     VU 64
-    TRACKHEIGHT 405 0 0 0 0 0 0
+    TRACKHEIGHT 0 0 0 0 0 0 0
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 2
     FX 1
@@ -263,28 +330,6 @@
     MAINSEND 0 0
     HWOUT 16 0 1 0 0 0 0 -1:U -1
     HWOUT 516 0 1 0 0 0 0 -1:U -1
-    <ITEM
-      POSITION 8192
-      SNAPOFFS 0
-      LENGTH 123.89437641723356
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0 0
-      FADEOUT 1 0 0 1 0 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {72ABE14E-1898-1821-091B-87A5C77ADFD9}
-      IID 101
-      NAME Thankful-instrumental.mp3
-      VOLPAN 1 0 1 -1
-      SOFFS 0
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {6534E987-CA0E-8566-90F3-64D891741882}
-      <SOURCE MP3
-        FILE "/Downloads/Thankful-instrumental.mp3" 1
-      >
-    >
     <ITEM
       POSITION 28672
       SNAPOFFS 0
