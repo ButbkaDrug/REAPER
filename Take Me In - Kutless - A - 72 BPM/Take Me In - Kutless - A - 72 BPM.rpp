@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "7.59/linux-x86_64" 1770031038 0
+<REAPER_PROJECT 0.1 "7.59/linux-x86_64" 1772950229 0
   <NOTES 0 2
   >
   RIPPLE 0 0
@@ -20,7 +20,7 @@
   PANMODE 3
   PANLAWFLAGS 3
   CURSOR 0
-  ZOOM 4.59810904021551 0 0
+  ZOOM 99.71552795822187 0 0
   VZOOMEX 2.5999999 0
   USE_REC_CFG 0
   RECMODE 1
@@ -76,7 +76,7 @@
   MASTERTRACKVIEW 1 0.6667 0.5 0.5 0 -1 0 0 0 0 0 0 0 0 0
   MASTERHWOUT 0 0 1 0 0 0 0 -1
   MASTER_NCH 2 2
-  MASTER_VOLUME 0.70462939198009 0 -1 -1 1
+  MASTER_VOLUME 1 0 -1 -1 1
   MASTER_PANMODE 3
   MASTER_PANLAWFLAGS 3
   MASTER_FX 1
@@ -162,7 +162,7 @@
       FADEIN 1 0 0 1 0 0 0
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
-      SEL 1
+      SEL 0
       IGUID {49E6BC2C-7A6B-4F1E-84EB-9DB1A26D5593}
       IID 7
       NAME "Click source"
@@ -175,10 +175,10 @@
         AUTO 1 0
         BPM 72
         BPI 4 4
-        VOL 1 1
-        BEATLEN 12
-        FREQ 3000 1760 1
-        SAMPLES "/Music/Assets/Clicks/New Click -  Blip-accents.wav" "/Music/Assets/Clicks/New Click -  Blip-sixteenth.wav" "" ""
+        VOL 0.501187 0.501187
+        BEATLEN 37
+        FREQ 2700 2000 3
+        SAMPLES "" "" "" ""
         SPLIGNORE 0 0
         SPLDEF 2 660 "" 0 ""
         SPLDEF 3 440 "" 0 ""
@@ -203,7 +203,7 @@
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
     FIXEDLANES 9 0 0 0 0
     LANEREC -1 -1 -1 0
-    SEL 0
+    SEL 1
     REC 0 0 1 0 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0 0 0 0 0
@@ -223,7 +223,7 @@
       FADEIN 1 0 0 1 0 0 0
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
-      SEL 0
+      SEL 1
       IGUID {34CE68EB-9E02-4B86-B0E0-2551F29312EF}
       IID 1
       NAME "English Female - 1.wav"
@@ -233,7 +233,7 @@
       CHANMODE 0
       GUID {A2764D02-20EF-419D-B82F-32CE271B2F93}
       <SOURCE WAVE
-        FILE "Media/English Female - 1.wav"
+        FILE "/Music/Assets/Cues/English Female - 1.wav"
       >
     >
     <ITEM
@@ -255,7 +255,7 @@
       CHANMODE 0
       GUID {46F004AC-B1A0-4284-9985-6A192098B072}
       <SOURCE WAVE
-        FILE "Media/English Female - 2.wav"
+        FILE "/Music/Assets/Cues/English Female - 2.wav"
       >
     >
     <ITEM
@@ -277,7 +277,7 @@
       CHANMODE 0
       GUID {C3B7DB7B-FD65-426B-B460-45693A57427D}
       <SOURCE WAVE
-        FILE "Media/English Female - Intro.wav"
+        FILE "/Music/Assets/Cues/English Female - Intro.wav"
       >
     >
     <ITEM
@@ -299,7 +299,7 @@
       CHANMODE 0
       GUID {1A8E7E08-212A-4044-9723-E4C56BD889FB}
       <SOURCE WAVE
-        FILE "Media/English Female - 3.wav"
+        FILE "/Music/Assets/Cues/English Female - 3.wav"
       >
     >
     <ITEM
@@ -321,7 +321,7 @@
       CHANMODE 0
       GUID {BC93498F-8BB7-4AE2-B105-55D4E6C54427}
       <SOURCE WAVE
-        FILE "Media/English Female - 4.wav"
+        FILE "/Music/Assets/Cues/English Female - 4.wav"
       >
     >
     <ITEM
@@ -343,7 +343,7 @@
       CHANMODE 0
       GUID {C572A1AC-4631-482E-8F32-B57D44320BF7}
       <SOURCE WAVE
-        FILE "Media/English Female - Intro.wav"
+        FILE "/Music/Assets/Cues/English Female - Intro.wav"
       >
     >
     <ITEM
@@ -365,7 +365,7 @@
       CHANMODE 0
       GUID {9903453F-48BF-4897-9E7E-1C4388AFE378}
       <SOURCE WAVE
-        FILE "Media/English Female - 3.wav"
+        FILE "/Music/Assets/Cues/English Female - 3.wav"
       >
     >
     <ITEM
@@ -387,7 +387,7 @@
       CHANMODE 0
       GUID {13AF6203-D6FA-4E87-9638-5B0ED5CF5B9E}
       <SOURCE WAVE
-        FILE "Media/English Female - 4.wav"
+        FILE "/Music/Assets/Cues/English Female - 4.wav"
       >
     >
     <ITEM
@@ -409,7 +409,7 @@
       CHANMODE 0
       GUID {4D21F2C2-A3D8-4D8E-A425-3A6108F22C05}
       <SOURCE WAVE
-        FILE "Media/English Female - Verse.wav"
+        FILE "/Music/Assets/Cues/English Female - Verse.wav"
       >
     >
     <ITEM
@@ -431,7 +431,7 @@
       CHANMODE 0
       GUID {7C8F3553-70BA-441F-BAE7-C4D5A3B1174A}
       <SOURCE WAVE
-        FILE "Media/English Female - 3.wav"
+        FILE "/Music/Assets/Cues/English Female - 3.wav"
       >
     >
     <ITEM
@@ -453,7 +453,7 @@
       CHANMODE 0
       GUID {D01BD7B0-E18F-47CF-9D75-2EEBE23569D8}
       <SOURCE WAVE
-        FILE "Media/English Female - 4.wav"
+        FILE "/Music/Assets/Cues/English Female - 4.wav"
       >
     >
     <ITEM
@@ -475,7 +475,7 @@
       CHANMODE 0
       GUID {B285C312-0424-4956-B5A1-20CE8895C904}
       <SOURCE WAVE
-        FILE "Media/English Female - Chorus.wav"
+        FILE "/Music/Assets/Cues/English Female - Chorus.wav"
       >
     >
     <ITEM
@@ -497,7 +497,7 @@
       CHANMODE 0
       GUID {94F8B080-F9EC-49A8-9844-538B99E10660}
       <SOURCE WAVE
-        FILE "Media/English Female - 3.wav"
+        FILE "/Music/Assets/Cues/English Female - 3.wav"
       >
     >
     <ITEM
@@ -519,7 +519,7 @@
       CHANMODE 0
       GUID {EBE0BCE6-0458-46BC-96AA-27A38761454D}
       <SOURCE WAVE
-        FILE "Media/English Female - 4.wav"
+        FILE "/Music/Assets/Cues/English Female - 4.wav"
       >
     >
     <ITEM
@@ -541,7 +541,7 @@
       CHANMODE 0
       GUID {B857216D-3B19-4766-BE62-1A08BB4823A7}
       <SOURCE WAVE
-        FILE "Media/English Female - Verse.wav"
+        FILE "/Music/Assets/Cues/English Female - Verse.wav"
       >
     >
     <ITEM
@@ -563,7 +563,7 @@
       CHANMODE 0
       GUID {E0563961-D733-4BFD-B52E-D7E4DFCE0A72}
       <SOURCE WAVE
-        FILE "Media/English Female - 3.wav"
+        FILE "/Music/Assets/Cues/English Female - 3.wav"
       >
     >
     <ITEM
@@ -585,7 +585,7 @@
       CHANMODE 0
       GUID {03D48BAB-89A0-4069-B2F0-AF1AE5565A19}
       <SOURCE WAVE
-        FILE "Media/English Female - 4.wav"
+        FILE "/Music/Assets/Cues/English Female - 4.wav"
       >
     >
     <ITEM
@@ -607,7 +607,7 @@
       CHANMODE 0
       GUID {325E7C22-B1AD-4B54-8DCA-959A78BE4299}
       <SOURCE WAVE
-        FILE "Media/English Female - Chorus.wav"
+        FILE "/Music/Assets/Cues/English Female - Chorus.wav"
       >
     >
     <ITEM
@@ -629,7 +629,7 @@
       CHANMODE 0
       GUID {AA365706-F27A-4614-8A5B-BB217238EC32}
       <SOURCE WAVE
-        FILE "Media/English Female - 3.wav"
+        FILE "/Music/Assets/Cues/English Female - 3.wav"
       >
     >
     <ITEM
@@ -651,7 +651,7 @@
       CHANMODE 0
       GUID {ABDC2C4B-E0D6-4B00-9768-6977956A47E3}
       <SOURCE WAVE
-        FILE "Media/English Female - 4.wav"
+        FILE "/Music/Assets/Cues/English Female - 4.wav"
       >
     >
     <ITEM
@@ -673,7 +673,7 @@
       CHANMODE 0
       GUID {66F88F4C-8995-494D-BA97-1BA9926C241D}
       <SOURCE WAVE
-        FILE "Media/English Female - Intro.wav"
+        FILE "/Music/Assets/Cues/English Female - Intro.wav"
       >
     >
     <ITEM
@@ -695,7 +695,7 @@
       CHANMODE 0
       GUID {2183F1AE-F632-4971-8176-CE234CF7560E}
       <SOURCE WAVE
-        FILE "Media/English Female - 3.wav"
+        FILE "/Music/Assets/Cues/English Female - 3.wav"
       >
     >
     <ITEM
@@ -717,7 +717,7 @@
       CHANMODE 0
       GUID {AF888B48-7CAA-439B-AFA5-1B20EB620E34}
       <SOURCE WAVE
-        FILE "Media/English Female - 4.wav"
+        FILE "/Music/Assets/Cues/English Female - 4.wav"
       >
     >
     <ITEM
@@ -739,7 +739,7 @@
       CHANMODE 0
       GUID {6EF8736A-8DD1-4D9A-A142-83C529DD3F22}
       <SOURCE WAVE
-        FILE "Media/English Female - Intro.wav"
+        FILE "/Music/Assets/Cues/English Female - Intro.wav"
       >
     >
     <ITEM
@@ -761,7 +761,7 @@
       CHANMODE 0
       GUID {F843853A-E53E-4702-A718-DBF1A6634424}
       <SOURCE WAVE
-        FILE "Media/English Female - 3.wav"
+        FILE "/Music/Assets/Cues/English Female - 3.wav"
       >
     >
     <ITEM
@@ -783,7 +783,7 @@
       CHANMODE 0
       GUID {C8F888E7-7D23-4D11-83A2-4FE6A0C56CD5}
       <SOURCE WAVE
-        FILE "Media/English Female - 4.wav"
+        FILE "/Music/Assets/Cues/English Female - 4.wav"
       >
     >
     <ITEM
@@ -805,7 +805,7 @@
       CHANMODE 0
       GUID {182080F2-56DE-42DF-B93A-8D33A67716F6}
       <SOURCE WAVE
-        FILE "Media/English Female - Verse.wav"
+        FILE "/Music/Assets/Cues/English Female - Verse.wav"
       >
     >
     <ITEM
@@ -827,7 +827,7 @@
       CHANMODE 0
       GUID {D6D9F55D-369B-4508-A85B-1ACE3670CBB2}
       <SOURCE WAVE
-        FILE "Media/English Female - 3.wav"
+        FILE "/Music/Assets/Cues/English Female - 3.wav"
       >
     >
     <ITEM
@@ -849,7 +849,7 @@
       CHANMODE 0
       GUID {0FB7FC12-EE68-47C1-8888-1C8435C0B730}
       <SOURCE WAVE
-        FILE "Media/English Female - 4.wav"
+        FILE "/Music/Assets/Cues/English Female - 4.wav"
       >
     >
     <ITEM
@@ -871,7 +871,7 @@
       CHANMODE 0
       GUID {35B93E57-DDC3-4A9B-81DA-99CF5B2CDCB7}
       <SOURCE WAVE
-        FILE "Media/English Female - Chorus.wav"
+        FILE "/Music/Assets/Cues/English Female - Chorus.wav"
       >
     >
     <ITEM
@@ -893,7 +893,7 @@
       CHANMODE 0
       GUID {FDDD93C7-5173-45F6-90CA-97E0833575E7}
       <SOURCE WAVE
-        FILE "Media/English Female - 3.wav"
+        FILE "/Music/Assets/Cues/English Female - 3.wav"
       >
     >
     <ITEM
@@ -915,7 +915,7 @@
       CHANMODE 0
       GUID {DC30A05B-1D99-4C2D-8AD7-D806C3E52B1D}
       <SOURCE WAVE
-        FILE "Media/English Female - 4.wav"
+        FILE "/Music/Assets/Cues/English Female - 4.wav"
       >
     >
     <ITEM
@@ -937,7 +937,7 @@
       CHANMODE 0
       GUID {78D020C1-46B1-49A2-90F2-F685CD8F0F43}
       <SOURCE WAVE
-        FILE "Media/English Female - Chorus.wav"
+        FILE "/Music/Assets/Cues/English Female - Chorus.wav"
       >
     >
     <ITEM
@@ -959,7 +959,7 @@
       CHANMODE 0
       GUID {835A7DD9-7F1B-4F4C-9A16-29CC0F04B0BA}
       <SOURCE WAVE
-        FILE "Media/English Female - 3.wav"
+        FILE "/Music/Assets/Cues/English Female - 3.wav"
       >
     >
     <ITEM
@@ -981,7 +981,7 @@
       CHANMODE 0
       GUID {C33F9BC1-DA48-41EB-8DED-AEB5A2546370}
       <SOURCE WAVE
-        FILE "Media/English Female - 4.wav"
+        FILE "/Music/Assets/Cues/English Female - 4.wav"
       >
     >
     <ITEM
@@ -1003,7 +1003,7 @@
       CHANMODE 0
       GUID {071BBAEB-50DA-4F72-BE77-EAD27FCB54BE}
       <SOURCE WAVE
-        FILE "Media/English Female - Tag.wav"
+        FILE "/Music/Assets/Cues/English Female - Tag.wav"
       >
     >
     <ITEM
@@ -1025,7 +1025,7 @@
       CHANMODE 0
       GUID {BB862C7D-41CF-4F9C-9A43-15C1DBFC23CE}
       <SOURCE WAVE
-        FILE "Media/English Female - 3.wav"
+        FILE "/Music/Assets/Cues/English Female - 3.wav"
       >
     >
     <ITEM
@@ -1047,7 +1047,7 @@
       CHANMODE 0
       GUID {05A1859B-F5B1-4DEE-B06F-F68D0CC68A43}
       <SOURCE WAVE
-        FILE "Media/English Female - 4.wav"
+        FILE "/Music/Assets/Cues/English Female - 4.wav"
       >
     >
     <ITEM
@@ -1069,7 +1069,7 @@
       CHANMODE 0
       GUID {ED7861B5-E7CD-4098-ADE4-74C29B6F10D3}
       <SOURCE WAVE
-        FILE "Media/English Female - Ending.wav"
+        FILE "/Music/Assets/Cues/English Female - Ending.wav"
       >
     >
     <ITEM
@@ -1091,7 +1091,7 @@
       CHANMODE 0
       GUID {A6E05555-12AA-44DC-B07F-C0544BBCAB79}
       <SOURCE WAVE
-        FILE "Media/English Female - 3.wav"
+        FILE "/Music/Assets/Cues/English Female - 3.wav"
       >
     >
     <ITEM
@@ -1113,7 +1113,7 @@
       CHANMODE 0
       GUID {B46CCB64-F7C8-4601-80D1-394BE5BFCB75}
       <SOURCE WAVE
-        FILE "Media/English Female - 4.wav"
+        FILE "/Music/Assets/Cues/English Female - 4.wav"
       >
     >
   >

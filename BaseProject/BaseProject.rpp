@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "7.59/linux-x86_64" 1772718236 0
+<REAPER_PROJECT 0.1 "7.59/linux-x86_64" 1772950773 0
   <NOTES 0 2
   >
   RIPPLE 0 0
@@ -19,8 +19,8 @@
   VIDEO_CONFIG 0 0 65792
   PANMODE 3
   PANLAWFLAGS 3
-  CURSOR 16384
-  ZOOM 0.29050411489352 3498 0
+  CURSOR 20796
+  ZOOM 12.48146284168349 259408 0
   VZOOMEX 14.97439003 0
   USE_REC_CFG 0
   RECMODE 2
@@ -126,10 +126,10 @@
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
     FIXEDLANES 9 0 0 0 0
     LANEREC -1 -1 -1 0
-    SEL 0
+    SEL 1
     REC 0 0 1 0 0 0 0 0
     VU 64
-    TRACKHEIGHT 0 0 0 0 0 0 0
+    TRACKHEIGHT 497 0 0 0 0 0 0
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 4
     FX 1
@@ -214,90 +214,67 @@
     <ITEM
       POSITION 12288
       SNAPOFFS 0
-      LENGTH 300
+      LENGTH 250
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0 0 1 0 0 0
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {79A3E86C-4142-53A8-4829-8DD09BCCD2A8}
-      IID 252
-      NAME "Holy Forever - Chris Tomlin - Db - 72 BPM.RPP"
+      IGUID {6C646FAA-B562-6E40-F922-FFABBCB1DC88}
+      IID 49
+      NAME "Take Me In - Kutless - A - 72 BPM.rpp"
       VOLPAN 1 0 1 -1
       SOFFS 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {0AD154E1-312C-8F65-3E05-CEF56418FD5F}
+      GUID {06E783C1-23F7-2281-D90D-FBC65740D84A}
       <SOURCE RPP_PROJECT
-        FILE "/Music/REAPER/Holy Forever - Chris Tomlin - Db - 72 BPM/Holy Forever - Chris Tomlin - Db - 72 BPM.RPP"
+        FILE "/Music/REAPER/Take Me In - Kutless - A - 72 BPM/Take Me In - Kutless - A - 72 BPM.rpp"
       >
     >
-  >
-  <TRACK {14750683-C86B-472B-75D5-E75E0F4D4E28}
-    NAME Notes
-    PEAKCOL 16576
-    BEAT -1
-    AUTOMODE 0
-    PANLAWFLAGS 3
-    VOLPAN 1 0 -1 -1 1
-    MUTESOLO 0 0 0
-    IPHASE 0
-    PLAYOFFS 0 1
-    ISBUS 0 0
-    BUSCOMP 0 0 0 0 0
-    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
-    FIXEDLANES 9 0 0 0 0
-    LANEREC -1 -1 -1 0
-    SEL 1
-    REC 0 0 1 0 0 0 0 0
-    VU 64
-    TRACKHEIGHT 289 0 0 0 0 0 0
-    INQ 0 0 0 0.5 100 0 0 100
-    NCHAN 2
-    FX 1
-    TRACKID {14750683-C86B-472B-75D5-E75E0F4D4E28}
-    PERF 0
-    MIDIOUT -1
-    MAINSEND 1 0
     <ITEM
-      POSITION 0
+      POSITION 16384
       SNAPOFFS 0
-      LENGTH 360
-      LOOP 0
+      LENGTH 317.41935416666666
+      LOOP 1
       ALLTAKES 0
       FADEIN 1 0 0 1 0 0 0
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {B21C7915-3F35-C86E-4B01-0B871BC466B8}
+      IGUID {E44FDD71-FA3A-9EEF-0723-97A9350042FC}
       IID 49
-      <NOTES
-        |script running for 7179
+      NAME "Perfect God - G - 62 BPM.rpp"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9ADFC779-5C77-CF16-49FE-AFAB31EBBF70}
+      <SOURCE RPP_PROJECT
+        FILE "/Music/REAPER/Perfect God - G - 62 BPM/Perfect God - G - 62 BPM.rpp"
       >
-      IMGRESOURCEFLAGS 11
-      NOTESWND 2326 23 3286 1080
     >
     <ITEM
-      POSITION 16384
+      POSITION 20480
       SNAPOFFS 0
-      LENGTH 317.4193541666682
+      LENGTH 324.82759637188207
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0 0 1 0 0 0
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
       SEL 1
-      IGUID {75F67D29-EBA8-8640-A60B-88700CB66F9C}
-      IID 8
-      NAME "Perfect God - G - 62 BPM.rpp"
+      IGUID {39EC0A9D-BCDE-F4D8-C0A4-87C17585AA09}
+      IID 7
+      NAME "Blessed Be Your Name - Matt Redman - G - 116 BPM(Original).RPP"
       VOLPAN 1 0 1 -1
       SOFFS 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {BA1785EE-4297-DE64-AAB8-C15C06C747CD}
+      GUID {5B4E743E-4078-E797-2454-7E47033CF30E}
       <SOURCE RPP_PROJECT
-        FILE "/Music/REAPER/Perfect God - G - 62 BPM/Perfect God - G - 62 BPM.rpp"
+        FILE "/Music/REAPER/Blessed Be Your Name - Matt Redman - G - 116 BPM(Original)/Blessed Be Your Name - Matt Redman - G - 116 BPM(Original).RPP"
       >
     >
   >
@@ -319,7 +296,7 @@
     SEL 0
     REC 0 0 1 0 0 0 0 0
     VU 64
-    TRACKHEIGHT 0 0 0 0 0 0 0
+    TRACKHEIGHT 178 0 0 0 0 0 0
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 2
     FX 1
