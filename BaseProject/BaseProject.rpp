@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "7.66/linux-x86_64" 1773914800 0
+<REAPER_PROJECT 0.1 "7.66/linux-x86_64" 1775129253 0
   <NOTES 0 2
   >
   RIPPLE 0 0
@@ -19,8 +19,8 @@
   VIDEO_CONFIG 0 0 65792
   PANMODE 3
   PANLAWFLAGS 3
-  CURSOR 0
-  ZOOM 0.10417362560568 0 0
+  CURSOR 15872
+  ZOOM 0.03735624975849 0 0
   VZOOMEX 14.97439003 0
   USE_REC_CFG 0
   RECMODE 2
@@ -68,8 +68,8 @@
   GLOBAL_AUTO -1
   TEMPO 120 4 4 0
   PLAYRATE 1 0 0.25 4
-  SELECTION 0 0
-  SELECTION2 0 0
+  SELECTION 23296 0
+  SELECTION2 23296 0
   MASTERAUTOMODE 0
   MASTERTRACKHEIGHT 0 0
   MASTERPEAKCOL 16576
@@ -151,133 +151,111 @@
     <ITEM
       POSITION 0
       SNAPOFFS 0
-      LENGTH 324.82759637188207
+      LENGTH 300
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0 0 1 0 0 0
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
-      SEL 1
-      IGUID {88FB997B-FF3B-F73E-537A-B33052E79B2C}
-      IID 3735
-      NAME "Blessed Be Your Name - Matt Redman - G - 116 BPM(Original).RPP"
+      SEL 0
+      IGUID {97BC52CA-C06D-80D0-1A00-BC8B065C9252}
+      IID 3944
+      NAME "Holy Forever - Chris Tomlin - Db - 72 BPM.RPP"
       VOLPAN 1 0 1 -1
       SOFFS 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {969E54BC-E593-D616-D6C1-C694A119765C}
+      GUID {E755D1B2-21E0-C1EA-0CFB-8AEA39FDB6E3}
       <SOURCE RPP_PROJECT
-        FILE "/Music/REAPER/Blessed Be Your Name - Matt Redman - G - 116 BPM(Original)/Blessed Be Your Name - Matt Redman - G - 116 BPM(Original).RPP"
+        FILE "/Music/REAPER/Holy Forever - Chris Tomlin - Db - 72 BPM/Holy Forever - Chris Tomlin - Db - 72 BPM.RPP"
       >
     >
     <ITEM
       POSITION 4096
       SNAPOFFS 0
-      LENGTH 219.06977324263039
+      LENGTH 340
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0 0 1 0 0 0
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
-      SEL 1
-      IGUID {E07AB328-E3C6-B0F0-A916-38D0E46115FE}
-      IID 3736
-      NAME "Praise - Seph Schlueter - A - 129 BPM.RPP"
+      SEL 0
+      IGUID {EC8AF04B-45F2-9B2F-3098-EAF0A5F93C3E}
+      IID 3945
+      NAME "Build My Life - Patt Barat - G - 72 BPM.rpp"
       VOLPAN 1 0 1 -1
       SOFFS 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {626BD4D3-7E99-F4F8-E3DB-1A7A12C89DEF}
+      GUID {FF6B1E81-47C1-F42A-65DA-00329DEB2FD6}
       <SOURCE RPP_PROJECT
-        FILE "/Music/REAPER/Praise - Seph Schlueter - A - 129 BPM/Praise - Seph Schlueter - A - 129 BPM.RPP"
+        FILE "/Music/REAPER/Build My Life - Patt Barat - G - 72 BPM/Build My Life - Patt Barat - G - 72 BPM.rpp"
       >
     >
     <ITEM
       POSITION 8192
       SNAPOFFS 0
-      LENGTH 176.42727891156463
+      LENGTH 190.71429166666667
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0 0 1 0 0 0
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
-      SEL 1
-      IGUID {23069E36-193E-558D-997F-CF1A83734F66}
-      IID 3737
-      NAME "Ya Noviy - Nuteki Worship - Ab - 131 BPM.RPP"
+      SEL 0
+      IGUID {6AF2CC5B-6908-447A-1269-6391F81DDA82}
+      IID 3946
+      NAME "I'm Trusting You - Kids Song - A- 112 BPM .RPP"
       VOLPAN 1 0 1 -1
       SOFFS 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {A39AF5D6-B4F1-3C8C-EB7D-89AD46B06F74}
+      GUID {FC247A23-3A33-5A6E-1FB5-C4345C45279F}
       <SOURCE RPP_PROJECT
-        FILE "/Music/REAPER/Ya Noviy - Nuteki Worship - Ab - 131 BPM/Ya Noviy - Nuteki Worship - Ab - 131 BPM.RPP"
+        FILE "/Music/REAPER/I'm Trusting You - Kids Song - A- 112 BPM /I'm Trusting You - Kids Song - A- 112 BPM .RPP"
       >
     >
     <ITEM
       POSITION 12288
       SNAPOFFS 0
-      LENGTH 297.93104166666666
+      LENGTH 317.83783333333332
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0 0 1 0 0 0
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
-      SEL 1
-      IGUID {53D9FC1E-AB92-E8D2-C729-7D8172C8E77A}
-      IID 3738
-      NAME "10000 Reasons - Matt Radman - G - 72 BPM.rpp"
+      SEL 0
+      IGUID {F20094D7-E845-7549-5888-E7BB66C76F76}
+      IID 3949
+      NAME "One Thing Remains - Bethel Music - Bb - 74 BPM.RPP"
       VOLPAN 1 0 1 -1
       SOFFS 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {7EB1F6A5-62D1-062A-103C-C57BF499F8CB}
+      GUID {1B24BBEF-6EEF-F297-760B-291C0D18A8C4}
       <SOURCE RPP_PROJECT
-        FILE "/Music/REAPER/10000 Reasons - Matt Radman - G - 72 BPM/10000 Reasons - Matt Radman - G - 72 BPM.rpp"
+        FILE "/Music/REAPER/One Thing Remains - Bethel Music - Bb - 74 BPM/One Thing Remains - Bethel Music - Bb - 74 BPM.RPP"
       >
     >
     <ITEM
       POSITION 16384
       SNAPOFFS 0
-      LENGTH 363.02777083333331
+      LENGTH 407.67122448979592
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0 0 1 0 0 0
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
-      SEL 1
-      IGUID {C047DE54-5B05-BDEF-37D6-2421FE8B4E2D}
-      IID 3739
-      NAME "Worthy - Elevation Worship - Eb - 67,50 BPM.rpp"
+      SEL 0
+      IGUID {92B62D4D-858C-E023-8556-6DCC1D062050}
+      IID 3973
+      NAME "Have It All - Bethel Music - G - 73 BPM.rpp"
       VOLPAN 1 0 1 -1
       SOFFS 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {DB4AA7C3-D633-F2E2-27F1-76F645E18585}
+      GUID {88C34916-6569-B9AE-4AFE-5E5C76E3808F}
       <SOURCE RPP_PROJECT
-        FILE "/Music/REAPER/Worthy - Elevation Worship - Eb - 67,50 BPM/Worthy - Elevation Worship - Eb - 67,50 BPM.rpp"
-      >
-    >
-    <ITEM
-      POSITION 20480
-      SNAPOFFS 0
-      LENGTH 324.82759637188207
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0 0
-      FADEOUT 1 0 0 1 0 0 0
-      MUTE 0 0
-      SEL 1
-      IGUID {39EC0A9D-BCDE-F4D8-C0A4-87C17585AA09}
-      IID 7
-      NAME "Blessed Be Your Name - Matt Redman - G - 116 BPM(Original).RPP"
-      VOLPAN 1 0 1 -1
-      SOFFS 0
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {5B4E743E-4078-E797-2454-7E47033CF30E}
-      <SOURCE RPP_PROJECT
-        FILE "/Music/REAPER/Blessed Be Your Name - Matt Redman - G - 116 BPM(Original)/Blessed Be Your Name - Matt Redman - G - 116 BPM(Original).RPP"
+        FILE "/Music/REAPER/Have It All - Bethel Music - G - 73 BPM/Have It All - Bethel Music - G - 73 BPM.rpp"
       >
     >
   >
