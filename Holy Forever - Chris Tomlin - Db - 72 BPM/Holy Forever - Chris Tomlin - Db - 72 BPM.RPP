@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "7.59/linux-x86_64" 1772949936 0
+<REAPER_PROJECT 0.1 "7.55/macOS-arm64" 1775143034 0
   <NOTES 0 2
   >
   RIPPLE 0 0
@@ -251,7 +251,7 @@
     BEAT -1
     AUTOMODE 0
     PANLAWFLAGS 3
-    VOLPAN 1 0 -1 -1 1
+    VOLPAN 1.28351656094823 0 -1 -1 1
     MUTESOLO 0 0 0
     IPHASE 0
     PLAYOFFS 0 1
@@ -887,7 +887,5 @@
         FILE "/Music/Assets/Cues/English Female - Breakdown.wav"
       >
     >
-  >
-  <EXTENSIONS
   >
 >
