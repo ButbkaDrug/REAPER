@@ -26,7 +26,7 @@ Now all I know
 #2m7 1/3 5
 Your forgiveness and embrace
 
-[ Chorus ]
+[ Chorus 1 ]
 Worthy is the Lamb
 Seated on the throne
 Crown You now with many crowns
@@ -54,11 +54,13 @@ Worthy is the Lamb
 Тобой омыта жизнь моя и знаю я
 Ты навсегда простил меня
 
-[ Chorus R ]
+[ Chorus 1 R ]
 Агнец в небесах
 Вознесён на трон
 Коронован на века
 В победе правит Он
+
+[ Chorus 2 R ]
 Принял всю хвалу
 Божий Сын Иисус
 Подарок небесный был распят

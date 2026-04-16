@@ -10,3 +10,5 @@
 *.reapindex
 *.m4a
 *.zip
+*.log
+*.DS_Store
