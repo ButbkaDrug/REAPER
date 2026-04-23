@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "7.66/linux-x86_64" 1776312793 0
+<REAPER_PROJECT 0.1 "7.66/linux-x86_64" 1776947518 0
   <NOTES 0 2
   >
   RIPPLE 0 0
@@ -19,8 +19,8 @@
   VIDEO_CONFIG 0 0 65792
   PANMODE 3
   PANLAWFLAGS 3
-  CURSOR 0
-  ZOOM 4.47580316566982 0 0
+  CURSOR 16402
+  ZOOM 4.47580316566982 73242 0
   VZOOMEX 14.97439003 0
   USE_REC_CFG 0
   RECMODE 2
@@ -151,89 +151,111 @@
     <ITEM
       POSITION 0
       SNAPOFFS 0
-      LENGTH 311.48936507936509
+      LENGTH 285.71428571428572
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0 0 1 0 0 0
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {0DBD55D2-BBD9-FB19-8295-30E7279EC60C}
-      IID 4202
-      NAME "Then He Rose - Elevation Worship - B - 94 BPM.RPP"
+      IGUID {7CABB168-2E6A-23FD-588A-FD103FCD7EB1}
+      IID 4470
+      NAME "Our God - Chris Tomlin - B - 105 BPM.RPP"
       VOLPAN 1 0 1 -1
       SOFFS 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {A3708F5D-E818-3622-CA62-B006A8D37DDE}
+      GUID {D277E155-452F-320A-8799-1A8A4AE1CAE8}
       <SOURCE RPP_PROJECT
-        FILE "/Music/REAPER/Then He Rose - Elevation Worship - B - 94 BPM/Then He Rose - Elevation Worship - B - 94 BPM.RPP"
+        FILE "/Music/REAPER/Our God - Chris Tomlin - B - 105 BPM/Our God - Chris Tomlin - B - 105 BPM.RPP"
       >
     >
     <ITEM
       POSITION 4096
       SNAPOFFS 0
-      LENGTH 283.33333333333331
+      LENGTH 329.97689342403629
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0 0 1 0 0 0
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {968B0981-A330-2AA0-2E0C-691382BA7464}
-      IID 4461
-      NAME "Living Hope - Phil Wickham - Eb - 74 BPM.RPP"
+      IGUID {65A10151-B5BB-5A62-A835-53EBABC530CC}
+      IID 4471
+      NAME "Psalm 46 - Capital City Music - Ab - 69 BPM.RPP"
       VOLPAN 1 0 1 -1
       SOFFS 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {366A9ED3-79B9-EA2E-A7E2-C1ECD38A8C9B}
+      GUID {1F97CB34-E8D2-EAC3-4A7A-82D86125C9F4}
       <SOURCE RPP_PROJECT
-        FILE "/Music/REAPER/Living Hope - Phil Wickham - Eb - 74 BPM/Living Hope - Phil Wickham - Eb - 74 BPM.RPP"
+        FILE "/Music/REAPER/Psalm 46 - Capital City Music - Ab - 69 BPM/Psalm 46 - Capital City Music - Ab - 69 BPM.RPP"
+      >
+    >
+    <ITEM
+      POSITION 8192
+      SNAPOFFS 0
+      LENGTH 151.80783333333332
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {10596358-35B2-DB71-A665-6178AB234BF6}
+      IID 4474
+      NAME "Stand Together - Kids Song - A - 60 BPM.RPP"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D190A12D-0286-A157-1431-AE36B50E50F4}
+      <SOURCE RPP_PROJECT
+        FILE "/Music/REAPER/Stand Together - Kids Song - A - 60 BPM/Stand Together - Kids Song - A - 60 BPM.RPP"
       >
     >
     <ITEM
       POSITION 12288
       SNAPOFFS 0
-      LENGTH 290
+      LENGTH 320.23256235827665
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0 0 1 0 0 0
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {B09D8C10-93AC-E31A-837F-E0B87E92D3E1}
-      IID 4462
-      NAME "At The Cross (Love Ran Red) - Chris Tomlin - Ab - 73 BPM.rpp"
+      IGUID {F6CFACC4-1170-0C6B-3F79-DD7E4D69B34B}
+      IID 4475
+      NAME "Who You Say I Am - G - 84 BPM.rpp"
       VOLPAN 1 0 1 -1
       SOFFS 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {6451DA42-47E7-1F86-9ED0-84F85A2C5940}
+      GUID {4A94EDF5-7A64-6FD9-47A0-E2CAB6CA2EC7}
       <SOURCE RPP_PROJECT
-        FILE "/Music/REAPER/At The Cross (Love Ran Red) - Chris Tomlin - Ab - 73 BPM/At The Cross (Love Ran Red) - Chris Tomlin - Ab - 73 BPM.rpp"
+        FILE "/Music/REAPER/Who You Say I Am - G - 84 BPM/Who You Say I Am - G - 84 BPM.rpp"
       >
     >
     <ITEM
       POSITION 16384
       SNAPOFFS 0
-      LENGTH 297.3396371882086
+      LENGTH 402.02533333333332
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0 0 1 0 0 0
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
-      SEL 0
-      IGUID {01DCFB11-F5C1-E302-7ABB-5DADAC5AE5AF}
-      IID 4463
-      NAME "Run To The Father - Cody Carnes - C - 137 BPM.rpp"
+      SEL 1
+      IGUID {57F03759-8B45-87D5-1C26-E53DD1E67AE4}
+      IID 4476
+      NAME "Worthy - Elevation Worship - Eb - 67,50 BPM.rpp"
       VOLPAN 1 0 1 -1
       SOFFS 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {3B9D6049-FCD0-11FA-DEEC-3183CED78614}
+      GUID {B22D7A7A-990E-7C3F-EA5D-4905ECF07D03}
       <SOURCE RPP_PROJECT
-        FILE "/Music/REAPER/Run To The Father - Cody Carnes - C - 137 BPM/Run To The Father - Cody Carnes - C - 137 BPM.rpp"
+        FILE "/Music/REAPER/Worthy - Elevation Worship - Eb - 67,50 BPM/Worthy - Elevation Worship - Eb - 67,50 BPM.rpp"
       >
     >
     <ITEM
@@ -245,7 +267,7 @@
       FADEIN 1 0 0 1 0 0 0
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
-      SEL 1
+      SEL 0
       IGUID {4447C343-F9BA-D507-5038-4FA5D365CEE7}
       IID 4466
       NAME "Stand Together - Kids Song - A - 60 BPM.RPP"
@@ -288,28 +310,6 @@
     MAINSEND 0 0
     HWOUT 16 0 1 0 0 0 0 -1:U -1
     HWOUT 516 0 1 0 0 0 0 -1:U -1
-    <ITEM
-      POSITION 8192
-      SNAPOFFS 0
-      LENGTH 167.30993197278912
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0 0
-      FADEOUT 1 0 0 1 0 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {82C780B4-5C8A-A2CA-0018-D9D09205B4E1}
-      IID 4465
-      NAME "God Is For Me (Instrumental).mp3"
-      VOLPAN 1 0 1 -1
-      SOFFS 0
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {EEC92F85-4A80-4C2B-8FD1-9A3263D15E63}
-      <SOURCE MP3
-        FILE "/Downloads/God Is For Me (Instrumental).mp3" 1
-      >
-    >
     <ITEM
       POSITION 28672
       SNAPOFFS 0
