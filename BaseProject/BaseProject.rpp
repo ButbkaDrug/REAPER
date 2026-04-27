@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "7.66/linux-x86_64" 1776947518 0
+<REAPER_PROJECT 0.1 "7.66/linux-x86_64" 1777271959 0
   <NOTES 0 2
   >
   RIPPLE 0 0
@@ -19,8 +19,8 @@
   VIDEO_CONFIG 0 0 65792
   PANMODE 3
   PANLAWFLAGS 3
-  CURSOR 16402
-  ZOOM 4.47580316566982 73242 0
+  CURSOR 24576
+  ZOOM 0.10417362560566 2454 0
   VZOOMEX 14.97439003 0
   USE_REC_CFG 0
   RECMODE 2
@@ -151,133 +151,111 @@
     <ITEM
       POSITION 0
       SNAPOFFS 0
-      LENGTH 285.71428571428572
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0 0
-      FADEOUT 1 0 0 1 0 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {7CABB168-2E6A-23FD-588A-FD103FCD7EB1}
-      IID 4470
-      NAME "Our God - Chris Tomlin - B - 105 BPM.RPP"
-      VOLPAN 1 0 1 -1
-      SOFFS 0
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {D277E155-452F-320A-8799-1A8A4AE1CAE8}
-      <SOURCE RPP_PROJECT
-        FILE "/Music/REAPER/Our God - Chris Tomlin - B - 105 BPM/Our God - Chris Tomlin - B - 105 BPM.RPP"
-      >
-    >
-    <ITEM
-      POSITION 4096
-      SNAPOFFS 0
-      LENGTH 329.97689342403629
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0 0
-      FADEOUT 1 0 0 1 0 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {65A10151-B5BB-5A62-A835-53EBABC530CC}
-      IID 4471
-      NAME "Psalm 46 - Capital City Music - Ab - 69 BPM.RPP"
-      VOLPAN 1 0 1 -1
-      SOFFS 0
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {1F97CB34-E8D2-EAC3-4A7A-82D86125C9F4}
-      <SOURCE RPP_PROJECT
-        FILE "/Music/REAPER/Psalm 46 - Capital City Music - Ab - 69 BPM/Psalm 46 - Capital City Music - Ab - 69 BPM.RPP"
-      >
-    >
-    <ITEM
-      POSITION 8192
-      SNAPOFFS 0
-      LENGTH 151.80783333333332
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0 0
-      FADEOUT 1 0 0 1 0 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {10596358-35B2-DB71-A665-6178AB234BF6}
-      IID 4474
-      NAME "Stand Together - Kids Song - A - 60 BPM.RPP"
-      VOLPAN 1 0 1 -1
-      SOFFS 0
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {D190A12D-0286-A157-1431-AE36B50E50F4}
-      <SOURCE RPP_PROJECT
-        FILE "/Music/REAPER/Stand Together - Kids Song - A - 60 BPM/Stand Together - Kids Song - A - 60 BPM.RPP"
-      >
-    >
-    <ITEM
-      POSITION 12288
-      SNAPOFFS 0
-      LENGTH 320.23256235827665
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0 0
-      FADEOUT 1 0 0 1 0 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {F6CFACC4-1170-0C6B-3F79-DD7E4D69B34B}
-      IID 4475
-      NAME "Who You Say I Am - G - 84 BPM.rpp"
-      VOLPAN 1 0 1 -1
-      SOFFS 0
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {4A94EDF5-7A64-6FD9-47A0-E2CAB6CA2EC7}
-      <SOURCE RPP_PROJECT
-        FILE "/Music/REAPER/Who You Say I Am - G - 84 BPM/Who You Say I Am - G - 84 BPM.rpp"
-      >
-    >
-    <ITEM
-      POSITION 16384
-      SNAPOFFS 0
-      LENGTH 402.02533333333332
+      LENGTH 263.87745833333332
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0 0 1 0 0 0
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
       SEL 1
-      IGUID {57F03759-8B45-87D5-1C26-E53DD1E67AE4}
-      IID 4476
-      NAME "Worthy - Elevation Worship - Eb - 67,50 BPM.rpp"
+      IGUID {ED88A1C1-AD9B-2D96-8CD7-9A239F62B5AA}
+      IID 4485
+      NAME "Amazing Grace (My Chains Are Gone) - Chris Tomlin - G - 63 BPM.RPP"
       VOLPAN 1 0 1 -1
       SOFFS 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {B22D7A7A-990E-7C3F-EA5D-4905ECF07D03}
+      GUID {64AB714F-7DFD-2C2A-7884-985EB62F3290}
       <SOURCE RPP_PROJECT
-        FILE "/Music/REAPER/Worthy - Elevation Worship - Eb - 67,50 BPM/Worthy - Elevation Worship - Eb - 67,50 BPM.rpp"
+        FILE "/Music/REAPER/Amazing Grace (My Chains Are Gone) - Chris Tomlin - G - 63 BPM/Amazing Grace (My Chains Are Gone) - Chris Tomlin - G - 63 BPM.RPP"
       >
     >
     <ITEM
-      POSITION 24576
+      POSITION 4096
       SNAPOFFS 0
-      LENGTH 151.80783333333332
+      LENGTH 256.74419501133787
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0 0 1 0 0 0
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
-      SEL 0
-      IGUID {4447C343-F9BA-D507-5038-4FA5D365CEE7}
-      IID 4466
-      NAME "Stand Together - Kids Song - A - 60 BPM.RPP"
+      SEL 1
+      IGUID {59BE400B-1873-ADC5-87A8-DE46CECB3C31}
+      IID 4484
+      NAME "House of the Lord - Phil Wickham - Bb - 86 BPM.RPP"
       VOLPAN 1 0 1 -1
       SOFFS 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {F7682106-5203-25D9-912C-1A7E8A1B1FC2}
+      GUID {E28890C0-C636-B05B-C7BF-CE5D2240E09C}
       <SOURCE RPP_PROJECT
-        FILE "/Music/REAPER/Stand Together - Kids Song - A - 60 BPM/Stand Together - Kids Song - A - 60 BPM.RPP"
+        FILE "/Music/REAPER/House of the Lord - Phil Wickham - Bb - 86 BPM/House of the Lord - Phil Wickham - Bb - 86 BPM.RPP"
+      >
+    >
+    <ITEM
+      POSITION 8192
+      SNAPOFFS 0
+      LENGTH 191.25
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {0975F25E-2128-A71F-000B-28293E743F65}
+      IID 4488
+      NAME "Verit i Lubit - Deti Boga - A - 123 BPM.RPP"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D896C4AB-EC43-961C-8F89-A4E1815C1218}
+      <SOURCE RPP_PROJECT
+        FILE "/Music/REAPER/Verit i Lubit - Deti Boga - A - 123 BPM/Verit i Lubit - Deti Boga - A - 123 BPM.RPP"
+      >
+    >
+    <ITEM
+      POSITION 12288
+      SNAPOFFS 0
+      LENGTH 370.843375
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {24BFB2A1-B411-29DD-F2D0-9959AA9E6422}
+      IID 4486
+      NAME "Reckless Love - Cory Asbury - Gb - 83 BPM.rpp"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1C7C5B95-5CC2-3294-4730-5235E9B40AEC}
+      <SOURCE RPP_PROJECT
+        FILE "/Music/REAPER/Reckless Love - Cory Asbury - Gb - 83 BPM/Reckless Love - Cory Asbury - Gb - 83 BPM.rpp"
+      >
+    >
+    <ITEM
+      POSITION 16384
+      SNAPOFFS 0
+      LENGTH 289.41176870748302
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {09387612-9904-5CA9-12E1-A0BC43B1E08F}
+      IID 4487
+      NAME "King Of My Heart - Bethel Music - A - 68 BPM.rpp"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {605224FB-F9FD-03F8-DAD0-4369A3448CDE}
+      <SOURCE RPP_PROJECT
+        FILE "/Music/REAPER/King Of My Heart - Bethel Music - A - 68 BPM/King Of My Heart - Bethel Music - A - 68 BPM.rpp"
       >
     >
   >
