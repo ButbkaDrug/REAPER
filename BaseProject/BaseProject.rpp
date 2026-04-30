@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "7.66/linux-x86_64" 1777271959 0
+<REAPER_PROJECT 0.1 "7.66/linux-x86_64" 1777533904 0
   <NOTES 0 2
   >
   RIPPLE 0 0
@@ -19,8 +19,8 @@
   VIDEO_CONFIG 0 0 65792
   PANMODE 3
   PANLAWFLAGS 3
-  CURSOR 24576
-  ZOOM 0.10417362560566 2454 0
+  CURSOR 0
+  ZOOM 0.10417362560566 0 0
   VZOOMEX 14.97439003 0
   USE_REC_CFG 0
   RECMODE 2
@@ -151,43 +151,43 @@
     <ITEM
       POSITION 0
       SNAPOFFS 0
-      LENGTH 263.87745833333332
+      LENGTH 279.18366666666668
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0 0 1 0 0 0
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
       SEL 1
-      IGUID {ED88A1C1-AD9B-2D96-8CD7-9A239F62B5AA}
-      IID 4485
-      NAME "Amazing Grace (My Chains Are Gone) - Chris Tomlin - G - 63 BPM.RPP"
+      IGUID {96326B20-C6EE-3D93-4668-DEFB968B387E}
+      IID 4543
+      NAME "This Is Amazing Grace - Phil Wickham - Bb - 98 BPM.rpp"
       VOLPAN 1 0 1 -1
       SOFFS 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {64AB714F-7DFD-2C2A-7884-985EB62F3290}
+      GUID {9C15302B-3772-E78A-A742-321C3A9A3F83}
       <SOURCE RPP_PROJECT
-        FILE "/Music/REAPER/Amazing Grace (My Chains Are Gone) - Chris Tomlin - G - 63 BPM/Amazing Grace (My Chains Are Gone) - Chris Tomlin - G - 63 BPM.RPP"
+        FILE "/Music/REAPER/This Is Amazing Grace - Phil Wickham - Bb - 98 BPM/This Is Amazing Grace - Phil Wickham - Bb - 98 BPM.rpp"
       >
     >
     <ITEM
       POSITION 4096
       SNAPOFFS 0
-      LENGTH 256.74419501133787
+      LENGTH 262.32598639455784
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0 0 1 0 0 0
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
       SEL 1
-      IGUID {59BE400B-1873-ADC5-87A8-DE46CECB3C31}
-      IID 4484
+      IGUID {567FE625-40F7-CC6A-326B-F72C6300A2FF}
+      IID 4544
       NAME "House of the Lord - Phil Wickham - Bb - 86 BPM.RPP"
       VOLPAN 1 0 1 -1
       SOFFS 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {E28890C0-C636-B05B-C7BF-CE5D2240E09C}
+      GUID {0770AA26-A812-EE4B-74D0-BEADBAE54441}
       <SOURCE RPP_PROJECT
         FILE "/Music/REAPER/House of the Lord - Phil Wickham - Bb - 86 BPM/House of the Lord - Phil Wickham - Bb - 86 BPM.RPP"
       >
@@ -202,14 +202,14 @@
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
       SEL 1
-      IGUID {0975F25E-2128-A71F-000B-28293E743F65}
-      IID 4488
+      IGUID {FF24B566-DEFD-C567-9228-425B1C3AE680}
+      IID 4545
       NAME "Verit i Lubit - Deti Boga - A - 123 BPM.RPP"
       VOLPAN 1 0 1 -1
       SOFFS 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {D896C4AB-EC43-961C-8F89-A4E1815C1218}
+      GUID {E96728A4-7260-7843-DD6C-F1F014FDD7D9}
       <SOURCE RPP_PROJECT
         FILE "/Music/REAPER/Verit i Lubit - Deti Boga - A - 123 BPM/Verit i Lubit - Deti Boga - A - 123 BPM.RPP"
       >
@@ -224,14 +224,14 @@
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
       SEL 1
-      IGUID {24BFB2A1-B411-29DD-F2D0-9959AA9E6422}
-      IID 4486
+      IGUID {17A97232-4BF4-E13F-C392-B71F1AF50F58}
+      IID 4546
       NAME "Reckless Love - Cory Asbury - Gb - 83 BPM.rpp"
       VOLPAN 1 0 1 -1
       SOFFS 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {1C7C5B95-5CC2-3294-4730-5235E9B40AEC}
+      GUID {2F25637A-42DE-C467-D322-89673CE6FD8C}
       <SOURCE RPP_PROJECT
         FILE "/Music/REAPER/Reckless Love - Cory Asbury - Gb - 83 BPM/Reckless Love - Cory Asbury - Gb - 83 BPM.rpp"
       >
@@ -246,14 +246,14 @@
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
       SEL 1
-      IGUID {09387612-9904-5CA9-12E1-A0BC43B1E08F}
-      IID 4487
+      IGUID {AE8067A2-C0C1-E672-B5A0-49C43A4F3693}
+      IID 4547
       NAME "King Of My Heart - Bethel Music - A - 68 BPM.rpp"
       VOLPAN 1 0 1 -1
       SOFFS 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {605224FB-F9FD-03F8-DAD0-4369A3448CDE}
+      GUID {D31B57CF-D242-DC66-D2CE-78909A965F2A}
       <SOURCE RPP_PROJECT
         FILE "/Music/REAPER/King Of My Heart - Bethel Music - A - 68 BPM/King Of My Heart - Bethel Music - A - 68 BPM.rpp"
       >

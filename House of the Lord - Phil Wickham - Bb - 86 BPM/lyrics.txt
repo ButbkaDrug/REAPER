@@ -1,62 +1,104 @@
+[Intro]
+#1 12 1 5sus4
+#42 46/9 42 5sus4
+
 [ Verse 1 ]
-We worship the God who was
+#1
+We w^orship the God who was
 We worship the God who is
 We worship the God who
-Evermore will be
+#6m 5add4 4sus2
+^Ever^more will^ be
 
 [ Verse 2 ]
+#1sus2
 He opened the prison doors
 He parted the raging sea
-My God He holds the victory
+My God He
+#6m 5add4 4sus2
+^Holds the ^victo - ^ry
 
 [ Chorus ]
-There’s joy in the house of the Lord
+#1
+^There’s joy in the house of the Lord
 There’s joy in the house
-Of the Lord today
+#5 42
+Of the ^Lord to^day
 And we won’t be quiet
-We shout out Your praise
+#5 1
+We shout out ^Your pra^ise
 There’s Joy in the house of the Lord
-Our God is surely in this place
+#5 42
+Our God is surely ^in this^ place
 And we won’t be quiet
-We shout out Your praise
+#5
+We shout out ^Your praise
 
 [ Turnaround ]
-We shout out
+#1 12 1 5sus4
+^O, ^O-o-^o, We shout ^out
+#42 46/9 42 5sus4
 Your praise
 
 [ Verse 3 ]
-We sing to the God who heals
+#15
+We s^ing to the God who heals
 We sing to the God who saves
-We sing to the God who always
-Makes a way
+#6m
+We sing to the God who ^always
+#5 42
+^Makes a^ way
 
 [ Verse 4 ]
-'Cause He hung upon that Cross
-Then He rose up from that grave
-My God’s still rolling stones away
+#1
+'Cause He h^ung upon that Cross
+#2m
+Then He ^rose up from that grave
+#6m
+^My God’s still
+#5 42
+^Rolling s^tones away
+
+[Vamp]
+#1
 
 [ Bridge ]
-We were the beggars
-Now we’re royalty
-We were the prisoners
-Now we’re running free
-We are forgiven accepted
-Redeemed by His grace
-Let the house of the Lord sing praise
+#15
+We were the b^eggars
+#1sus2 1
+Now we’re ^royal - ^ty
+#15
+We were the ^prisoners
+#1sus2 1
+Now we’re ^running f^ree
+#6m
+We are for^given accepted
+#4 1
+Re^deemed by His gr^ace
+#5 4 1
+Let the h^ouse of the L^ord sing pr^aise
 
 [ Instrumental ]
+#1 12 1 5add4
 We shout out
+#42 46/9 42 5add4
 Your praise
+
+[ Outro ]
+--Breakdown
+#1 2m7 6m 5 42 46/9
 
 [ Verse 3 R ]
 Поём Богу, что силён 
 Поднять, исцелить, спасти,
-Тому, кто всегда поможет путь найти.
+Тому, кто всегда
+Поможет путь найти.
 
 [ Verse 4 R ]
 Умер Он, но вновь воскрес,
 И сегодня камни Он
-Сдвигать по прежнему силён!
+Сдвигать по
+Прежнему силён!
 
 [ Chorus R ]
 Пусть радость наполнит сердца –
