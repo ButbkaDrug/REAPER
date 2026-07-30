@@ -1,10 +1,11 @@
-<REAPER_PROJECT 0.1 "7.07/linux-x86_64" 1712818301
+<REAPER_PROJECT 0.1 "7.55/macOS-arm64" 1782564796 0
   AUTHOR PROJECT_AUTHOR
-  RIPPLE 0
-  GROUPOVERRIDE 0 0 0
+  RIPPLE 0 0
+  GROUPOVERRIDE 0 0 0 0
   AUTOXFADE 128
   ENVATTACH 3
   POOLEDENVATTACH 0
+  TCPUIFLAGS 0
   MIXERUIFLAGS 11 48
   PEAKGAIN 1
   FEEDBACK 0
@@ -12,7 +13,7 @@
   PROJOFFS 0 0 0
   MAXPROJLEN 0 600
   GRID 3199 8 1 8 1 0 0 0
-  TIMEMODE 1 5 -1 30 0 0 -1
+  TIMEMODE 1 5 -1 30 0 0 -1 0
   VIDEO_CONFIG 0 0 256
   PANMODE 3
   CURSOR 0
@@ -38,6 +39,7 @@
   RENDER_ADDTOPROJ 0
   RENDER_STEMS 0
   RENDER_DITHER 0
+  RENDER_TRIM 0.000001 0.000001 0 0
   TIMELOCKMODE 1
   TEMPOENVLOCKMODE 1
   ITEMMIX 1
@@ -50,17 +52,21 @@
   LOCK 1
   <METRONOME 6 2
     VOL 1 1
-    FREQ 800 1600 1
     BEATLEN 4
-    SAMPLES "/Music/Assets/Clicks/New Click -  Blip-accents.wav" "/Music/Assets/Clicks/New Click -  Blip-sixteenth.wav"
-    PATTERN 2863311530 2863311513
+    FREQ 800 1600 1
+    SAMPLES "/Music/Assets/Clicks/New Click -  Blip-accents.wav" "/Music/Assets/Clicks/New Click -  Blip-sixteenth.wav" "" ""
+    SPLIGNORE 0 0
+    SPLDEF 2 660 "" 0 ""
+    SPLDEF 3 440 "" 0 ""
+    PATTERN 0 153
+    PATTERNSTR ABAB
     MULT 2
   >
   METRONOMEOUT 1029
   METRONOMEOUT 0
   METRONOMEOUT 1032
   GLOBAL_AUTO -1
-  TEMPO 111 4 4
+  TEMPO 111 4 4 0
   PLAYRATE 1 0 0.25 4
   SELECTION 177.29729729729729 0
   SELECTION2 177.29729729729729 0
@@ -68,7 +74,7 @@
   MASTERTRACKHEIGHT 0 0
   MASTERPEAKCOL 16576
   MASTERMUTESOLO 0
-  MASTERTRACKVIEW 1 0.6667 0.5 0.5 0 -1 0 0 0 0 0 0 0 0
+  MASTERTRACKVIEW 1 0.6667 0.5 0.5 0 -1 0 0 0 0 0 0 0 0 0
   MASTERHWOUT 0 0 1 0 0 0 0 -1
   MASTERHWOUT 0 0 1 0 0 0 2 -1
   MASTER_NCH 4 2
@@ -135,8 +141,9 @@
     PLAYOFFS 0 1
     ISBUS 0 0
     BUSCOMP 0 0 0 0 0
-    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
-    FIXEDLANES 9 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    LANEREC -1 -1 -1 0
     SEL 0
     REC 0 0 1 0 0 0 0 0
     VU 2
@@ -168,14 +175,18 @@
       CHANMODE 0
       GUID {1DCF35B0-006D-962A-C405-E7AECA3DE202}
       <SOURCE CLICK
-        AUTO 1
+        AUTO 1 0
         BPM 111
-        BPI 4
+        BPI 4 4
         VOL 1 1
-        FREQ 800 1600 1
         BEATLEN 4
-        SAMPLES "/Music/Assets/Clicks/New Click -  Blip-accents.wav" "/Music/Assets/Clicks/New Click -  Blip-sixteenth.wav"
-        PATTERN 2863311530 2863311529
+        FREQ 800 1600 1
+        SAMPLES "/Music/Assets/Clicks/New Click -  Blip-accents.wav" "/Music/Assets/Clicks/New Click -  Blip-sixteenth.wav" "" ""
+        SPLIGNORE 0 0
+        SPLDEF 2 660 "" 0 ""
+        SPLDEF 3 440 "" 0 ""
+        PATTERN 0 169
+        PATTERNSTR ABBB
         MULT 1
       >
     >
@@ -191,8 +202,9 @@
     PLAYOFFS 0 1
     ISBUS 0 0
     BUSCOMP 0 0 0 0 0
-    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
-    FIXEDLANES 9 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    LANEREC -1 -1 -1 0
     SEL 0
     REC 0 0 1 0 0 0 0 0
     VU 2
@@ -270,7 +282,7 @@
       CHANMODE 0
       GUID {1421D872-17D8-E177-EC28-B3D09AFD7C4B}
       <SOURCE WAVE
-        FILE "//home//butbkadrug//Music//Assets//Cues//English Female - Intro.wav"
+        FILE "/Users/calvarchapelbatumi/Music/Assets/Cues/English Female - Intro.wav"
       >
     >
     <ITEM
@@ -338,7 +350,7 @@
       CHANMODE 0
       GUID {8C93AE43-09A0-EF3F-2A84-7ED706C59B48}
       <SOURCE WAVE
-        FILE "//home//butbkadrug//Music//Assets//Cues//English Female - Chorus.wav"
+        FILE "/Users/calvarchapelbatumi/Music/Assets/Cues/English Female - Chorus.wav"
       >
     >
     <ITEM
@@ -360,7 +372,7 @@
       CHANMODE 0
       GUID {1638B545-3631-47E9-11C4-2EF8F9CCF7B9}
       <SOURCE WAVE
-        FILE "//home//butbkadrug//Music//Assets//Cues//English Female - Chorus.wav"
+        FILE "/Users/calvarchapelbatumi/Music/Assets/Cues/English Female - Chorus.wav"
       >
     >
     <ITEM
@@ -382,7 +394,7 @@
       CHANMODE 0
       GUID {7BABD56B-4CCE-4E7E-DB70-4C425EE96927}
       <SOURCE WAVE
-        FILE "//home//butbkadrug//Music//Assets//Cues//English Female - Interlude.wav"
+        FILE "/Users/calvarchapelbatumi/Music/Assets/Cues/English Female - Interlude.wav"
       >
     >
     <ITEM
@@ -404,7 +416,7 @@
       CHANMODE 0
       GUID {9EF17571-8345-AA56-2177-D1E42BD20017}
       <SOURCE WAVE
-        FILE "//home//butbkadrug//Music//Assets//Cues//English Female - Verse.wav"
+        FILE "/Users/calvarchapelbatumi/Music/Assets/Cues/English Female - Verse.wav"
       >
     >
     <ITEM
@@ -426,7 +438,7 @@
       CHANMODE 0
       GUID {B579C66F-41AA-0FA5-3EB3-AC0359617278}
       <SOURCE WAVE
-        FILE "//home//butbkadrug//Music//Assets//Cues//English Female - Chorus.wav"
+        FILE "/Users/calvarchapelbatumi/Music/Assets/Cues/English Female - Chorus.wav"
       >
     >
     <ITEM
@@ -448,7 +460,7 @@
       CHANMODE 0
       GUID {FB3A4FA2-E01A-5804-7E80-5F9227D2EE5C}
       <SOURCE WAVE
-        FILE "//home//butbkadrug//Music//Assets//Cues//English Female - Instrumental.wav"
+        FILE "/Users/calvarchapelbatumi/Music/Assets/Cues/English Female - Instrumental.wav"
       >
     >
     <ITEM
@@ -470,7 +482,7 @@
       CHANMODE 0
       GUID {78A72076-78BF-5ED0-3DC6-EDCA398CAB5D}
       <SOURCE WAVE
-        FILE "//home//butbkadrug//Music//Assets//Cues//English Female - Interlude.wav"
+        FILE "/Users/calvarchapelbatumi/Music/Assets/Cues/English Female - Interlude.wav"
       >
     >
     <ITEM
@@ -492,7 +504,7 @@
       CHANMODE 0
       GUID {3ADCD854-8EB5-D109-241D-141AE05C2BEE}
       <SOURCE WAVE
-        FILE "//home//butbkadrug//Music//Assets//Cues//English Female - Verse.wav"
+        FILE "/Users/calvarchapelbatumi/Music/Assets/Cues/English Female - Verse.wav"
       >
     >
     <ITEM
@@ -514,7 +526,7 @@
       CHANMODE 0
       GUID {89D1C7F5-5D8B-3FA6-946B-5A0180604C87}
       <SOURCE WAVE
-        FILE "//home//butbkadrug//Music//Assets//Cues//English Female - Chorus.wav"
+        FILE "/Users/calvarchapelbatumi/Music/Assets/Cues/English Female - Chorus.wav"
       >
     >
     <ITEM
@@ -536,7 +548,7 @@
       CHANMODE 0
       GUID {547BFC03-1BC3-3B1B-22DC-E89EFEC8C02E}
       <SOURCE WAVE
-        FILE "//home//butbkadrug//Music//Assets//Cues//English Female - Chorus.wav"
+        FILE "/Users/calvarchapelbatumi/Music/Assets/Cues/English Female - Chorus.wav"
       >
     >
     <ITEM
@@ -558,7 +570,7 @@
       CHANMODE 0
       GUID {819D1A96-8624-74B0-A678-FC7259890C29}
       <SOURCE WAVE
-        FILE "//home//butbkadrug//Music//Assets//Cues//English Female - Tag.wav"
+        FILE "/Users/calvarchapelbatumi/Music/Assets/Cues/English Female - Tag.wav"
       >
     >
     <ITEM
@@ -580,7 +592,7 @@
       CHANMODE 0
       GUID {921F82C1-C4A8-63CF-4B3C-7BC413BB5B62}
       <SOURCE WAVE
-        FILE "//home//butbkadrug//Music//Assets//Cues//English Female - Tag.wav"
+        FILE "/Users/calvarchapelbatumi/Music/Assets/Cues/English Female - Tag.wav"
       >
     >
     <ITEM
@@ -602,7 +614,7 @@
       CHANMODE 0
       GUID {E7233BDC-ACFF-C8D1-2A83-0602EE319A6C}
       <SOURCE WAVE
-        FILE "//home//butbkadrug//Music//Assets//Cues//English Female - Ending.wav"
+        FILE "/Users/calvarchapelbatumi/Music/Assets/Cues/English Female - Ending.wav"
       >
     >
   >
@@ -617,8 +629,9 @@
     PLAYOFFS 0 1
     ISBUS 0 0
     BUSCOMP 0 0 0 0 0
-    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
-    FIXEDLANES 9 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    LANEREC -1 -1 -1 0
     SEL 1
     REC 0 0 1 0 0 0 0 0
     VU 2
@@ -650,10 +663,8 @@
       CHANMODE 0
       GUID {A8DBD3EC-0AE0-1312-0C47-5A83666AF13B}
       <SOURCE MP3
-        FILE "AudioFiles/All That Is Good (Peru Vacation Bible School 2017 Theme Song) (Instrumental).mp3" 1
+        FILE "/Users/calvarchapelbatumi/Downloads/All That Is Good (Peru Vacation Bible School 2017 Theme Song - Instrumental).mp3" 1
       >
     >
-  >
-  <EXTENSIONS
   >
 >

@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "7.59/linux-x86_64" 1771058795 0
+<REAPER_PROJECT 0.1 "7.55/macOS-arm64" 1781794426 0
   RIPPLE 0 0
   GROUPOVERRIDE 0 0 0 0
   AUTOXFADE 129
@@ -15,8 +15,8 @@
   TIMEMODE 1 5 -1 30 0 0 -1 0
   VIDEO_CONFIG 0 0 256
   PANMODE 3
-  CURSOR 166.66666666666666
-  ZOOM 4.64425275441217 0 0
+  CURSOR 30
+  ZOOM 10.02216916834044 0 0
   VZOOMEX 18.89041138 0
   USE_REC_CFG 0
   RECMODE 1
@@ -174,7 +174,7 @@
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 -1 0 0
     LANEREC -1 -1 -1 0
-    SEL 0
+    SEL 1
     REC 0 0 1 0 0 0 0 0
     VU 2
     GROUP_FLAGS 0 1
@@ -195,7 +195,7 @@
       FADEIN 1 0 0 1 0 0 0
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
-      SEL 0
+      SEL 1
       IGUID {1C2A991C-6A4E-4737-C9EF-C25A4B8E706B}
       IID 3565
       NAME "Click source"
@@ -234,7 +234,7 @@
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 -1 0 0
     LANEREC -1 -1 -1 0
-    SEL 1
+    SEL 0
     REC 0 0 1 0 0 0 0 0
     VU 2
     GROUP_FLAGS 0 1
@@ -862,7 +862,5 @@
         FILE "/Music/Assets/Cues/English Female - Ending.wav"
       >
     >
-  >
-  <EXTENSIONS
   >
 >

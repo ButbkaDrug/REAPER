@@ -1,12 +1,13 @@
-<REAPER_PROJECT 0.1 "7.07/linux-x86_64" 1722361697
+<REAPER_PROJECT 0.1 "7.55/macOS-arm64" 1777556178 0
   <NOTES 0 0
     |VpIV1CItItV2CIsBBBBCOOE
   >
-  RIPPLE 0
-  GROUPOVERRIDE 0 0 0
+  RIPPLE 0 0
+  GROUPOVERRIDE 0 0 0 0
   AUTOXFADE 128
   ENVATTACH 1
   POOLEDENVATTACH 0
+  TCPUIFLAGS 0
   MIXERUIFLAGS 11 48
   PEAKGAIN 1
   FEEDBACK 0
@@ -14,10 +15,10 @@
   PROJOFFS 0 0 0
   MAXPROJLEN 0 600
   GRID 3199 8 1 8 1 0 0 0
-  TIMEMODE 1 5 -1 30 0 0 -1
+  TIMEMODE 1 5 -1 30 0 0 -1 0
   VIDEO_CONFIG 0 0 256
   PANMODE 3
-  CURSOR 268.91566265060243
+  CURSOR 192.28915662650601
   ZOOM 11.2797496629823 2111 0
   VZOOMEX 12.97152996 0
   USE_REC_CFG 2
@@ -40,6 +41,7 @@
   RENDER_ADDTOPROJ 0
   RENDER_STEMS 0
   RENDER_DITHER 0
+  RENDER_TRIM 0.000001 0.000001 0 0
   TIMELOCKMODE 1
   TEMPOENVLOCKMODE 1
   ITEMMIX 0
@@ -52,14 +54,18 @@
   LOCK 1
   <METRONOME 6 2
     VOL 1 1
-    FREQ 800 1600 1
     BEATLEN 4
-    SAMPLES "C:\Users\butbkadrug\Music\assets\Clicks\New Click -  Blip-accents.wav" "C:\Users\butbkadrug\Music\assets\Clicks\New Click -  Blip-sixteenth.wav"
-    PATTERN 2863311530 2863311465
+    FREQ 800 1600 1
+    SAMPLES "C:\Users\butbkadrug\Music\assets\Clicks\New Click -  Blip-accents.wav" "C:\Users\butbkadrug\Music\assets\Clicks\New Click -  Blip-sixteenth.wav" "" ""
+    SPLIGNORE 0 0
+    SPLDEF 2 660 "" 0 ""
+    SPLDEF 3 440 "" 0 ""
+    PATTERN 0 105
+    PATTERNSTR ABBA
     MULT 1
   >
   GLOBAL_AUTO -1
-  TEMPO 83 6 8
+  TEMPO 83 6 8 0
   PLAYRATE 1 0 0.25 4
   SELECTION 0 0
   SELECTION2 0 0
@@ -67,7 +73,7 @@
   MASTERTRACKHEIGHT 0 0
   MASTERPEAKCOL 16576
   MASTERMUTESOLO 0
-  MASTERTRACKVIEW 1 0.6667 0.5 0.5 0 -1 0 0 0 0 0 0 0 0
+  MASTERTRACKVIEW 1 0.6667 0.5 0.5 0 -1 0 0 0 0 0 0 0 0 0
   MASTERHWOUT 0 0 1 0 0 0 0 -1
   MASTERHWOUT 0 0 1 0 0 0 2 -1
   MASTERHWOUT 0 0 1 0 0 0 4 -1
@@ -155,8 +161,9 @@
     PLAYOFFS 0 1
     ISBUS 0 0
     BUSCOMP 0 0 0 0 0
-    SHOWINMIX 1 0.6667 0.5 1 0.5 0 -1 0
-    SEL 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 -1 0 0
+    LANEREC -1 -1 -1 0
+    SEL 1
     REC 0 0 1 0 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0 0 0 0 0
@@ -167,7 +174,7 @@
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
-    MAINSEND_NCH 1
+    MAINSEND_NCH 2
     <ITEM
       POSITION 0
       SNAPOFFS 0
@@ -177,7 +184,7 @@
       FADEIN 1 0.01 0 1 0 0 0
       FADEOUT 1 0.01 0 1 0 0 0
       MUTE 0 0
-      SEL 0
+      SEL 1
       IGUID {F4755E77-9C9B-4E7E-82F8-C7465485F327}
       IID 49
       NAME "Click source"
@@ -187,14 +194,18 @@
       CHANMODE 0
       GUID {0AE11118-3AB2-4AED-98DA-7D339BA856F8}
       <SOURCE CLICK
-        AUTO 1
+        AUTO 1 0
         BPM 166
-        BPI 6
-        VOL 1 1
-        FREQ 800 1600 1
-        BEATLEN 4
-        SAMPLES "/Music/Assets/Clicks/New Click -  Blip-accents.wav" "/Music/Assets/Clicks/New Click -  Blip-sixteenth.wav"
-        PATTERN 2863311530 2863311529
+        BPI 6 4
+        VOL 0.501187 0.501187
+        BEATLEN 37
+        FREQ 2700 2000 3
+        SAMPLES "" "" "" ""
+        SPLIGNORE 0 0
+        SPLDEF 2 660 "" 0 ""
+        SPLDEF 3 440 "" 0 ""
+        PATTERN 0 2729
+        PATTERNSTR ABBBBB
         MULT 1
       >
     >
@@ -210,7 +221,8 @@
     PLAYOFFS 0 1
     ISBUS 0 0
     BUSCOMP 0 0 0 0 0
-    SHOWINMIX 1 0.6667 0.5 1 0.5 0 -1 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 -1 0 0
+    LANEREC -1 -1 -1 0
     SEL 0
     REC 0 0 1 0 0 0 0 0
     VU 2
@@ -221,8 +233,8 @@
     TRACKID {D0885A67-347F-41F7-BD54-D37624FA6095}
     PERF 0
     MIDIOUT -1
-    MAINSEND 1 1
-    MAINSEND_NCH 1
+    MAINSEND 1 0
+    MAINSEND_NCH 2
     <ITEM
       POSITION 4.33734939759036
       SNAPOFFS 0
@@ -728,13 +740,6 @@
       <SOURCE WAVE
         FILE "/Music/Assets/Cues/English Female - Ending.wav"
       >
-    >
-  >
-  <EXTENSIONS
-    <SWSAUTOCOLOR
-      {00000000-0000-0000-0000-000000000000} 0 "" "" ""
-      {D0885A67-347F-41F7-BD54-D37624FA6095} 0 "" "" ""
-      {007D8ACB-4F12-42D2-86C5-FB65A7D2713D} 0 "" "" ""
     >
   >
   <EXTSTATE

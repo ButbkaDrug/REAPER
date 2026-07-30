@@ -1,11 +1,12 @@
-<REAPER_PROJECT 0.1 "7.34/linux-x86_64" 1755183661
+<REAPER_PROJECT 0.1 "7.55/macOS-arm64" 1779544192 0
   <NOTES 0 2
   >
-  RIPPLE 0
-  GROUPOVERRIDE 0 0 0
+  RIPPLE 0 0
+  GROUPOVERRIDE 0 0 0 0
   AUTOXFADE 128
   ENVATTACH 3
   POOLEDENVATTACH 0
+  TCPUIFLAGS 0
   MIXERUIFLAGS 11 48
   ENVFADESZ10 40
   PEAKGAIN 1
@@ -14,11 +15,11 @@
   PROJOFFS 0 0 0
   MAXPROJLEN 0 0
   GRID 3199 8 1 8 1 0 0 0
-  TIMEMODE 1 5 -1 30 0 0 -1
+  TIMEMODE 1 5 -1 30 0 0 -1 0
   VIDEO_CONFIG 0 0 65792
   PANMODE 3
   PANLAWFLAGS 3
-  CURSOR 0
+  CURSOR 2.7906976744186
   ZOOM 100.00000000000021 0 0
   VZOOMEX 6 0
   USE_REC_CFG 0
@@ -41,6 +42,7 @@
   RENDER_ADDTOPROJ 0
   RENDER_STEMS 0
   RENDER_DITHER 0
+  RENDER_TRIM 0.000001 0.000001 0 0
   TIMELOCKMODE 1
   TEMPOENVLOCKMODE 1
   ITEMMIX 1
@@ -72,7 +74,7 @@
   MASTERTRACKHEIGHT 0 0
   MASTERPEAKCOL 16576
   MASTERMUTESOLO 0
-  MASTERTRACKVIEW 1 0.6667 0.5 0.5 0 0 0 0 0 0 0 0 0 0
+  MASTERTRACKVIEW 1 0.6667 0.5 0.5 0 0 0 0 0 0 0 0 0 0 0
   MASTERHWOUT 0 0 1 0 0 0 0 -1
   MASTERHWOUT 0 0 1 0 0 0 2 -1
   MASTER_NCH 4 2
@@ -112,8 +114,9 @@
     PLAYOFFS 0 1
     ISBUS 0 0
     BUSCOMP 0 0 0 0 0
-    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
     FIXEDLANES 9 0 0 0 0
+    LANEREC -1 -1 -1 0
     SEL 0
     REC 0 0 1 0 0 0 0 0
     VU 2
@@ -226,8 +229,9 @@
     PLAYOFFS 0 1
     ISBUS 1 1
     BUSCOMP 0 0 0 0 0
-    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
     FIXEDLANES 9 0 0 0 0
+    LANEREC -1 -1 -1 0
     SEL 0
     REC 0 0 1 0 0 0 0 0
     VU 2
@@ -253,8 +257,9 @@
     PLAYOFFS 0 1
     ISBUS 0 0
     BUSCOMP 0 0 0 0 0
-    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
     FIXEDLANES 9 0 0 0 0
+    LANEREC -1 -1 -1 0
     SEL 0
     REC 0 0 1 0 0 0 0 0
     VU 2
@@ -275,8 +280,7 @@
       FADEIN 1 0 0 1 0 0 0
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
-      SEL 1
-      GROUP 1
+      SEL 0
       IGUID {6FCF20A1-3A6F-D3DC-B75B-D952C790C2F1}
       IID 1
       NAME "Nuteki Worship - Аллилуйя (HOLYCHORDS) [bass].wav"
@@ -302,8 +306,9 @@
     PLAYOFFS 0 1
     ISBUS 0 0
     BUSCOMP 0 0 0 0 0
-    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
     FIXEDLANES 9 0 0 0 0
+    LANEREC -1 -1 -1 0
     SEL 0
     REC 0 0 1 0 0 0 0 0
     VU 2
@@ -324,8 +329,7 @@
       FADEIN 1 0 0 1 0 0 0
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
-      SEL 1
-      GROUP 1
+      SEL 0
       IGUID {0760A8D3-469A-631B-822D-F53E1EA4F67C}
       IID 2
       NAME "Nuteki Worship - Аллилуйя (HOLYCHORDS) [drums].wav"
@@ -351,8 +355,9 @@
     PLAYOFFS 0 1
     ISBUS 0 0
     BUSCOMP 0 0 0 0 0
-    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
     FIXEDLANES 9 0 0 0 0
+    LANEREC -1 -1 -1 0
     SEL 0
     REC 0 0 1 0 0 0 0 0
     VU 2
@@ -374,17 +379,16 @@
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
       SEL 1
-      GROUP 1
       IGUID {D7AEB812-A652-8BCE-C5E3-4263712C6707}
       IID 3
-      NAME "Nuteki Worship - Аллилуйя (HOLYCHORDS) [music].wav"
-      VOLPAN 1 0 1 -1
+      NAME "Nuteki Worship - Аллилуйя (HOLYCHORDS)_Instrumental.mp3"
+      VOLPAN 0.645654 0 1 -1
       SOFFS 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
       GUID {7FF5DF95-56B5-44E6-8D04-55EF9F53E451}
-      <SOURCE WAVE
-        FILE "Media/Nuteki Worship - Аллилуйя (HOLYCHORDS) [music].wav"
+      <SOURCE MP3
+        FILE "/Users/calvarchapelbatumi/Downloads/Nuteki Worship - Аллилуйя (HOLYCHORDS)_Instrumental.mp3" 1
       >
     >
   >
@@ -400,8 +404,9 @@
     PLAYOFFS 0 1
     ISBUS 2 -1
     BUSCOMP 0 0 0 0 0
-    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
     FIXEDLANES 9 0 0 0 0
+    LANEREC -1 -1 -1 0
     SEL 1
     REC 0 0 1 0 0 0 0 0
     VU 2
@@ -422,21 +427,18 @@
       FADEIN 1 0 0 1 0 0 0
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
-      SEL 1
-      GROUP 1
+      SEL 0
       IGUID {E072A00D-941D-BCFD-F6B9-50DE1C97975E}
       IID 4
-      NAME "Nuteki Worship - Аллилуйя (HOLYCHORDS) [vocals].wav"
-      VOLPAN 1 0 1 -1
+      NAME "Nuteki Worship - Аллилуйя (HOLYCHORDS)_Vocal.mp3"
+      VOLPAN 0.683912 0 1 -1
       SOFFS 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
       GUID {D913216A-B5AD-C4F7-EC43-A95C11C25E10}
-      <SOURCE WAVE
-        FILE "Media/Nuteki Worship - Аллилуйя (HOLYCHORDS) [vocals].wav"
+      <SOURCE MP3
+        FILE "/Users/calvarchapelbatumi/Downloads/Nuteki Worship - Аллилуйя (HOLYCHORDS)_Vocal.mp3" 1
       >
     >
-  >
-  <EXTENSIONS
   >
 >

@@ -1,17 +1,41 @@
+[Intro]
+#1
+
+[Turnaround]
+#1
+
+[Outro]
+#1
+
+[Ending]
+#1
+
 [ Verse 1 ]
+#1/3 4
 In the darkness we were waiting
+#5 1
 Without hope without light
+#1/3 4
 Till from Heaven You came running
+#5 1
 There was mercy in Your eyes
+#1/3 4
 To fulfill the law and prophets
+#5 1
 To a virgin came the word
+#1/3 4
 From a throne of endless glory
+#5
 To a cradle in the dirt
 
 [ Chorus ]
+#1 4
 Praise the Father praise the Son
+#6m7 5sus4 5
 Praise the Spirit three in one
+#1 4
 God of glory majesty
+#6m7 4 5
 Praise forever to the King of Kings
 
 [ Verse 2 ]
@@ -24,39 +48,46 @@ You saw to the other side
 Knowing this was our salvation
 Jesus for our sake You died
 
-[ Chorus ]
-Praise the Father praise the Son
-Praise the Spirit three in one
-God of glory majesty
-Praise forever to the King of Kings
 
 [ Verse 3 ]
+#6m 4
 And the morning that You rose
+#5 1
 All of Heaven held its breath
+#6m 4
 Till that stone was moved for good
+#5 1
 For the Lamb had conquered death
+#6m 4
 And the dead rose from their tombs
+#5 1
 And the angels stood in awe
+#6m 4
 For the souls of all who'd come
+#5 1
 To the Father are restored
 
 [ Verse 4 ]
+#1/3 4
 And the church of Christ was born
+#5 1
 Then the Spirit lit the flame
+#1/3 4
 Now this gospel truth of old
+#5 1
 Shall not kneel shall not faint
+#1/3 4
 By His blood and in His name
+#5 1
 In His freedom I am free
+#1/3 4
 For the love of Jesus Christ
+#5
 Who has resurrected me
 
-[ Chorus ]
-Praise the Father praise the Son
-Praise the Spirit three in one
-God of glory majesty
-Praise forever to the King of Kings
 
 [ Tag ]
+#1/3 4 5
 Praise forever to the King of Kings
 
 

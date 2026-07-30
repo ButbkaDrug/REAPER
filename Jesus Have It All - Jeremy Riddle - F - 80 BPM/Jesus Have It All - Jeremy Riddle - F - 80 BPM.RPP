@@ -1,14 +1,15 @@
-<REAPER_PROJECT 0.1 "7.19/linux-x86_64" 1726401101
+<REAPER_PROJECT 0.1 "7.55/macOS-arm64" 1781187852 0
   TITLE Jesus
   AUTHOR Jeremy
   <NOTES 0 0
     |IV1V2CVpV3V4CCRfRfItItBBOOE
   >
-  RIPPLE 0
-  GROUPOVERRIDE 0 0 0
+  RIPPLE 0 0
+  GROUPOVERRIDE 0 0 0 0
   AUTOXFADE 129
   ENVATTACH 3
   POOLEDENVATTACH 0
+  TCPUIFLAGS 0
   MIXERUIFLAGS 11 48
   PEAKGAIN 1
   FEEDBACK 0
@@ -16,10 +17,10 @@
   PROJOFFS 0 0 0
   MAXPROJLEN 0 600
   GRID 3199 8 1 8 1 0 0 0
-  TIMEMODE 1 5 -1 30 0 0 -1
+  TIMEMODE 1 5 -1 30 0 0 -1 0
   VIDEO_CONFIG 0 0 256
   PANMODE 3
-  CURSOR 48
+  CURSOR 132
   ZOOM 2.32748451506297 0 0
   VZOOMEX 6 0
   USE_REC_CFG 0
@@ -41,6 +42,7 @@
   RENDER_ADDTOPROJ 0
   RENDER_STEMS 0
   RENDER_DITHER 0
+  RENDER_TRIM 0.000001 0.000001 0 0
   TIMELOCKMODE 1
   TEMPOENVLOCKMODE 1
   ITEMMIX 1
@@ -55,16 +57,16 @@
     VOL 1 1
     BEATLEN 4
     FREQ 800 1600 1
-    SAMPLES "" ""
+    SAMPLES "" "" "" ""
     SPLIGNORE 0 0
-    SPLDEF 2 660 "" 0
-    SPLDEF 3 440 "" 0
+    SPLDEF 2 660 "" 0 ""
+    SPLDEF 3 440 "" 0 ""
     PATTERN 0 169
     PATTERNSTR ABBB
     MULT 2
   >
   GLOBAL_AUTO -1
-  TEMPO 80 4 4
+  TEMPO 80 4 4 0
   PLAYRATE 1 0 0.25 4
   SELECTION 0 0
   SELECTION2 0 0
@@ -72,7 +74,7 @@
   MASTERTRACKHEIGHT 0 0
   MASTERPEAKCOL 16576
   MASTERMUTESOLO 0
-  MASTERTRACKVIEW 0 0.6667 0.5 0.5 -1 -1 -1 0 0 0 -1 -1 0 0
+  MASTERTRACKVIEW 0 0.6667 0.5 0.5 -1 -1 -1 0 0 0 -1 -1 0 0 0
   MASTERHWOUT 0 0 1 0 0 0 0 -1
   MASTER_NCH 2 2
   MASTER_VOLUME 1 0 -1 -1 1
@@ -148,8 +150,9 @@
     PLAYOFFS 0 1
     ISBUS 0 0
     BUSCOMP 0 0 0 0 0
-    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
     FIXEDLANES 9 0 0 0 0
+    LANEREC -1 -1 -1 0
     SEL 1
     REC 0 0 1 0 0 0 0 0
     VU 2
@@ -161,7 +164,7 @@
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
-    MAINSEND_NCH 1
+    MAINSEND_NCH 2
     <ITEM
       POSITION 0
       SNAPOFFS 0
@@ -181,16 +184,16 @@
       CHANMODE 0
       GUID {4428B62E-C1F1-CFDB-1DC7-F28EE1F16A81}
       <SOURCE CLICK
-        AUTO 1
+        AUTO 1 0
         BPM 80
         BPI 4 4
-        VOL 1 1
-        BEATLEN 4
-        FREQ 800 1600 1
-        SAMPLES "/Music/Assets/Clicks/New Click -  Blip-accents.wav" "/Music/Assets/Clicks/New Click -  Blip-sixteenth.wav"
+        VOL 0.501187 0.501187
+        BEATLEN 37
+        FREQ 2700 2000 3
+        SAMPLES "" "" "" ""
         SPLIGNORE 0 0
-        SPLDEF 2 660 "" 0
-        SPLDEF 3 440 "" 0
+        SPLDEF 2 660 "" 0 ""
+        SPLDEF 3 440 "" 0 ""
         PATTERN 0 169
         PATTERNSTR ABBB
         MULT 1
@@ -208,8 +211,9 @@
     PLAYOFFS 0 1
     ISBUS 0 0
     BUSCOMP 0 0 0 0 0
-    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
     FIXEDLANES 9 0 0 0 0
+    LANEREC -1 -1 -1 0
     SEL 0
     REC 0 0 1 0 0 0 0 0
     VU 2
@@ -220,8 +224,8 @@
     TRACKID {6F1AAD6D-88B1-54BB-AD68-42644E8C0407}
     PERF 0
     MIDIOUT -1
-    MAINSEND 1 1
-    MAINSEND_NCH 1
+    MAINSEND 1 0
+    MAINSEND_NCH 2
     <ITEM
       POSITION 0
       SNAPOFFS 0
@@ -241,7 +245,7 @@
       CHANMODE 0
       GUID {53756D91-6B55-4A4C-1473-F469A39080A9}
       <SOURCE WAVE
-        FILE "AudioFiles/English Female - 1.wav"
+        FILE "/Users/calvarchapelbatumi/Music/Assets/Cues/English Female - 1.wav"
       >
     >
     <ITEM
@@ -263,7 +267,7 @@
       CHANMODE 0
       GUID {E213A691-4B1E-C4BF-5054-AE8F5167CA34}
       <SOURCE WAVE
-        FILE "AudioFiles/English Female - 2.wav"
+        FILE "/Users/calvarchapelbatumi/Music/Assets/Cues/English Female - 2.wav"
       >
     >
     <ITEM
@@ -286,7 +290,7 @@
       CHANMODE 0
       GUID {14921D93-17B5-B338-78DF-F1E8395E8C99}
       <SOURCE WAVE
-        FILE "AudioFiles/English Female - Intro.wav"
+        FILE "/Users/calvarchapelbatumi/Music/Assets/Cues/English Female - Intro.wav"
       >
     >
     <ITEM
@@ -308,7 +312,7 @@
       CHANMODE 0
       GUID {53D9BA44-4F29-2D7F-751F-AED5892B2C92}
       <SOURCE WAVE
-        FILE "AudioFiles/English Female - 3.wav"
+        FILE "/Users/calvarchapelbatumi/Music/Assets/Cues/English Female - 3.wav"
       >
     >
     <ITEM
@@ -330,7 +334,7 @@
       CHANMODE 0
       GUID {BBEC1125-7FAE-B9B2-DC07-6800CF2C32D9}
       <SOURCE WAVE
-        FILE "AudioFiles/English Female - 4.wav"
+        FILE "/Users/calvarchapelbatumi/Music/Assets/Cues/English Female - 4.wav"
       >
     >
     <ITEM
@@ -352,7 +356,7 @@
       CHANMODE 0
       GUID {DDA31BFA-F403-109E-E0DF-D109F1DE4467}
       <SOURCE WAVE
-        FILE "AudioFiles/English Female - Verse 1.wav"
+        FILE "/Users/calvarchapelbatumi/Music/Assets/Cues/English Female - Verse 1.wav"
       >
     >
     <ITEM
@@ -374,7 +378,7 @@
       CHANMODE 0
       GUID {7A39AAB1-A4F8-E4BB-1343-795284B956D8}
       <SOURCE WAVE
-        FILE "AudioFiles/English Female - 3.wav"
+        FILE "/Users/calvarchapelbatumi/Music/Assets/Cues/English Female - 3.wav"
       >
     >
     <ITEM
@@ -396,7 +400,7 @@
       CHANMODE 0
       GUID {1430C5B1-FD0D-676B-08C0-9F2180382476}
       <SOURCE WAVE
-        FILE "AudioFiles/English Female - 4.wav"
+        FILE "/Users/calvarchapelbatumi/Music/Assets/Cues/English Female - 4.wav"
       >
     >
     <ITEM
@@ -418,7 +422,7 @@
       CHANMODE 0
       GUID {A54B42F2-D597-7947-CA48-9E925862CCE7}
       <SOURCE WAVE
-        FILE "AudioFiles/English Female - Verse 2.wav"
+        FILE "/Users/calvarchapelbatumi/Music/Assets/Cues/English Female - Verse 2.wav"
       >
     >
     <ITEM
@@ -440,7 +444,7 @@
       CHANMODE 0
       GUID {81D98A5E-FB02-5DA1-1561-0452B8BDAE71}
       <SOURCE WAVE
-        FILE "AudioFiles/English Female - 3.wav"
+        FILE "/Users/calvarchapelbatumi/Music/Assets/Cues/English Female - 3.wav"
       >
     >
     <ITEM
@@ -462,7 +466,7 @@
       CHANMODE 0
       GUID {02E8D483-E32B-8184-9655-A2DB3C30391D}
       <SOURCE WAVE
-        FILE "AudioFiles/English Female - 4.wav"
+        FILE "/Users/calvarchapelbatumi/Music/Assets/Cues/English Female - 4.wav"
       >
     >
     <ITEM
@@ -484,7 +488,7 @@
       CHANMODE 0
       GUID {FA48F09A-B8CB-7EC5-12D7-4B7BADB4B6CE}
       <SOURCE WAVE
-        FILE "AudioFiles/English Female - Chorus.wav"
+        FILE "/Users/calvarchapelbatumi/Music/Assets/Cues/English Female - Chorus.wav"
       >
     >
     <ITEM
@@ -507,7 +511,7 @@
       CHANMODE 0
       GUID {93855E5B-FBBF-6E24-22C5-A46C2961D682}
       <SOURCE WAVE
-        FILE "AudioFiles/English Female - Softly.wav"
+        FILE "/Users/calvarchapelbatumi/Music/Assets/Cues/English Female - Softly.wav"
       >
     >
     <ITEM
@@ -529,7 +533,7 @@
       CHANMODE 0
       GUID {53EEB235-9FF4-5C02-C76A-10F45CD430B0}
       <SOURCE WAVE
-        FILE "AudioFiles/English Female - Vamp.wav"
+        FILE "/Users/calvarchapelbatumi/Music/Assets/Cues/English Female - Vamp.wav"
       >
     >
     <ITEM
@@ -551,7 +555,7 @@
       CHANMODE 0
       GUID {7B4A499A-2195-F621-6092-7BE34356B782}
       <SOURCE WAVE
-        FILE "AudioFiles/English Female - 3.wav"
+        FILE "/Users/calvarchapelbatumi/Music/Assets/Cues/English Female - 3.wav"
       >
     >
     <ITEM
@@ -573,7 +577,7 @@
       CHANMODE 0
       GUID {399CAF9D-443E-EE83-CD71-3491E91043B2}
       <SOURCE WAVE
-        FILE "AudioFiles/English Female - 4.wav"
+        FILE "/Users/calvarchapelbatumi/Music/Assets/Cues/English Female - 4.wav"
       >
     >
     <ITEM
@@ -595,7 +599,7 @@
       CHANMODE 0
       GUID {93847FD1-EAF2-22B6-5C08-3E070C3C48B5}
       <SOURCE WAVE
-        FILE "AudioFiles/English Female - Verse 3.wav"
+        FILE "/Users/calvarchapelbatumi/Music/Assets/Cues/English Female - Verse 3.wav"
       >
     >
     <ITEM
@@ -617,7 +621,7 @@
       CHANMODE 0
       GUID {B0610D1E-24FB-BF4B-41D3-6C11A823295C}
       <SOURCE WAVE
-        FILE "AudioFiles/English Female - 3.wav"
+        FILE "/Users/calvarchapelbatumi/Music/Assets/Cues/English Female - 3.wav"
       >
     >
     <ITEM
@@ -639,7 +643,7 @@
       CHANMODE 0
       GUID {54CFE780-617E-F7B5-7782-5620BAABC61E}
       <SOURCE WAVE
-        FILE "AudioFiles/English Female - 4.wav"
+        FILE "/Users/calvarchapelbatumi/Music/Assets/Cues/English Female - 4.wav"
       >
     >
     <ITEM
@@ -661,7 +665,7 @@
       CHANMODE 0
       GUID {4FAF75B3-78E5-7CB7-6684-A4EF1B08B8CD}
       <SOURCE WAVE
-        FILE "AudioFiles/English Female - Verse 4.wav"
+        FILE "/Users/calvarchapelbatumi/Music/Assets/Cues/English Female - Verse 4.wav"
       >
     >
     <ITEM
@@ -683,7 +687,7 @@
       CHANMODE 0
       GUID {E70E3B50-A35C-058E-92D0-791CBA029963}
       <SOURCE WAVE
-        FILE "AudioFiles/English Female - 3.wav"
+        FILE "/Users/calvarchapelbatumi/Music/Assets/Cues/English Female - 3.wav"
       >
     >
     <ITEM
@@ -705,7 +709,7 @@
       CHANMODE 0
       GUID {4070D97E-3571-BBDF-5B0B-0065E80251EC}
       <SOURCE WAVE
-        FILE "AudioFiles/English Female - 4.wav"
+        FILE "/Users/calvarchapelbatumi/Music/Assets/Cues/English Female - 4.wav"
       >
     >
     <ITEM
@@ -727,7 +731,7 @@
       CHANMODE 0
       GUID {9126343F-A3A2-4037-F3DD-15BBB150AE17}
       <SOURCE WAVE
-        FILE "AudioFiles/English Female - Chorus.wav"
+        FILE "/Users/calvarchapelbatumi/Music/Assets/Cues/English Female - Chorus.wav"
       >
     >
     <ITEM
@@ -750,7 +754,7 @@
       CHANMODE 0
       GUID {66E7D89D-861E-718C-0BCE-C1BDE4231DDC}
       <SOURCE WAVE
-        FILE "AudioFiles/English Female - All In.wav"
+        FILE "/Users/calvarchapelbatumi/Music/Assets/Cues/English Female - All In.wav"
       >
     >
     <ITEM
@@ -772,7 +776,7 @@
       CHANMODE 0
       GUID {EC6A19DA-7332-5BFF-08FB-47FED666131F}
       <SOURCE WAVE
-        FILE "AudioFiles/English Female - Chorus.wav"
+        FILE "/Users/calvarchapelbatumi/Music/Assets/Cues/English Female - Chorus.wav"
       >
     >
     <ITEM
@@ -794,7 +798,7 @@
       CHANMODE 0
       GUID {031DAB64-229E-01BB-594E-C5B98371A269}
       <SOURCE WAVE
-        FILE "AudioFiles/English Female - 3.wav"
+        FILE "/Users/calvarchapelbatumi/Music/Assets/Cues/English Female - 3.wav"
       >
     >
     <ITEM
@@ -816,7 +820,7 @@
       CHANMODE 0
       GUID {ADCB66BD-C463-7A36-25DB-BF0AB607D115}
       <SOURCE WAVE
-        FILE "AudioFiles/English Female - 4.wav"
+        FILE "/Users/calvarchapelbatumi/Music/Assets/Cues/English Female - 4.wav"
       >
     >
     <ITEM
@@ -838,7 +842,7 @@
       CHANMODE 0
       GUID {0E4D7E2C-AF35-B0EF-3517-72D2F320C382}
       <SOURCE WAVE
-        FILE "AudioFiles/English Female - Refrain.wav"
+        FILE "/Users/calvarchapelbatumi/Music/Assets/Cues/English Female - Refrain.wav"
       >
     >
     <ITEM
@@ -860,7 +864,7 @@
       CHANMODE 0
       GUID {EDC625F9-AF91-2FF3-6981-B078EC4EE96C}
       <SOURCE WAVE
-        FILE "AudioFiles/English Female - 3.wav"
+        FILE "/Users/calvarchapelbatumi/Music/Assets/Cues/English Female - 3.wav"
       >
     >
     <ITEM
@@ -882,7 +886,7 @@
       CHANMODE 0
       GUID {A175BFA5-C584-67BA-19AB-AA0F3C87CE54}
       <SOURCE WAVE
-        FILE "AudioFiles/English Female - 4.wav"
+        FILE "/Users/calvarchapelbatumi/Music/Assets/Cues/English Female - 4.wav"
       >
     >
     <ITEM
@@ -904,7 +908,7 @@
       CHANMODE 0
       GUID {E7BBB25D-BB81-207A-70C2-CCAD24ADA20B}
       <SOURCE WAVE
-        FILE "AudioFiles/English Female - Refrain.wav"
+        FILE "/Users/calvarchapelbatumi/Music/Assets/Cues/English Female - Refrain.wav"
       >
     >
     <ITEM
@@ -926,7 +930,7 @@
       CHANMODE 0
       GUID {200BB427-0419-6C86-216E-39C62BAA41E4}
       <SOURCE WAVE
-        FILE "AudioFiles/English Female - 3.wav"
+        FILE "/Users/calvarchapelbatumi/Music/Assets/Cues/English Female - 3.wav"
       >
     >
     <ITEM
@@ -948,7 +952,7 @@
       CHANMODE 0
       GUID {8C4CF2A1-FACD-1830-F247-6FD16B202E31}
       <SOURCE WAVE
-        FILE "AudioFiles/English Female - 4.wav"
+        FILE "/Users/calvarchapelbatumi/Music/Assets/Cues/English Female - 4.wav"
       >
     >
     <ITEM
@@ -970,7 +974,7 @@
       CHANMODE 0
       GUID {01CE0B0B-3E1C-E54B-5FCC-31BFE2E795D0}
       <SOURCE WAVE
-        FILE "AudioFiles/English Female - Interlude.wav"
+        FILE "/Users/calvarchapelbatumi/Music/Assets/Cues/English Female - Interlude.wav"
       >
     >
     <ITEM
@@ -992,7 +996,7 @@
       CHANMODE 0
       GUID {F7E1F73B-8BEB-C242-2AF2-242BCB798F5B}
       <SOURCE WAVE
-        FILE "AudioFiles/English Female - 3.wav"
+        FILE "/Users/calvarchapelbatumi/Music/Assets/Cues/English Female - 3.wav"
       >
     >
     <ITEM
@@ -1014,7 +1018,7 @@
       CHANMODE 0
       GUID {809A7835-68A3-C350-FB52-252602BF915C}
       <SOURCE WAVE
-        FILE "AudioFiles/English Female - 4.wav"
+        FILE "/Users/calvarchapelbatumi/Music/Assets/Cues/English Female - 4.wav"
       >
     >
     <ITEM
@@ -1036,7 +1040,7 @@
       CHANMODE 0
       GUID {61799191-A3D0-2405-0539-85D05B568A84}
       <SOURCE WAVE
-        FILE "AudioFiles/English Female - Interlude.wav"
+        FILE "/Users/calvarchapelbatumi/Music/Assets/Cues/English Female - Interlude.wav"
       >
     >
     <ITEM
@@ -1058,7 +1062,7 @@
       CHANMODE 0
       GUID {2B50A973-086E-1F69-5A8D-9A44E297E526}
       <SOURCE WAVE
-        FILE "AudioFiles/English Female - 3.wav"
+        FILE "/Users/calvarchapelbatumi/Music/Assets/Cues/English Female - 3.wav"
       >
     >
     <ITEM
@@ -1080,7 +1084,7 @@
       CHANMODE 0
       GUID {57509AD2-08C7-846F-2B06-9FDC211CC1F5}
       <SOURCE WAVE
-        FILE "AudioFiles/English Female - 4.wav"
+        FILE "/Users/calvarchapelbatumi/Music/Assets/Cues/English Female - 4.wav"
       >
     >
     <ITEM
@@ -1102,7 +1106,7 @@
       CHANMODE 0
       GUID {11C1DDB6-FD9D-A603-4D59-A3A75BFCD560}
       <SOURCE WAVE
-        FILE "AudioFiles/English Female - Bridge.wav"
+        FILE "/Users/calvarchapelbatumi/Music/Assets/Cues/English Female - Bridge.wav"
       >
     >
     <ITEM
@@ -1124,7 +1128,7 @@
       CHANMODE 0
       GUID {86AEA819-042C-3B60-CFEC-999BAF85F18A}
       <SOURCE WAVE
-        FILE "AudioFiles/English Female - 3.wav"
+        FILE "/Users/calvarchapelbatumi/Music/Assets/Cues/English Female - 3.wav"
       >
     >
     <ITEM
@@ -1146,7 +1150,7 @@
       CHANMODE 0
       GUID {274B4022-E4CC-7F8A-9D79-4EDD2BB3408F}
       <SOURCE WAVE
-        FILE "AudioFiles/English Female - 4.wav"
+        FILE "/Users/calvarchapelbatumi/Music/Assets/Cues/English Female - 4.wav"
       >
     >
     <ITEM
@@ -1168,7 +1172,7 @@
       CHANMODE 0
       GUID {7D26F251-6A86-F74A-7AEA-EEA62EC6499D}
       <SOURCE WAVE
-        FILE "AudioFiles/English Female - Bridge.wav"
+        FILE "/Users/calvarchapelbatumi/Music/Assets/Cues/English Female - Bridge.wav"
       >
     >
     <ITEM
@@ -1190,7 +1194,7 @@
       CHANMODE 0
       GUID {C492AE60-5032-F41D-E02A-0959ACDB29BA}
       <SOURCE WAVE
-        FILE "AudioFiles/English Female - 3.wav"
+        FILE "/Users/calvarchapelbatumi/Music/Assets/Cues/English Female - 3.wav"
       >
     >
     <ITEM
@@ -1212,7 +1216,7 @@
       CHANMODE 0
       GUID {6FE6FC03-13BA-71DF-89EA-1ABBA86C2C6A}
       <SOURCE WAVE
-        FILE "AudioFiles/English Female - 4.wav"
+        FILE "/Users/calvarchapelbatumi/Music/Assets/Cues/English Female - 4.wav"
       >
     >
     <ITEM
@@ -1234,7 +1238,7 @@
       CHANMODE 0
       GUID {645BF41E-4A1A-6E07-DE15-2EE8299AFDDF}
       <SOURCE WAVE
-        FILE "AudioFiles/English Female - Bridge.wav"
+        FILE "/Users/calvarchapelbatumi/Music/Assets/Cues/English Female - Bridge.wav"
       >
     >
     <ITEM
@@ -1256,7 +1260,7 @@
       CHANMODE 0
       GUID {BF48AD37-D0AB-9EAD-1B69-8C91B882ACE2}
       <SOURCE WAVE
-        FILE "AudioFiles/English Female - 3.wav"
+        FILE "/Users/calvarchapelbatumi/Music/Assets/Cues/English Female - 3.wav"
       >
     >
     <ITEM
@@ -1278,7 +1282,7 @@
       CHANMODE 0
       GUID {1D892C58-C8F7-C714-2151-CFDA1A455F5D}
       <SOURCE WAVE
-        FILE "AudioFiles/English Female - 4.wav"
+        FILE "/Users/calvarchapelbatumi/Music/Assets/Cues/English Female - 4.wav"
       >
     >
     <ITEM
@@ -1300,7 +1304,7 @@
       CHANMODE 0
       GUID {4C099539-36C5-5EB4-C7BE-AB39E527C41E}
       <SOURCE WAVE
-        FILE "AudioFiles/English Female - Outro.wav"
+        FILE "/Users/calvarchapelbatumi/Music/Assets/Cues/English Female - Outro.wav"
       >
     >
     <ITEM
@@ -1323,7 +1327,7 @@
       CHANMODE 0
       GUID {D01C6DFC-9E18-D5B3-3C0F-3CE99942CA99}
       <SOURCE WAVE
-        FILE "AudioFiles/English Female - Breakdown.wav"
+        FILE "/Users/calvarchapelbatumi/Music/Assets/Cues/English Female - Breakdown.wav"
       >
     >
     <ITEM
@@ -1345,7 +1349,7 @@
       CHANMODE 0
       GUID {D562EC28-DE4A-35C9-BEEB-EE13E9AC747D}
       <SOURCE WAVE
-        FILE "AudioFiles/English Female - Outro.wav"
+        FILE "/Users/calvarchapelbatumi/Music/Assets/Cues/English Female - Outro.wav"
       >
     >
     <ITEM
@@ -1367,7 +1371,7 @@
       CHANMODE 0
       GUID {D96E1697-F733-0810-8F26-A5EB45992F60}
       <SOURCE WAVE
-        FILE "AudioFiles/English Female - Ending.wav"
+        FILE "/Users/calvarchapelbatumi/Music/Assets/Cues/English Female - Ending.wav"
       >
     >
     <ITEM
@@ -1389,7 +1393,7 @@
       CHANMODE 0
       GUID {324E2CFF-9D73-2016-684A-3FCCE3E9A000}
       <SOURCE WAVE
-        FILE "AudioFiles/English Female - 3.wav"
+        FILE "/Users/calvarchapelbatumi/Music/Assets/Cues/English Female - 3.wav"
       >
     >
     <ITEM
@@ -1411,7 +1415,7 @@
       CHANMODE 0
       GUID {A5F9092A-2F68-A02B-B9E4-BEF1D016776B}
       <SOURCE WAVE
-        FILE "AudioFiles/English Female - 4.wav"
+        FILE "/Users/calvarchapelbatumi/Music/Assets/Cues/English Female - 4.wav"
       >
     >
   >
