@@ -1,16 +1,100 @@
+[ Intro ]
+# 6m 4 1 3m
+# 6m 4 1 3m
+
+[ Intro 2 ]
+#6m 4 1 3m
+#6m 4 1 5
+
+[ Instrumental ]
+#6m 4 1
+#6m 4 1
+
+[ Instrumental 2]
+#6m 4 1 3m
+#6m 2m 1/5 5
+
+[ Ending ]
+#1
+
 [ Verse 1 ]
+#1 4 1
+^We've come to j^oin the s^ong
+#1 4 1
+^Sung long bef^ore our ^lives
+#6m 4 1
+To raise our ^voice ^alon^g
+#6m 4 1
+Heaven and ^earth ^al - ^ike
+
+[ Verse 2 ]
+#1 4 1
+^We've seen Your ^faithful ^hand
+#1 4 1
+^Your mercy ^without ^end
+#6m 4 1
+A King who b^led ^and ^died
+#6m 4 1
+A God who ^sac - ^ri - ^ficed
+
+[ Chorus ]
+#6m
+Be enthr^oned upon the praises
+#4
+Of a th^ousand generations
+#1 5
+You are w^orthy Lord of ^all
+#6m
+Unto You^ the slain and risen King
+#2m
+We ^lift our voices with heaven singing
+#1 5
+W^orthy Lord of ^all
+
+[ Vamp ]
+#5
+
+[ Verse 3 ]
+#1 1sus4 1
+^All through this ^life we ^lead
+#1 1sus4 1
+^And onto e^ternit - ^y
+#6m 4 1
+Our endless p^raise ^we'll ^cry
+#6m 4 1
+Jesus be ^glo - ^ri - f^ied
+
+[ Tag ]
+#6m 4 1
+Jesus be ^glo - ^ri - f^ied
+
+[ Bridge ]
+#6m 4 1
+^Highest ^praises ^Lord of all
+#6m 4 1
+^Highest ^praises ^Lord of all
+
+[ Bridge 2]
+#6m 4 1
+^Highest ^praises ^Lord of all
+#6m 4
+^Highest ^praises
+#1 5
+You are w^orthy Lord of ^all
+
+[ Verse 1 R ]
 В хвале перед Тобой
 Склоняются сердца,
 И Небеса с Землёй
 Превознесут Творца.
 
-[ Verse 2 ]
+[ Verse 2 R ]
 Наш милостивый Бог,
 Ты верный и благой.
 Ты - Тот, Кто пролил кровь,
 Явил Свою любовь.
 
-[ Chorus ]
+[ Chorus R ]
 Восседай на троне славы, и
 Вовеки будь прославлен,
 Ты достоин, Святый Бог!
@@ -18,14 +102,15 @@
 Cотни тысяч поколений
 Пред Тобою, Святый Бог!
 
-[ Verse 3 ]
+[ Verse 3 R ]
 В Тебе вся жизнь, Господь,
 Ведь Ты один - Любовь!
 Нам вечность даровал.
 Иисус, Тебе хвала,
 Иисус, Тебе хвала!
 
-[ Bridge ]
+[ Bridge R ]
 Ты достоин, Святый Бог!
 Ты достоин, Святый Бог!
 Ты достоин! Святый Бог!
+
