@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "7.55/macOS-arm64" 1780584285 0
+<REAPER_PROJECT 0.1 "7.55/macOS-arm64" 1785429119 0
   AUTHOR PROJECT_AUTHOR
   RIPPLE 0 0
   GROUPOVERRIDE 0 0 0 0
@@ -16,7 +16,7 @@
   TIMEMODE 1 5 -1 30 0 0 -1 0
   VIDEO_CONFIG 0 0 256
   PANMODE 3
-  CURSOR 155.57142857142858
+  CURSOR 156
   ZOOM 35.85960413809128 5400 0
   VZOOMEX 18.67974472 0
   USE_REC_CFG 0
@@ -148,7 +148,7 @@
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
     LANEREC -1 -1 -1 0
-    SEL 0
+    SEL 1
     REC 0 0 1 0 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0 0 0 0 0
@@ -169,7 +169,7 @@
       FADEIN 1 0 0 1 0 0 0
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
-      SEL 0
+      SEL 1
       IGUID {9B65573F-9C37-E13F-A8C4-C06D60843D16}
       IID 42
       NAME "Click source"
@@ -182,10 +182,10 @@
         AUTO 1 0
         BPM 140
         BPI 6 4
-        VOL 1 1
-        BEATLEN 4
-        FREQ 800 1600 1
-        SAMPLES "/Music/Assets/Clicks/New Click -  Blip-accents.wav" "/Music/Assets/Clicks/New Click -  Blip-sixteenth.wav" "" ""
+        VOL 0.501187 0.501187
+        BEATLEN 37
+        FREQ 2700 2000 3
+        SAMPLES "" "" "" ""
         SPLIGNORE 0 0
         SPLDEF 2 660 "" 0 ""
         SPLDEF 3 440 "" 0 ""
@@ -208,7 +208,7 @@
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
     LANEREC -1 -1 -1 0
-    SEL 1
+    SEL 0
     REC 0 0 1 0 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0 0 0 0 0
@@ -657,7 +657,7 @@
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
       BEAT 1
-      SEL 1
+      SEL 0
       IGUID {A821EAB2-4FDC-843B-8B42-330A90E87DBA}
       IID 93
       NAME "English Female - 4.wav"
